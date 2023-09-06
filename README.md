@@ -45,19 +45,19 @@ This data is a collation of several chess opening databases, identified as follo
 > since SCID codes extend ECO codes, this will be included where applicable
 
 # eco_interpolated
-In __eco.json__ there are 1811 "orphan" varitions. An orphan variation has no `from` field, indicating that there is no preceding _named_ variation in the JSON data. However, there are moves that precede the last move of the variation (unless it's a first move, of course). Opening records can be created for these, which fill in the gaps.
+In __eco.json__ there are 1811 "orphan" variations. An orphan variation has no `from` field, indicating that there is no preceding _named_ variation. There are moves that precede the last move of the orphan variation (unless it's a first move, of course). Opening records can be created for these prededing move sequences, which fill in the gaps in the eco.json data structure.
 
-Let's take a look at one case. In [one of the opening books](https://github.com/lichess-org/chess-openings/blob/master/b.tsv) at [__eco_tsv__]((https://github.com/niklasf/eco)) contains these four variations of the Alekhine Defense:
+Let's take a look at one case. [One of the opening books](https://github.com/lichess-org/chess-openings/blob/master/b.tsv) at [__eco_tsv__]((https://github.com/niklasf/eco)) contains these four variations of the Alekhine Defense:
 
 ![Alekhine](eco_tsv_alekhine.png)
 
-There are two entries for the Brooklyn Variation of the Alekhine Defense on lines 132 and 133. However, there is no named variation for the move sequence __1. e4 Nf6 2. e5 Ng8 3. d4__, which segues between these two. This makes the variation on line 133 "orphaned", in that it has no preceding named variation that leads to it.
+There are two entries for the Brooklyn Variation of the Alekhine Defense on lines 132 and 133. However, there is no named variation for the move sequence __1. e4 Nf6 2. e5 Ng8 3. d4__. This makes the variation on line 133 "orphaned", in that it has no preceding named variation that leads to it.
 
 ## the eco_interpolated.json file
-Every orphan variation (like the <span style = "color:blue">Alekhine Defense: Brooklyn Variation, Everglades Variation</span>) has a move sequence. By moving backwards from the end of the move sequence, eventually we wind up at a named variation. we'll call this the __root__ variation. Along the way, we record each FEN position and remaining moves in the sequence. Then, from the root to the orphan, we created __interpolated__ opening objects that bridge the gap between root and orphan.
+Every orphan variation (like the <span style = "color:blue">Alekhine Defense: Brooklyn Variation, Everglades Variation</span>) has a move sequence. By moving backwards from the end of the move sequence, we eventually wind up at a named variation, which is called the __root__ variation. Along the way, a record of each FEN position and remaining moves in the sequence is made. Then, from the root to the orphan, are created __interpolated__ opening objects that bridge the gap between root and orphan.
 
 ### naming the interpolated variations
-Interpolated opening variations _may_ have a name, but just aren't found in our sources. This can be corrected over time, and freshly named interpolated openings can be inserted into the __eco.json__ file as they are discovered. In the meantime, the names assigned to interpolated openings are the root name plus `" (i)"`. There may be several of these, but openings names are not required to be unique (FENs are).
+Interpolated opening variations _may_ have a name, but just weren't found in our sources. This can be corrected over time, and freshly named interpolated openings can be inserted into the __eco.json__ file as they are discovered. In the meantime, the names assigned to interpolated openings are the root name plus `" (i)"`. There may be several of these, but openings names are not required to be unique (only FENs are).
 
 For the example above, the interpolated opening object would be:
 
@@ -74,10 +74,10 @@ For the example above, the interpolated opening object would be:
     }
   },
 ```
-Note that __src__ is labeled "interpolated", meaning it wasn't derived directly from either of the three sources __eco_tsv__, __eco_js__, or __scid__.
+Note that __src__ is labeled "interpolated", meaning it wasn't derived directly from either of the originating three sources: __eco_tsv__, __eco_js__, or __scid__.
 
 ## using interpolated openings
-It's a simple matter to merge eco_interpolated.json with eco.json, once the two files are read into a program as JSON objects. In JavaScript, the operation to merge the data is:
+It's a simple matter to merge eco_interpolated.json with eco.json, once the two files are read into a program as JSON objects. In JavaScript, one way is:
 ```
 const complete_openings = {...ecoJson, ...interpolatedJson}
 ```
