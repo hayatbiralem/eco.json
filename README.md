@@ -1,6 +1,6 @@
 # eco.json
 
-## Encyplopedia of Chess Openings (ECO) data.
+## Encyclopedia of Chess Openings (ECO) data.
 
 This data is a collation of several chess opening databases, identified as follows:
 * <span style='color:green'>__eco_tsv__</span>: Source: [eco](https://github.com/niklasf/eco). This is the authoritive database, which [supplants](https://www.google.com/search?q=supplants) conflicts with the databases listed below (such as move order or ECO code).
