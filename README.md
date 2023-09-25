@@ -76,7 +76,11 @@ For the example above, the interpolated opening object would be:
 ```
 Note that __src__ is labeled "interpolated", meaning it wasn't derived directly from either of the originating three sources: __eco_tsv__, __eco_js__, or __scid__.
 
-## using interpolated openings
+### additional interpolations
+It is often desirable to have every move subsequence that appears within an opening to have an entry in the database as well. For example, the move sequence for the "Queen's Gambit Declined: Exchange Variation" is "1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5"; however there is no opening book entry for the subsequence "1. d4 Nf6 2. c4 e6 3. Nc3 d5". This leaves a gap between "1. d4 Nf6 2. c4 e6 3. Nc3" ("Queen's Pawn: Neo-Indian") and the current variation. To fix this, an interpolation is created for the missing subsequence, "Queen's Pawn: Neo-Indian (i)".
+
+
+### using interpolated openings
 It's a simple matter to merge eco_interpolated.json with eco.json, once the two files are read into a program as JSON objects. In JavaScript, one way is:
 ```
 const complete_openings = {...ecoJson, ...interpolatedJson}
