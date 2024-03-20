@@ -24,7 +24,7 @@ This data is a collation of several chess opening databases, identified as follo
   ```
 
 <span style="color:red">__fen__</span>
->The Forsythe-Edwards Notation of the position on the board after all opening moves are played. FEN notations __*uniquely identify each opening*__.
+>The Forsyth-Edwards Notation of the position on the board after all opening moves are played. FEN notations __*uniquely identify each opening*__.
 
 <span style="color:red">__src__</span>
 > Identifies the source of the opening data; normally this will be __eco_tsv__, but could be __eco_js__ or __scid__ if no __eco_tsv__ opening corresponds to the fen.
