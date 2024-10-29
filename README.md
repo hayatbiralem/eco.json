@@ -1,4 +1,4 @@
-# eco.json
+kuhjuuu;.l;;;;;# eco.json
 
 ## Encyclopedia of Chess Openings (ECO) data.
 
