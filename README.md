@@ -8,6 +8,9 @@ This data is a collation of several chess opening databases, identified as follo
 * <span style='color:green'>__scid__</span>: An database that's part of a [sourceforge project](https://scid.sourceforge.net/), pulled via Waterford Chess Club's [website](https://watfordchessclub.org/images/downloads/scid.eco). SCID codes extend ECO, and opening names vary.
 * <span style='color:green'>__eco_wikip__</span>: Opening data from the Wikipedia page at https://en.wikipedia.org/wiki/List_of_chess_openings (Aug. 2024)
 
+There is a JSON file for each of the ECO categories A, B, C, D, & E; e.g. <span style="color:orange">ecoB.json</span>. In additon there is a <span style="color:orange">/tooling</span> folder with scripts for manipulating the data in the JSON files. They have a node.js-compatible ".mjs" extension so that they can be run standalone from the command line. For example: 
+<p> <span style="color: violet">node tooling/ecoConjoin.mjs</span>
+
 ### Example JSON
 ```
   {
@@ -21,6 +24,7 @@ This data is a collation of several chess opening databases, identified as follo
       "scid": "Alekhine: 3.d4"
     },
     "scid": "B03a"
+    "isEcoRoot": true
   }
   ```
 
@@ -44,6 +48,9 @@ This data is a collation of several chess opening databases, identified as follo
 
 <span style="color:red">__scid__</span>
 > since SCID codes extend ECO codes, this will be included where applicable
+
+<span style="color:red">__isEcoRoot__</span>
+> If true, this variation's moves appear in the Encyclopedia of Chess Openings as the root variation for the <span style="color:red">__eco__</span> code, above
 
 # eco_interpolated
 In __eco.json__ there are 1811 "orphan" variations. An orphan variation has no `from` field, indicating that there is no preceding _named_ variation. There are moves that precede the last move of the orphan variation (unless it's a first move, of course). Opening records can be created for these prededing move sequences, which fill in the gaps in the eco.json data structure.
