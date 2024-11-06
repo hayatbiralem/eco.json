@@ -11,10 +11,11 @@ This data is a collation of several chess opening databases, identified as follo
 There is a JSON file for each of the ECO categories A, B, C, D, & E; e.g. <span style="color:orange">ecoB.json</span>. In additon there is a <span style="color:orange">/tooling</span> folder with scripts for manipulating the data in the JSON files. They have a node.js-compatible ".mjs" extension so that they can be run standalone from the command line. For example: 
 <p> <span style="color: violet">node tooling/ecoConjoin.mjs</span>
 
-### Example JSON
+### Example JSON-encoded opening
 ```
-  {
-    "fen": "rnbqkb1r/pppppppp/8/3nP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq",
+...
+{
+  "rnbqkb1r/pppppppp/8/3nP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq": {
     "src": "eco_tsv",
     "eco": "B03",
     "moves": "1. e4 Nf6 2. e5 Nd5 3. d4",
@@ -25,11 +26,13 @@ There is a JSON file for each of the ECO categories A, B, C, D, & E; e.g. <span 
     },
     "scid": "B03a"
     "isEcoRoot": true
-  }
+  },
+  ...
+}
   ```
 
 <span style="color:red">__fen__</span>
->The Forsyth-Edwards Notation of the position on the board after all opening moves are played. FEN notations __*uniquely identify each opening*__.
+>The Forsyth-Edwards Notation of the position on the board after all opening moves are played. A FEN string __*uniquely identifies each opening*__, and thus FENs are the JSON object keys.
 
 <span style="color:red">__src__</span>
 > Identifies the source of the opening data; normally this will be __eco_tsv__, but could be __eco_js__ or __scid__ if no __eco_tsv__ opening corresponds to the fen.
@@ -69,18 +72,22 @@ Interpolated opening variations _may_ have a name, but just weren't found in our
 
 For the example above, the interpolated opening object would be:
 
-```js
+```
 {
-  "rnbqkbnr/pppppppp/8/4P3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3": {
-    "src": "interpolated",
-    "eco": "B02",
-    "moves": "1. e4 Nf6 2. e5 Ng8 3. d4",
-    "name": "Alekhine Defense: Brooklyn Variation (i)",
-    "scid": "B02l",
-    "aliases": {
-      "scid": "Alekhine: Brooklyn Defence (Retreat Variation)"
-    }
+  ...
+  {
+    "rnbqkbnr/pppppppp/8/4P3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3": {
+      "src": "interpolated",
+      "eco": "B02",
+      "moves": "1. e4 Nf6 2. e5 Ng8 3. d4",
+      "name": "Alekhine Defense: Brooklyn Variation (i)",
+      "scid": "B02l",
+      "aliases": {
+        "scid": "Alekhine: Brooklyn Defence (Retreat Variation)"
+      }
   },
+  ...
+}
 ```
 Note that __src__ is labeled "interpolated", meaning it wasn't derived directly from either of the originating three sources: __eco_tsv__, __eco_js__, or __scid__.
 
