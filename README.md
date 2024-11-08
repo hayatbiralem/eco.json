@@ -1,6 +1,11 @@
 # eco.json
+version 3.0.0
+## breaking changes
+  <p>The format of `eco*.json` files has been changed from JSON arrays to JSON objects (keyed by FEN). This is consistent with eco_interpolated.json
+  <p>The file `fromTo.json` has been added. This is an array of arrays indicating the relationship between opening variations.
+  <p> A `/tooling` folder has been added. See the <a href="#tooling">tooling section</a> for more information.
 
-## Encyclopedia of Chess Openings (ECO) data.
+# Encyclopedia of Chess Openings (ECO) data.
 
 This data is a collation of several chess opening databases, identified as follows:
 * <span style='color:green'>__eco_tsv__</span>: Source: [eco](https://github.com/niklasf/eco). This is the authoritive database, which [supplants](https://www.google.com/search?q=supplants) conflicts with the databases listed below (such as move order or ECO code).
@@ -8,8 +13,7 @@ This data is a collation of several chess opening databases, identified as follo
 * <span style='color:green'>__scid__</span>: An database that's part of a [sourceforge project](https://scid.sourceforge.net/), pulled via Waterford Chess Club's [website](https://watfordchessclub.org/images/downloads/scid.eco). SCID codes extend ECO, and opening names vary.
 * <span style='color:green'>__eco_wikip__</span>: Opening data from the Wikipedia page at https://en.wikipedia.org/wiki/List_of_chess_openings (Aug. 2024)
 
-There is a JSON file for each of the ECO categories A, B, C, D, & E; e.g. <span style="color:orange">ecoB.json</span>. In additon there is a <span style="color:orange">/tooling</span> folder with scripts for manipulating the data in the JSON files. They have a node.js-compatible ".mjs" extension so that they can be run standalone from the command line. For example: 
-<p> <span style="color: violet">node tooling/ecoConjoin.mjs</span>
+There is a JSON file for each of the ECO categories A, B, C, D, & E; e.g. <span style="color:orange">ecoB.json</span>. 
 
 ### Example JSON-encoded opening
 ```
@@ -72,7 +76,7 @@ Interpolated opening variations _may_ have a name, but just weren't found in our
 
 For the example above, the interpolated opening object would be:
 
-```
+```js
 {
   ...
   {
@@ -96,11 +100,25 @@ It is often desirable to have every move subsequence that appears within an open
 
 
 ### using interpolated openings
-It's a simple matter to merge eco_interpolated.json with eco.json, once the two files are read into a program as JSON objects. In JavaScript, one way is:
-```
-const complete_openings = {...ecoJson, ...interpolatedJson}
-```
-(There are also other ways of doing this.)
+It's a simple matter to merge eco_interpolated.json with eco.json, once the two files are read into a program as JSON objects. See `/tooling/ecoConjoined.mjs` for how to do this.
+
+# fromTo.json
+One or more move sequences can lead to every opening position in eco*.json. Obversely, zero or more opening continuations are available from any opening in eco*.json. The data file `fromTo.json` is an array of arrays holding this information. Each element of the fromTo array is as follows:
+1. __from__ position (FEN notation)
+2. __to__ position
+3. __from__ source (see list at top of page; may include "interpolated")
+4. __to__ source
+
+
+# The /tooling folder
+The <span style="color:orange">/tooling</span> folder has scripts for manipulating the data in the JSON files. They have a node.js-compatible ".mjs" extension so that they can be run standalone from the command line. For example: 
+<p> <span style="color: violet">> node tooling/ecoConjoin.mjs</span>
+
+These can be useful on their own and an aid to understanding how eco.json encodes opening information.
+
+* ecoConjoin.mjs: joins together all eco*.json files into on monolithic eco.json files (just like the old days)
+* readJsonFile: reads a JSON formatted file and returns a JSON object (or array)
+* from.mjs/to.mjs: given a FEN argument, these scripts will return variations from the current FEN position, preceeding or following the current position. It uses `fromTo.json` data.
 
 # Acknowledgements
 
@@ -109,3 +127,6 @@ Thanks to [@niklasf](https://github.com/niklasf) for [eco](https://github.com/ni
 Credit goes to Shane Hudson for the original SCID opening data
 
 Original eco.json data was compiled by Ömür Yanıkoğlu.
+
+# Implementations
+[Fenster](https://fensterchess.com) derives its opening book from __eco.json__.
