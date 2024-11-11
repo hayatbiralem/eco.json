@@ -8,7 +8,7 @@ import module from 'module'
 let ecoJson = {};
 
 const conjoin = (cats, includeInterpolated = false) => {
-    for (const cat of ecoCats) {
+    for (const cat of cats) {
         const json = readJsonFile(`../eco${cat}.json`);
         ecoJson = { ...ecoJson, ...json };
     }
@@ -27,4 +27,9 @@ if (module.children) {
     fs.writeFileSync("./eco.json", JSON.stringify(ecoJson, null, 2));
 }
 
-export { conjoin };
+const conjoin2 = ({cats=ecoCats, includeInterpolated=false}) => {
+    return conjoin(cats, includeInterpolated)
+}
+
+
+export { conjoin, conjoin2 };
