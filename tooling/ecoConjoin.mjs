@@ -21,9 +21,10 @@ const conjoin = (cats, includeInterpolated = false) => {
     return ecoJson;
 };
 
-if (module.children) {
+if (!module.children) {
+    const inclInterpolated = (process.argv[2] === "interpolated")
     // command line action:
-    conjoin(ecoCats);
+    conjoin(ecoCats, inclInterpolated);
     fs.writeFileSync("./eco.json", JSON.stringify(ecoJson, null, 2));
 }
 

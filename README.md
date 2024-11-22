@@ -1,5 +1,5 @@
 # eco.json
-version 3.0.0
+version 3.1.0
 ## breaking changes
   <p>The format of `eco*.json` files has been changed from JSON arrays to JSON objects (keyed by FEN). This is consistent with eco_interpolated.json
   <p>The file `fromTo.json` has been added. This is an array of arrays indicating the relationship between opening variations.
@@ -12,6 +12,7 @@ This data is a collation of several chess opening databases, identified as follo
 * <span style='color:green'>__eco_js__</span>: The original eco.json data from several years ago, which contains some openings not in __eco_tsv__
 * <span style='color:green'>__scid__</span>: An database that's part of a [sourceforge project](https://scid.sourceforge.net/), pulled via Waterford Chess Club's [website](https://watfordchessclub.org/images/downloads/scid.eco). SCID codes extend ECO, and opening names vary.
 * <span style='color:green'>__eco_wikip__</span>: Opening data from the Wikipedia page at https://en.wikipedia.org/wiki/List_of_chess_openings (Aug. 2024)
+* <span style='color:green'>__wiki_b__</span>: Opening data from the Wikibooks pages at https://en.wikibooks.org/wiki/Chess_Opening_Theory (Nov. 2024)
 
 There is a JSON file for each of the ECO categories A, B, C, D, & E; e.g. <span style="color:orange">ecoB.json</span>. 
 
@@ -19,7 +20,7 @@ There is a JSON file for each of the ECO categories A, B, C, D, & E; e.g. <span 
 ```
 ...
 {
-  "rnbqkb1r/pppppppp/8/3nP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq": {
+  "rnbqkb1r/pppppppp/8/3nP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq": {s
     "src": "eco_tsv",
     "eco": "B03",
     "moves": "1. e4 Nf6 2. e5 Nd5 3. d4",

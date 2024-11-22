@@ -16718,5 +16718,125 @@
       "scid": "Gruenfeld: Russian, Smyslov, Yugoslav",
       "eco_js": "Gruenfeld Defense: Russian Variation, Yugoslav Variation"
     }
+  },
+  "rnbqkb1r/ppp1pp1p/6p1/8/3PP3/2P5/P4PPP/R1BQKBNR b KQkq - 0 6": {
+    "src": "wiki_b",
+    "eco": "D85",
+    "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3",
+    "name": "Grunfeld Exchange, 6.bxc3",
+    "scid": "D85d"
+  },
+  "rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPPKPPPP/RNBQ1BNR b kq - 1 2": {
+    "name": "Queen's Bongcloud",
+    "moves": "1. d4  d5 2. Kd2 ",
+    "eco": "D00",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3": {
+    "name": "Marshall Defence",
+    "moves": "1. d4  Nf6 2. c4  d5 ",
+    "eco": "D06",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 2 3": {
+    "name": "London System Main Base Position with ...d5",
+    "moves": "1. d4  d5 2. Bf4  Nf6 ",
+    "eco": "D00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 0 2": {
+    "name": "Queen's Pawn Game: Chigorin Variation",
+    "moves": "1. Nc3  d5 2. d4 ",
+    "eco": "D00",
+    "src": "wiki_b",
+    "aliases": {
+      "fics": "Queens Pawn: Veresov Attack"
+    }
+  },
+  "rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4": {
+    "src": "wiki_b",
+    "eco": "D30",
+    "moves": "1. d4 Nf6 2. c4 e6 3. Nf3 d5",
+    "name": "Queen's Gambit Declined",
+    "scid": "E10a",
+    "aliases": {
+      "scid": "Neo-Indian: 3.Nf3",
+      "eco_js": "Indian Game: Anti-Nimzo-Indian"
+    }
+  },
+  "rnbqkbnr/ppp2ppp/4p3/3p4/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 0 3": {
+    "name": "Queen's Pawn Game",
+    "moves": "1. d4  d5 2. e3  e6 ",
+    "eco": "D00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/pp2pppp/8/2pP4/3P4/8/PP2PPPP/RNBQKBNR b KQkq - 0 3": {
+    "src": "wiki_b",
+    "eco": "D06",
+    "moves": "1. d4 d5 2. c4 c5 3. cxd5",
+    "name": "Austrian Defense",
+    "scid": "D06b",
+    "aliases": {
+      "scid": "QGD: Austrian Defence",
+      "eco_js": "Queen's Gambit Refused: Austrian Defense"
+    }
+  },
+  "rnbqkbnr/pp2pppp/8/2pp4/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq - 0 3": {
+    "src": "wiki_b",
+    "eco": "D02",
+    "moves": "1. d4 d5 2. Nf3 c5 3. g3",
+    "name": "Queen's Pawn: Krause Variation",
+    "scid": "D02j",
+    "aliases": {
+      "scid": "Queen's Pawn: Krause Variation"
+    }
+  },
+  "rnbqkbnr/ppp2ppp/4p3/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3": {
+    "name": "Queen's Pawn Game",
+    "moves": "1. d4  d5 2. Nf3  e6 3. e3 ",
+    "eco": "D02",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/pp2pppp/5n2/2pp2B1/3P4/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4": {
+    "name": "Queen's Pawn Game, Torre Attack",
+    "moves": "1. d4  Nf6 2. Nf3  d5 3. Bg5  c5 ",
+    "eco": "D03",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 3": {
+    "name": "Queen's Gambit Declined, Queen's Knight Variation",
+    "moves": "1. c4  e6 2. Nc3  d5 3.d4",
+    "eco": "D31",
+    "src": "wiki_b"
+  },
+  "r1bqkbnr/ppp1pppp/2n5/8/2BPp3/8/PPP2PPP/RNBQK1NR w KQkq - 2 4": {
+    "name": "Blackmar-Diemer Gambit (BDG), Fritz Attack",
+    "moves": "1. d4  d5 2. e4  dxe4 3. Bc4  Nc6 ",
+    "eco": "D00",
+    "src": "wiki_b"
+  },
+  "r1bqkbnr/pp2pppp/2n5/2pp4/3P4/5NP1/PPP1PP1P/RNBQKB1R w KQkq - 1 4": {
+    "name": "Queen's Pawn Game: Krause Variation",
+    "moves": "1. d4  d5 2. Nf3  c5 3. g3  Nc6 ",
+    "eco": "D02",
+    "src": "wiki_b"
+  },
+  "r1bqkbnr/ppp1pppp/2n5/7Q/2BPp3/8/PPP2PPP/RNB1K1NR b KQkq - 3 4": {
+    "name": "Blackmar-Diemer Gambit (BDG)",
+    "moves": "1. d4  d5 2. e4  dxe4 3. Bc4  Nc6 4. Qh5 ",
+    "eco": "D00",
+    "src": "wiki_b"
+  },
+  "r1bqkbnr/pp2pppp/2n5/2pp4/3P4/5NP1/PPP1PPBP/RNBQK2R b KQkq - 2 4": {
+    "name": "Queen's Pawn Game: Krause Variation",
+    "moves": "1. d4  d5 2. Nf3  c5 3. g3  Nc6 4. Bg2 ",
+    "eco": "D02",
+    "src": "wiki_b"
+  },
+  "rnbqk2r/ppp1bppp/4pn2/3p2B1/3P4/4PN2/PPP2PPP/RN1QKB1R w KQkq - 1 5": {
+    "name": "Torre Attack",
+    "moves": "1. d4  Nf6 2. Nf3  d5 3. Bg5  e6 4. e3  Be7 ",
+    "eco": "D03",
+    "src": "wiki_b"
   }
 }
