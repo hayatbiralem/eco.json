@@ -1,13 +1,10 @@
+import { fromToOps, FROM } from "./fromToOps.mjs";
 
-import {fromToOps, FROM} from './fromToOps.mjs'
-
-try {
-    const fen = process.argv[2]
-
-    const results = fromToOps(FROM, fen, true)
-
-    console.log(JSON.stringify(results,null,2))
-} catch (e) {
-    console.error(e)
-}
-
+export const from = (fen) => {
+    try {
+        const results = fromToOps(FROM, fen, true);
+        return results;
+    } catch (e) {
+        console.error(e);
+    }
+};
