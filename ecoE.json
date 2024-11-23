@@ -13064,5 +13064,59 @@
     "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. f3 f5 11. g4 Nf6 12. Nd3",
     "name": "King's Indian: Mar del Plata, Benko Attack, 11...Nf6 12.Nd3",
     "scid": "E99"
+  },
+  "rnbqk2r/ppppppbp/5np1/8/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 1 4": {
+    "src": "wiki_b",
+    "eco": "E60",
+    "moves": "1. d4 Nf6 2. Nf3 g6 3. c4 Bg7",
+    "name": "King's Indian Defence, Normal Variation, King's Knight Variation, 3...Bg7"
+  },
+  "rnbqk2r/ppppppbp/5np1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 2 4": {
+    "src": "wiki_b",
+    "eco": "E60",
+    "moves": "1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3",
+    "name": "King's Indian Defense: Normal Variation, King's Knight Variation"
+  },
+  "rnbqk2r/pppp1ppp/4pn2/8/2PP4/P1b5/1P2PPPP/R1BQKBNR w KQkq - 0 5": {
+    "src": "wiki_b",
+    "eco": "E24",
+    "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+",
+    "name": "Nimzo-Indian Defence, Sämisch Variation",
+    "scid": "E24"
+  },
+  "rnbqk2r/pppp1ppp/4pn2/b7/2PP4/P1N5/1P2PPPP/R1BQKBNR w KQkq - 1 5": {
+    "name": "Sämisch Variation",
+    "moves": "1. d4  Nf6 2. c4  e6 3. Nc3  Bb4 4. a3  Ba5 ",
+    "eco": "E24",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/5NP1/PP2PP1P/RNBQKB1R b KQkq - 0 4": {
+    "src": "wiki_b",
+    "eco": "E10",
+    "moves": "1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3",
+    "name": "Catalan Opening",
+    "scid": "E10a",
+    "aliases": {
+      "scid": "Neo-Indian: 3.Nf3",
+      "eco_js": "Indian Game: Anti-Nimzo-Indian"
+    }
+  },
+  "rnbqk2r/pppp1ppp/4pn2/b7/1PPP4/P1N5/4PPPP/R1BQKBNR b KQkq - 0 5": {
+    "name": "Sämisch Variation",
+    "moves": "1. d4  Nf6 2. c4  e6 3. Nc3  Bb4 4. a3  Ba5 5. b4 ",
+    "eco": "E24",
+    "src": "wiki_b"
+  },
+  "rnbqk2r/pppp1ppp/1b2pn2/8/1PPP4/P1N5/4PPPP/R1BQKBNR w KQkq - 1 6": {
+    "name": "Nimzo-Indian, Sämisch Variation",
+    "moves": "1. d4  Nf6 2. c4  e6 3. Nc3  Bb4 4. a3  Ba5 5. b4  Bb6 ",
+    "eco": "E24",
+    "src": "wiki_b"
+  },
+  "rnbqk2r/pppp1ppp/1b2pn2/2P5/1P1P4/P1N5/4PPPP/R1BQKBNR b KQkq - 0 6": {
+    "name": "Nimzo-Indian: Sämisch Variation",
+    "moves": "1. d4  Nf6 2. c4  e6 3. Nc3  Bb4 4. a3  Ba5 5. b4  Bb6 6. c5 ",
+    "eco": "E24",
+    "src": "wiki_b"
   }
 }

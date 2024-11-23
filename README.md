@@ -1,6 +1,10 @@
 # eco.json
-version 3.0.0
-## breaking changes
+version 3.1.0
+
+## changes: added opening information scraped from wikibooks (see below)
+* this changes both eco_interpolated.json and fromTo.json content
+
+## breaking changes from version 2.*
   <p>The format of `eco*.json` files has been changed from JSON arrays to JSON objects (keyed by FEN). This is consistent with eco_interpolated.json
   <p>The file `fromTo.json` has been added. This is an array of arrays indicating the relationship between opening variations.
   <p> A `/tooling` folder has been added. See the <a href="#tooling">tooling section</a> for more information.
@@ -12,12 +16,12 @@ This data is a collation of several chess opening databases, identified as follo
 * <span style='color:green'>__eco_js__</span>: The original eco.json data from several years ago, which contains some openings not in __eco_tsv__
 * <span style='color:green'>__scid__</span>: An database that's part of a [sourceforge project](https://scid.sourceforge.net/), pulled via Waterford Chess Club's [website](https://watfordchessclub.org/images/downloads/scid.eco). SCID codes extend ECO, and opening names vary.
 * <span style='color:green'>__eco_wikip__</span>: Opening data from the Wikipedia page at https://en.wikipedia.org/wiki/List_of_chess_openings (Aug. 2024)
+* <span style='color:green'>__wiki_b__</span>: Opening data from the Wikibooks pages at https://en.wikibooks.org/wiki/Chess_Opening_Theory (Nov. 2024)
 
 There is a JSON file for each of the ECO categories A, B, C, D, & E; e.g. <span style="color:orange">ecoB.json</span>. 
 
 ### Example JSON-encoded opening
 ```
-...
 {
   "rnbqkb1r/pppppppp/8/3nP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq": {
     "src": "eco_tsv",
@@ -33,7 +37,7 @@ There is a JSON file for each of the ECO categories A, B, C, D, & E; e.g. <span 
   },
   ...
 }
-  ```
+```
 
 <span style="color:red">__fen__</span>
 >The Forsyth-Edwards Notation of the position on the board after all opening moves are played. A FEN string __*uniquely identifies each opening*__, and thus FENs are the JSON object keys.
@@ -76,7 +80,7 @@ Interpolated opening variations _may_ have a name, but just weren't found in our
 
 For the example above, the interpolated opening object would be:
 
-```js
+```
 {
   ...
   {
@@ -119,6 +123,7 @@ These can be useful on their own and an aid to understanding how eco.json encode
 * ecoConjoin.mjs: joins together all eco*.json files into on monolithic eco.json files (just like the old days)
 * readJsonFile: reads a JSON formatted file and returns a JSON object (or array)
 * from.mjs/to.mjs: given a FEN argument, these scripts will return variations from the current FEN position, preceeding or following the current position. It uses `fromTo.json` data.
+* findOpeningByFen: takes a FEN command-line argument(s) and outputs the opening + from + to variations.
 
 # Acknowledgements
 

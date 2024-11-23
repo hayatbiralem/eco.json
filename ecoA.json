@@ -19232,5 +19232,623 @@
     "moves": "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Qe8 8. b3 Qh5 9. Bb2",
     "name": "Dutch: Ilyin-Zhenevsky, 8.b3 Qh5 9.Bb2",
     "scid": "A99"
+  },
+  "rnbqkbnr/ppppp2p/6p1/5p2/3P4/6P1/PPP1PP1P/RNBQKBNR w KQkq - 0 3": {
+    "src": "wiki_b",
+    "eco": "A81",
+    "moves": "1. d4 f5 2. g3 g6",
+    "name": "Dutch Leningrad",
+    "scid": "A81",
+    "aliases": {
+      "scid": "Dutch: 2.g3"
+    }
+  },
+  "rnbqkbnr/p1pppppp/1p6/8/8/6P1/PPPPPP1P/RNBQKBNR w KQkq - 0 2": {
+    "name": "Benko Opening",
+    "moves": "1. g3  b6 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/pppp1ppp/4p3/8/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 0 2": {
+    "name": "Bird's Opening, 1...e6",
+    "moves": "1. f4  e6 ",
+    "eco": "A02",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/1ppppppp/p7/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2": {
+    "name": "English Opening, 1...a6",
+    "moves": "1. c4  a6 ",
+    "eco": "A10",
+    "src": "wiki_b"
+  },
+  "r1bqkbnr/pppppppp/n7/8/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 1 2": {
+    "name": "Grob: 1...Na6?!",
+    "moves": "1. g4  Na6 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/ppppp1pp/8/5p2/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 0 2": {
+    "name": "Reti: 1...f5 2.d4",
+    "moves": "1. Nf3  f5 2. d4 ",
+    "eco": "A04",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 0 2": {
+    "src": "wiki_b",
+    "eco": "A06",
+    "moves": "1. Nf3 d5 2. d4",
+    "name": "Queen's Pawn Game",
+    "scid": "A06",
+    "aliases": {
+      "scid": "Reti: 1...d5",
+      "eco_js": "Reti Opening, 1... d5"
+    }
+  },
+  "rnbqkbnr/p1pppppp/8/1p6/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2": {
+    "name": "Grob's Attack, 1...b5!?",
+    "moves": "1. g4  b5 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/pppp1ppp/4p3/8/1P6/8/P1PPPPPP/RNBQKBNR w KQkq - 0 2": {
+    "src": "wiki_b",
+    "eco": "A00",
+    "moves": "1. b4 e6",
+    "name": "Polish Opening, 1...e6",
+    "scid": "A00p",
+    "aliases": {
+      "scid": "Polish (Sokolsky; Orang-Utan)"
+    }
+  },
+  "rnbqkbnr/ppp1pppp/3p4/8/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2": {
+    "name": "Grob: 1...d6",
+    "moves": "1. g4  d6 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/pppppppp/5n2/8/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 1 2": {
+    "name": "Grob: 1...Nf6",
+    "moves": "1. g4  Nf6 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/P7/8/1PPPPPPP/RNBQKBNR w KQkq - 0 2": {
+    "src": "wiki_b",
+    "eco": "A00",
+    "moves": "1. a4 e5",
+    "name": "Ware Opening, 1...e5",
+    "scid": "A00e"
+  },
+  "rnbqkbnr/1ppppppp/8/p7/P7/8/1PPPPPPP/RNBQKBNR w KQkq - 0 2": {
+    "name": "Ware Opening, 1...a5",
+    "moves": "1. a4  a5 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/p1pppppp/8/1p6/P7/8/1PPPPPPP/RNBQKBNR w KQkq - 0 2": {
+    "src": "wiki_b",
+    "eco": "A00",
+    "moves": "1. a4 b5",
+    "name": "Ware Opening, 1...b5",
+    "scid": "A00e"
+  },
+  "rnbqkbnr/ppp1pppp/8/3p4/P7/8/1PPPPPPP/RNBQKBNR w KQkq - 0 2": {
+    "name": "Ware Opening, 1...d5",
+    "moves": "1. a4  d5 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/pp1ppppp/8/2p5/8/2P5/PP1PPPPP/RNBQKBNR w KQkq - 0 2": {
+    "name": "Saragossa Opening",
+    "moves": "1. c3  c5 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/8/7P/PPPPPPP1/RNBQKBNR w KQkq - 0 2": {
+    "src": "wiki_b",
+    "eco": "A00",
+    "moves": "1. h3 e5",
+    "name": "Clemenz Opening, 1...e5",
+    "scid": "A00d"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/8/4P3/PPPP1PPP/RNBQKBNR w KQkq - 0 2": {
+    "src": "wiki_b",
+    "eco": "A00",
+    "moves": "1. e3 e5",
+    "name": "Van't Kruijs Opening, 1...e5",
+    "scid": "A00k",
+    "aliases": {
+      "scid": "Van Kruijs"
+    }
+  },
+  "rnbqkbnr/ppp1pppp/8/3p4/7P/8/PPPPPPP1/RNBQKBNR w KQkq - 0 2": {
+    "src": "wiki_b",
+    "eco": "A00",
+    "moves": "1. h4 d5",
+    "name": "Kadas Opening, 1...d5",
+    "scid": "A00c",
+    "aliases": {
+      "scid": "Kadas Opening",
+      "eco_js": "Kadas Opening"
+    }
+  },
+  "rnbqkbnr/ppp1pppp/8/3p4/8/4P3/PPPP1PPP/RNBQKBNR w KQkq - 0 2": {
+    "src": "wiki_b",
+    "eco": "A00",
+    "moves": "1. e3 d5",
+    "name": "Van 't Kruijs Opening",
+    "scid": "A00k",
+    "aliases": {
+      "scid": "Van Kruijs"
+    }
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/8/7N/PPPPPPPP/RNBQKB1R w KQkq - 0 2": {
+    "name": "Amar Opening, 1...e5",
+    "moves": "1. Nh3  e5 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/ppppppp1/8/7p/8/7P/PPPPPPP1/RNBQKBNR w KQkq - 0 2": {
+    "src": "wiki_b",
+    "eco": "A00",
+    "moves": "1. h3 h5",
+    "name": "Clemenz Opening, 1...h5",
+    "scid": "A00d"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/8/5P2/PPPPP1PP/RNBQKBNR w KQkq - 0 2": {
+    "src": "wiki_b",
+    "eco": "A00",
+    "moves": "1. f3 e5",
+    "name": "Barnes Opening, 1... e5",
+    "scid": "A00b",
+    "aliases": {
+      "eco_js": "Gedult's Opening"
+    }
+  },
+  "rnbqkb1r/pppppppp/7n/8/8/7N/PPPPPPPP/RNBQKB1R w KQkq - 2 2": {
+    "name": "Ammonia Opening",
+    "moves": "1. Nh3  Nh6 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/ppp1pppp/8/3p4/8/7N/PPPPPPPP/RNBQKB1R w KQkq - 0 2": {
+    "src": "wiki_b",
+    "eco": "A00",
+    "moves": "1. Nh3 d5",
+    "name": "Amar Opening, 1…d5",
+    "scid": "A00g",
+    "aliases": {
+      "scid": "Amar/Paris Opening"
+    }
+  },
+  "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3": {
+    "src": "wiki_b",
+    "eco": "A46",
+    "moves": "1. d4 Nf6 2. Nf3 e6 3. c4",
+    "name": "Indian Defence with e6, Nf3",
+    "scid": "A46j"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3": {
+    "src": "wiki_b",
+    "eco": "A46",
+    "moves": "1. d4 Nf6 2. Nf3 d5",
+    "name": "Indian Defence, Knights Variation",
+    "scid": "A46a",
+    "aliases": {
+      "scid": "Indian: 2.Nf3",
+      "eco_js": "Torre Attack"
+    }
+  },
+  "rnbqkbnr/pp1ppppp/8/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 0 2": {
+    "src": "wiki_b",
+    "eco": "A04",
+    "moves": "1. Nf3 c5 2. c4",
+    "name": "English Opening - Symmetrical Variation",
+    "scid": "A04",
+    "aliases": {
+      "scid": "Reti: 1...c5"
+    }
+  },
+  "rnbqkb1r/ppppp2p/6pn/5p2/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4": {
+    "name": "2.c4 g6, 3.Nc3 Nh6, 4.e4 - Dutch Defence, Bladel Variation Open",
+    "moves": "1. d4  f5 2. c4  g6 3. Nc3  Nh6 4. e4 ",
+    "eco": "A84",
+    "src": "wiki_b"
+  },
+  "rnbqk2r/ppppp1bp/6pn/8/2PPN3/5N2/PP3PPP/R1BQKB1R b KQkq - 2 6": {
+    "name": "2.c4 g6, 3.Nc3 Nh6, 4.e4 fxe4, 5.Nxe4 Bg7, 6.Nf3 - Dutch Defence, Bladel Modern Variations",
+    "moves": "1. d4  f5 2. c4  g6 3. Nc3  Nh6 4. e4  fxe4 5. Nxe4  Bg7 6. Nf3 ",
+    "eco": "A84",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/p1pppppp/1p6/8/8/6P1/PPPPPPBP/RNBQK1NR b KQkq - 1 2": {
+    "name": "Benko Opening",
+    "moves": "1. g3  b6 2. Bg2 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/ppp1pppp/8/3p4/8/5NP1/PPPPPP1P/RNBQKB1R b KQkq - 1 2": {
+    "src": "wiki_b",
+    "eco": "A00",
+    "moves": "1. g3 d5 2. Nf3",
+    "name": "2. g3 - King's Indian Attack",
+    "scid": "A00v"
+  },
+  "rnbqkbnr/ppppp2p/8/5pp1/5PP1/8/PPPPP2P/RNBQKBNR w KQkq - 0 3": {
+    "name": "Double Grob: Pepsi Countergambit",
+    "moves": "1. g4  g5 2. f4  f5 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "r1bqkbnr/pppp1ppp/2n5/4p3/3P4/1P6/PBP1PPPP/RN1QKBNR b KQkq - 0 3": {
+    "name": "The Scientist's Method",
+    "moves": "1. b3  e5 2. Bb2  Nc6 3. d4 ",
+    "eco": "A01",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/ppp1pppp/8/3P4/8/8/PP1PPPPP/RNBQKBNR b KQkq - 0 2": {
+    "src": "wiki_b",
+    "eco": "A10",
+    "moves": "1. c4 d5 2. cxd5",
+    "name": "English Opening: Anglo-Scandinavian Defence",
+    "scid": "A10",
+    "aliases": {
+      "scid": "English: Vector"
+    }
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/5PP1/8/PPPPP2P/RNBQKBNR b KQkq - 0 2": {
+    "name": "Grob: 1...e5",
+    "moves": "1. g4  e5 2. f4 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/ppp1pppp/8/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 1 2": {
+    "name": "Réti Opening",
+    "moves": "1. c4  d5 2. Nf3 ",
+    "eco": "A10",
+    "src": "wiki_b",
+    "aliases": {
+      "fics": "English: Vector"
+    }
+  },
+  "rnbqkbnr/pp1ppppp/8/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 0 2": {
+    "name": "Sicilian, Closed",
+    "moves": "1. Nc3  c5 2. e4 ",
+    "eco": "A00",
+    "src": "wiki_b",
+    "aliases": {
+      "fics": "Van Geet: Sicilian"
+    }
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/8/6P1/PPPPPPBP/RNBQK1NR b KQkq - 1 2": {
+    "name": "2. Bg2 · Hungarian Opening, Main Line",
+    "moves": "1. g3  e5 2. Bg2 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/6P1/3P4/PPP1PP1P/RNBQKBNR b KQkq - 0 2": {
+    "name": "Grob's Attack",
+    "moves": "1. g4  e5 2. d3 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/6P1/5P2/PPPPP2P/RNBQKBNR b KQkq - 0 2": {
+    "src": "wiki_b",
+    "eco": "A00",
+    "moves": "1. f3 e5 2. g4",
+    "name": "Barnes Opening, Fool's mate",
+    "scid": "A00b",
+    "aliases": {
+      "eco_js": "Gedult's Opening"
+    }
+  },
+  "rnbqkbnr/pppp1ppp/4p3/8/1P6/8/PBPPPPPP/RN1QKBNR b KQkq - 1 2": {
+    "src": "wiki_b",
+    "eco": "A00",
+    "moves": "1. b4 e6 2. Bb2",
+    "name": "2. Bb2",
+    "scid": "A00p",
+    "aliases": {
+      "scid": "Polish (Sokolsky; Orang-Utan)"
+    }
+  },
+  "rnbqkbnr/ppppp1pp/8/8/4p3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3": {
+    "src": "wiki_b",
+    "eco": "A04",
+    "moves": "1. Nf3 f5 2. e4 fxe4",
+    "name": "Lisitsin Gambit",
+    "scid": "A04",
+    "aliases": {
+      "scid": "Reti: Lisitsin"
+    }
+  },
+  "r1bqk2r/pppp1ppp/2n5/4P3/1bP2Bn1/2N2N2/PP2PPPP/R2QKB1R b KQkq - 6 6": {
+    "name": "Kornl Richter Gambit",
+    "moves": "1. d4  Nf6 2. c4  e5 3. dxe5  Ng4 4. Bf4  Nc6 5. Nf3  Bb4  6. Nc3 ",
+    "eco": "A52",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/pppp1p1p/8/4P1p1/2P2Bn1/8/PP2PPPP/RN1QKBNR w KQkq - 0 5": {
+    "name": "Budepest Defense, Rubinstein Variation, 5.Bg3 retreat",
+    "moves": "1. d4  Nf6 2. c4  e5 3. dxe5  Ng4 4. Bf4  g5 ",
+    "eco": "A52",
+    "src": "wiki_b"
+  },
+  "r1b1k2r/ppppqppp/8/4n3/1bP2B2/4P3/PP1NBPPP/R2QK2R b KQkq - 1 9": {
+    "name": "Budapest: Rubinstein, Main Line, 6.Nbd2 Qe7 7.e3",
+    "moves": "1. d4  Nf6 2. c4  e5 3. dxe5  Ng4 4. Bf4  Nc6 5. Nf3  Bb4  6. Nbd2  Qe7 7. e3  Ngxe5 8. Nxe5  Nxe5 9. Be2 ",
+    "eco": "A52",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3": {
+    "name": "Old Indian Defence",
+    "moves": "1. d4  d6 2. c4  Nf6 ",
+    "eco": "A53",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3": {
+    "name": "London System Main Base Position with ...d5",
+    "moves": "1. d4  Nf6 2. Bf4  d5 ",
+    "eco": "A45",
+    "src": "wiki_b",
+    "aliases": {
+      "fics": "Indian: 2...d5"
+    }
+  },
+  "rnbqkb1r/pppp1ppp/4pn2/8/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3": {
+    "name": "London System Indian Setup with early Bf4 and Black ...e6",
+    "moves": "1. d4  Nf6 2. Bf4  e6 ",
+    "eco": "A45",
+    "src": "wiki_b",
+    "aliases": {
+      "fics": "Indian: 2...d5"
+    }
+  },
+  "rnbqkbnr/pppppp1p/8/6B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 0 2": {
+    "name": "2. Bxg5: Borg Gambit Accepted",
+    "moves": "1. d4  g5 2. Bxg5 ",
+    "eco": "A40",
+    "src": "wiki_b",
+    "aliases": {
+      "fics": "Queens Pawn Game"
+    }
+  },
+  "rnbqkbnr/ppp1pppp/8/3p4/P3P3/8/1PPP1PPP/RNBQKBNR b KQkq - 0 2": {
+    "name": "Ware Opening, 1...d5",
+    "moves": "1. a4  d5 2. e4 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/ppp1pppp/8/P2p4/8/8/1PPPPPPP/RNBQKBNR b KQkq - 0 2": {
+    "name": "Ware Opening, 1...d5",
+    "moves": "1. a4  d5 2. a5 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/ppp1pppp/8/3p3P/8/8/PPPPPPP1/RNBQKBNR b KQkq - 0 2": {
+    "name": "Kadas Opening",
+    "moves": "1. h4  d5 2. h5 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/ppp2ppp/7P/3pp3/8/8/PPPPPPP1/RNBQKBNR b KQkq - 0 3": {
+    "name": "Kadas Opening: Croon's Gambit",
+    "moves": "1. h4  d5 2. h5  e5 3. h6 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/ppp2ppp/8/3pp2P/8/8/PPPPPPP1/RNBQKBNR w KQkq - 0 3": {
+    "name": "Kadas Opening",
+    "moves": "1. h4  d5 2. h5  e5 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/pppppp1p/5np1/8/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 3": {
+    "name": "Indian: 2.Nc3",
+    "moves": "1. d4  Nf6 2. Nc3  g6 ",
+    "eco": "A45",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/pp1ppppp/5n2/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3": {
+    "src": "wiki_b",
+    "eco": "A15",
+    "moves": "1. Nf3 Nf6 2. c4 c5",
+    "name": "Symmetrical English"
+  },
+  "rnbqkb1r/pppp1ppp/4pn2/8/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3": {
+    "src": "wiki_b",
+    "eco": "A13",
+    "moves": "1. Nf3 Nf6 2. c4 e6",
+    "name": "English: 1...e6 2.Nf3 Nf6"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3": {
+    "src": "wiki_b",
+    "eco": "A06",
+    "moves": "1. Nf3 d5 2. d4 Nf6 3. c4",
+    "name": "3.c4",
+    "scid": "A06",
+    "aliases": {
+      "scid": "Reti: 1...d5",
+      "eco_js": "Reti Opening, 1... d5"
+    }
+  },
+  "rnbqkb1r/pp1ppppp/5n2/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 0 3": {
+    "src": "wiki_b",
+    "eco": "A16",
+    "moves": "1. c4 Nf6 2. Nc3 c5",
+    "name": "English, Symmetrical",
+    "scid": "A16",
+    "aliases": {
+      "scid": "English: Anglo-Indian, 2.Nc3"
+    }
+  },
+  "rnbqkbnr/ppppp1p1/7p/5p2/3P3B/8/PPP1PPPP/RN1QKBNR b KQkq - 1 3": {
+    "name": "Dutch Defense: 2. Bg5",
+    "moves": "1. d4  f5 2. Bg5  h6 3. Bh4 ",
+    "eco": "A80",
+    "src": "wiki_b"
+  },
+  "r1bqk2r/p3p1bp/2p3pn/2Np4/3P4/5N2/PP3PPP/R1BQK2R b KQkq - 1 11": {
+    "name": "Bladel Attack, Main Line",
+    "moves": "1. d4  f5 2. c4  g6 3. Nc3  Nh6 4. e4  fxe4 5. Nxe4  Bg7 6. Nf3  c6 7. Bd3  d5 8. cxd5  cxd5 9. Bb5  Nc6 10. Bxc6  bxc6 11. Nc5 ",
+    "eco": "A84",
+    "src": "wiki_b"
+  },
+  "rnb1kbnr/pppp1ppp/8/4p3/5PPq/8/PPPPP2P/RNBQKBNR w KQkq - 1 3": {
+    "name": "Bird's Opening, From's Gambit/Fool's Mate",
+    "moves": "1. f4  e5 2. g4  Qh4 ",
+    "eco": "A02",
+    "src": "wiki_b"
+  },
+  "rnbqk1nr/pppp1pBp/4p3/8/1b6/8/P1PPPPPP/RN1QKBNR b KQkq - 0 3": {
+    "name": "3. Bxg7",
+    "moves": "1. b4  e6 2. Bb2  Bxb4 3. Bxg7 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "r1bqkb1r/pppp1ppp/2n5/4P3/2P3n1/5N2/PP2PPPP/RNBQKB1R w KQkq - 3 5": {
+    "name": "Indian Defense: Budapest Defense, Adler Variation",
+    "moves": "1. d4  Nf6 2. c4  e5 3. dxe5  Ng4 4. Nf3  Nc6 ",
+    "eco": "A52",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/pppp1ppp/8/4n3/2P5/4P3/PP3PPP/RNBQKBNR w KQkq - 0 5": {
+    "name": "Budapest: 3...Ng4 4.e3",
+    "moves": "1. d4  Nf6 2. c4  e5 3. dxe5  Ng4 4. e3  Nxe5 ",
+    "eco": "A52",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/pppp1ppp/4pn2/8/3P1B2/4P3/PPP2PPP/RN1QKBNR b KQkq - 0 3": {
+    "name": "London System Indian Setup with 2. Bf4 e6",
+    "moves": "1. d4  Nf6 2. Bf4  e6 3. e3 ",
+    "eco": "A45",
+    "src": "wiki_b"
+  },
+  "rnbqkbnr/ppppp2p/5p2/6B1/3P4/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3": {
+    "name": "Borg Gambit",
+    "moves": "1. d4  g5 2. Bxg5  f6 ",
+    "eco": "A40",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/4P3/PPP2PPP/RN1QKBNR b KQkq - 0 3": {
+    "name": "London System Main Line with ...d5",
+    "moves": "1. d4  Nf6 2. Bf4  d5 3. e3 ",
+    "eco": "A45",
+    "src": "wiki_b"
+  },
+  "rnbqk1nr/pppp1ppp/8/4p3/P7/b7/1PPPPPPP/1NBQKBNR w Kkq - 0 3": {
+    "name": "Ware Opening: Meadow Hay Trap",
+    "moves": "1. a4  e5 2. Ra3  Bxa3 ",
+    "eco": "A00",
+    "src": "wiki_b",
+    "aliases": {
+      "wiki_b": "Banned Gambit"
+    }
+  },
+  "rn1qkbnr/pppbpppp/8/P2p4/8/8/1PPPPPPP/RNBQKBNR w KQkq - 1 3": {
+    "name": "Ware Opening",
+    "moves": "1. a4  d5 2. a5  Bd7 ",
+    "eco": "A00",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/pppppp1p/5np1/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3": {
+    "src": "wiki_b",
+    "eco": "A15",
+    "moves": "1. Nf3 Nf6 2. c4 g6 3. Nc3",
+    "name": "English Opening",
+    "scid": "A15",
+    "aliases": {
+      "scid": "English: Anglo-Indian, 2.Nf3 g6"
+    }
+  },
+  "rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 3": {
+    "name": "King's Indian Defence",
+    "moves": "1. c4  Nf6 2. Nc3  g6 3. d4 ",
+    "eco": "A16",
+    "src": "wiki_b"
+  },
+  "r1bqkbnr/pp1ppppp/2n5/2p5/2P5/5NP1/PP1PPP1P/RNBQKB1R b KQkq - 0 3": {
+    "name": "English: Symmetrical, 2.Nf3 Nc6",
+    "moves": "1. c4  c5 2. Nf3  Nc6 3. g3 ",
+    "eco": "A30",
+    "src": "wiki_b"
+  },
+  "r1bqkb1r/pppp1ppp/2n1pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4": {
+    "name": "Black Knights Tango",
+    "moves": "1. d4  Nf6 2. c4  Nc6 3. Nc3  e6 ",
+    "eco": "A50",
+    "src": "wiki_b"
+  },
+  "r1bqkbnr/pppp1ppp/2n5/4P3/3P4/8/PPP1P1PP/RNBQKBNR b KQkq - 0 3": {
+    "name": "Bird Opening: Schlechter Gambit",
+    "moves": "1. f4  e5 2. fxe5  Nc6 3.d4",
+    "eco": "A02",
+    "src": "wiki_b"
+  },
+  "r1bqkbnr/pppp1ppp/2n5/4P3/8/5N2/PPPPP1PP/RNBQKB1R b KQkq - 2 3": {
+    "name": "Bird Opening: Schlechter Gambit",
+    "moves": "1. f4  e5 2. fxe5  Nc6 3.Nf3",
+    "eco": "A02",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/pppp1ppp/8/4n3/2P5/4P2N/PP3PPP/RNBQKB1R b KQkq - 1 5": {
+    "name": "Budapest: 3...Ng4 4.e3",
+    "moves": "1. d4  Nf6 2. c4  e5 3. dxe5  Ng4 4. e3  Nxe5 5. Nh3 ",
+    "eco": "A52",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/4P3/PPP2PPP/RN1QKBNR w KQkq - 0 4": {
+    "name": "London System Main Line with 3. ...e6",
+    "moves": "1. d4  Nf6 2. Bf4  e6 3. e3  d5 ",
+    "eco": "A45",
+    "src": "wiki_b"
+  },
+  "r1bqkbnr/pp1ppp1p/2n3p1/2p5/2P5/5NP1/PP1PPP1P/RNBQKB1R w KQkq - 0 4": {
+    "name": "English: Symmetrical, 2.Nf3 Nc6",
+    "moves": "1. c4  c5 2. Nf3  Nc6 3. g3  g6 ",
+    "eco": "A30",
+    "src": "wiki_b"
+  },
+  "r1bqkbnr/pp2pppp/2n5/2pp4/8/5NP1/PPPPPPBP/RNBQK2R w KQkq - 0 4": {
+    "name": "Reti: 1...c5",
+    "moves": "1. Nf3  c5 2. g3  Nc6 3. Bg2  d5 ",
+    "eco": "A04",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/4P3/PPPN1PPP/R2QKBNR b KQkq - 1 4": {
+    "name": "London System Main Line with Black ...e6 and ...c5",
+    "moves": "1. d4  Nf6 2. Bf4  e6 3. e3  d5 4. Nd2 ",
+    "eco": "A45",
+    "src": "wiki_b"
+  },
+  "r1bqkbnr/pp1ppp1p/2n3p1/2p5/2P5/5NP1/PP1PPPBP/RNBQK2R b KQkq - 1 4": {
+    "name": "English: Symmetrical, 2.Nf3 Nc6",
+    "moves": "1. c4  c5 2. Nf3  Nc6 3. g3  g6 4. Bg2 ",
+    "eco": "A30",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/pp3ppp/4pn2/2pp4/3P1B2/4P3/PPPN1PPP/R2QKBNR w KQkq - 0 5": {
+    "name": "London System Main Line with Black ...e6 and ...c5",
+    "moves": "1. d4  Nf6 2. Bf4  e6 3. e3  d5 4. Nd2  c5 ",
+    "eco": "A45",
+    "src": "wiki_b"
+  },
+  "r1bqk1nr/pp1pppbp/2n3p1/2p5/2P5/5NP1/PP1PPPBP/RNBQK2R w KQkq - 2 5": {
+    "name": "English: Symmetrical, 2.Nf3 Nc6",
+    "moves": "1. c4  c5 2. Nf3  Nc6 3. g3  g6 4. Bg2  Bg7 ",
+    "eco": "A30",
+    "src": "wiki_b"
+  },
+  "rnbqkb1r/pp3ppp/4pn2/2pp4/3P1B2/2P1P3/PP1N1PPP/R2QKBNR b KQkq - 0 5": {
+    "name": "London System Main Line - Pyramidal Structure c3-d4-e3",
+    "moves": "1. d4  Nf6 2. Bf4  e6 3. e3  d5 4. Nd2  c5 5. c3 ",
+    "eco": "A45",
+    "src": "wiki_b"
+  },
+  "r1bqkb1r/pp3ppp/2n1pn2/2pp4/3P1B2/2P1P3/PP1N1PPP/R2QKBNR w KQkq - 1 6": {
+    "name": "London System Main Line with Black ...e6 and ...c5",
+    "moves": "1. d4  Nf6 2. Bf4  e6 3. e3  d5 4. Nd2  c5 5. c3  Nc6 ",
+    "eco": "A45",
+    "src": "wiki_b"
   }
 }

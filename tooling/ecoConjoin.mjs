@@ -7,7 +7,7 @@ import module from 'module'
 
 let ecoJson = {};
 
-const conjoin = (cats, includeInterpolated = false) => {
+const conjoin = ({cats=ecoCats, includeInterpolated = false}) => {
     for (const cat of ecoCats) {
         const json = readJsonFile(`../eco${cat}.json`);
         ecoJson = { ...ecoJson, ...json };
@@ -21,10 +21,16 @@ const conjoin = (cats, includeInterpolated = false) => {
     return ecoJson;
 };
 
-if (module.children) {
+if (!module.children) {
+    const inclInterpolated = (process.argv[2] === "interpolated")
     // command line action:
-    conjoin(ecoCats);
+    conjoin(ecoCats, inclInterpolated);
     fs.writeFileSync("./eco.json", JSON.stringify(ecoJson, null, 2));
 }
 
-export { conjoin };
+const conjoin2 = ({cats=ecoCats, includeInterpolated=false}) => {
+    return conjoin(cats, includeInterpolated)
+}
+
+
+export { conjoin, conjoin2 };
