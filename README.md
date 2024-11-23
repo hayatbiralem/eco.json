@@ -18,9 +18,8 @@ There is a JSON file for each of the ECO categories A, B, C, D, & E; e.g. <span 
 
 ### Example JSON-encoded opening
 ```
-...
 {
-  "rnbqkb1r/pppppppp/8/3nP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq": {s
+  "rnbqkb1r/pppppppp/8/3nP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq": {
     "src": "eco_tsv",
     "eco": "B03",
     "moves": "1. e4 Nf6 2. e5 Nd5 3. d4",
@@ -34,7 +33,7 @@ There is a JSON file for each of the ECO categories A, B, C, D, & E; e.g. <span 
   },
   ...
 }
-  ```
+```
 
 <span style="color:red">__fen__</span>
 >The Forsyth-Edwards Notation of the position on the board after all opening moves are played. A FEN string __*uniquely identifies each opening*__, and thus FENs are the JSON object keys.
@@ -77,7 +76,7 @@ Interpolated opening variations _may_ have a name, but just weren't found in our
 
 For the example above, the interpolated opening object would be:
 
-```js
+```
 {
   ...
   {
@@ -120,6 +119,7 @@ These can be useful on their own and an aid to understanding how eco.json encode
 * ecoConjoin.mjs: joins together all eco*.json files into on monolithic eco.json files (just like the old days)
 * readJsonFile: reads a JSON formatted file and returns a JSON object (or array)
 * from.mjs/to.mjs: given a FEN argument, these scripts will return variations from the current FEN position, preceeding or following the current position. It uses `fromTo.json` data.
+* findOpeningByFen: takes a FEN command-line argument(s) and outputs the opening + from + to variations.
 
 # Acknowledgements
 
