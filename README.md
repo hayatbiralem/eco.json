@@ -1,6 +1,10 @@
 # eco.json
 version 3.1.0
-## breaking changes
+
+## changes: added opening information scraped from wikibooks (see below)
+* this changes both eco_interpolated.json and fromTo.json content
+
+## breaking changes from version 2.*
   <p>The format of `eco*.json` files has been changed from JSON arrays to JSON objects (keyed by FEN). This is consistent with eco_interpolated.json
   <p>The file `fromTo.json` has been added. This is an array of arrays indicating the relationship between opening variations.
   <p> A `/tooling` folder has been added. See the <a href="#tooling">tooling section</a> for more information.
