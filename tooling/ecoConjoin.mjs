@@ -7,8 +7,8 @@ import module from 'module'
 
 let ecoJson = {};
 
-const conjoin = (cats, includeInterpolated = false) => {
-    for (const cat of cats) {
+const conjoin = ({cats=ecoCats, includeInterpolated = false}) => {
+    for (const cat of ecoCats) {
         const json = readJsonFile(`../eco${cat}.json`);
         ecoJson = { ...ecoJson, ...json };
     }
