@@ -1,6 +1,6 @@
-import { conjoin2 } from "./ecoConjoin.mjs";
+import { conjoin } from "./ecoConjoin.mjs";
 
-const allOpenings = conjoin2({includeInterpolated:false})
+const allOpenings = conjoin({includeInterpolated:false})
 
 const selectSources = () => {
     const sources = process.argv.slice(2, 99)

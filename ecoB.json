@@ -19499,7 +19499,7 @@
     "src": "wiki_b"
   },
   "rnb1kbnr/pp2pppp/2p5/3q4/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5": {
-    "name": "4...Qd5",
+    "name": "Caro-Kann Defense: Main Line",
     "moves": "1. e4  c6 2. d4  d5 3. Nc3  dxe4 4. Nxe4  Qd5 ",
     "eco": "B15",
     "src": "wiki_b"
@@ -19556,7 +19556,7 @@
     "src": "wiki_b",
     "eco": "B20",
     "moves": "1. e4 c5 2. b4 cxb4",
-    "name": "2...cxb4 · Wing Gambit Accepted",
+    "name": "Sicilian, Wing Gambit Accepted",
     "scid": "B20",
     "aliases": {
       "scid": "Sicilian: Wing Gambit"
@@ -19566,7 +19566,7 @@
     "src": "wiki_b",
     "eco": "B20",
     "moves": "1. e4 c5 2. b4 cxb4 3. a3 d5",
-    "name": "3...d5!",
+    "name": "Sicilian: Wing Gambit, Marshall Variation, 3...d5!",
     "scid": "B20",
     "aliases": {
       "scid": "Sicilian: Wing Gambit, Marshall Variation"
@@ -19586,7 +19586,7 @@
     "src": "wiki_b",
     "eco": "B50",
     "moves": "1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. dxc5",
-    "name": "Chess Opening Theory/1. e4/1...c5/2. Nf3/2...d6/3. d4/3...Nf6/4. dxc5",
+    "name": "Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order",
     "scid": "B53b",
     "aliases": {
       "scid": "Sicilian: 2...d6 3.d4 Nf6"
@@ -19657,7 +19657,7 @@
     "src": "wiki_b"
   },
   "rnbqkb1r/pp2pppp/2p2n2/6N1/3P4/8/PPP2PPP/R1BQKBNR b KQkq - 2 5": {
-    "name": "Chess Opening Theory/1. e4/1...c6/2. d4/2...d5/3. Nc3/3...dxe4/4. Nxe4/4...Nf6/5. Ng5",
+    "name": "Caro-Kann: 4.Nxe4 Nf6",
     "moves": "1. e4  c6 2. d4  d5 3. Nc3  dxe4 4. Nxe4  Nf6 5. Ng5 ",
     "eco": "B15",
     "src": "wiki_b"

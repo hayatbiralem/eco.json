@@ -19450,13 +19450,13 @@
     }
   },
   "rnbqkb1r/ppppp2p/6pn/5p2/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4": {
-    "name": "2.c4 g6, 3.Nc3 Nh6, 4.e4 - Dutch Defence, Bladel Variation Open",
+    "name": "Dutch Defence, Bladel Variation Open, 2.c4 g6, 3.Nc3 Nh6, 4.e4",
     "moves": "1. d4  f5 2. c4  g6 3. Nc3  Nh6 4. e4 ",
     "eco": "A84",
     "src": "wiki_b"
   },
   "rnbqk2r/ppppp1bp/6pn/8/2PPN3/5N2/PP3PPP/R1BQKB1R b KQkq - 2 6": {
-    "name": "2.c4 g6, 3.Nc3 Nh6, 4.e4 fxe4, 5.Nxe4 Bg7, 6.Nf3 - Dutch Defence, Bladel Modern Variations",
+    "name": "Dutch Defence, Bladel Modern Variations, 2.c4 g6, 3.Nc3 Nh6, 4.e4 fxe4, 5.Nxe4 Bg7, 6.Nf3",
     "moves": "1. d4  f5 2. c4  g6 3. Nc3  Nh6 4. e4  fxe4 5. Nxe4  Bg7 6. Nf3 ",
     "eco": "A84",
     "src": "wiki_b"
@@ -19471,7 +19471,7 @@
     "src": "wiki_b",
     "eco": "A00",
     "moves": "1. g3 d5 2. Nf3",
-    "name": "2. g3 - King's Indian Attack",
+    "name": "King's Indian Attack, 1. g3",
     "scid": "A00v"
   },
   "rnbqkbnr/ppppp2p/8/5pp1/5PP1/8/PPPPP2P/RNBQKBNR w KQkq - 0 3": {
@@ -19521,7 +19521,7 @@
     }
   },
   "rnbqkbnr/pppp1ppp/8/4p3/8/6P1/PPPPPPBP/RNBQK1NR b KQkq - 1 2": {
-    "name": "2. Bg2 · Hungarian Opening, Main Line",
+    "name": "Hungarian Opening, Main Line",
     "moves": "1. g3  e5 2. Bg2 ",
     "eco": "A00",
     "src": "wiki_b"
@@ -19546,7 +19546,7 @@
     "src": "wiki_b",
     "eco": "A00",
     "moves": "1. b4 e6 2. Bb2",
-    "name": "2. Bb2",
+    "name": "Polish Opening, 1...e6 2. Bb2",
     "scid": "A00p",
     "aliases": {
       "scid": "Polish (Sokolsky; Orang-Utan)"
@@ -19605,7 +19605,7 @@
     }
   },
   "rnbqkbnr/pppppp1p/8/6B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 0 2": {
-    "name": "2. Bxg5: Borg Gambit Accepted",
+    "name": "Borg Gambit Accepted, 2. Bxg5",
     "moves": "1. d4  g5 2. Bxg5 ",
     "eco": "A40",
     "src": "wiki_b",
@@ -19665,7 +19665,7 @@
     "src": "wiki_b",
     "eco": "A06",
     "moves": "1. Nf3 d5 2. d4 Nf6 3. c4",
-    "name": "3.c4",
+    "name": "Queen's Pawn Game, Symmetrical, 3.c4",
     "scid": "A06",
     "aliases": {
       "scid": "Reti: 1...d5",
@@ -19701,7 +19701,7 @@
     "src": "wiki_b"
   },
   "rnbqk1nr/pppp1pBp/4p3/8/1b6/8/P1PPPPPP/RN1QKBNR b KQkq - 0 3": {
-    "name": "3. Bxg7",
+    "name": "Polish Opening, 1...e6 2. Bb2",
     "moves": "1. b4  e6 2. Bb2  Bxb4 3. Bxg7 ",
     "eco": "A00",
     "src": "wiki_b"

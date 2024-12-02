@@ -1090,7 +1090,7 @@
     "eco": "A00"
   },
   "rnbqkb1r/pppp1ppp/4pn2/8/1P6/8/PBPPPPPP/RN1QKBNR w KQkq - 2 3": {
-    "name": "2. Bb2",
+    "name": "Polish Opening: 2. Bb2",
     "moves": "1. b4 e6 2. Bb2 Nf6",
     "src": "interpolated",
     "rootSrc": "wiki_b",
@@ -1100,7 +1100,7 @@
     }
   },
   "rnbqkb1r/pppp1ppp/4pn2/1P6/8/8/PBPPPPPP/RN1QKBNR b KQkq - 0 3": {
-    "name": "2. Bb2",
+    "name": "Polish Opening: 2. Bb2",
     "moves": "1. b4 e6 2. Bb2 Nf6 3. b5",
     "src": "interpolated",
     "rootSrc": "wiki_b",
@@ -1138,7 +1138,7 @@
     "eco": "A00"
   },
   "rnbqkb1r/ppp2ppp/4pn2/1P1p4/8/8/PBPPPPPP/RN1QKBNR w KQkq - 0 4": {
-    "name": "2. Bb2",
+    "name": "Polish Opening: 2. Bb2",
     "moves": "1. b4 e6 2. Bb2 Nf6 3. b5 d5",
     "src": "interpolated",
     "rootSrc": "wiki_b",
@@ -6522,63 +6522,63 @@
     "eco": "A52"
   },
   "rnbqk2r/pp1pp1bp/2p3pn/8/2PPN3/5N2/PP3PPP/R1BQKB1R w KQkq - 0 7": {
-    "name": "2.c4 g6, 3.Nc3 Nh6, 4.e4 fxe4, 5.Nxe4 Bg7, 6.Nf3 - Dutch Defence, Bladel Modern Variations",
+    "name": "Dutch Defence, Bladel Modern Variations",
     "moves": "1. d4 f5 2. c4 g6 3. Nc3 Nh6 4. e4 fxe4 5. Nxe4 Bg7 6. Nf3 c6",
     "src": "interpolated",
     "rootSrc": "wiki_b",
     "eco": "A84"
   },
   "rnbqk2r/pp1pp1bp/2p3pn/8/2PPN3/3B1N2/PP3PPP/R1BQK2R b KQkq - 1 7": {
-    "name": "2.c4 g6, 3.Nc3 Nh6, 4.e4 fxe4, 5.Nxe4 Bg7, 6.Nf3 - Dutch Defence, Bladel Modern Variations",
+    "name": "Dutch Defence, Bladel Modern Variations",
     "moves": "1. d4 f5 2. c4 g6 3. Nc3 Nh6 4. e4 fxe4 5. Nxe4 Bg7 6. Nf3 c6 7. Bd3",
     "src": "interpolated",
     "rootSrc": "wiki_b",
     "eco": "A84"
   },
   "rnbqk2r/pp2p1bp/2p3pn/3p4/2PPN3/3B1N2/PP3PPP/R1BQK2R w KQkq - 0 8": {
-    "name": "2.c4 g6, 3.Nc3 Nh6, 4.e4 fxe4, 5.Nxe4 Bg7, 6.Nf3 - Dutch Defence, Bladel Modern Variations",
+    "name": "Dutch Defence, Bladel Modern Variations",
     "moves": "1. d4 f5 2. c4 g6 3. Nc3 Nh6 4. e4 fxe4 5. Nxe4 Bg7 6. Nf3 c6 7. Bd3 d5",
     "src": "interpolated",
     "rootSrc": "wiki_b",
     "eco": "A84"
   },
   "rnbqk2r/pp2p1bp/2p3pn/3P4/3PN3/3B1N2/PP3PPP/R1BQK2R b KQkq - 0 8": {
-    "name": "2.c4 g6, 3.Nc3 Nh6, 4.e4 fxe4, 5.Nxe4 Bg7, 6.Nf3 - Dutch Defence, Bladel Modern Variations",
+    "name": "Dutch Defence, Bladel Modern Variations",
     "moves": "1. d4 f5 2. c4 g6 3. Nc3 Nh6 4. e4 fxe4 5. Nxe4 Bg7 6. Nf3 c6 7. Bd3 d5 8. cxd5",
     "src": "interpolated",
     "rootSrc": "wiki_b",
     "eco": "A84"
   },
   "rnbqk2r/pp2p1bp/6pn/3p4/3PN3/3B1N2/PP3PPP/R1BQK2R w KQkq - 0 9": {
-    "name": "2.c4 g6, 3.Nc3 Nh6, 4.e4 fxe4, 5.Nxe4 Bg7, 6.Nf3 - Dutch Defence, Bladel Modern Variations",
+    "name": "Dutch Defence, Bladel Modern Variations",
     "moves": "1. d4 f5 2. c4 g6 3. Nc3 Nh6 4. e4 fxe4 5. Nxe4 Bg7 6. Nf3 c6 7. Bd3 d5 8. cxd5 cxd5",
     "src": "interpolated",
     "rootSrc": "wiki_b",
     "eco": "A84"
   },
   "rnbqk2r/pp2p1bp/6pn/1B1p4/3PN3/5N2/PP3PPP/R1BQK2R b KQkq - 1 9": {
-    "name": "2.c4 g6, 3.Nc3 Nh6, 4.e4 fxe4, 5.Nxe4 Bg7, 6.Nf3 - Dutch Defence, Bladel Modern Variations",
+    "name": "Dutch Defence, Bladel Modern Variations",
     "moves": "1. d4 f5 2. c4 g6 3. Nc3 Nh6 4. e4 fxe4 5. Nxe4 Bg7 6. Nf3 c6 7. Bd3 d5 8. cxd5 cxd5 9. Bb5+",
     "src": "interpolated",
     "rootSrc": "wiki_b",
     "eco": "A84"
   },
   "r1bqk2r/pp2p1bp/2n3pn/1B1p4/3PN3/5N2/PP3PPP/R1BQK2R w KQkq - 2 10": {
-    "name": "2.c4 g6, 3.Nc3 Nh6, 4.e4 fxe4, 5.Nxe4 Bg7, 6.Nf3 - Dutch Defence, Bladel Modern Variations",
+    "name": "Dutch Defence, Bladel Modern Variations",
     "moves": "1. d4 f5 2. c4 g6 3. Nc3 Nh6 4. e4 fxe4 5. Nxe4 Bg7 6. Nf3 c6 7. Bd3 d5 8. cxd5 cxd5 9. Bb5+ Nc6",
     "src": "interpolated",
     "rootSrc": "wiki_b",
     "eco": "A84"
   },
   "r1bqk2r/pp2p1bp/2B3pn/3p4/3PN3/5N2/PP3PPP/R1BQK2R b KQkq - 0 10": {
-    "name": "2.c4 g6, 3.Nc3 Nh6, 4.e4 fxe4, 5.Nxe4 Bg7, 6.Nf3 - Dutch Defence, Bladel Modern Variations",
+    "name": "Dutch Defence, Bladel Modern Variations",
     "moves": "1. d4 f5 2. c4 g6 3. Nc3 Nh6 4. e4 fxe4 5. Nxe4 Bg7 6. Nf3 c6 7. Bd3 d5 8. cxd5 cxd5 9. Bb5+ Nc6 10. Bxc6+",
     "src": "interpolated",
     "rootSrc": "wiki_b",
     "eco": "A84"
   },
   "r1bqk2r/p3p1bp/2p3pn/3p4/3PN3/5N2/PP3PPP/R1BQK2R w KQkq - 0 11": {
-    "name": "2.c4 g6, 3.Nc3 Nh6, 4.e4 fxe4, 5.Nxe4 Bg7, 6.Nf3 - Dutch Defence, Bladel Modern Variations",
+    "name": "Dutch Defence, Bladel Modern Variations",
     "moves": "1. d4 f5 2. c4 g6 3. Nc3 Nh6 4. e4 fxe4 5. Nxe4 Bg7 6. Nf3 c6 7. Bd3 d5 8. cxd5 cxd5 9. Bb5+ Nc6 10. Bxc6+ bxc6",
     "src": "interpolated",
     "rootSrc": "wiki_b",
@@ -8739,7 +8739,7 @@
     "eco": "B20"
   },
   "rnbqkbnr/pp2pppp/8/3P4/1p6/P7/2PP1PPP/RNBQKBNR b KQkq - 0 4": {
-    "name": "3...d5!",
+    "name": "Sicilian: Wing Gambit, Marshall Variation, 3...d5",
     "moves": "1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5",
     "src": "interpolated",
     "rootSrc": "wiki_b",
@@ -8749,7 +8749,7 @@
     }
   },
   "rnb1kbnr/pp2pppp/8/3q4/1p6/P7/2PP1PPP/RNBQKBNR w KQkq - 0 5": {
-    "name": "3...d5!",
+    "name": "Sicilian: Wing Gambit, Marshall Variation, 3...d5",
     "moves": "1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5",
     "src": "interpolated",
     "rootSrc": "wiki_b",
@@ -8759,7 +8759,7 @@
     }
   },
   "rnb1kbnr/pp2pppp/8/3q4/1p6/P4N2/2PP1PPP/RNBQKB1R b KQkq - 1 5": {
-    "name": "3...d5!",
+    "name": "Sicilian: Wing Gambit, Marshall Variation, 3...d5",
     "moves": "1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3",
     "src": "interpolated",
     "rootSrc": "wiki_b",
@@ -8769,7 +8769,7 @@
     }
   },
   "rnb1kbnr/pp3ppp/8/3qp3/1p6/P4N2/2PP1PPP/RNBQKB1R w KQkq - 0 6": {
-    "name": "3...d5!",
+    "name": "Sicilian: Wing Gambit, Marshall Variation, 3...d5",
     "moves": "1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 e5",
     "src": "interpolated",
     "rootSrc": "wiki_b",
@@ -8779,7 +8779,7 @@
     }
   },
   "rnb1kbnr/pp3ppp/8/3qp3/1pP5/P4N2/3P1PPP/RNBQKB1R b KQkq c3 0 6": {
-    "name": "3...d5!",
+    "name": "Sicilian: Wing Gambit, Marshall Variation, 3...d5",
     "moves": "1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 e5 6. c4",
     "src": "interpolated",
     "rootSrc": "wiki_b",
@@ -8789,7 +8789,7 @@
     }
   },
   "rnb1kbnr/pp3ppp/4q3/4p3/1pP5/P4N2/3P1PPP/RNBQKB1R w KQkq - 1 7": {
-    "name": "3...d5!",
+    "name": "Sicilian: Wing Gambit, Marshall Variation, 3...d5",
     "moves": "1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 e5 6. c4 Qe6",
     "src": "interpolated",
     "rootSrc": "wiki_b",
@@ -8799,7 +8799,7 @@
     }
   },
   "rnb1kbnr/pp3ppp/8/3qp3/1p6/P4N2/1BPP1PPP/RN1QKB1R b KQkq - 1 6": {
-    "name": "3...d5!",
+    "name": "Sicilian: Wing Gambit, Marshall Variation, 3...d5",
     "moves": "1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 e5 6. Bb2",
     "src": "interpolated",
     "rootSrc": "wiki_b",
@@ -8809,7 +8809,7 @@
     }
   },
   "r1b1kbnr/pp3ppp/2n5/3qp3/1p6/P4N2/1BPP1PPP/RN1QKB1R w KQkq - 2 7": {
-    "name": "3...d5!",
+    "name": "Sicilian: Wing Gambit, Marshall Variation, 3...d5",
     "moves": "1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 e5 6. Bb2 Nc6",
     "src": "interpolated",
     "rootSrc": "wiki_b",
@@ -8819,7 +8819,7 @@
     }
   },
   "r1b1kbnr/pp3ppp/2n5/3qp3/1pP5/P4N2/1B1P1PPP/RN1QKB1R b KQkq c3 0 7": {
-    "name": "3...d5!",
+    "name": "Sicilian: Wing Gambit, Marshall Variation, 3...d5",
     "moves": "1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 e5 6. Bb2 Nc6 7. c4",
     "src": "interpolated",
     "rootSrc": "wiki_b",
