@@ -1,5 +1,7 @@
 # eco.json
-version 3.1.0
+version 3.1.2
+
+<span style="color: powderblue">Now at 12,055 named opening variations</span>
 
 ## changes: added opening information scraped from wikibooks (see below)
 * this changes both eco_interpolated.json and fromTo.json content

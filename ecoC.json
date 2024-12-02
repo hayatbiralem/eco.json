@@ -20272,7 +20272,7 @@
     "src": "wiki_b",
     "eco": "C40",
     "moves": "1. e4 e5 2. Nf3 f6 3. Nxe5",
-    "name": "3. Nxe5!! - Damiano Defence",
+    "name": "Damiano Defence",
     "scid": "C40a",
     "aliases": {
       "scid": "Open Game: Damiano Defence"
@@ -21187,7 +21187,7 @@
     "src": "wiki_b",
     "eco": "C57",
     "moves": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+",
-    "name": "5...Bxf2+",
+    "name": "Two Knights Defense, Traxler, Knight Sacrifice Line, 5...Bxf2+",
     "scid": "C57b",
     "aliases": {
       "scid": "Two Knights: Traxler, 5.Nxf7"
