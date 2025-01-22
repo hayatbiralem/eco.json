@@ -66,7 +66,7 @@ There is a JSON file for each of the ECO categories A, B, C, D, & E; e.g. <span 
 > If true, this variation's moves appear in the Encyclopedia of Chess Openings as the root variation for the <span style="color:red">__eco__</span> code, above
 
 # eco_interpolated
-In __eco.json__ there are 1811 "orphan" variations. An orphan variation has no `from` field, indicating that there is no preceding _named_ variation. There are moves that precede the last move of the orphan variation (unless it's a first move, of course). Opening records can be created for these prededing move sequences, which fill in the gaps in the eco.json data structure.
+In __eco.json__ there are ~2000 "orphan" variations. An orphan variation has no `from` field, indicating that there is no preceding _named_ variation. There are moves that precede the last move of the orphan variation (unless it's a first move, of course). Opening records can be created for these prededing move sequences, which fill in the gaps in the eco.json data structure.
 
 Let's take a look at one case. [One of the opening books](https://github.com/lichess-org/chess-openings/blob/master/b.tsv) at [__eco_tsv__]((https://github.com/niklasf/eco)) contains these four variations of the Alekhine Defense:
 
@@ -76,6 +76,8 @@ There are two entries for the Brooklyn Variation of the Alekhine Defense on line
 
 ## the eco_interpolated.json file
 Every orphan variation (like the <span style = "color:blue">Alekhine Defense: Brooklyn Variation, Everglades Variation</span>) has a move sequence. By moving backwards from the end of the move sequence, we eventually wind up at a named variation, which is called the __root__ variation. Along the way, a record of each FEN position and remaining moves in the sequence is made. Then, from the root to the orphan, are created __interpolated__ opening objects that bridge the gap between root and orphan.
+
+A more detailed explanation can be found in Part 2 of [this blog post](https://medium.com/@jefflowery/navigating-chess-openings-part-1-8d779aee0965).
 
 ### naming the interpolated variations
 Interpolated opening variations _may_ have a name, but just weren't found in our sources. This can be corrected over time, and freshly named interpolated openings can be inserted into the __eco.json__ file as they are discovered. In the meantime, the names assigned to interpolated openings are the root name plus `" (i)"`. There may be several of these, but openings names are not required to be unique (only FENs are).
