@@ -1,7 +1,6 @@
 import { readJsonFile } from "./readJsonFile.mjs";
 import { ecoCats } from "./const.mjs";
 import fs from "fs";
-import module from "module";
 
 // reconstitute the monolithic eco.json data from A, B, C, D, & E files (interpolated optional)
 
