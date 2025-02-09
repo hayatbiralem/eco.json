@@ -1469,7 +1469,7 @@
     "src": "eco_tsv",
     "eco": "E10",
     "moves": "1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. Bg5",
-    "name": "Blumenfeld Countergambit: Dus-Khotimirsky Variation",
+    "name": "Blumenfeld Countergambit: Duz-Khotimirsky Variation",
     "scid": "E10m",
     "aliases": {
       "scid": "Blumenfeld: 5.Bg5"
@@ -3012,7 +3012,7 @@
     "src": "eco_tsv",
     "eco": "E15",
     "moves": "1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7",
-    "name": "Queen's Indian Defense: Fianchetto Traditional",
+    "name": "Queen's Indian Defense: Fianchetto Variation, Traditional Line",
     "scid": "E15t",
     "aliases": {
       "scid": "Queen's Indian: 4.g3 Bb7"
@@ -4533,7 +4533,7 @@
     "src": "eco_tsv",
     "eco": "E23",
     "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Nf3 Ne4 7. Bd2 Nxd2",
-    "name": "Nimzo-Indian Defense: Spielmann Variation, Karlsbad Variation",
+    "name": "Nimzo-Indian Defense: Spielmann Variation, Carlsbad Variation",
     "scid": "E23",
     "aliases": {
       "scid": "Nimzo-Indian: Spielmann, Carlsbad Variation"
@@ -5917,7 +5917,7 @@
     "src": "eco_tsv",
     "eco": "E40",
     "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3",
-    "name": "Nimzo-Indian Defense: Normal Line",
+    "name": "Nimzo-Indian Defense: Rubinstein System",
     "scid": "E40",
     "aliases": {
       "scid": "Nimzo-Indian: Rubinstein"
@@ -5928,7 +5928,7 @@
     "src": "eco_tsv",
     "eco": "E40",
     "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6",
-    "name": "Nimzo-Indian Defense: Normal Variation, Taimanov Variation",
+    "name": "Nimzo-Indian Defense: Rubinstein System, Taimanov Variation",
     "scid": "E40",
     "aliases": {
       "scid": "Nimzo-Indian: Taimanov"
@@ -5959,7 +5959,7 @@
     "src": "eco_tsv",
     "eco": "E41",
     "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5",
-    "name": "Nimzo-Indian Defense: Hübner Variation",
+    "name": "Nimzo-Indian Defense: Rubinstein System",
     "scid": "E41",
     "aliases": {
       "scid": "Nimzo-Indian: 4.e3 c5",
@@ -5971,7 +5971,7 @@
     "src": "eco_tsv",
     "eco": "E41",
     "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6",
-    "name": "Nimzo-Indian Defense: Hübner Variation, Main Line",
+    "name": "Nimzo-Indian Defense: Rubinstein System, Hübner Variation",
     "scid": "E41",
     "aliases": {
       "scid": "Nimzo-Indian: 4.e3 c5, Huebner Variation",
@@ -6061,7 +6061,7 @@
     "src": "eco_tsv",
     "eco": "E42",
     "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2",
-    "name": "Nimzo-Indian Defense: Hübner Variation, Rubinstein Variation",
+    "name": "Nimzo-Indian Defense: Rubinstein System, Rubinstein Variation",
     "scid": "E42",
     "aliases": {
       "scid": "Nimzo-Indian: 4.e3 c5 5.Ne2",
@@ -6073,7 +6073,7 @@
     "src": "eco_tsv",
     "eco": "E42",
     "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3",
-    "name": "Nimzo-Indian Defense: Hübner Variation, Rubinstein Variation, Main Line",
+    "name": "Nimzo-Indian Defense: Rubinstein System, Rubinstein Variation, Main Line",
     "aliases": {
       "eco_js": "Nimzo-Indian Defense: Huebner Variation, Rubinstein Variation, Main Line"
     }
@@ -6082,7 +6082,7 @@
     "src": "eco_tsv",
     "eco": "E42",
     "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. c5",
-    "name": "Nimzo-Indian Defense: Hübner Variation, Rubinstein Variation, Sherbakov Attack",
+    "name": "Nimzo-Indian Defense: Rubinstein System, Rubinstein Variation, Sherbakov Attack",
     "aliases": {
       "eco_js": "Nimzo-Indian Defense: Huebner Variation, Rubinstein Variation, Sherbakov Attack"
     }
@@ -6200,7 +6200,7 @@
     "src": "eco_tsv",
     "eco": "E44",
     "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2",
-    "name": "Nimzo-Indian Defense: Fischer Variation",
+    "name": "Nimzo-Indian Defense: St. Petersburg Variation",
     "scid": "E44",
     "aliases": {
       "scid": "Nimzo-Indian: Nimzowitsch, 5.Ne2"
@@ -6239,7 +6239,7 @@
     "src": "eco_tsv",
     "eco": "E45",
     "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6",
-    "name": "Nimzo-Indian Defense: Normal Variation, Bronstein (Byrne) Variation",
+    "name": "Nimzo-Indian Defense: St. Petersburg Variation, Fischer Variation",
     "scid": "E45",
     "aliases": {
       "scid": "Nimzo-Indian: Nimzowitsch, 5.Ne2 Ba6"
@@ -6365,7 +6365,7 @@
     "src": "eco_tsv",
     "eco": "E47",
     "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3",
-    "name": "Nimzo-Indian Defense: Normal Variation, Bishop Attack",
+    "name": "Nimzo-Indian Defense: Normal Variation",
     "scid": "E47",
     "aliases": {
       "scid": "Nimzo-Indian: 4.e3 O-O 5.Bd3"
@@ -6411,7 +6411,7 @@
     "src": "eco_tsv",
     "eco": "E48",
     "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5",
-    "name": "Nimzo-Indian Defense: Normal Variation, Bishop Attack, Classical Defense",
+    "name": "Nimzo-Indian Defense: Normal Variation, Classical Defense",
     "scid": "E48",
     "aliases": {
       "scid": "Nimzo-Indian: 4.e3 O-O 5.Bd3 d5"
@@ -7982,7 +7982,7 @@
     "src": "eco_tsv",
     "eco": "E62",
     "moves": "1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nc6",
-    "name": "King's Indian Defense: Fianchetto Variation, Karlsbad Variation"
+    "name": "King's Indian Defense: Fianchetto Variation, Carlsbad Variation"
   },
   "rnb2rk1/pp2ppbp/2pp1np1/q7/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 2 8": {
     "src": "eco_tsv",

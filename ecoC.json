@@ -511,7 +511,7 @@
     "src": "eco_tsv",
     "eco": "C01",
     "moves": "1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Bg5 Nc6",
-    "name": "French Defense: Exchange Variation, Bogoljubov Variation",
+    "name": "French Defense: Exchange Variation, Bogoljubow Variation",
     "scid": "C01t",
     "aliases": {
       "scid": "French: Exchange, Bogoljubow Variation",
@@ -2595,7 +2595,7 @@
     "src": "eco_tsv",
     "eco": "C12",
     "moves": "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. exd5 Qxd5 6. Bxf6 gxf6 7. Qd2 Qa5",
-    "name": "French Defense: MacCutcheon Variation, Bogoljubov Variation",
+    "name": "French Defense: MacCutcheon Variation, Bogoljubow Variation",
     "scid": "C12c",
     "aliases": {
       "scid": "French: MacCutcheon, Bogoljubow Variation",
@@ -3578,7 +3578,7 @@
     "src": "eco_tsv",
     "eco": "C17",
     "moves": "1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2",
-    "name": "French Defense: Winawer Variation, Bogoljubov Variation",
+    "name": "French Defense: Winawer Variation, Bogoljubow Variation",
     "scid": "C17e",
     "aliases": {
       "scid": "French: Winawer, Bogoljubow Variation"
@@ -3588,7 +3588,7 @@
     "src": "eco_tsv",
     "eco": "C17",
     "moves": "1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. f4",
-    "name": "French Defense: Winawer Variation, Bogoljubov Variation, Icelandic Defense"
+    "name": "French Defense: Winawer Variation, Bogoljubow Variation, Icelandic Defense"
   },
   "rnbqk1nr/pp3ppp/4p3/3pP3/1P6/2p5/1PP2PPP/R1BQKBNR w KQkq - 0 7": {
     "src": "eco_tsv",
@@ -3926,7 +3926,7 @@
     "src": "eco_tsv",
     "eco": "C19",
     "moves": "1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4",
-    "name": "French Defense: Winawer Variation, Poisoned Pawn Variation",
+    "name": "French Defense: Winawer Variation, Advance Variation",
     "scid": "C18j",
     "aliases": {
       "scid": "French: Winawer, 6...Ne7 7.Qg4"
@@ -4569,7 +4569,7 @@
     "src": "eco_tsv",
     "eco": "C21",
     "moves": "1. e4 e5 2. d4 exd4 3. c3 d5",
-    "name": "Danish Gambit Declined: Sorensen Defense",
+    "name": "Danish Gambit Declined: Sörensen Defense",
     "scid": "C21",
     "aliases": {
       "scid": "Danish Gambit: Sorensen Defence",
@@ -6993,7 +6993,7 @@
     "src": "eco_tsv",
     "eco": "C33",
     "moves": "1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6",
-    "name": "King's Gambit Accepted: Bishop's Gambit, Bogoljubov Defense",
+    "name": "King's Gambit Accepted: Bishop's Gambit, Bogoljubow Defense",
     "scid": "C33",
     "aliases": {
       "scid": "KGA: Bishop's Gambit, Jaenisch Variation",
@@ -7004,7 +7004,7 @@
     "src": "eco_tsv",
     "eco": "C33",
     "moves": "1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3",
-    "name": "King's Gambit Accepted: Bishop's Gambit, Bogoljubov Variation",
+    "name": "King's Gambit Accepted: Bishop's Gambit, Bogoljubow Variation",
     "scid": "C33",
     "aliases": {
       "scid": "KGA: Bishop's Gambit, Bogoljubow Variation",
@@ -7317,7 +7317,7 @@
     "src": "eco_tsv",
     "eco": "C33",
     "moves": "1. e4 e5 2. f4 exf4 3. d4",
-    "name": "King's Gambit Accepted: Polerio Gambit",
+    "name": "King's Gambit Accepted: Villemson Gambit",
     "scid": "C33",
     "aliases": {
       "scid": "KGA: Villemson Gambit",
@@ -7901,7 +7901,7 @@
     "src": "eco_tsv",
     "eco": "C37",
     "moves": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Nc3",
-    "name": "King's Gambit Accepted: Quade Gambit",
+    "name": "King's Gambit Accepted: Quaade Gambit",
     "scid": "C37",
     "aliases": {
       "scid": "KGA: Quaade Gambit",
@@ -9535,7 +9535,7 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6",
-    "name": "Russian Game",
+    "name": "Petrov's Defense",
     "scid": "C42a",
     "aliases": {
       "scid": "Russian Game (Petroff Defence)",
@@ -9547,7 +9547,7 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5",
-    "name": "Russian Game",
+    "name": "Petrov's Defense",
     "scid": "C42g",
     "aliases": {
       "scid": "Russian Game: 3.Nxe5",
@@ -9558,7 +9558,7 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6",
-    "name": "Russian Game",
+    "name": "Petrov's Defense",
     "scid": "C42g",
     "aliases": {
       "scid": "Russian Game: 3.Nxe5 d6",
@@ -9569,7 +9569,7 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3",
-    "name": "Russian Game",
+    "name": "Petrov's Defense",
     "scid": "C42j",
     "aliases": {
       "scid": "Russian Game: 3.Nxe5 d6 4.Nf3",
@@ -9580,7 +9580,7 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4",
-    "name": "Russian Game",
+    "name": "Petrov's Defense",
     "aliases": {
       "eco_js": "Petrov's Defense, 3. Nxe5 d6 4. Nf3 Nxe4"
     }
@@ -9610,7 +9610,7 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4",
-    "name": "Russian Game: Classical Attack",
+    "name": "Petrov's Defense: Classical Attack",
     "scid": "C42p",
     "aliases": {
       "scid": "Russian Game: Classical"
@@ -9620,7 +9620,7 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. Re1 Bg4 9. c3 f5 10. Nbd2",
-    "name": "Russian Game: Classical Attack, Berger Variation",
+    "name": "Petrov's Defense: Classical Attack, Berger Variation",
     "scid": "C42x",
     "aliases": {
       "scid": "Russian Game: Classical, Berger Variation"
@@ -9630,7 +9630,7 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. Re1",
-    "name": "Russian Game: Classical Attack, Chigorin Variation",
+    "name": "Petrov's Defense: Classical Attack, Chigorin Variation",
     "scid": "C42v",
     "aliases": {
       "scid": "Russian Game: Classical, Chigorin Variation"
@@ -9640,19 +9640,19 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4 Nb4 9. cxd5",
-    "name": "Russian Game: Classical Attack, Chigorin Variation, Browne Attack"
+    "name": "Petrov's Defense: Classical Attack, Chigorin Variation, Browne Attack"
   },
   "r1bqk2r/ppp1bppp/8/3p4/1nPPn3/5N2/PP2BPPP/RNBQ1RK1 b kq - 2 9": {
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4 Nb4 9. Be2",
-    "name": "Russian Game: Classical Attack, Chigorin Variation, Main Line"
+    "name": "Petrov's Defense: Classical Attack, Chigorin Variation, Main Line"
   },
   "rnbqkb1r/ppp2ppp/3p1n2/8/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 6": {
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 Nf6",
-    "name": "Russian Game: Classical Attack, Closed Variation",
+    "name": "Petrov's Defense: Classical Attack, Closed Variation",
     "scid": "C42p",
     "aliases": {
       "scid": "Russian Game: Classical, Close Variation"
@@ -9662,7 +9662,7 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4",
-    "name": "Russian Game: Classical Attack, Jaenisch Variation",
+    "name": "Petrov's Defense: Classical Attack, Jaenisch Variation",
     "scid": "C42t",
     "aliases": {
       "scid": "Russian Game: Classical, Jaenisch Variation"
@@ -9672,7 +9672,7 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. Re1 Bg4 9. c3 f5 10. c4",
-    "name": "Russian Game: Classical Attack, Krause Variation",
+    "name": "Petrov's Defense: Classical Attack, Krause Variation",
     "scid": "C42x",
     "aliases": {
       "scid": "Russian Game: Classical, Krause Variation"
@@ -9682,7 +9682,7 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. Re1 Bg4 9. c3 f5 10. c4 Bh4",
-    "name": "Russian Game: Classical Attack, Maróczy Variation",
+    "name": "Petrov's Defense: Classical Attack, Maróczy Variation",
     "scid": "C42x",
     "aliases": {
       "scid": "Russian Game: Classical, Maroczy Variation",
@@ -9693,7 +9693,7 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4 Bg4 9. cxd5 f5 10. Re1 Bxh2+",
-    "name": "Russian Game: Classical Attack, Marshall Trap",
+    "name": "Petrov's Defense: Classical Attack, Marshall Trap",
     "scid": "C42q",
     "aliases": {
       "scid": "Russian Game: Classical, Marshall Trap"
@@ -9703,7 +9703,7 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6",
-    "name": "Russian Game: Classical Attack, Marshall Variation",
+    "name": "Petrov's Defense: Classical Attack, Marshall Variation",
     "scid": "C42q",
     "aliases": {
       "scid": "Russian Game: Classical, Marshall Variation"
@@ -9713,13 +9713,13 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4 c6 9. Re1 Bg4",
-    "name": "Russian Game: Classical Attack, Marshall Variation, Chinese Gambit"
+    "name": "Petrov's Defense: Classical Attack, Marshall Variation, Chinese Gambit"
   },
   "rnbq1rk1/ppp1bppp/8/3p4/3Pn3/3B1N2/PPP2PPP/RNBQ1RK1 w - - 4 8": {
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O",
-    "name": "Russian Game: Classical Attack, Mason Variation",
+    "name": "Petrov's Defense: Classical Attack, Mason Variation",
     "scid": "C42s",
     "aliases": {
       "scid": "Russian Game: Classical, Mason Variation"
@@ -9729,13 +9729,13 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6",
-    "name": "Russian Game: Classical Attack, Mason-Showalter Variation"
+    "name": "Petrov's Defense: Classical Attack, Mason-Showalter Variation"
   },
   "rnbq1rk1/pp3ppp/2pb4/3p4/2PPn3/3B1N2/PP3PPP/RNBQ1RK1 w - - 0 9": {
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4 c6",
-    "name": "Russian Game: Classical Attack, Staunton Variation",
+    "name": "Petrov's Defense: Classical Attack, Staunton Variation",
     "scid": "C42r",
     "aliases": {
       "scid": "Russian Game: Classical, Marshall, 8.c4 c6"
@@ -9745,7 +9745,7 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4 Bg4",
-    "name": "Russian Game: Classical Attack, Tarrasch Variation",
+    "name": "Petrov's Defense: Classical Attack, Tarrasch Variation",
     "scid": "C42q",
     "aliases": {
       "scid": "Russian Game: Classical, Tarrasch Variation"
@@ -9818,20 +9818,20 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7",
-    "name": "Russian Game: Cochrane Gambit",
+    "name": "Petrov's Defense: Cochrane Gambit",
     "scid": "C42h"
   },
   "rnbq1b1r/ppp2kpp/3p1n2/8/2B1P3/8/PPPP1PPP/RNBQK2R b KQ - 1 5": {
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7 Kxf7 5. Bc4+",
-    "name": "Russian Game: Cochrane Gambit, Bishop Check Line"
+    "name": "Petrov's Defense: Cochrane Gambit, Bishop Check Line"
   },
   "rnbq1b1r/ppp2kpp/3p1n2/8/3PP3/8/PPP2PPP/RNBQKB1R b KQ - 0 5": {
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7 Kxf7 5. d4",
-    "name": "Russian Game: Cochrane Gambit, Center Variation",
+    "name": "Petrov's Defense: Cochrane Gambit, Center Variation",
     "scid": "C42h",
     "aliases": {
       "scid": "Russian Game: Cochrane Gambit, 5.d4"
@@ -9841,7 +9841,7 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2",
-    "name": "Russian Game: Cozio Attack",
+    "name": "Petrov's Defense: Cozio Attack",
     "scid": "C42n",
     "aliases": {
       "scid": "Russian Game: Cozio/Lasker",
@@ -9852,27 +9852,27 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4",
-    "name": "Russian Game: Damiano Variation",
+    "name": "Petrov's Defense: Damiano Variation",
     "scid": "C42g"
   },
   "rnb1kb1r/ppppqppp/8/4N3/4n3/8/PPPPQPPP/RNB1KB1R w KQkq - 2 5": {
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 Qe7",
-    "name": "Russian Game: Damiano Variation, Kholmov Gambit"
+    "name": "Petrov's Defense: Damiano Variation, Kholmov Gambit"
   },
   "rnbqkb1r/ppp2ppp/3p4/8/4n3/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 0 5": {
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3",
-    "name": "Russian Game: French Attack",
+    "name": "Petrov's Defense: French Attack",
     "scid": "C42k"
   },
   "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3": {
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Bc4",
-    "name": "Russian Game: Italian Variation",
+    "name": "Petrov's Defense: Italian Variation",
     "scid": "C42e",
     "aliases": {
       "eco_js": "Russian Game: Urusov Gambit"
@@ -9882,13 +9882,13 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nd3",
-    "name": "Russian Game: Karklins-Martinovsky Variation"
+    "name": "Petrov's Defense: Karklins-Martinovsky Variation"
   },
   "rnbqkb1r/ppp2ppp/3p4/8/2P1n3/5N2/PP1P1PPP/RNBQKB1R b KQkq - 0 5": {
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. c4",
-    "name": "Russian Game: Kaufmann Attack",
+    "name": "Petrov's Defense: Kaufmann Attack",
     "scid": "C42l",
     "aliases": {
       "scid": "Russian Game: Vienna/Kaufmann"
@@ -9898,7 +9898,7 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Bd3",
-    "name": "Russian Game: Millennium Attack"
+    "name": "Petrov's Defense: Millennium Attack"
   },
   "r1b1kb1r/pppnqppp/3p1n2/6B1/8/3P1N2/PPP1QPPP/RN2KB1R w KQkq - 3 8": {
     "src": "scid",
@@ -9911,39 +9911,39 @@
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Qe2 Nc6 4. d4",
-    "name": "Russian Game: Moody Gambit"
+    "name": "Petrov's Defense: Moody Gambit"
   },
   "rnbqkb1r/ppp2ppp/3p4/8/4n3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 5": {
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3",
-    "name": "Russian Game: Nimzowitsch Attack",
+    "name": "Petrov's Defense: Nimzowitsch Attack",
     "scid": "C42m"
   },
   "rnbqkb1r/ppp2ppp/3p1n2/8/2N1P3/8/PPPP1PPP/RNBQKB1R b KQkq - 1 4": {
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nc4",
-    "name": "Russian Game: Paulsen Attack",
+    "name": "Petrov's Defense: Paulsen Attack",
     "scid": "C42i"
   },
   "r1bqkb1r/pppp1ppp/2n2n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 1 4": {
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nc6",
-    "name": "Russian Game: Stafford Gambit"
+    "name": "Petrov's Defense: Stafford Gambit"
   },
   "r1bqkb1r/ppp2ppp/2p2n2/8/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 5": {
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nc6 4. Nxc6 dxc6",
-    "name": "Russian Game: Stafford Gambit"
+    "name": "Petrov's Defense: Stafford Gambit"
   },
   "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3": {
     "src": "eco_tsv",
     "eco": "C42",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. Nc3",
-    "name": "Russian Game: Three Knights Game",
+    "name": "Petrov's Defense: Three Knights Game",
     "scid": "C42c",
     "aliases": {
       "scid": "Russian-Three Knights Game"
@@ -9980,7 +9980,7 @@
     "src": "eco_tsv",
     "eco": "C43",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. d4",
-    "name": "Russian Game: Modern Attack",
+    "name": "Petrov's Defense: Modern Attack",
     "scid": "C43a",
     "aliases": {
       "scid": "Russian Game: Modern (Steinitz) Attack"
@@ -9990,7 +9990,7 @@
     "src": "eco_tsv",
     "eco": "C43",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. d4 exd4",
-    "name": "Russian Game: Modern Attack",
+    "name": "Petrov's Defense: Modern Attack",
     "scid": "C43b",
     "aliases": {
       "eco_js": "Petrov: Modern Attack"
@@ -10129,14 +10129,14 @@
     "src": "eco_tsv",
     "eco": "C43",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qe2 Nc5 6. Nxd4 Nc6",
-    "name": "Russian Game: Modern Attack, Bardeleben Variation",
+    "name": "Petrov's Defense: Modern Attack, Bardeleben Variation",
     "scid": "C43c"
   },
   "rnbqkb1r/pppp1ppp/8/4P3/3Qn3/5N2/PPP2PPP/RNB1KB1R b KQkq - 0 5": {
     "src": "eco_tsv",
     "eco": "C43",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4",
-    "name": "Russian Game: Modern Attack, Center Attack",
+    "name": "Petrov's Defense: Modern Attack, Center Attack",
     "scid": "C43d",
     "aliases": {
       "scid": "Russian Game: Modern Attack, 3...exd4, Main Line"
@@ -10147,7 +10147,7 @@
     "src": "eco_tsv",
     "eco": "C43",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3",
-    "name": "Russian Game: Modern Attack, Center Variation",
+    "name": "Petrov's Defense: Modern Attack, Center Variation",
     "scid": "C43g",
     "aliases": {
       "scid": "Russian Game: Modern Attack, 3...Nxe4 4.Bd3"
@@ -10157,7 +10157,7 @@
     "src": "eco_tsv",
     "eco": "C43",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 Nc6",
-    "name": "Russian Game: Modern Attack, Murrey Variation",
+    "name": "Petrov's Defense: Modern Attack, Murrey Variation",
     "scid": "C43g",
     "aliases": {
       "scid": "Russian Game: Modern Attack, 3...Nxe4 4.Bd3 Nc6"
@@ -10174,27 +10174,27 @@
     "src": "eco_tsv",
     "eco": "C43",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qe2",
-    "name": "Russian Game: Modern Attack, Steinitz Variation",
+    "name": "Petrov's Defense: Modern Attack, Steinitz Variation",
     "scid": "C43c"
   },
   "rnbqkb1r/ppp2ppp/5n2/3pp3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4": {
     "src": "eco_tsv",
     "eco": "C43",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. d4 d5",
-    "name": "Russian Game: Modern Attack, Symmetrical Variation"
+    "name": "Petrov's Defense: Modern Attack, Symmetrical Variation"
   },
   "rnbqkb1r/pppp1ppp/8/1B2P3/3pn3/5N2/PPP2PPP/RNBQK2R b KQkq - 2 5": {
     "src": "eco_tsv",
     "eco": "C43",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Bb5",
-    "name": "Russian Game: Modern Attack, Tal Gambit",
+    "name": "Petrov's Defense: Modern Attack, Tal Gambit",
     "scid": "C43c"
   },
   "rnbq1rk1/ppp2ppp/8/3pb3/2PPn3/3B4/PP3PPP/RNBQ1RK1 w - - 0 8": {
     "src": "eco_tsv",
     "eco": "C43",
     "moves": "1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. c4 Bxe5",
-    "name": "Russian Game: Modern Attack, Trifunovic Variation",
+    "name": "Petrov's Defense: Modern Attack, Trifunovic Variation",
     "scid": "C43n"
   },
   "r1bqkb1r/pppp1ppp/2n2n2/4N3/2P1P3/8/PP1P1PPP/RNBQKB1R b KQkq - 0 4": {
@@ -13194,7 +13194,7 @@
     "src": "eco_tsv",
     "eco": "C53",
     "moves": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7 5. d4 Bb6 6. d5 Nb8 7. d6",
-    "name": "Italian Game: Giuoco Piano, Eisinger Variation",
+    "name": "Italian Game: Classical Variation, Eisinger Variation",
     "scid": "C53",
     "aliases": {
       "scid": "Giuoco Piano: Eisinger Variation"
@@ -13202,9 +13202,9 @@
   },
   "r1bqk2r/pppp1ppp/2n5/2bBP3/8/2p2NK1/PP4PP/RNBQ3R b kq - 1 9": {
     "src": "eco_tsv",
-    "eco": "C53",
+    "eco": "C54",
     "moves": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 Ne4 7. Bd5 Nxf2 8. Kxf2 dxc3+ 9. Kg3",
-    "name": "Italian Game: Giuoco Piano, Ghulam-Kassim Variation",
+    "name": "Italian Game: Classical Variation, Ghulam-Kassim Variation",
     "scid": "C54k",
     "aliases": {
       "scid": "Giuoco Piano: Ghulam Kassim Variation"
@@ -13214,7 +13214,7 @@
     "src": "eco_tsv",
     "eco": "C53",
     "moves": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7 5. d4 Bb6 6. Bg5",
-    "name": "Italian Game: Giuoco Piano, Mestel Variation",
+    "name": "Italian Game: Classical Variation, Mestel Variation",
     "scid": "C53",
     "aliases": {
       "scid": "Giuoco Piano: Mestel Variation"
@@ -13421,7 +13421,7 @@
     "src": "eco_tsv",
     "eco": "C55",
     "moves": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Bc5 5. d4 Bxd4 6. Nxd4 Nxd4 7. Bg5 d6",
-    "name": "Italian Game: Giuoco Piano"
+    "name": "Italian Game: Two Knights Defense"
   },
   "r1b1k2r/ppp1qppp/5n2/4p1B1/2BnP3/2N5/PPP3PP/R2Q1RK1 b kq - 1 10": {
     "src": "eco_tsv",
@@ -14261,7 +14261,7 @@
     "src": "eco_tsv",
     "eco": "C58",
     "moves": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8. Qf3",
-    "name": "Italian Game: Two Knights Defense, Polerio Defense, Bogoljubov Variation",
+    "name": "Italian Game: Two Knights Defense, Polerio Defense, Bogoljubow Variation",
     "scid": "C58f",
     "aliases": {
       "scid": "Two Knights: Morphy, Bogoljubow Variation"
@@ -19099,7 +19099,7 @@
     "src": "eco_tsv",
     "eco": "C91",
     "moves": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. d4 Bg4",
-    "name": "Ruy Lopez: Closed, Bogoljubov Variation",
+    "name": "Ruy Lopez: Closed, Bogoljubow Variation",
     "scid": "C91b",
     "aliases": {
       "scid": "Spanish: Closed, Bogoljubow Variation",

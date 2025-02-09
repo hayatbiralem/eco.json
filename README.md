@@ -1,5 +1,5 @@
 # eco.json
-version 3.1.2
+version 3.2.0
 
 <span style="color: powderblue">Now at 12,055 named opening variations</span>
 

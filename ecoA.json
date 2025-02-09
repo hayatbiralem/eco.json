@@ -20,7 +20,7 @@
     "src": "eco_tsv",
     "eco": "A00",
     "moves": "1. Nh3 d5 2. g3 e5 3. f4 Bxh3 4. Bxh3 exf4 5. O-O fxg3 6. hxg3",
-    "name": "Amar Opening: Gent Gambit"
+    "name": "Amar Opening: Paris Gambit, Gent Gambit"
   },
   "rnbqkbnr/ppp2ppp/8/3pp3/5P2/6PN/PPPPP2P/RNBQKB1R b KQkq - 0 3": {
     "src": "eco_tsv",
@@ -161,7 +161,7 @@
     "src": "eco_tsv",
     "eco": "A00",
     "moves": "1. a4 e5 2. h4",
-    "name": "Crab Opening",
+    "name": "Ware Opening: Crab Variation",
     "aliases": {
       "eco_wikip": "Irregular Openings: Ware Opening, Crab Variation"
     }
@@ -1351,7 +1351,7 @@
     "src": "eco_tsv",
     "eco": "A00",
     "moves": "1. d3 c5 2. Nc3 Nc6 3. g3",
-    "name": "Venezolana Opening"
+    "name": "Mieses Opening: Venezolana Variation"
   },
   "rnbqkbnr/pppppppp/8/8/P7/8/1PPPPPPP/RNBQKBNR b KQkq - 0 1": {
     "src": "eco_tsv",
@@ -3498,7 +3498,7 @@
     "src": "eco_tsv",
     "eco": "A08",
     "moves": "1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. d4 e6 5. O-O",
-    "name": "Zukertort Opening: Grünfeld Reversed",
+    "name": "Zukertort Opening: Reversed Grünfeld",
     "aliases": {
       "eco_js": "Zukertort Opening: Gruenfeld Reversed"
     }
@@ -4441,7 +4441,7 @@
     "src": "eco_tsv",
     "eco": "A12",
     "moves": "1. Nf3 d5 2. c4 c6 3. b3",
-    "name": "Réti Opening: Anglo-Slav Variation, Bogoljubov Variation",
+    "name": "Réti Opening: Anglo-Slav Variation, Bogoljubow Variation",
     "scid": "A12",
     "aliases": {
       "scid": "English: Caro-Kann Defence, 3.b3",
@@ -4453,7 +4453,7 @@
     "src": "eco_tsv",
     "eco": "A12",
     "moves": "1. Nf3 d5 2. c4 c6 3. b3 Bg4",
-    "name": "Réti Opening: Anglo-Slav Variation, Bogoljubov Variation",
+    "name": "Réti Opening: Anglo-Slav Variation, Bogoljubow Variation",
     "scid": "A12",
     "aliases": {
       "scid": "English: Bogoljubow Variation",
@@ -4465,7 +4465,7 @@
     "src": "eco_tsv",
     "eco": "A12",
     "moves": "1. Nf3 Nf6 2. c4 c6 3. b3 d5 4. Bb2",
-    "name": "Réti Opening: Anglo-Slav Variation, Bogoljubov Variation",
+    "name": "Réti Opening: Anglo-Slav Variation, Bogoljubow Variation",
     "aliases": {
       "eco_js": "Reti Opening: Anglo-Slav Variation, Bogoljubov Variation, 3. b3 d5 4. Bb2"
     }
@@ -4902,7 +4902,7 @@
     "src": "eco_tsv",
     "eco": "A14",
     "moves": "1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. b3 c6 7. Bb2",
-    "name": "Réti Opening: Anglo-Slav Variation, Bogoljubov Variation, Stonewall Line",
+    "name": "Réti Opening: Anglo-Slav Variation, Bogoljubow Variation, Stonewall Line",
     "aliases": {
       "eco_js": "Reti Opening: Anglo-Slav Variation, Bogoljubov Variation, Stonewall Line"
     }
@@ -8319,7 +8319,7 @@
     "src": "eco_tsv",
     "eco": "A36",
     "moves": "1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6",
-    "name": "English Opening: Symmetrical Variation, Symmetrical Variation"
+    "name": "English Opening: Symmetrical Variation, Ultra-Symmetrical Variation"
   },
   "r1bqkbnr/pp1ppppp/2n5/2p5/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3": {
     "src": "eco_tsv",
@@ -9170,13 +9170,13 @@
     "src": "eco_tsv",
     "eco": "A40",
     "moves": "1. d4 e5 2. d5",
-    "name": "Englund Gambit Complex Declined"
+    "name": "Englund Gambit Declined"
   },
   "rnb1k1nr/pppp1ppp/8/2bPp3/4P2q/8/PPP2PPP/RNBQKBNR w KQkq - 1 4": {
     "src": "eco_tsv",
     "eco": "A40",
     "moves": "1. d4 e5 2. d5 Bc5 3. e4 Qh4",
-    "name": "Englund Gambit Complex Declined: Diemer Counterattack",
+    "name": "Englund Gambit Declined: Diemer Counterattack",
     "aliases": {
       "eco_js": "Englund Gambit Complex Declined, Diemer Counterattack"
     }
@@ -9185,7 +9185,7 @@
     "src": "eco_tsv",
     "eco": "A40",
     "moves": "1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7",
-    "name": "Englund Gambit Complex: Englund Gambit",
+    "name": "Englund Gambit: Main Line",
     "scid": "A40i",
     "aliases": {
       "scid": "Englund Gambit: 2.dxe5 Nc6 3.Nf3 Qe7"
@@ -9195,13 +9195,13 @@
     "src": "eco_tsv",
     "eco": "A40",
     "moves": "1. d4 e5 2. dxe5 Nc6 3. Nf3 Bc5",
-    "name": "Englund Gambit Complex: Felbecker Gambit"
+    "name": "Englund Gambit: Felbecker Gambit"
   },
   "rnbqkbnr/ppp2ppp/3p4/4P3/8/8/PPP1PPPP/RNBQKBNR w KQkq - 0 3": {
     "src": "eco_tsv",
     "eco": "A40",
     "moves": "1. d4 e5 2. dxe5 d6",
-    "name": "Englund Gambit Complex: Hartlaub-Charlick Gambit",
+    "name": "Englund Gambit: Hartlaub-Charlick Gambit",
     "scid": "A40i",
     "aliases": {
       "scid": "Englund Gambit: Hartlaub"
@@ -9211,13 +9211,13 @@
     "src": "eco_tsv",
     "eco": "A40",
     "moves": "1. d4 e5 2. dxe5 Qh4",
-    "name": "Englund Gambit Complex: Mosquito Gambit"
+    "name": "Englund Gambit: Mosquito Gambit"
   },
   "rnbqkbnr/pppp2pp/5p2/4P3/8/8/PPP1PPPP/RNBQKBNR w KQkq - 0 3": {
     "src": "eco_tsv",
     "eco": "A40",
     "moves": "1. d4 e5 2. dxe5 f6",
-    "name": "Englund Gambit Complex: Soller Gambit",
+    "name": "Englund Gambit: Soller Gambit",
     "scid": "A40i",
     "aliases": {
       "scid": "Englund Gambit: Soller"
@@ -9227,7 +9227,7 @@
     "src": "eco_tsv",
     "eco": "A40",
     "moves": "1. d4 e5 2. dxe5 Nc6 3. Nf3 f6",
-    "name": "Englund Gambit Complex: Soller Gambit Deferred",
+    "name": "Englund Gambit: Soller Gambit Deferred",
     "scid": "A40i",
     "aliases": {
       "scid": "Englund Gambit: Soller Deferred"
@@ -9237,13 +9237,13 @@
     "src": "eco_tsv",
     "eco": "A40",
     "moves": "1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Qd5",
-    "name": "Englund Gambit Complex: Stockholm Variation"
+    "name": "Englund Gambit: Stockholm Variation"
   },
   "r1bqkb1r/ppppnppp/2n5/4P3/8/5N2/PPP1PPPP/RNBQKB1R w KQkq - 3 4": {
     "src": "eco_tsv",
     "eco": "A40",
     "moves": "1. d4 e5 2. dxe5 Nc6 3. Nf3 Nge7",
-    "name": "Englund Gambit Complex: Zilbermints Gambit",
+    "name": "Englund Gambit: Zilbermints Gambit",
     "scid": "A40i",
     "aliases": {
       "scid": "Englund Gambit: Zilbermints",
@@ -13554,7 +13554,7 @@
     "src": "eco_tsv",
     "eco": "A54",
     "moves": "1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. e3 Nbd7 5. Bd3",
-    "name": "Old Indian Defense: Dus-Khotimirsky Variation",
+    "name": "Old Indian Defense: Duz-Khotimirsky Variation",
     "scid": "A53",
     "aliases": {
       "scid": "Old Indian: Dus-Khotimirsky"
@@ -16326,7 +16326,7 @@
     "src": "eco_tsv",
     "eco": "A72",
     "moves": "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O",
-    "name": "Benoni Defense: Classical",
+    "name": "Benoni Defense: Classical Variation",
     "scid": "A72",
     "aliases": {
       "scid": "Benoni: Classical, 8.Be2 O-O",
@@ -17175,7 +17175,7 @@
     "src": "eco_tsv",
     "eco": "A81",
     "moves": "1. d4 f5 2. g3 g6 3. Bg2 Bg7 4. Nh3",
-    "name": "Dutch Defense: Leningrad Variation, Karlsbad Variation",
+    "name": "Dutch Defense: Leningrad Variation, Carlsbad Variation",
     "scid": "A81",
     "aliases": {
       "scid": "Dutch: Leningrad, Carlsbad Variation"
