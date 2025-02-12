@@ -1,10 +1,14 @@
 # eco.json
 version 3.2.0
 
-<span style="color: powderblue">Now at 12,055 named opening variations</span>
+<span style="color: powderblue">There are over 12k named opening variations</span>
 
-## changes: added opening information scraped from wikibooks (see below)
+## changes: updated lichess opening data (eco_tsv)
 * this changes both eco_interpolated.json and fromTo.json content
+* Some of the new lichess opening information has both name changes and move sequence changes
+  * since the lichess opening book isn't based on FEN ids, old eco_tsv move sequences (along with their old names) may still be found in eco.json, in addition to the new opening info
+  * the newer data will have a month/year "added" timestamp field to distinguish them from older eco_tsv openings
+  * the old data is still valid (though perhaps misnamed), and can be regarded as [opening transitions](https://medium.com/@jefflowery/navigating-chess-openings-part-1-8d779aee0965).
 
 ## breaking changes from version 2.*
   <p>The format of `eco*.json` files has been changed from JSON arrays to JSON objects (keyed by FEN). This is consistent with eco_interpolated.json
@@ -14,9 +18,9 @@ version 3.2.0
 # Encyclopedia of Chess Openings (ECO) data.
 
 This data is a collation of several chess opening databases, identified as follows:
-* <span style='color:green'>__eco_tsv__</span>: Source: [eco](https://github.com/niklasf/eco). This is the authoritive database, which [supplants](https://www.google.com/search?q=supplants) conflicts with the databases listed below (such as move order or ECO code).
+* <span style='color:green'>__eco_tsv__</span>: Source: [lichess](https://github.com/lichess-org/chess-openings). This is the authoritive database, which [supplants](https://www.google.com/search?q=supplants) conflicts with the databases listed below (such as move order or ECO code).
 * <span style='color:green'>__eco_js__</span>: The original eco.json data from several years ago, which contains some openings not in __eco_tsv__
-* <span style='color:green'>__scid__</span>: An database that's part of a [sourceforge project](https://scid.sourceforge.net/), pulled via Waterford Chess Club's [website](https://watfordchessclub.org/images/downloads/scid.eco). SCID codes extend ECO, and opening names vary.
+* <span style='color:green'>__scid__</span>: A database that's part of a [sourceforge project](https://scid.sourceforge.net/), pulled via Waterford Chess Club's [website](https://watfordchessclub.org/images/downloads/scid.eco). SCID codes extend ECO, and opening names vary.
 * <span style='color:green'>__eco_wikip__</span>: Opening data from the Wikipedia page at https://en.wikipedia.org/wiki/List_of_chess_openings (Aug. 2024)
 * <span style='color:green'>__wiki_b__</span>: Opening data from the Wikibooks pages at https://en.wikibooks.org/wiki/Chess_Opening_Theory (Nov. 2024)
 
