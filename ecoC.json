@@ -2252,7 +2252,7 @@
         "src": "eco_tsv",
         "eco": "C10",
         "moves": "1. e4 c5 2. Nc3 e6 3. d4 d5",
-        "name": "Sicilian Defense: Marshall Gambit",
+        "name": "French Defense: Marshall Gambit",
         "scid": "C10b",
         "aliases": {
             "scid": "French: Marshall Variation"
