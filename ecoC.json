@@ -2255,7 +2255,8 @@
         "name": "French Defense: Marshall Gambit",
         "scid": "C10b",
         "aliases": {
-            "scid": "French: Marshall Variation"
+            "scid": "French: Marshall Variation",
+            "eco_wikip": "Sicilian Defense: Marshall Counterattack"
         }
     },
     "rnbqkb1r/ppp2ppp/4pn2/3p2B1/3PP3/2N5/PPP2PPP/R2QKBNR b KQkq - 3 4": {
