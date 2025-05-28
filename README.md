@@ -19,7 +19,7 @@ This data is a collation of several chess opening databases, identified as follo
 * <span style='color:green'>__scid__</span>: A database that's part of a [sourceforge project](https://scid.sourceforge.net/), pulled via Waterford Chess Club's [website](https://watfordchessclub.org/images/downloads/scid.eco). SCID codes extend ECO, and opening names vary.
 * <span style='color:green'>__eco_wikip__</span>: Opening data from the Wikipedia page at https://en.wikipedia.org/wiki/List_of_chess_openings (Aug. 2024)
 * <span style='color:green'>__wiki_b__</span>: Opening data from the Wikibooks pages at https://en.wikibooks.org/wiki/Chess_Opening_Theory (Nov. 2024)
-* <span style='color:green'>__wiki_b__</span>: Opening data from the Wikipedia List of Chess Gambits at https://en.wikipedia.org/wiki/List_of_chess_gambits (May. 2025)
+* <span style='color:green'>__eco_wikip.g__</span>: Opening data from the Wikipedia List of Chess Gambits at https://en.wikipedia.org/wiki/List_of_chess_gambits (May. 2025)
 
 There is a JSON file for each of the ECO categories A, B, C, D, & E; e.g. <span style="color:orange">ecoB.json</span>. 
 
