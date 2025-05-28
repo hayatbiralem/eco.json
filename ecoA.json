@@ -2561,7 +2561,8 @@
         "name": "Zukertort Opening: Lisitsyn Gambit Deferred",
         "scid": "A04",
         "aliases": {
-            "scid": "Reti: Lisitsin Deferred"
+            "scid": "Reti: Lisitsin Deferred",
+            "eco_wikip.g": "Deferred Lisitsyn Gambit"
         }
     },
     "rnbqkbnr/ppp1pppp/3p4/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2": {
@@ -3847,7 +3848,8 @@
         "moves": "1. c4 d5 2. cxd5 e6",
         "name": "English Opening: Anglo-Scandinavian Defense, Löhn Gambit",
         "aliases": {
-            "eco_js": "English Opening: Anglo-Scandinavian Defense, Loehn Gambit"
+            "eco_js": "English Opening: Anglo-Scandinavian Defense, Loehn Gambit",
+            "eco_wikip.g": "Loehn Gambit"
         }
     },
     "rnb1kbnr/ppp1pppp/8/q7/8/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 4": {
@@ -14345,7 +14347,8 @@
         "moves": "1. d4 Nf6 2. c4 c5 3. d5 b5 4. e4",
         "name": "Benko Gambit Declined: Hjørring Countergambit",
         "aliases": {
-            "eco_js": "Benko Gambit Declined, Hjoerring Countergambit"
+            "eco_js": "Benko Gambit Declined, Hjoerring Countergambit",
+            "eco_wikip.g": "Hjoerring Countergambit"
         }
     },
     "rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 4": {
@@ -20060,5 +20063,23 @@
         "moves": "1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 Bg7 5. Qd2",
         "name": "Queen's Pawn Game: Barry Attack, Tarzan Attack",
         "added": "Feb 2025"
+    },
+    "rnbqkb1r/pppppppp/5n2/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 2 2": {
+        "name": "John Tracy Gambit",
+        "eco": "A04",
+        "moves": "1.e4 Nf6 2.Nf3",
+        "src": "eco_wikip.g"
+    },
+    "rnbqkb1r/4pppp/3p1n2/1NpP4/1p2P3/8/PP3PPP/R1BQKBNR w KQkq - 0 8": {
+        "name": "Benko Gambit: Zaitsev Variation, Nescafe Frappe Attack",
+        "moves": "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6",
+        "src": "eco_wikip.g",
+        "eco": "A57"
+    },
+    "rnbqkbnr/ppp1pppp/8/8/4pP2/3P4/PPP3PP/RNBQKBNR b KQkq - 0 3": {
+        "name": "Prokofiev Gambit",
+        "eco": "A03",
+        "moves": "1.f4 d5 2.e4 dxe4 3.d3",
+        "src": "eco_wikip.g"
     }
 }
