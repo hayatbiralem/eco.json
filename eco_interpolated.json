@@ -5379,13 +5379,6 @@
     "rootSrc": "scid",
     "eco": "A57"
   },
-  "rnbqkb1r/4pppp/3p1n2/1NpP4/1p2P3/8/PP3PPP/R1BQKBNR w KQkq - 0 8": {
-    "name": "Benko Gambit: Zaitsev Variation, Nescafe Frappe Attack",
-    "moves": "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6",
-    "src": "interpolated",
-    "rootSrc": "eco_tsv",
-    "eco": "A57"
-  },
   "rnbqkb1r/3ppppp/5n2/1ppP4/4P3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 6": {
     "name": "Benko Gambit: Zaitsev, 5...axb5",
     "moves": "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4",
@@ -14862,17 +14855,6 @@
       "eco_js": "King's Gambit Accepted: Soerensen Gambit"
     }
   },
-  "rnbqkbnr/pppp1p1p/8/8/3PPpp1/5N2/PPP3PP/RNBQKB1R w KQkq - 0 5": {
-    "name": "King's Gambit Accepted: Rosentreter Gambit",
-    "moves": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. d4 g4",
-    "src": "interpolated",
-    "rootSrc": "eco_tsv",
-    "eco": "C37",
-    "aliases": {
-      "scid": "KGA: Rosentreter Gambit",
-      "eco_js": "King's Gambit Accepted, Rosentreter Gambit"
-    }
-  },
   "rnb1kb1r/pppp1p1p/7n/4N3/2BPPppq/8/PPP3PP/RNBQ1K1R b kq - 0 7": {
     "name": "King's Gambit Accepted: Salvio Gambit, Silberschmidt Defense",
     "moves": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 Qh4+ 6. Kf1 Nh6 7. d4",
@@ -14917,17 +14899,6 @@
   "rnbqk1nr/pppp1pb1/7p/6p1/2BPPp1P/5N2/PPP3P1/RNBQK2R b KQkq - 0 6": {
     "name": "King's Gambit Accepted: Philidor Gambit",
     "moves": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 h6 6. d4",
-    "src": "interpolated",
-    "rootSrc": "eco_tsv",
-    "eco": "C38",
-    "aliases": {
-      "scid": "KGA: Philidor Gambit",
-      "eco_js": "King's Gambit Accepted, Philidor Gambit"
-    }
-  },
-  "rnbqk1nr/ppp2pb1/3p3p/6p1/2BPPp1P/5N2/PPP3P1/RNBQK2R w KQkq - 0 7": {
-    "name": "King's Gambit Accepted: Philidor Gambit",
-    "moves": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 h6 6. d4 d6",
     "src": "interpolated",
     "rootSrc": "eco_tsv",
     "eco": "C38",
@@ -26875,5 +26846,68 @@
     "aliases": {
       "scid": "Nimzo-Indian: Nimzowitsch, 5.Ne2"
     }
+  },
+  "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/5N2/PP3PPP/RNBQKB1R b KQkq - 1 5": {
+    "name": "Alekhine's Defence, Chase Variation",
+    "eco": "B02",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. Nf3",
+    "rootSrc": "wiki_b",
+    "src": "interpolated"
+  },
+  "rn1qkb1r/ppp1pppp/1n1p4/4P3/2PP2b1/5N2/PP3PPP/RNBQKB1R w KQkq - 2 6": {
+    "name": "Alekhine's Defence, Chase Variation",
+    "eco": "B02",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. Nf3 Bg4",
+    "rootSrc": "wiki_b",
+    "src": "interpolated"
+  },
+  "rn1qkb1r/ppp1pppp/1n1p4/4P3/2PP2b1/5N2/PP2BPPP/RNBQK2R b KQkq - 3 6": {
+    "name": "Alekhine's Defence, Chase Variation",
+    "eco": "B02",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. Nf3 Bg4 6. Be2",
+    "rootSrc": "wiki_b",
+    "src": "interpolated"
+  },
+  "rn1qkb1r/ppp1pppp/1n6/4p3/2PP2b1/5N2/PP2BPPP/RNBQK2R w KQkq - 0 7": {
+    "name": "Alekhine's Defence, Chase Variation",
+    "eco": "B02",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. Nf3 Bg4 6. Be2 dxe5",
+    "src": "interpolated",
+    "rootSrc": "wiki_b"
+  },
+  "rnbqk1nr/ppp2ppp/3p4/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4": {
+    "name": "Alekhine's Defence, Chase Variation",
+    "eco": "C23",
+    "moves": "1. e4 e5 2. Bc4 Bc5 3. Nf3 d6",
+    "rootSrc": "wiki_b",
+    "src": "interpolated"
+  },
+  "rnbqk1nr/ppp2ppp/3p4/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R b KQkq - 0 4": {
+    "name": "Alekhine's Defence, Chase Variation",
+    "eco": "C23",
+    "moves": "1. e4 e5 2. Bc4 Bc5 3. Nf3 d6 4. c3",
+    "rootSrc": "wiki_b",
+    "src": "interpolated"
+  },
+  "rnb1k1nr/ppp1qppp/3p4/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R w KQkq - 1 5": {
+    "name": "Alekhine's Defence, Chase Variation",
+    "eco": "C23",
+    "moves": "1. e4 e5 2. Bc4 Bc5 3. Nf3 d6 4. c3 Qe7",
+    "src": "interpolated",
+    "rootSrc": "wiki_b"
+  },
+  "rnb1kb1r/ppp1pppp/5n2/8/3q4/2N2Q2/PPP3PP/R1B1KBNR w KQkq - 0 6": {
+    "name": "Alekhine's Defence, Chase Variation",
+    "eco": "D00",
+    "moves": "1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4",
+    "rootSrc": "wiki_b",
+    "src": "interpolated"
+  },
+  "rnb1kb1r/ppp1pppp/5n2/8/3q4/2N1BQ2/PPP3PP/R3KBNR b KQkq - 1 6": {
+    "name": "Alekhine's Defence, Chase Variation",
+    "eco": "D00",
+    "moves": "1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3",
+    "src": "interpolated",
+    "rootSrc": "wiki_b"
   }
 }

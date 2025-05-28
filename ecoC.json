@@ -864,7 +864,8 @@
         "name": "French Defense: Advance Variation, Nimzowitsch Attack",
         "scid": "C02e",
         "aliases": {
-            "scid": "French: Advance, Nimzowitsch Attack"
+            "scid": "French: Advance, Nimzowitsch Attack",
+            "eco_wikip.g": "Nimzowitsch Gambit"
         }
     },
     "rnbqkbnr/pp3ppp/4p3/3pP3/3p2Q1/5N2/PPP2PPP/RNB1KB1R b KQkq - 1 5": {
@@ -4723,7 +4724,10 @@
         "eco": "C23",
         "moves": "1. e4 e5 2. Bc4 f5",
         "name": "Bishop's Opening: Calabrese Countergambit",
-        "scid": "C23"
+        "scid": "C23",
+        "aliases": {
+            "eco_wikip.g": "Calabrian Countergambit"
+        }
     },
     "rnbqkbnr/pppp2pp/8/4pp2/2B1P3/3P4/PPP2PPP/RNBQK1NR b KQkq - 0 3": {
         "src": "eco_tsv",
@@ -6541,7 +6545,8 @@
         "moves": "1. e4 e5 2. f4 Nc6 3. Nf3 g5",
         "name": "King's Gambit Declined: Zilbermints Double Gambit",
         "aliases": {
-            "eco_js": "King's Gambit Declined, Zilbermints Double Gambit"
+            "eco_js": "King's Gambit Declined, Zilbermints Double Gambit",
+            "eco_wikip.g": "Zilbermints Double Gambit I"
         }
     },
     "rnbqkbnr/ppp2ppp/3p4/4p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3": {
@@ -7289,7 +7294,8 @@
         "moves": "1. e4 e5 2. f4 exf4 3. g3",
         "name": "King's Gambit Accepted: Gaga Gambit",
         "aliases": {
-            "eco_js": "King's Gambit Accepted, Gaga Gambit"
+            "eco_js": "King's Gambit Accepted, Gaga Gambit",
+            "eco_wikip.g": "Gama Gambit"
         }
     },
     "rnbk1bnr/pppp2pp/8/8/2B1pp1q/2N5/PPPPQ1PP/R1BK2NR w - - 2 7": {
@@ -7352,7 +7358,8 @@
         "moves": "1. e4 e5 2. f4 exf4 3. Bb5",
         "name": "King's Gambit Accepted: Schurig Gambit, with Bb5",
         "aliases": {
-            "eco_js": "King's Gambit Accepted, Schurig Gambit"
+            "eco_js": "King's Gambit Accepted, Schurig Gambit",
+            "eco_wikip.g": "Schurig Gambit"
         }
     },
     "rnbqkbnr/pppp1ppp/8/8/4Pp2/3B4/PPPP2PP/RNBQK1NR b KQkq - 1 3": {
@@ -7784,7 +7791,8 @@
         "name": "King's Gambit Accepted: Ghulam-Kassim Gambit",
         "scid": "C37",
         "aliases": {
-            "scid": "KGA: Ghulam-Kassim Gambit"
+            "scid": "KGA: Ghulam-Kassim Gambit",
+            "eco_wikip.g": "Ghulam Kassim Gambit"
         }
     },
     "rnbqkbnr/pppp1p1p/8/8/2BPPp2/5Q2/PPP3PP/RNB1K2R b KQkq - 0 6": {
@@ -22596,5 +22604,37 @@
         "moves": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 d5",
         "name": "Ruy Lopez: Closed, Chigorin Defense, Gajewski Gambit",
         "added": "Feb 2025"
+    },
+    "rnb1k1nr/ppp1qppp/3p4/2b1p3/2BPP3/2P2N2/PP3PPP/RNBQK2R b KQkq - 0 5": {
+        "name": "Petroff Gambit",
+        "eco": "C23",
+        "moves": "1.e4 e5 2.Bc4 Bc5 3.Nf3 d6 4.c3 Qe7 5.d4",
+        "src": "eco_wikip.g"
+    },
+    "rnbqkbnr/pppp1p1p/8/8/3PPpp1/5N2/PPP3PP/RNBQKB1R w KQkq - 0 5": {
+        "name": "King's Gambit Accepted: Rosentreter Gambit",
+        "moves": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. d4 g4",
+        "src": "eco_wikip.g",
+        "eco": "C37",
+        "aliases": {
+            "scid": "KGA: Rosentreter Gambit",
+            "eco_js": "King's Gambit Accepted, Rosentreter Gambit"
+        }
+    },
+    "rnbqk1nr/ppp2pb1/3p3p/6p1/2BPPp1P/5N2/PPP3P1/RNBQK2R w KQkq - 0 7": {
+        "name": "King's Gambit Accepted: Philidor Gambit",
+        "moves": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 h6 6. d4 d6",
+        "src": "eco_wikip.g",
+        "eco": "C38",
+        "aliases": {
+            "scid": "KGA: Philidor Gambit",
+            "eco_js": "King's Gambit Accepted, Philidor Gambit"
+        }
+    },
+    "r1bqk2r/ppp2ppp/5n2/2bPp3/3n4/2N3P1/PPPPNPBP/R1BQK2R w KQkq - 1 7": {
+        "name": "Pollock Gambit",
+        "eco": "C25",
+        "moves": "1.e4 e5 2.Nc3 Nc6 3.g3 Nf6 4.Bg2 Bc5 5.Nge2 d5 6.exd5 Nd4",
+        "src": "eco_wikip.g"
     }
 }

@@ -5927,7 +5927,8 @@
         "name": "Caro-Kann Defense: von Hennig Gambit",
         "scid": "B15p",
         "aliases": {
-            "scid": "Caro-Kann: von Hennig Gambit"
+            "scid": "Caro-Kann: von Hennig Gambit",
+            "eco_wikip.g": "Von Hennig Gambit"
         }
     },
     "rnbqkb1r/pp2pppp/2p2n2/8/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5": {
@@ -9038,7 +9039,10 @@
         "src": "eco_tsv",
         "eco": "B28",
         "moves": "1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Bc4",
-        "name": "Sicilian Defense: O'Kelly Variation, Normal System, Cortlever Gambit"
+        "name": "Sicilian Defense: O'Kelly Variation, Normal System, Cortlever Gambit",
+        "aliases": {
+            "eco_wikip.g": "Coles Sicilian Gambit"
+        }
     },
     "rnbqkbnr/1p1ppppp/p7/8/3pP3/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 4": {
         "src": "eco_tsv",
@@ -11266,7 +11270,8 @@
         "name": "Sicilian Defense: Marshall Counterattack",
         "scid": "B40j",
         "aliases": {
-            "scid": "Sicilian: Marshall Variation"
+            "scid": "Sicilian: Marshall Variation",
+            "eco_wikip.g": "Marshall Gambit"
         }
     },
     "rnbqk1nr/pp1p1ppp/4p3/2b5/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5": {
@@ -20212,5 +20217,17 @@
         "moves": "1. e4 c5 2. Nf3 Nf6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 a6 6. Be2 e5 7. Nb3 Be6 8. Be3",
         "name": "Sicilian Defense: Najdorf Variation, Opocensky Variation",
         "added": "Feb 2025"
+    },
+    "rn1qkb1r/ppp1pppp/1n6/4N3/2PP2b1/8/PP2BPPP/RNBQK2R b KQkq - 0 7": {
+        "name": "Alekhine Gambit",
+        "eco": "B02",
+        "moves": "1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.d4 d6 5.Nf3 Bg4 6.Be2 dxe5 7.Nxe5",
+        "src": "eco_wikip.g"
+    },
+    "rnbqkb1r/pppppppp/4P3/3n4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 3": {
+        "name": "Buntin Gambit",
+        "eco": "B02",
+        "moves": "1.e4 Nf6 2.e5 Nd5 3.e6",
+        "src": "eco_wikip.g"
     }
 }
