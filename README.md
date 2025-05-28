@@ -1,14 +1,10 @@
 # eco.json
-version 3.2.0
+version 3.3.0
 
 <span style="color: powderblue">There are over 12k named opening variations</span>
 
 ## changes: updated lichess opening data (eco_tsv)
-* this changes both eco_interpolated.json and fromTo.json content
-* Some of the new lichess opening information has both name changes and move sequence changes
-  * since the lichess opening book isn't based on FEN ids, old eco_tsv move sequences (along with their old names) may still be found in eco.json, in addition to the new opening info
-  * the newer data will have a month/year "added" timestamp field to distinguish them from older eco_tsv openings
-  * the old data is still valid (though perhaps misnamed), and can be regarded as [opening transitions](https://medium.com/@jefflowery/navigating-chess-openings-part-1-8d779aee0965).
+Added data from [Wikipedia chess gambits page](https://en.wikipedia.org/wiki/List_of_chess_gambits). The merge data was generated from the new daughter project [eco.json.tooling](https://github.com/JeffML/eco.json.tooling), which is intended to allow easy generation of pull requests from data parsed from web sites, JSON downloads, etc.
 
 ## breaking changes from version 2.*
   <p>The format of `eco*.json` files has been changed from JSON arrays to JSON objects (keyed by FEN). This is consistent with eco_interpolated.json
@@ -23,6 +19,7 @@ This data is a collation of several chess opening databases, identified as follo
 * <span style='color:green'>__scid__</span>: A database that's part of a [sourceforge project](https://scid.sourceforge.net/), pulled via Waterford Chess Club's [website](https://watfordchessclub.org/images/downloads/scid.eco). SCID codes extend ECO, and opening names vary.
 * <span style='color:green'>__eco_wikip__</span>: Opening data from the Wikipedia page at https://en.wikipedia.org/wiki/List_of_chess_openings (Aug. 2024)
 * <span style='color:green'>__wiki_b__</span>: Opening data from the Wikibooks pages at https://en.wikibooks.org/wiki/Chess_Opening_Theory (Nov. 2024)
+* <span style='color:green'>__wiki_b__</span>: Opening data from the Wikipedia List of Chess Gambits at https://en.wikipedia.org/wiki/List_of_chess_gambits (May. 2025)
 
 There is a JSON file for each of the ECO categories A, B, C, D, & E; e.g. <span style="color:orange">ecoB.json</span>. 
 
@@ -123,6 +120,8 @@ One or more move sequences can lead to every opening position in eco*.json. Obve
 
 
 # The /tooling folder
+*NOTE*: It is recommended to use the [eco.json.tooling](https://github.com/JeffML/eco.json.tooling) project to generate pull request opening data. The files in this project's current /tooling folder will be incorporated there soon, making this a data-only project once again.
+
 The <span style="color:orange">/tooling</span> folder has scripts for manipulating the data in the JSON files. They have a node.js-compatible ".mjs" extension so that they can be run standalone from the command line. For example: 
 <p> <span style="color: violet">> node tooling/ecoConjoin.mjs</span>
 
