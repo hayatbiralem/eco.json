@@ -780,11 +780,14 @@
         "scid": "D00a"
     },
     "rnbqkb1r/ppp1pp1p/5np1/3p4/3P1B2/2N2N2/PPP1PPPP/R2QKB1R b KQkq - 1 4": {
-        "src": "scid",
+        "src": "eco_tsv",
         "eco": "D00",
         "moves": "1. d4 d5 2. Nc3 Nf6 3. Nf3 g6 4. Bf4",
-        "name": "Queen's Pawn: Anti-King's Indian",
-        "scid": "D00q"
+        "name": "Queen's Pawn Game: Barry Attack",
+        "scid": "D00q",
+        "aliases": {
+            "scid": "Queen's Pawn: Anti-King's Indian"
+        }
     },
     "rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 2 3": {
         "src": "scid",
@@ -5575,11 +5578,14 @@
         "scid": "D24b"
     },
     "rnbqkb1r/ppp2ppp/4pn2/8/2pPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 0 5": {
-        "src": "scid",
+        "src": "eco_tsv",
         "eco": "D24",
         "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 e6 5. e4",
-        "name": "QGA: 4.Nc3 e6 5.e4",
-        "scid": "D24b"
+        "name": "Queen's Gambit Accepted",
+        "scid": "D24b",
+        "aliases": {
+            "scid": "QGA: 4.Nc3 e6 5.e4"
+        }
     },
     "rnbqkb1r/ppp1pppp/8/3n4/2pP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 4 5": {
         "src": "scid",
@@ -16962,5 +16968,17 @@
         "eco": "D00",
         "moves": "1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Qxf3 Qxd4 6.Be3 Qg4",
         "src": "eco_wikip.g"
+    },
+    "r1bq1rk1/pp1n1ppp/2pbpn2/3p4/3P4/1P1BPN2/PBP2PPP/RN1Q1RK1 w - - 0 8": {
+        "name": "Rubinstein Opening: Semi-Slav Defense",
+        "eco": "D05",
+        "moves": "1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 Bd6 5. O-O O-O 6. b3 Nbd7 7. Bb2 c6",
+        "src": "eco_tsv"
+    },
+    "r1bq1rk1/pp1n1ppp/2pbpn2/3p4/3P4/1P1BPN2/PBPN1PPP/R2Q1RK1 b - - 1 8": {
+        "name": "Rubinstein Opening: Semi-Slav Defense",
+        "eco": "D05",
+        "moves": "1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 Bd6 5. O-O O-O 6. b3 Nbd7 7. Bb2 c6 8. Nbd2",
+        "src": "eco_tsv"
     }
 }

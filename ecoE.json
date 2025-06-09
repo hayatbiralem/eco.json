@@ -5695,11 +5695,14 @@
         }
     },
     "rnbqk2r/pp3ppp/4p3/2pp4/2PPn3/P7/1PQ1PPPP/R1B1KBNR w KQkq - 0 8": {
-        "src": "scid",
+        "src": "eco_tsv",
         "eco": "E37",
         "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5",
-        "name": "Nimzo-Indian: Classical, Noa, Main Line, 7.Qc2 c5",
-        "scid": "E37"
+        "name": "Nimzo-Indian Defense: Classical Variation, Modern Variation",
+        "scid": "E37",
+        "aliases": {
+            "scid": "Nimzo-Indian: Classical, Noa, Main Line, 7.Qc2 c5"
+        }
     },
     "r1bqk2r/pp3ppp/2n1p3/2Pp4/2P1n3/P7/1PQ1PPPP/R1B1KBNR w KQkq - 1 9": {
         "src": "scid",
@@ -5862,11 +5865,14 @@
         "scid": "E39j"
     },
     "rnbq1rk1/p2p1ppp/1p2pn2/2b5/2P5/P1N2N2/1PQ1PPPP/R1B1KB1R w KQ - 0 8": {
-        "src": "scid",
+        "src": "eco_tsv",
         "eco": "E39",
         "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 b6",
-        "name": "Nimzo-Indian: Classical, Pirc, 6.a3 Bxc5 7.Nf3 b6",
-        "scid": "E39l"
+        "name": "Nimzo-Indian Defense: Classical Variation, Berlin Variation, Macieja System",
+        "scid": "E39l",
+        "aliases": {
+            "scid": "Nimzo-Indian: Classical, Pirc, 6.a3 Bxc5 7.Nf3 b6"
+        }
     },
     "rnbq1rk1/p2p1ppp/1p2pn2/2b3B1/2P5/P1N2N2/1PQ1PPPP/R3KB1R b KQ - 1 8": {
         "src": "scid",
@@ -13297,5 +13303,17 @@
         "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 O-O 7. O-O d5",
         "name": "Nimzo-Indian Defense: Normal Variation, Schlechter Defense",
         "added": "Feb 2025"
+    },
+    "rnbqk2r/pppp1ppp/4pn2/8/1bPPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4": {
+        "name": "Nimzo-Indian Defense: Dilworth Gambit",
+        "eco": "E20",
+        "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e4",
+        "src": "eco_tsv"
+    },
+    "rnbqk2r/pp3ppp/4pn2/2pp4/2PP4/P1Q5/1P2PPPP/R1B1KBNR w KQkq - 0 7": {
+        "name": "Nimzo-Indian Defense: Classical Variation, Romanishin Gambit",
+        "eco": "E36",
+        "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 c5",
+        "src": "eco_tsv"
     }
 }
