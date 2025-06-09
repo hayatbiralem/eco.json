@@ -990,12 +990,13 @@
         }
     },
     "rnbqk1nr/pp3ppp/8/2ppp3/8/P2PP3/P1P2PPP/1RBQKBNR b Kkq - 1 5": {
-        "src": "eco_js",
+        "src": "eco_tsv",
         "eco": "A00",
         "moves": "1. Na3 e5 2. d3 Bxa3 3. bxa3 d5 4. e3 c5 5. Rb1",
         "name": "Sodium Attack: Celadon Variation",
         "aliases": {
-            "eco_wikip": "Irregular Openings: Sodium Attack, Celadon Variation"
+            "eco_wikip": "Irregular Openings: Sodium Attack, Celadon Variation",
+            "eco_js": "Sodium Attack: Celadon Variation"
         }
     },
     "rnbqkbnr/pppppp1p/6p1/8/6P1/N7/PPPPPP1P/R1BQKBNR b KQkq - 0 2": {
@@ -1364,12 +1365,13 @@
         }
     },
     "r1bqkbnr/p1pnpppp/1p6/3p4/P2P4/2N5/1PP1PPPP/R1BQKBNR w KQkq - 2 4": {
-        "src": "eco_js",
+        "src": "eco_tsv",
         "eco": "A00",
         "moves": "1. a4 b6 2. d4 d5 3. Nc3 Nd7",
         "name": "Ware Opening: Cologne Gambit",
         "aliases": {
-            "eco_wikip": "Irregular Openings: Ware Opening, Cologne Gambit"
+            "eco_wikip": "Irregular Openings: Ware Opening, Cologne Gambit",
+            "eco_js": "Ware Opening: Cologne Gambit"
         }
     },
     "rnbqkbnr/pppp1ppp/8/4p3/P7/R7/1PPPPPPP/1NBQKBNR b Kkq - 1 2": {
@@ -11147,7 +11149,7 @@
         "src": "eco_tsv",
         "eco": "A45",
         "moves": "1. d4 Nf6 2. f3 d5 3. g4",
-        "name": "Indian Defense: Gedult Attack, Gedult Attack",
+        "name": "Indian Defense: Gedult Attack",
         "scid": "A45a",
         "aliases": {
             "scid": "Indian: Gedult Attack",

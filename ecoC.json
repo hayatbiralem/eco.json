@@ -2117,11 +2117,14 @@
         "scid": "C10e"
     },
     "r1bqkbnr/ppp2ppp/2n1p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 4": {
-        "src": "scid",
+        "src": "eco_tsv",
         "eco": "C10",
         "moves": "1. e4 e6 2. d4 d5 3. Nc3 Nc6",
-        "name": "French: 3.Nc3 Nc6",
-        "scid": "C10c"
+        "name": "French Defense: Hecht-Reefschläger Variation",
+        "scid": "C10c",
+        "aliases": {
+            "scid": "French: 3.Nc3 Nc6"
+        }
     },
     "r1bqkb1r/ppp2ppp/2n1pn2/3p4/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 4 5": {
         "src": "scid",
@@ -18340,11 +18343,14 @@
         "scid": "C86j"
     },
     "r1bq1rk1/2p1bppp/p1n2n2/1p1pp3/4P3/1BPP1N2/PP2QPPP/RNB2RK1 b - - 0 9": {
-        "src": "scid",
+        "src": "eco_tsv",
         "eco": "C86",
         "moves": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8. c3 d5 9. d3",
-        "name": "Spanish: Worrall Attack, 7...O-O 8.c3 d5 9.d3",
-        "scid": "C86k"
+        "name": "Ruy Lopez: Closed, Worrall Attack, Castling Line",
+        "scid": "C86k",
+        "aliases": {
+            "scid": "Spanish: Worrall Attack, 7...O-O 8.c3 d5 9.d3"
+        }
     },
     "r2q1rk1/1bp1bppp/p1n2n2/1p1pp3/4P3/1BPP1N2/PP2QPPP/RNB2RK1 w - - 1 10": {
         "src": "scid",
