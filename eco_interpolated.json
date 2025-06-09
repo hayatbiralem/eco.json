@@ -8204,16 +8204,6 @@
       "scid": "Modern: Nc3 Pterodactyl"
     }
   },
-  "rnb1k1nr/pp1pppbp/6p1/q1p5/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 2 5": {
-    "name": "Modern Defense: Modern Pterodactyl",
-    "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 c5 4. Nf3 Qa5",
-    "src": "interpolated",
-    "rootSrc": "eco_tsv",
-    "eco": "B06",
-    "aliases": {
-      "scid": "Modern: Nc3 Pterodactyl"
-    }
-  },
   "rnb1k1nr/pp1pppbp/6p1/q1p5/3PP3/2N2N2/PPP1BPPP/R1BQK2R b KQkq - 3 5": {
     "name": "Modern Defense: Modern Pterodactyl",
     "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 c5 4. Nf3 Qa5 5. Be2",
@@ -18842,16 +18832,6 @@
       "scid": "Two Knights: Deutz Gambit"
     }
   },
-  "r1bqkb1r/pppp1ppp/2n2n2/8/2BpP3/5N2/PPP2PPP/RNBQK2R w KQkq - 2 5": {
-    "name": "Scotch Game: Scotch Gambit",
-    "moves": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6",
-    "src": "interpolated",
-    "rootSrc": "eco_tsv",
-    "eco": "C44",
-    "aliases": {
-      "scid": "Scotch Gambit"
-    }
-  },
   "r1bqkb1r/pppp1ppp/2n2n2/8/2BpP3/5N2/PPP2PPP/RNBQ1RK1 b kq - 3 5": {
     "name": "Scotch Game: Scotch Gambit",
     "moves": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. O-O",
@@ -23453,17 +23433,6 @@
       "eco_js": "Semi-Slav Defense: Meran Variation, Sozin Variation, 12. Nxe5 axb5 13. O-O"
     }
   },
-  "r3kb1r/5ppp/b3pn2/1p1qN3/3p4/3B4/PP2QPPP/R1B2RK1 w kq - 4 15": {
-    "name": "Semi-Slav Defense: Meran Variation, Sozin Variation",
-    "moves": "1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. e5 cxd4 11. Nxb5 Nxe5 12. Nxe5 axb5 13. O-O Qd5 14. Qe2 Ba6",
-    "src": "interpolated",
-    "rootSrc": "eco_tsv",
-    "eco": "D49",
-    "aliases": {
-      "scid": "Semi-Slav: Meran, Sozin, Rellstab Attack",
-      "eco_js": "Semi-Slav Defense: Meran Variation, Sozin Variation, 12. Nxe5 axb5 13. O-O"
-    }
-  },
   "r1bqkb1r/5ppp/p3pn2/1N2N3/3p4/3B4/PP3PPP/R1BQK2R b KQkq - 0 12": {
     "name": "Semi-Slav Defense: Meran Variation, Sozin Variation",
     "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. e5 cxd4 11. Nxb5 Nxe5 12. Nxe5",
@@ -24049,13 +24018,6 @@
   "r1b2rk1/pp2qppp/2p5/4n3/2B5/2R1PN2/PP3PPP/3Q1RK1 w - - 0 14": {
     "name": "QGD: Orthodox, Classical, 13.dxe5",
     "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Rc1 c6 8. Bd3 dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Nxc3 12. Rxc3 e5 13. dxe5 Nxe5",
-    "src": "interpolated",
-    "rootSrc": "scid",
-    "eco": "D69"
-  },
-  "r1b2rk1/pp2qppp/2p5/4N3/2B5/2R1P3/PP3PPP/3Q1RK1 b - - 0 14": {
-    "name": "QGD: Orthodox, Classical, 13.dxe5",
-    "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Rc1 c6 8. Bd3 dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Nxc3 12. Rxc3 e5 13. dxe5 Nxe5 14. Nxe5",
     "src": "interpolated",
     "rootSrc": "scid",
     "eco": "D69"
@@ -26909,5 +26871,488 @@
     "moves": "1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3",
     "src": "interpolated",
     "rootSrc": "wiki_b"
+  },
+  "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/5N2/PP3PPP/RNBQKB1R b KQkq - 1 6": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nf3",
+    "eco": "B03",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nf3 g6",
+    "eco": "B03",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/5N2/PP2BPPP/RNBQK2R b KQkq - 1 7": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nf3 g6 7. Be2",
+    "eco": "B03",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbqk2r/pp2ppbp/1n1p2p1/8/2PP4/5N2/PP2BPPP/RNBQK2R w KQkq - 2 8": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nf3 g6 7. Be2 Bg7",
+    "eco": "B03",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbqk2r/pp2ppbp/1n1p2p1/8/2PP4/5N2/PP2BPPP/RNBQ1RK1 b kq - 3 8": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nf3 g6 7. Be2 Bg7 8. O-O",
+    "eco": "B03",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbq1rk1/pp2ppbp/1n1p2p1/8/2PP4/5N2/PP2BPPP/RNBQ1RK1 w - - 4 9": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nf3 g6 7. Be2 Bg7 8. O-O O-O",
+    "eco": "B03",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbq1rk1/pp2ppbp/1n1p2p1/8/2PP4/5N1P/PP2BPP1/RNBQ1RK1 b - - 0 9": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nf3 g6 7. Be2 Bg7 8. O-O O-O 9. h3",
+    "eco": "B03",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bq1rk1/pp2ppbp/1nnp2p1/8/2PP4/5N1P/PP2BPP1/RNBQ1RK1 w - - 1 10": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nf3 g6 7. Be2 Bg7 8. O-O O-O 9. h3 Nc6",
+    "eco": "B03",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bq1rk1/pp2ppbp/1nnp2p1/8/2PP4/2N2N1P/PP2BPP1/R1BQ1RK1 b - - 2 10": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nf3 g6 7. Be2 Bg7 8. O-O O-O 9. h3 Nc6 10. Nc3",
+    "eco": "B03",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r2q1rk1/pp2ppbp/1nnp2p1/5b2/2PP4/2N2N1P/PP2BPP1/R1BQ1RK1 w - - 3 11": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nf3 g6 7. Be2 Bg7 8. O-O O-O 9. h3 Nc6 10. Nc3 Bf5",
+    "eco": "B03",
+    "src": "interpolated",
+    "rootSrc": "scid"
+  },
+  "r1bqk2r/pppp1ppp/2n2n2/4p3/1bB1P3/2NP4/PPP2PPP/R1BQK1NR w KQkq - 3 5": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 Bb4",
+    "eco": "C28",
+    "src": "interpolated",
+    "rootSrc": "scid"
+  },
+  "rnbqk2r/pppp1ppp/5n2/2b1p3/2B1P3/3P4/PPP2PPP/RNBQK1NR w KQkq - 1 4": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 e5 2. Bc4 Nf6 3. d3 Bc5",
+    "eco": "C26",
+    "src": "interpolated",
+    "rootSrc": "scid"
+  },
+  "r1bqk2r/pppp1ppp/5n2/2b1N3/B2nP3/2N5/PPPP1PPP/R1BQK2R b KQkq - 2 6": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bc5 5. Nxe5 Nd4 6. Ba4",
+    "eco": "C48",
+    "src": "interpolated",
+    "rootSrc": "scid"
+  },
+  "r1bqk2r/1ppp1ppp/p1n2n2/2b1p3/4P3/1BPP1N2/PP3PPP/RNBQK2R b KQkq - 1 6": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3",
+    "eco": "C53",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bqk2r/bppp1ppp/p1n2n2/4p3/4P3/1BPP1N2/PP3PPP/RNBQK2R w KQkq - 2 7": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3 Ba7",
+    "eco": "C53",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bqk2r/bppp1ppp/p1n2n2/4p3/4P3/1BPP1N1P/PP3PP1/RNBQK2R b KQkq - 0 7": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3 Ba7 7. h3",
+    "eco": "C53",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bq1rk1/bppp1ppp/p1n2n2/4p3/4P3/1BPP1N1P/PP3PP1/RNBQK2R w KQ - 1 8": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3 Ba7 7. h3 O-O",
+    "eco": "C53",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bq1rk1/bppp1ppp/p1n2n2/4p3/4P3/1BPP1N1P/PP3PP1/RNBQ1RK1 b - - 2 8": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3 Ba7 7. h3 O-O 8. O-O",
+    "eco": "C53",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bq1rk1/bpp2ppp/p1np1n2/4p3/4P3/1BPP1N1P/PP3PP1/RNBQ1RK1 w - - 0 9": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3 Ba7 7. h3 O-O 8. O-O d6",
+    "eco": "C53",
+    "src": "interpolated",
+    "rootSrc": "scid"
+  },
+  "rnb1kbnr/pp2pppp/2pq4/8/2BP4/2N5/PPP2PPP/R1BQK1NR b KQkq - 1 5": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Bc4",
+    "eco": "B01",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnb1kb1r/pp2pppp/2pq1n2/8/2BP4/2N5/PPP2PPP/R1BQK1NR w KQkq - 2 6": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Bc4 Nf6",
+    "eco": "B01",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnb1kb1r/pp2pppp/2pq1n2/8/2BP4/2N5/PPP1NPPP/R1BQK2R b KQkq - 3 6": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Bc4 Nf6 6. Nge2",
+    "eco": "B01",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rn2kb1r/pp2pppp/2pq1n2/5b2/2BP4/2N5/PPP1NPPP/R1BQK2R w KQkq - 4 7": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Bc4 Nf6 6. Nge2 Bf5",
+    "eco": "B01",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rn2kb1r/pp2pppp/2pq1n2/5b2/2BP1B2/2N5/PPP1NPPP/R2QK2R b KQkq - 5 7": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Bc4 Nf6 6. Nge2 Bf5 7. Bf4",
+    "eco": "B01",
+    "src": "interpolated",
+    "rootSrc": "scid"
+  },
+  "rnbqkbnr/pp2pp1p/3p2p1/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 5": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 g6 5. Nc3",
+    "eco": "B35",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbqk1nr/pp2ppbp/3p2p1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 2 6": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7",
+    "eco": "B35",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbqk1nr/pp2ppbp/3p2p1/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 3 6": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3",
+    "eco": "B35",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbqk2r/pp2ppbp/3p1np1/8/3NP3/2N1B3/PPP2PPP/R2QKB1R w KQkq - 4 7": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6",
+    "eco": "B35",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbqk2r/pp2ppbp/3p1np1/8/2BNP3/2N1B3/PPP2PPP/R2QK2R b KQkq - 5 7": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4",
+    "eco": "B35",
+    "src": "interpolated",
+    "rootSrc": "scid"
+  },
+  "rnbqkb1r/pp1p1ppp/4p3/2pnP3/3P4/2P5/PP3PPP/RNBQKBNR w KQkq - 0 5": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 e6",
+    "eco": "B22",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbqkb1r/pp1p1ppp/4p3/2pnP3/3P4/2P2N2/PP3PPP/RNBQKB1R b KQkq - 1 5": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 e6 5. Nf3",
+    "eco": "B22",
+    "src": "interpolated",
+    "rootSrc": "scid"
+  },
+  "r1bqkbnr/pp3ppp/2np4/2p1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 c5 2. Nc3 Nc6 3. Nf3 e5 4. Bc4 d6",
+    "eco": "B30",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bqkbnr/pp3ppp/2np4/2p1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 0 5": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 c5 2. Nc3 Nc6 3. Nf3 e5 4. Bc4 d6 5. d3",
+    "eco": "B30",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bqk1nr/pp2bppp/2np4/2p1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 1 6": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 c5 2. Nc3 Nc6 3. Nf3 e5 4. Bc4 d6 5. d3 Be7",
+    "eco": "B30",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bqk1nr/pp2bppp/2np4/2p1p3/2B1P3/2NP4/PPPN1PPP/R1BQK2R b KQkq - 2 6": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 c5 2. Nc3 Nc6 3. Nf3 e5 4. Bc4 d6 5. d3 Be7 6. Nd2",
+    "eco": "B30",
+    "src": "interpolated",
+    "rootSrc": "scid"
+  },
+  "r1b1kbnr/1pqp1ppp/p1n1p3/8/2B1P3/2N2N2/PP3PPP/R1BQ1RK1 w kq - 2 8": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 e6 6. Bc4 a6 7. O-O Qc7",
+    "eco": "B21",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1b1kbnr/1pqp1ppp/p1n1p3/8/2B1P3/2N2N2/PP2QPPP/R1B2RK1 b kq - 3 8": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 e6 6. Bc4 a6 7. O-O Qc7 8. Qe2",
+    "eco": "B21",
+    "src": "interpolated",
+    "rootSrc": "scid"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/3p4/3P4/3Q4/PPP1PPPP/RNB1KBNR w KQkq - 2 3": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 d5 2. Qd3 Nf6",
+    "eco": "D00",
+    "src": "interpolated",
+    "rootSrc": "scid"
+  },
+  "rnbqkbnr/ppp1pp1p/6p1/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 3": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 d5 2. Nc3 g6",
+    "eco": "D00",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbqkbnr/ppp1pp1p/6p1/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R b KQkq - 1 3": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 d5 2. Nc3 g6 3. Nf3",
+    "eco": "D00",
+    "src": "interpolated",
+    "rootSrc": "scid"
+  },
+  "rnbq1rk1/p1p1bppp/1p2pn2/3p2B1/2PP4/2NBPN2/PP3PPP/R2QK2R b KQ - 1 7": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 b6 7. Bd3",
+    "eco": "D55",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rn1q1rk1/pbp1bppp/1p2pn2/3p2B1/2PP4/2NBPN2/PP3PPP/R2QK2R w KQ - 2 8": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 b6 7. Bd3 Bb7",
+    "eco": "D55",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rn1q1rk1/pbp1bppp/1p2pn2/3P2B1/3P4/2NBPN2/PP3PPP/R2QK2R b KQ - 0 8": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 b6 7. Bd3 Bb7 8. cxd5",
+    "eco": "D55",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rn1q1rk1/pbp1bppp/1p3n2/3p2B1/3P4/2NBPN2/PP3PPP/R2QK2R w KQ - 0 9": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 b6 7. Bd3 Bb7 8. cxd5 exd5",
+    "eco": "D55",
+    "src": "interpolated",
+    "rootSrc": "scid"
+  },
+  "rnbqk2r/pp1p1ppp/4pn2/8/1bPp4/2N1PN2/PP3PPP/R1BQKB1R w KQkq - 0 6": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 cxd4",
+    "eco": "E54",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbqk2r/pp1p1ppp/4pn2/8/1bPP4/2N2N2/PP3PPP/R1BQKB1R b KQkq - 0 6": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 cxd4 6. exd4",
+    "eco": "E54",
+    "src": "interpolated",
+    "rootSrc": "scid"
+  },
+  "r1bqk2r/pppp1ppp/2n1pn2/8/1bPP4/2N1PN2/PP3PPP/R1BQKB1R b KQkq - 2 5": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Nf3",
+    "eco": "E46",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bq1rk1/pppp1ppp/2n1pn2/8/1bPP4/2N1PN2/PP3PPP/R1BQKB1R w KQ - 3 6": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Nf3 O-O",
+    "eco": "E46",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bq1rk1/pppp1ppp/2n1pn2/8/1bPP4/2NBPN2/PP3PPP/R1BQK2R b KQ - 4 6": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Nf3 O-O 6. Bd3",
+    "eco": "E46",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bq1rk1/ppp2ppp/2n1pn2/3p4/1bPP4/2NBPN2/PP3PPP/R1BQK2R w KQ - 0 7": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Nf3 O-O 6. Bd3 d5",
+    "eco": "E46",
+    "src": "interpolated",
+    "rootSrc": "scid"
+  },
+  "rnbqk2r/pp2ppbp/5np1/2pp4/2PP4/2N1PN2/PP3PPP/R1BQKB1R w KQkq - 0 6": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 c5",
+    "eco": "D94",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbqk2r/pp2ppbp/5np1/2pp4/2PP4/2N1PN2/PP2BPPP/R1BQK2R b KQkq - 1 6": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 c5 6. Be2",
+    "eco": "D94",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbqk2r/pp2ppbp/5np1/3p4/2Pp4/2N1PN2/PP2BPPP/R1BQK2R w KQkq - 0 7": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 c5 6. Be2 cxd4",
+    "eco": "D94",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbqk2r/pp2ppbp/5np1/3p4/2PP4/2N2N2/PP2BPPP/R1BQK2R b KQkq - 0 7": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 c5 6. Be2 cxd4 7. exd4",
+    "eco": "D94",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bqk2r/pp2ppbp/2n2np1/3p4/2PP4/2N2N2/PP2BPPP/R1BQK2R w KQkq - 1 8": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 c5 6. Be2 cxd4 7. exd4 Nc6",
+    "eco": "D94",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bqk2r/pp2ppbp/2n2np1/3p4/2PP4/2N2N2/PP2BPPP/R1BQ1RK1 b kq - 2 8": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 c5 6. Be2 cxd4 7. exd4 Nc6 8. O-O",
+    "eco": "D94",
+    "src": "interpolated",
+    "rootSrc": "scid"
+  },
+  "r1bqkbnr/pppppppp/8/3Pn3/8/8/PPP1PPPP/RNBQKBNR w KQkq - 1 3": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 Nc6 2. d5 Ne5",
+    "eco": "A00",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bqkbnr/pppppppp/8/3Pn3/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 0 3": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 Nc6 2. d5 Ne5 3. e4",
+    "eco": "A00",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bqkbnr/pppp1ppp/4p3/3Pn3/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 0 4": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 Nc6 2. d5 Ne5 3. e4 e6",
+    "eco": "A00",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bqkbnr/pppp1ppp/4p3/3Pn3/4PP2/8/PPP3PP/RNBQKBNR b KQkq - 0 4": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 Nc6 2. d5 Ne5 3. e4 e6 4. f4",
+    "eco": "A00",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bqkbnr/pppp1ppp/8/3pn3/4PP2/8/PPP3PP/RNBQKBNR w KQkq - 0 5": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 Nc6 2. d5 Ne5 3. e4 e6 4. f4 exd5",
+    "eco": "A00",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "r1bqkbnr/pppp1ppp/8/3pP3/4P3/8/PPP3PP/RNBQKBNR b KQkq - 0 5": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. d4 Nc6 2. d5 Ne5 3. e4 e6 4. f4 exd5 5. fxe5",
+    "eco": "A00",
+    "src": "interpolated",
+    "rootSrc": "scid"
+  },
+  "rn1qkbnr/ppp2ppp/3pb3/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 1 4": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. c4 e5 2. Nc3 d6 3. g3 Be6",
+    "eco": "A21",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rn1qkbnr/ppp2ppp/3pb3/4p3/2P5/2N3P1/PP1PPPBP/R1BQK1NR b KQkq - 2 4": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. c4 e5 2. Nc3 d6 3. g3 Be6 4. Bg2",
+    "eco": "A21",
+    "src": "interpolated",
+    "rootSrc": "scid"
+  },
+  "rnbqkb1r/pp3ppp/2p1pn2/3p4/2P5/1P3N2/PB1PPPPP/RN1QKB1R w KQkq - 0 5": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. Nf3 d5 2. c4 c6 3. b3 Nf6 4. Bb2 e6",
+    "eco": "A12",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbqkb1r/pp3ppp/2p1pn2/3p4/2P5/1P3NP1/PB1PPP1P/RN1QKB1R b KQkq - 0 5": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. Nf3 d5 2. c4 c6 3. b3 Nf6 4. Bb2 e6 5. g3",
+    "eco": "A12",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbqk2r/pp2bppp/2p1pn2/3p4/2P5/1P3NP1/PB1PPP1P/RN1QKB1R w KQkq - 1 6": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. Nf3 d5 2. c4 c6 3. b3 Nf6 4. Bb2 e6 5. g3 Be7",
+    "eco": "A12",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbqk2r/pp2bppp/2p1pn2/3p4/2P5/1P3NP1/PB1PPPBP/RN1QK2R b KQkq - 2 6": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. Nf3 d5 2. c4 c6 3. b3 Nf6 4. Bb2 e6 5. g3 Be7 6. Bg2",
+    "eco": "A12",
+    "rootSrc": "scid",
+    "src": "interpolated"
+  },
+  "rnbq1rk1/pp2bppp/2p1pn2/3p4/2P5/1P3NP1/PB1PPPBP/RN1QK2R w KQ - 3 7": {
+    "name": "Alekhine: Exchange, 5...cxd6",
+    "moves": "1. Nf3 d5 2. c4 c6 3. b3 Nf6 4. Bb2 e6 5. g3 Be7 6. Bg2 O-O",
+    "eco": "A12",
+    "src": "interpolated",
+    "rootSrc": "scid"
   }
 }
