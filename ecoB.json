@@ -19,7 +19,8 @@
         "name": "Borg Defense",
         "scid": "B00b",
         "aliases": {
-            "scid": "Reversed Grob (Borg/Basman Defence)"
+            "scid": "Reversed Grob (Borg/Basman Defence)",
+            "ct": "Borg Defense, General"
         }
     },
     "rnbqk1nr/ppppppbp/8/6p1/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3": {
@@ -49,14 +50,18 @@
         "moves": "1. e4 g5 2. d4 e5",
         "name": "Borg Defense: Zilbermints Gambit",
         "aliases": {
-            "eco_js": "Borg Opening: Zilbermints Gambit"
+            "eco_js": "Borg Opening: Zilbermints Gambit",
+            "ct": "Borg Opening, Zilbermints Gambit"
         }
     },
     "rnbqkbnr/ppppppp1/7p/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2": {
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 h6",
-        "name": "Carr Defense"
+        "name": "Carr Defense",
+        "aliases": {
+            "ct": "Carr Defense, General"
+        }
     },
     "rnbqkbnr/pppp1pp1/7p/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3": {
         "src": "eco_tsv",
@@ -71,7 +76,8 @@
         "name": "Duras Gambit",
         "scid": "B00a",
         "aliases": {
-            "scid": "King's Pawn: Fred"
+            "scid": "King's Pawn: Fred",
+            "ct": "Duras Gambit, General"
         }
     },
     "rnbq1bnr/pppppkpp/5p2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQ - 1 3": {
@@ -84,7 +90,10 @@
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 h5",
-        "name": "Goldsmith Defense"
+        "name": "Goldsmith Defense",
+        "aliases": {
+            "ct": "Goldsmith Defense, General"
+        }
     },
     "rnbqkb1r/ppppppp1/5n2/7p/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3": {
         "src": "eco_tsv",
@@ -96,7 +105,10 @@
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 b6 2. d4 Ba6",
-        "name": "Owen Defense: Guatemala Defense"
+        "name": "Owen Defense: Guatemala Defense",
+        "aliases": {
+            "ct": "Guatemala Defense, General"
+        }
     },
     "rnbqkb1r/pppppppp/7n/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2": {
         "src": "eco_tsv",
@@ -123,7 +135,8 @@
         "scid": "B00a",
         "aliases": {
             "scid": "King's Pawn",
-            "eco_js": "King's Pawn"
+            "eco_js": "King's Pawn",
+            "ct": "King's Pawn Opening, General"
         },
         "isEcoRoot": true
     },
@@ -137,7 +150,10 @@
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 Na6",
-        "name": "Lemming Defense"
+        "name": "Lemming Defense",
+        "aliases": {
+            "ct": "Lemming Defense, General"
+        }
     },
     "rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/5P2/PPP3PP/RNBQKBNR b KQkq - 0 3": {
         "src": "eco_tsv",
@@ -282,7 +298,8 @@
         "name": "Nimzowitsch Defense",
         "scid": "B00l",
         "aliases": {
-            "scid": "Nimzowitsch Defence"
+            "scid": "Nimzowitsch Defence",
+            "ct": "Nimzowitsch Defense, General"
         }
     },
     "r1bqkbnr/pppppppp/2n5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2": {
@@ -310,7 +327,8 @@
         "scid": "B00n",
         "aliases": {
             "scid": "Nimzowitsch Defence: Colorado Counter",
-            "eco_js": "Nimzowitsch Defense: Lean Variation"
+            "eco_js": "Nimzowitsch Defense: Lean Variation",
+            "ct": "Nimzowitsch Defense, Lean Variation"
         }
     },
     "r1bqkbnr/ppppp1pp/2n5/5P2/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 0 3": {
@@ -319,7 +337,8 @@
         "moves": "1. e4 Nc6 2. Nf3 f5 3. exf5",
         "name": "Nimzowitsch Defense: Colorado Countergambit Accepted",
         "aliases": {
-            "eco_js": "Nimzowitsch Defense: Lean Variation, Colorado Counter Accepted"
+            "eco_js": "Nimzowitsch Defense: Lean Variation, Colorado Counter Accepted",
+            "ct": "Nimzowitsch Defense, Lean Variation"
         }
     },
     "r1bqkbnr/pppppppp/2n5/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 2 2": {
@@ -343,19 +362,28 @@
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 Nc6 2. Nf3 Nf6 3. e5 Ng4 4. d4 d6 5. h3 Nh6 6. e6",
-        "name": "Nimzowitsch Defense: El Columpio Defense, El Columpio Gambit"
+        "name": "Nimzowitsch Defense: El Columpio Defense, El Columpio Gambit",
+        "aliases": {
+            "ct": "Nimzowitsch Defense, El Columpio Defense"
+        }
     },
     "r1bqkb1r/ppp1pppp/2nP3n/8/3P4/5N1P/PPP2PP1/RNBQKB1R b KQkq - 0 6": {
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 Nc6 2. Nf3 Nf6 3. e5 Ng4 4. d4 d6 5. h3 Nh6 6. exd6",
-        "name": "Nimzowitsch Defense: El Columpio Defense, Exchange Variation"
+        "name": "Nimzowitsch Defense: El Columpio Defense, Exchange Variation",
+        "aliases": {
+            "ct": "Nimzowitsch Defense, El Columpio Defense"
+        }
     },
     "r1bqkb1r/ppp1pppp/2np3n/1B2P3/3P4/5N1P/PPP2PP1/RNBQK2R b KQkq - 2 6": {
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 Nc6 2. Nf3 Nf6 3. e5 Ng4 4. d4 d6 5. h3 Nh6 6. Bb5",
-        "name": "Nimzowitsch Defense: El Columpio Defense, Pin Variation"
+        "name": "Nimzowitsch Defense: El Columpio Defense, Pin Variation",
+        "aliases": {
+            "ct": "Nimzowitsch Defense, El Columpio Defense"
+        }
     },
     "r1bqkb1r/pppp2pp/2n1pn2/5P2/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 5": {
         "src": "eco_js",
@@ -367,7 +395,10 @@
         "src": "eco_js",
         "eco": "B00",
         "moves": "1. e4 Nc6 2. d4 e6 3. Nc3 f5 4. exf5 Nf6",
-        "name": "Nimzowitsch Defense: Franco-Hiva Gambit, 3. Nc3 f5 4. exf5 Nf6"
+        "name": "Nimzowitsch Defense: Franco-Hiva Gambit, 3. Nc3 f5 4. exf5 Nf6",
+        "aliases": {
+            "ct": "Nimzowitsch Defense, Franco-Hiva Gambit 2"
+        }
     },
     "r1bqkbnr/pppp1ppp/2n1p3/8/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3": {
         "src": "eco_tsv",
@@ -408,32 +439,45 @@
         "name": "Nimzowitsch Defense: Kennedy Variation, Bielefelder Gambit",
         "scid": "B00u",
         "aliases": {
-            "scid": "Nimzowitsch Defence: Bielefelder Gambit"
+            "scid": "Nimzowitsch Defence: Bielefelder Gambit",
+            "ct": "Nimzowitsch Defense, Kennedy Variation"
         }
     },
     "r1bqkbnr/ppp2ppp/2np4/4P3/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 0 4": {
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 Nc6 2. d4 e5 3. dxe5 d6",
-        "name": "Nimzowitsch Defense: Kennedy Variation, de Smet Gambit"
+        "name": "Nimzowitsch Defense: Kennedy Variation, de Smet Gambit",
+        "aliases": {
+            "ct": "Nimzowitsch Defense, Kennedy Variation"
+        }
     },
     "r1bqkbnr/pppp2pp/2n2p2/4P3/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 0 4": {
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 Nc6 2. d4 e5 3. dxe5 f6",
-        "name": "Nimzowitsch Defense: Kennedy Variation, Hammer Gambit"
+        "name": "Nimzowitsch Defense: Kennedy Variation, Hammer Gambit",
+        "aliases": {
+            "ct": "Nimzowitsch Defense, Kennedy Variation"
+        }
     },
     "r1b1kbnr/pppp1ppp/2n5/4P3/4P2q/8/PPP2PPP/RNBQKBNR w KQkq - 1 4": {
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 Nc6 2. d4 e5 3. dxe5 Qh4",
-        "name": "Nimzowitsch Defense: Kennedy Variation, Herford Gambit"
+        "name": "Nimzowitsch Defense: Kennedy Variation, Herford Gambit",
+        "aliases": {
+            "ct": "Nimzowitsch Defense, Kennedy Variation"
+        }
     },
     "r1bqkbnr/pppp1ppp/8/4n3/4P3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 4": {
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. Nc3",
-        "name": "Nimzowitsch Defense: Kennedy Variation, Keres Attack"
+        "name": "Nimzowitsch Defense: Kennedy Variation, Keres Attack",
+        "aliases": {
+            "ct": "Nimzowitsch Defense, Kennedy Variation"
+        }
     },
     "r1bqkbnr/pppp1ppp/2n5/3Pp3/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 0 3": {
         "src": "eco_tsv",
@@ -442,26 +486,36 @@
         "name": "Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation",
         "scid": "B00u",
         "aliases": {
-            "scid": "Nimzowitsch Defence: 2.d4 e5 3.d5"
+            "scid": "Nimzowitsch Defence: 2.d4 e5 3.d5",
+            "ct": "Nimzowitsch Defense, Kennedy Variation"
         }
     },
     "r1bqkbnr/pppp1ppp/6n1/8/4PP2/8/PPP3PP/RNBQKBNR w KQkq - 1 5": {
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. f4 Ng6",
-        "name": "Nimzowitsch Defense: Kennedy Variation, Main Line"
+        "name": "Nimzowitsch Defense: Kennedy Variation, Main Line",
+        "aliases": {
+            "ct": "Nimzowitsch Defense, Kennedy Variation"
+        }
     },
     "r1bqkbnr/pppp1ppp/8/4n3/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 4": {
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. Nf3",
-        "name": "Nimzowitsch Defense: Kennedy Variation, Paulsen Attack"
+        "name": "Nimzowitsch Defense: Kennedy Variation, Paulsen Attack",
+        "aliases": {
+            "ct": "Nimzowitsch Defense, Kennedy Variation"
+        }
     },
     "r1bqkbnr/pppp1ppp/2n5/8/4PP2/8/PPP3PP/RNBQKBNR w KQkq - 1 5": {
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. f4 Nc6",
-        "name": "Nimzowitsch Defense: Kennedy Variation, Riemann Defense"
+        "name": "Nimzowitsch Defense: Kennedy Variation, Riemann Defense",
+        "aliases": {
+            "ct": "Nimzowitsch Defense, Kennedy Variation"
+        }
     },
     "r1bqkbnr/ppp1pppp/2np4/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3": {
         "src": "eco_tsv",
@@ -508,7 +562,8 @@
         "name": "Nimzowitsch Defense: Scandinavian Variation, Aachen Gambit",
         "scid": "B00v",
         "aliases": {
-            "scid": "Nimzowitsch Defence: Aachen Gambit"
+            "scid": "Nimzowitsch Defence: Aachen Gambit",
+            "ct": "Nimzowitsch Defense, Scandinavian Variation"
         }
     },
     "r1bqkbnr/ppp1pppp/2n5/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3": {
@@ -518,7 +573,8 @@
         "name": "Nimzowitsch Defense: Scandinavian Variation, Advance Variation",
         "scid": "B00x",
         "aliases": {
-            "scid": "Nimzowitsch Defence: 2.d4 d5 3.e5"
+            "scid": "Nimzowitsch Defence: 2.d4 d5 3.e5",
+            "ct": "Nimzowitsch Defense, Scandinavian Variation"
         }
     },
     "r1bqkbnr/ppp1pppp/2n5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3": {
@@ -528,7 +584,8 @@
         "name": "Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation",
         "scid": "B00w",
         "aliases": {
-            "scid": "Nimzowitsch Defence: Bogoljubow Variation"
+            "scid": "Nimzowitsch Defence: Bogoljubow Variation",
+            "ct": "Nimzowitsch Defense, Scandinavian Variation"
         }
     },
     "r1bqkbnr/ppp1pppp/2n5/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4": {
@@ -545,13 +602,19 @@
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 Nc6 2. d4 d5 3. Nc3 a6",
-        "name": "Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Brandics Gambit"
+        "name": "Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Brandics Gambit",
+        "aliases": {
+            "ct": "Nimzowitsch Defense, Scandinavian Variation"
+        }
     },
     "r1bqkbnr/ppp1pp1p/2n3p1/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4": {
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 Nc6 2. d4 d5 3. Nc3 g6",
-        "name": "Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Erben Gambit"
+        "name": "Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Erben Gambit",
+        "aliases": {
+            "ct": "Nimzowitsch Defense, Scandinavian Variation"
+        }
     },
     "r1bqkbnr/ppp2ppp/2n5/3pp3/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4": {
         "src": "eco_tsv",
@@ -560,20 +623,27 @@
         "name": "Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Heinola-Deppe Gambit",
         "scid": "B00w",
         "aliases": {
-            "scid": "Nimzowitsch Defence: Bogoljubow, 3...e5"
+            "scid": "Nimzowitsch Defence: Bogoljubow, 3...e5",
+            "ct": "Nimzowitsch Defense, Scandinavian Variation"
         }
     },
     "r1bqkbnr/ppp1pppp/8/3Pn3/4p3/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 5": {
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Ne5",
-        "name": "Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Nimzowitsch Gambit"
+        "name": "Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Nimzowitsch Gambit",
+        "aliases": {
+            "ct": "Nimzowitsch Defense, Scandinavian Variation"
+        }
     },
     "rnbqkbnr/ppp1pppp/8/3P4/4p3/2N2P2/PPP3PP/R1BQKBNR b KQkq - 0 5": {
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Nb8 5. f3",
-        "name": "Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Richter Gambit"
+        "name": "Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Richter Gambit",
+        "aliases": {
+            "ct": "Nimzowitsch Defense, Scandinavian Variation"
+        }
     },
     "r1bqkb1r/ppp1pppp/2n2n2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 4": {
         "src": "eco_tsv",
@@ -582,7 +652,8 @@
         "name": "Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Vehre Variation",
         "scid": "B00w",
         "aliases": {
-            "scid": "Nimzowitsch Defence: Bogoljubow, 3...Nf6"
+            "scid": "Nimzowitsch Defence: Bogoljubow, 3...Nf6",
+            "ct": "Nimzowitsch Defense, Scandinavian Variation"
         }
     },
     "r1b1kbnr/ppp1pppp/2n5/3q4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4": {
@@ -592,7 +663,8 @@
         "name": "Nimzowitsch Defense: Scandinavian Variation, Exchange Variation",
         "scid": "B00v",
         "aliases": {
-            "scid": "Nimzowitsch Defence: 2.d4 d5 3.exd5 Qxd5"
+            "scid": "Nimzowitsch Defence: 2.d4 d5 3.exd5 Qxd5",
+            "ct": "Nimzowitsch Defense, Scandinavian Variation"
         }
     },
     "r1b1kbnr/ppp1pppp/2n5/3q4/3P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 4": {
@@ -602,7 +674,8 @@
         "name": "Nimzowitsch Defense: Scandinavian Variation, Exchange Variation, Marshall Gambit",
         "scid": "B00v",
         "aliases": {
-            "scid": "Nimzowitsch Defence: Marshall Gambit"
+            "scid": "Nimzowitsch Defence: Marshall Gambit",
+            "ct": "Nimzowitsch Defense, Scandinavian Variation"
         }
     },
     "r1bqkbnr/pppppppp/2n5/8/1P2P3/8/P1PP1PPP/RNBQKBNR b KQkq - 0 2": {
@@ -708,7 +781,8 @@
         "name": "Owen Defense",
         "scid": "B00d",
         "aliases": {
-            "scid": "Owen Defence"
+            "scid": "Owen Defence",
+            "ct": "Owen Defense, General"
         }
     },
     "r1bqkbnr/p2ppppp/1pn5/2P5/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 1 4": {
@@ -784,7 +858,8 @@
         "scid": "B07d",
         "aliases": {
             "scid": "Pirc: 2.d4 Nf6",
-            "eco_js": "Pirc Defense, 2. d4 Nf6"
+            "eco_js": "Pirc Defense, 2. d4 Nf6",
+            "ct": "Pirc Defense, General"
         },
         "isEcoRoot": true
     },
@@ -857,7 +932,8 @@
         "name": "St. George Defense",
         "scid": "B00c",
         "aliases": {
-            "scid": "St. George Defence"
+            "scid": "St. George Defence",
+            "ct": "St. George Defense, General"
         }
     },
     "rn1qkbnr/1bpp1ppp/p3p3/1p6/3PP3/3B1N2/PPP2PPP/RNBQK2R w KQkq - 0 5": {
@@ -888,7 +964,10 @@
         "src": "eco_tsv",
         "eco": "B00",
         "moves": "1. e4 a5",
-        "name": "Ware Defense"
+        "name": "Ware Defense",
+        "aliases": {
+            "ct": "Ware Defense, General"
+        }
     },
     "r1bqkbnr/1ppppppp/2n5/p7/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3": {
         "src": "eco_tsv",
@@ -903,7 +982,8 @@
         "name": "Scandinavian Defense",
         "scid": "B01a",
         "aliases": {
-            "scid": "Scandinavian (Centre Counter)"
+            "scid": "Scandinavian (Centre Counter)",
+            "ct": "Scandinavian Defense, General"
         },
         "isEcoRoot": true
     },
@@ -913,7 +993,8 @@
         "moves": "1. e4 d5 2. b3",
         "name": "Scandinavian Defense",
         "aliases": {
-            "eco_js": "Scandinavian Defense: 2. b3"
+            "eco_js": "Scandinavian Defense: 2. b3",
+            "ct": "Scandinavian Defense, Unnamed Gambit"
         }
     },
     "rnb1kbnr/ppp2ppp/8/q3p3/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 5": {
@@ -933,7 +1014,8 @@
         "name": "Scandinavian Defense: Anderssen Counterattack, Collijn Variation",
         "scid": "B01g",
         "aliases": {
-            "scid": "Scandinavian: Anderssen Counterattack, Collijn Variation"
+            "scid": "Scandinavian: Anderssen Counterattack, Collijn Variation",
+            "ct": "Scandinavian Defense, Anderssen Counterattack"
         }
     },
     "rnb1kbnr/ppp2ppp/8/q3p3/3P4/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 5": {
@@ -1069,7 +1151,8 @@
         "name": "Scandinavian Defense: Main Line, Leonhardt Gambit",
         "scid": "B01e",
         "aliases": {
-            "scid": "Scandinavian, Mieses Gambit"
+            "scid": "Scandinavian, Mieses Gambit",
+            "ct": "Scandinavian Defense, Main Lines"
         }
     },
     "rnb1kb1r/ppp1pppp/5n2/q7/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 5": {
@@ -1079,7 +1162,8 @@
         "name": "Scandinavian Defense: Main Line, Mieses Variation",
         "scid": "B01i",
         "aliases": {
-            "scid": "Scandinavian: 2...Qxd5 3.Nc3 Qa5 4.d4 Nf6"
+            "scid": "Scandinavian: 2...Qxd5 3.Nc3 Qa5 4.d4 Nf6",
+            "ct": "Scandinavian Defense, Main Lines"
         }
     },
     "rnbqkb1r/ppp1pppp/8/3n4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4": {
@@ -1130,14 +1214,18 @@
         "name": "Scandinavian Defense: Modern Variation, Gipslis Variation",
         "scid": "B01w",
         "aliases": {
-            "scid": "Scandinavian: Marshall, 4.Nf3 Bg4"
+            "scid": "Scandinavian: Marshall, 4.Nf3 Bg4",
+            "ct": "Scandinavian Defense, Modern Variation"
         }
     },
     "rnbqkb1r/p1p1pp1p/5np1/1p1P4/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 5": {
         "src": "eco_tsv",
         "eco": "B01",
         "moves": "1. e4 d5 2. exd5 Nf6 3. d4 g6 4. c4 b5",
-        "name": "Scandinavian Defense: Modern Variation, Wing Gambit"
+        "name": "Scandinavian Defense: Modern Variation, Wing Gambit",
+        "aliases": {
+            "ct": "Scandinavian Defense, Modern Variation"
+        }
     },
     "rnbqkb1r/pp2pppp/2p2n2/3P4/2P5/8/PP1P1PPP/RNBQKBNR w KQkq - 0 4": {
         "src": "eco_tsv",
@@ -1157,7 +1245,8 @@
         "scid": "B01u",
         "aliases": {
             "scid": "Scandinavian: Portuguese Variation",
-            "eco_js": "Scandinavian Defense: Portuguese Variation"
+            "eco_js": "Scandinavian Defense: Portuguese Variation",
+            "ct": "Scandinavian Defense, Portuguese Variation"
         }
     },
     "rn1qkb1r/ppp1pppp/5n2/3P1b2/2PP4/5P2/PP4PP/RNBQKBNR b KQkq - 0 5": {
@@ -1863,7 +1952,10 @@
         "eco": "B01",
         "moves": "1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. f3 Bf5 5. Bb5+ Nbd7",
         "name": "Scandinavian: Portuguese, 4.f3 Bf5 5.Bb5+ Nbd7",
-        "scid": "B01v"
+        "scid": "B01v",
+        "aliases": {
+            "ct": "Scandinavian Defense, Portuguese Variation"
+        }
     },
     "rn2kb1r/ppp1pppp/5n2/3q4/3P2b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5": {
         "src": "scid",
@@ -1916,7 +2008,8 @@
         "name": "Alekhine Defense",
         "scid": "B02a",
         "aliases": {
-            "scid": "Alekhine Defence"
+            "scid": "Alekhine Defence",
+            "ct": "Alekhine Defense, General"
         },
         "isEcoRoot": true
     },
@@ -1934,7 +2027,10 @@
         "src": "eco_tsv",
         "eco": "B02",
         "moves": "1. e4 Nf6 2. e5 Ng8 3. d4 f5",
-        "name": "Alekhine Defense: Brooklyn Variation, Everglades Variation"
+        "name": "Alekhine Defense: Brooklyn Variation, Everglades Variation",
+        "aliases": {
+            "ct": "Alekhine Defense, Brooklyn Variation"
+        }
     },
     "rnbqkb1r/pppppppp/8/3nP3/8/N7/PPPP1PPP/R1BQKBNR b KQkq - 2 3": {
         "src": "eco_tsv",
@@ -1946,19 +2042,28 @@
         "src": "eco_tsv",
         "eco": "B02",
         "moves": "1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Bc4 e6 6. Nc3",
-        "name": "Alekhine Defense: Hunt Variation, Lasker Simul Gambit"
+        "name": "Alekhine Defense: Hunt Variation, Lasker Simul Gambit",
+        "aliases": {
+            "ct": "Alekhine Defense, Hunt Variation"
+        }
     },
     "rnbqkb1r/ppp1pppp/3p4/2P1P1B1/8/2P5/PP3PPP/R2QKBNR b KQkq - 1 7": {
         "src": "eco_tsv",
         "eco": "B02",
         "moves": "1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Nc3 Nxc3 6. dxc3 d6 7. Bg5",
-        "name": "Alekhine Defense: Hunt Variation, Matsukevich Gambit"
+        "name": "Alekhine Defense: Hunt Variation, Matsukevich Gambit",
+        "aliases": {
+            "ct": "Alekhine Defense, Hunt Variation"
+        }
     },
     "rnbqkb1r/ppp2ppp/3p4/2PBP3/8/8/PP1P1PPP/R1BQK1NR b KQkq - 0 8": {
         "src": "eco_tsv",
         "eco": "B02",
         "moves": "1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Bc4 e6 6. Nc3 d6 7. Nxd5 exd5 8. Bxd5",
-        "name": "Alekhine Defense: Hunt Variation, Mikenas Gambit"
+        "name": "Alekhine Defense: Hunt Variation, Mikenas Gambit",
+        "aliases": {
+            "ct": "Alekhine Defense, Hunt Variation"
+        }
     },
     "rnbqkb1r/pp1ppppp/1n6/2p1P3/8/1B1P4/PPP2PPP/RNBQK1NR b KQkq - 0 5": {
         "src": "eco_tsv",
@@ -1984,7 +2089,10 @@
         "src": "eco_tsv",
         "eco": "B02",
         "moves": "1. e4 Nf6 2. Bc4 Nxe4 3. Bxf7+",
-        "name": "Alekhine Defense: Krejcik Variation, Krejcik Gambit"
+        "name": "Alekhine Defense: Krejcik Variation, Krejcik Gambit",
+        "aliases": {
+            "ct": "Alekhine Defense, Krejcik Variation"
+        }
     },
     "rnbqkb1r/pppppppp/5n2/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2": {
         "src": "eco_tsv",
@@ -2011,13 +2119,19 @@
         "src": "eco_tsv",
         "eco": "B02",
         "moves": "1. e4 Nf6 2. e5 Ne4 3. d4 f6",
-        "name": "Alekhine Defense: Mokele Mbembe, Modern Line"
+        "name": "Alekhine Defense: Mokele Mbembe, Modern Line",
+        "aliases": {
+            "ct": "Alekhine Defense, Mokele Mbembe"
+        }
     },
     "rnbqkb1r/pppp1ppp/4p3/4P3/3Pn3/8/PPP2PPP/RNBQKBNR w KQkq - 0 4": {
         "src": "eco_tsv",
         "eco": "B02",
         "moves": "1. e4 Nf6 2. e5 Ne4 3. d4 e6",
-        "name": "Alekhine Defense: Mokele Mbembe, Vavra Defense"
+        "name": "Alekhine Defense: Mokele Mbembe, Vavra Defense",
+        "aliases": {
+            "ct": "Alekhine Defense, Mokele Mbembe"
+        }
     },
     "rnbqkb1r/pppppppp/8/3nP3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3": {
         "src": "eco_tsv",
@@ -2057,14 +2171,18 @@
         "name": "Alekhine Defense: Scandinavian Variation, Geschev Gambit",
         "scid": "B02g",
         "aliases": {
-            "scid": "Alekhine: Scandinavian, Geschev Gambit"
+            "scid": "Alekhine: Scandinavian, Geschev Gambit",
+            "ct": "Alekhine Defense, Scandinavian Variation"
         }
     },
     "rnbqkb1r/ppp1pppp/5n2/6B1/4p3/2NP4/PPP2PPP/R2QKBNR b KQkq - 1 4": {
         "src": "eco_tsv",
         "eco": "B02",
         "moves": "1. e4 Nf6 2. Nc3 d5 3. d3 dxe4 4. Bg5",
-        "name": "Alekhine Defense: Scandinavian Variation, Myers Gambit"
+        "name": "Alekhine Defense: Scandinavian Variation, Myers Gambit",
+        "aliases": {
+            "ct": "Van Geet Opening, Myers Gambit"
+        }
     },
     "rnbqkb1r/pppnpppp/4P3/3p4/8/2N5/PPPP1PPP/R1BQKBNR b KQkq - 0 4": {
         "src": "eco_tsv",
@@ -2111,7 +2229,8 @@
         "scid": "B02s",
         "aliases": {
             "scid": "Alekhine: Two Pawns (Lasker) Attack",
-            "eco_js": "Alekhine Defense: Two Pawn Attack, Lasker Variation"
+            "eco_js": "Alekhine Defense: Two Pawn Attack, Lasker Variation",
+            "ct": "Alekhine Defense, Two Pawn Attack"
         }
     },
     "rnbqkb1r/ppp2ppp/3pp3/2PnP3/2B5/2N5/PP1P1PPP/R1BQK1NR w KQkq - 0 7": {
@@ -2287,7 +2406,8 @@
         "scid": "B03b",
         "aliases": {
             "scid": "Alekhine: 3.d4 d6",
-            "eco_js": "Alekhine Defense, 2. e5 Nd5 3. d4 d6"
+            "eco_js": "Alekhine Defense, 2. e5 Nd5 3. d4 d6",
+            "ct": "Alekhine Defense, Normal Variation"
         }
     },
     "rnbqkb1r/ppp1pppp/3p4/3nP3/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 0 4": {
@@ -2350,7 +2470,8 @@
         "name": "Alekhine Defense: Four Pawns Attack, Cambridge Gambit",
         "scid": "B03g",
         "aliases": {
-            "scid": "Alekhine: Four Pawns Attack, Planinc Variation"
+            "scid": "Alekhine: Four Pawns Attack, Planinc Variation",
+            "ct": "Alekhine Defense, Four Pawns Attack"
         }
     },
     "rnbqkb1r/ppp1pp1p/1n1p2p1/4P3/2PP1P2/8/PP4PP/RNBQKBNR w KQkq - 0 6": {
@@ -2360,7 +2481,8 @@
         "name": "Alekhine Defense: Four Pawns Attack, Fianchetto Variation",
         "scid": "B03i",
         "aliases": {
-            "scid": "Alekhine: Four Pawns Attack, Fianchetto Variation"
+            "scid": "Alekhine: Four Pawns Attack, Fianchetto Variation",
+            "ct": "Alekhine Defense, Four Pawns Attack"
         }
     },
     "r2qkb1r/ppp1p1pp/1nn1p3/2P5/3P2b1/5N2/PP4PP/RNBQKB1R b KQkq - 0 9": {
@@ -2390,7 +2512,8 @@
         "name": "Alekhine Defense: Four Pawns Attack, Main Line",
         "scid": "B03n",
         "aliases": {
-            "scid": "Alekhine: Four Pawns Attack, 7.Be3"
+            "scid": "Alekhine: Four Pawns Attack, 7.Be3",
+            "ct": "Alekhine Defense, Four Pawns Attack"
         }
     },
     "2kr3r/pppqbppp/1nn1p3/4Pb2/2PP4/2N1BN2/PP2B1PP/R2Q1RK1 w - - 6 12": {
@@ -2406,7 +2529,8 @@
         "name": "Alekhine Defense: Four Pawns Attack, Trifunovic Variation",
         "scid": "B03h",
         "aliases": {
-            "scid": "Alekhine: Four Pawns Attack, Trifunovic Variation"
+            "scid": "Alekhine: Four Pawns Attack, Trifunovic Variation",
+            "ct": "Alekhine Defense, Four Pawns Attack"
         }
     },
     "rnbqkb1r/ppp1pppp/1n1p4/2P1P3/3P4/8/PP3PPP/RNBQKBNR b KQkq - 0 5": {
@@ -2557,7 +2681,8 @@
         "name": "Alekhine Defense: Modern Variation, Alburt Variation",
         "scid": "B04j",
         "aliases": {
-            "scid": "Alekhine: Modern, Fianchetto Variation"
+            "scid": "Alekhine: Modern, Fianchetto Variation",
+            "ct": "Alekhine Defense, Modern Variation"
         }
     },
     "rnbqk2r/ppp1ppbp/1n1p2p1/4P3/P2P4/1B3N2/1PP2PPP/RNBQK2R b KQkq - 0 7": {
@@ -2567,7 +2692,8 @@
         "name": "Alekhine Defense: Modern Variation, Keres Variation",
         "scid": "B04n",
         "aliases": {
-            "scid": "Alekhine: Modern, Fianchetto, Keres Variation"
+            "scid": "Alekhine: Modern, Fianchetto, Keres Variation",
+            "ct": "Alekhine Defense, Modern Variation"
         }
     },
     "rnbqkb1r/ppp1pppp/8/3np3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5": {
@@ -2577,7 +2703,8 @@
         "name": "Alekhine Defense: Modern Variation, Larsen Variation",
         "scid": "B04f",
         "aliases": {
-            "scid": "Alekhine: Modern, Larsen Variation"
+            "scid": "Alekhine: Modern, Larsen Variation",
+            "ct": "Alekhine Defense, Modern Variation"
         }
     },
     "r1bqkb1r/ppp1pppp/2np4/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 5": {
@@ -2587,7 +2714,8 @@
         "name": "Alekhine Defense: Modern Variation, Larsen-Haakert Variation",
         "scid": "B04b",
         "aliases": {
-            "scid": "Alekhine: Modern, 4...Nc6"
+            "scid": "Alekhine: Modern, 4...Nc6",
+            "ct": "Alekhine Defense, Modern Variation"
         }
     },
     "rnbqkb1r/ppp1pppp/1n1p4/4P3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 5": {
@@ -2597,7 +2725,8 @@
         "name": "Alekhine Defense: Modern Variation, Schmid Variation",
         "scid": "B04e",
         "aliases": {
-            "scid": "Alekhine: Modern, Schmid Variation"
+            "scid": "Alekhine: Modern, Schmid Variation",
+            "ct": "Alekhine Defense, Modern Variation"
         }
     },
     "rnbqkb1r/pp2pppp/2pp4/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5": {
@@ -2670,7 +2799,8 @@
         "name": "Alekhine Defense: Modern Variation, Alekhine Variation",
         "scid": "B05c",
         "aliases": {
-            "scid": "Alekhine: Modern, Alekhine Variation"
+            "scid": "Alekhine: Modern, Alekhine Variation",
+            "ct": "Alekhine Defense, Modern Variation"
         }
     },
     "rn1qkb1r/pp2pppp/2pp4/3nP3/3P2b1/5N2/PPP1BPPP/RNBQK2R w KQkq - 0 6": {
@@ -2691,7 +2821,8 @@
         "name": "Alekhine Defense: Modern Variation, Main Line",
         "scid": "B05a",
         "aliases": {
-            "scid": "Alekhine: Modern, 4...Bg4"
+            "scid": "Alekhine: Modern, 4...Bg4",
+            "ct": "Alekhine Defense, Modern Variation"
         },
         "isEcoRoot": true
     },
@@ -2702,7 +2833,8 @@
         "name": "Alekhine Defense: Modern Variation, Panov Variation",
         "scid": "B05b",
         "aliases": {
-            "scid": "Alekhine: Modern, Panov Variation"
+            "scid": "Alekhine: Modern, Panov Variation",
+            "ct": "Alekhine Defense, Modern Variation"
         }
     },
     "rn1qkb1r/ppp1pppp/1n1p4/3PP3/2P3b1/5N2/PP3PPP/RNBQKB1R b KQkq - 0 6": {
@@ -2952,7 +3084,8 @@
         "name": "Modern Defense",
         "scid": "B06a",
         "aliases": {
-            "scid": "Modern"
+            "scid": "Modern",
+            "ct": "Modern Defense, King Pawn Fianchetto"
         },
         "isEcoRoot": true
     },
@@ -2989,14 +3122,18 @@
         "moves": "1. e4 g6 2. d4 Bg7 3. Bc4 b5",
         "name": "Modern Defense: Bishop Attack, Bücker Gambit",
         "aliases": {
-            "eco_js": "Modern Defense: Bishop Attack, Buecker Gambit"
+            "eco_js": "Modern Defense: Bishop Attack, Buecker Gambit",
+            "ct": "Modern Defense, Bishop Attack"
         }
     },
     "rnbqk1nr/pppp1p1p/4p1p1/8/2BbP3/5Q2/PPP2PPP/RNB1K1NR w KQkq - 0 5": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. Bc4 Bg7 3. Qf3 e6 4. d4 Bxd4",
-        "name": "Modern Defense: Bishop Attack, Monkey's Bum"
+        "name": "Modern Defense: Bishop Attack, Monkey's Bum",
+        "aliases": {
+            "ct": "Modern Defense, Bishop Attack"
+        }
     },
     "rnbqk1nr/pp2pp1p/2P3p1/8/2Pb4/8/PP3PPP/RNBQKBNR w KQkq - 0 6": {
         "src": "eco_tsv",
@@ -3027,7 +3164,8 @@
         "name": "Modern Defense: Lizard Defense, Mittenberger Gambit",
         "scid": "B06l",
         "aliases": {
-            "scid": "Modern: Mittenberger Gambit"
+            "scid": "Modern: Mittenberger Gambit",
+            "ct": "Modern Defense, Lizard Defense"
         }
     },
     "rnbq1rk1/ppppp2p/6pb/5P2/3P4/2N5/PPP2PPP/R2QKBNR w KQ - 1 6": {
@@ -3052,7 +3190,8 @@
         "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 b6",
         "name": "Modern Defense: Mongredien Defense, with Nc3",
         "aliases": {
-            "eco_js": "Modern Defense: Mongredien Defense, 2. d4 Bg7 3. Nc3 b6"
+            "eco_js": "Modern Defense: Mongredien Defense, 2. d4 Bg7 3. Nc3 b6",
+            "ct": "Modern Defense, Mongredien Defense"
         }
     },
     "rnbqk1nr/p1ppppbp/1p4p1/8/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4": {
@@ -3061,7 +3200,8 @@
         "moves": "1. e4 g6 2. d4 Bg7 3. Nf3 b6",
         "name": "Modern Defense: Mongredien Defense, with Nf3",
         "aliases": {
-            "eco_js": "Modern Defense: Mongredien Defense"
+            "eco_js": "Modern Defense: Mongredien Defense",
+            "ct": "Modern Defense, Mongredien Defense"
         }
     },
     "rnbqkb1r/pppppp1p/5np1/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3": {
@@ -3078,7 +3218,10 @@
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. d4 Nf6 3. e5 Nh5 4. Be2 d6",
-        "name": "Modern Defense: Norwegian Defense, Norwegian Gambit"
+        "name": "Modern Defense: Norwegian Defense, Norwegian Gambit",
+        "aliases": {
+            "ct": "Modern Defense, Norwegian Defense"
+        }
     },
     "rnbqk1nr/ppp1ppbp/3p2p1/8/3PPP2/2N5/PPP3PP/R1BQKBNR b KQkq - 0 4": {
         "src": "eco_tsv",
@@ -3094,7 +3237,10 @@
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. d4 Bg7 3. c4 c5 4. Nf3 d6 5. Be2 Qa5+",
-        "name": "Modern Defense: Semi-Averbakh Variation, Pterodactyl Variation Declined"
+        "name": "Modern Defense: Semi-Averbakh Variation, Pterodactyl Variation Declined",
+        "aliases": {
+            "ct": "Modern Defense, Semi-Averbakh Variation"
+        }
     },
     "rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4": {
         "src": "eco_tsv",
@@ -3143,14 +3289,18 @@
         "name": "Modern Defense: Two Knights Variation, Suttles Variation",
         "scid": "B06r",
         "aliases": {
-            "scid": "Modern: Two Knights, Suttles Variation"
+            "scid": "Modern: Two Knights, Suttles Variation",
+            "ct": "Modern Defense, Two Knights Variation"
         }
     },
     "rnb1k1nr/pp2ppbp/2pp2p1/6B1/3PP3/2N2N2/PqPQ1PPP/R3KB1R w KQkq - 0 7": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 c6 5. Bg5 Qb6 6. Qd2 Qxb2",
-        "name": "Modern Defense: Two Knights Variation, Suttles Variation, Tal Gambit"
+        "name": "Modern Defense: Two Knights Variation, Suttles Variation, Tal Gambit",
+        "aliases": {
+            "ct": "Modern Defense, Two Knights Variation"
+        }
     },
     "rnbqk1nr/ppppppbp/6p1/8/3PP3/8/PPPB1PPP/RN1QKBNR b KQkq - 2 3": {
         "src": "eco_tsv",
@@ -3311,115 +3461,172 @@
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. d4 Bg7 3. f4 c5 4. Nf3 Qa5+",
-        "name": "Pterodactyl Defense: Austrian, Austriadactylus Western"
+        "name": "Pterodactyl Defense: Austrian, Austriadactylus Western",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Austrian"
+        }
     },
     "rnb1k1nr/pp1pppbp/6p1/q1p5/4PP2/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 2 5": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. Nc3 Bg7 3. f4 c5 4. Nf3 Qa5",
-        "name": "Pterodactyl Defense: Austrian, Grand Prix Pterodactyl"
+        "name": "Pterodactyl Defense: Austrian, Grand Prix Pterodactyl",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Austrian"
+        }
     },
     "rnb1k1nr/pp1pppbp/6p1/q1p5/3PPP2/2P5/PP4PP/RNBQKBNR w KQkq - 1 5": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. d4 Bg7 3. f4 c5 4. c3 Qa5",
-        "name": "Pterodactyl Defense: Austrian, Pteranodon"
+        "name": "Pterodactyl Defense: Austrian, Pteranodon",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Austrian"
+        }
     },
     "rnb1k1nr/pp2ppbp/3p2p1/q1p5/2PPP3/2N1B3/PP3PPP/R2QKBNR w KQkq - 2 6": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. d4 Bg7 3. c4 c5 4. Nc3 d6 5. Be3 Qa5",
-        "name": "Pterodactyl Defense: Central, Anhanguera"
+        "name": "Pterodactyl Defense: Central, Anhanguera",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Central"
+        }
     },
     "rnb1k1nr/pp2ppbp/3p2p1/q1pP4/2P1P3/2N5/PP3PPP/R1BQKBNR w KQkq - 2 6": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. d4 Bg7 3. c4 c5 4. d5 d6 5. Nc3 Qa5",
-        "name": "Pterodactyl Defense: Central, Benoni Quetzalcoatlus"
+        "name": "Pterodactyl Defense: Central, Benoni Quetzalcoatlus",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Central"
+        }
     },
     "rnb1k1nr/pp2ppbp/3p2p1/q1P5/2P1P3/2N5/PP3PPP/R1BQKBNR w KQkq - 1 6": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. d4 Bg7 3. c4 c5 4. Nc3 d6 5. dxc5 Qa5",
-        "name": "Pterodactyl Defense: Central, Quetzalcoatlus Gambit"
+        "name": "Pterodactyl Defense: Central, Quetzalcoatlus Gambit",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Central"
+        }
     },
     "rnbqk1nr/pp1pppbp/6p1/2p5/3PP3/2N1B3/PPP2PPP/R2QKBNR b KQkq - 1 4": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 c5 4. Be3",
-        "name": "Pterodactyl Defense: Eastern, Anhanguera"
+        "name": "Pterodactyl Defense: Eastern, Anhanguera",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Eastern"
+        }
     },
     "rnbqk1nr/pp1pppbp/6p1/2pP4/4P3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. d4 g6 2. e4 Bg7 3. Nc3 c5 4. d5",
-        "name": "Pterodactyl Defense: Eastern, Benoni"
+        "name": "Pterodactyl Defense: Eastern, Benoni",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Eastern"
+        }
     },
     "rnb1k1nr/pp1ppp1p/6p1/q1pP4/4P3/2P5/P1P2PPP/R1BQKBNR w KQkq - 1 6": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 c5 4. d5 Bxc3+ 5. bxc3 Qa5",
-        "name": "Pterodactyl Defense: Eastern, Benoni Pteranodon"
+        "name": "Pterodactyl Defense: Eastern, Benoni Pteranodon",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Eastern"
+        }
     },
     "rnb1k1nr/pp1pppbp/6p1/q1pP4/4P3/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 5": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. d4 g6 2. Nc3 Bg7 3. e4 c5 4. d5 Qa5",
-        "name": "Pterodactyl Defense: Eastern, Benoni Pterodactyl"
+        "name": "Pterodactyl Defense: Eastern, Benoni Pterodactyl",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Eastern"
+        }
     },
     "rnb1k1nr/pp1ppp1p/6p1/q1P5/4P3/2P5/P1P2PPP/R1BQKBNR w KQkq - 1 6": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 c5 4. dxc5 Bxc3+ 5. bxc3 Qa5",
-        "name": "Pterodactyl Defense: Eastern, Pteranodon"
+        "name": "Pterodactyl Defense: Eastern, Pteranodon",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Eastern"
+        }
     },
     "rnb1k1nr/pp1pppbp/6p1/q1P5/4P3/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 5": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 c5 4. dxc5 Qa5",
-        "name": "Pterodactyl Defense: Eastern, Pterodactyl"
+        "name": "Pterodactyl Defense: Eastern, Pterodactyl",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Eastern"
+        }
     },
     "rnbqk1nr/pp1pppbp/6p1/2P5/4P3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 c5 4. dxc5",
-        "name": "Pterodactyl Defense: Eastern, Rhamphorhynchus"
+        "name": "Pterodactyl Defense: Eastern, Rhamphorhynchus",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Eastern"
+        }
     },
     "rnb1k1nr/pp1pppbp/6p1/q1p5/3PP3/5NP1/PPP2P1P/RNBQKB1R w KQkq - 2 5": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. d4 Bg7 3. g3 c5 4. Nf3 Qa5+",
-        "name": "Pterodactyl Defense: Fianchetto, King Pterodactyl"
+        "name": "Pterodactyl Defense: Fianchetto, King Pterodactyl",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Fianchetto"
+        }
     },
     "rnb1k1nr/pp1pppbp/6p1/q1P5/4P3/6P1/PPP2P1P/RNBQKBNR w KQkq - 1 5": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. d4 Bg7 3. g3 c5 4. dxc5 Qa5+",
-        "name": "Pterodactyl Defense: Fianchetto, Rhamphorhynchus"
+        "name": "Pterodactyl Defense: Fianchetto, Rhamphorhynchus",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Fianchetto"
+        }
     },
     "rnb1k1nr/pp2ppbp/3p2p1/q1p5/3PP3/2N2N2/PPP1BPPP/R1BQK2R w KQkq - 0 6": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 c5 4. Nf3 Qa5 5. Be2 d6",
-        "name": "Pterodactyl Defense: Sicilian, Quetzalcoatlus"
+        "name": "Pterodactyl Defense: Sicilian, Quetzalcoatlus",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Sicilian"
+        }
     },
     "rnb1k1nr/pp1pppbp/6p1/q1p5/2BPP3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 3 5": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 c5 4. Nf3 Qa5 5. Bc4",
-        "name": "Pterodactyl Defense: Sicilian, Siroccopteryx"
+        "name": "Pterodactyl Defense: Sicilian, Siroccopteryx",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Sicilian"
+        }
     },
     "rnb1k1nr/pp1pppbp/6p1/q1p5/3PP3/4BN2/PPP2PPP/RN1QKB1R w KQkq - 2 5": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. d4 Bg7 3. Nf3 c5 4. Be3 Qa5+",
-        "name": "Pterodactyl Defense: Western, Anhanguera"
+        "name": "Pterodactyl Defense: Western, Anhanguera",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Western"
+        }
     },
     "rnb1k1nr/pp1pppbp/6p1/q7/2BNP3/8/PPP2PPP/RNBQK2R w KQkq - 1 6": {
         "src": "eco_tsv",
         "eco": "B06",
         "moves": "1. e4 g6 2. Nf3 Bg7 3. d4 c5 4. Bc4 cxd4 5. Nxd4 Qa5+",
-        "name": "Pterodactyl Defense: Western, Siroccopteryx"
+        "name": "Pterodactyl Defense: Western, Siroccopteryx",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Western"
+        }
     },
     "rnbqkbnr/pp2pp1p/2pp2p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4": {
         "src": "eco_tsv",
@@ -3434,7 +3641,8 @@
         "name": "Czech Defense",
         "scid": "B07n",
         "aliases": {
-            "scid": "Pirc: Pytel/Czech"
+            "scid": "Pirc: Pytel/Czech",
+            "ct": "Czech Defense, General"
         }
     },
     "rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3": {
@@ -3458,13 +3666,19 @@
         "src": "eco_tsv",
         "eco": "B07",
         "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. f4 e5",
-        "name": "Lion Defense: Anti-Philidor, Lion's Cave"
+        "name": "Lion Defense: Anti-Philidor, Lion's Cave",
+        "aliases": {
+            "ct": "Lion Defense, Anti-Philidor"
+        }
     },
     "r1bqkb1r/pp1n1ppp/2p2n2/3p4/2BQPP2/2N2N2/PPP3PP/R1B1K2R w KQkq - 0 8": {
         "src": "eco_tsv",
         "eco": "B07",
         "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. f4 e5 5. Nf3 exd4 6. Qxd4 c6 7. Bc4 d5",
-        "name": "Lion Defense: Anti-Philidor, Lion's Cave, Lion Claw Gambit"
+        "name": "Lion Defense: Anti-Philidor, Lion's Cave, Lion Claw Gambit",
+        "aliases": {
+            "ct": "Lion Defense, Anti-Philidor"
+        }
     },
     "r1bqkb1r/pppnpppp/3p1n2/8/3PP1P1/2N5/PPP2P1P/R1BQKBNR b KQkq - 0 4": {
         "src": "eco_tsv",
@@ -3513,13 +3727,19 @@
         "src": "eco_tsv",
         "eco": "B07",
         "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. Qd2 Bg4",
-        "name": "Pirc Defense: 150 Attack, Inner Doll Defense"
+        "name": "Pirc Defense: 150 Attack, Inner Doll Defense",
+        "aliases": {
+            "ct": "Pirc Defense, 150 Attack"
+        }
     },
     "rnbqkb1r/pp2pp1p/2pp1np1/8/3PP3/2N1B2P/PPP2PP1/R2QKBNR b KQkq - 0 5": {
         "src": "eco_tsv",
         "eco": "B07",
         "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. h3",
-        "name": "Pirc Defense: 150 Attack, Sveshnikov-Jansa Attack"
+        "name": "Pirc Defense: 150 Attack, Sveshnikov-Jansa Attack",
+        "aliases": {
+            "ct": "Pirc Defense, 150 Attack"
+        }
     },
     "rnbqk2r/ppp1ppbp/3p1np1/8/3PP2P/2N5/PPP1BPP1/R1BQK1NR b KQkq - 0 5": {
         "src": "eco_tsv",
@@ -3791,7 +4011,8 @@
         "name": "Pirc: 4.Be2",
         "scid": "B07y",
         "aliases": {
-            "eco_js": "Pirc Defense: Classical Variation"
+            "eco_js": "Pirc Defense: Classical Variation",
+            "ct": "Pirc Defense, Classical Variation"
         }
     },
     "rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N5/PPP1BPPP/R1BQK1NR w KQkq - 2 5": {
@@ -3943,7 +4164,8 @@
         "name": "Pirc Defense: Classical Variation, Quiet System",
         "scid": "B08j",
         "aliases": {
-            "scid": "Pirc: Classical, 5.Be2"
+            "scid": "Pirc: Classical, 5.Be2",
+            "ct": "Pirc Defense, Classical Variation"
         }
     },
     "r1bq1rk1/ppp1ppbp/2np1np1/8/3PP3/2N2N2/PPP1BPPP/R1BQ1RK1 w - - 6 7": {
@@ -3953,7 +4175,8 @@
         "name": "Pirc Defense: Classical Variation, Quiet System, Chigorin Line",
         "scid": "B08o",
         "aliases": {
-            "scid": "Pirc: Classical, 5.Be2 O-O 6.O-O Nc6"
+            "scid": "Pirc: Classical, 5.Be2 O-O 6.O-O Nc6",
+            "ct": "Pirc Defense, Classical Variation"
         }
     },
     "rnbq1rk1/pp2ppbp/2pp1np1/8/3PP3/2N2N2/PPP1BPPP/R1BQ1RK1 w - - 0 7": {
@@ -3963,7 +4186,8 @@
         "name": "Pirc Defense: Classical Variation, Quiet System, Czech Defense",
         "scid": "B08p",
         "aliases": {
-            "scid": "Pirc: Classical, 5.Be2 O-O 6.O-O c6"
+            "scid": "Pirc: Classical, 5.Be2 O-O 6.O-O c6",
+            "ct": "Pirc Defense, Classical Variation"
         }
     },
     "rn1q1rk1/ppp1ppbp/3p1np1/8/3PP1b1/2N2N2/PPP1BPPP/R1BQ1RK1 w - - 6 7": {
@@ -3973,7 +4197,8 @@
         "name": "Pirc Defense: Classical Variation, Quiet System, Parma Defense",
         "scid": "B08t",
         "aliases": {
-            "scid": "Pirc: Classical, 5.Be2 O-O 6.O-O Bg4"
+            "scid": "Pirc: Classical, 5.Be2 O-O 6.O-O Bg4",
+            "ct": "Pirc Defense, Classical Variation"
         }
     },
     "rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N2N1P/PPP2PP1/R1BQKB1R b KQkq - 0 5": {
@@ -3983,7 +4208,8 @@
         "name": "Pirc Defense: Classical Variation, Schlechter Variation",
         "scid": "B08b",
         "aliases": {
-            "scid": "Pirc: Classical, 5.h3"
+            "scid": "Pirc: Classical, 5.h3",
+            "ct": "Pirc Defense, Classical Variation"
         }
     },
     "rnbqk2r/ppp1ppbp/3p1np1/8/P2PP3/2N2N2/1PP2PPP/R1BQKB1R b KQkq - 0 5": {
@@ -4176,7 +4402,8 @@
         "name": "Pirc Defense: Austrian Attack, Dragon Formation",
         "scid": "B09o",
         "aliases": {
-            "scid": "Pirc: Austrian, 5...c5"
+            "scid": "Pirc: Austrian, 5...c5",
+            "ct": "Pirc Defense, Austrian Attack"
         }
     },
     "rnbq1rk1/ppp1ppbp/3p1np1/8/3PPP2/2N1BN2/PPP3PP/R2QKB1R b KQ - 4 6": {
@@ -4186,7 +4413,8 @@
         "name": "Pirc Defense: Austrian Attack, Kurajica Variation",
         "scid": "B09g",
         "aliases": {
-            "scid": "Pirc: Austrian, 5...O-O 6.Be3"
+            "scid": "Pirc: Austrian, 5...O-O 6.Be3",
+            "ct": "Pirc Defense, Austrian Attack"
         }
     },
     "rnbqk2r/ppp1ppbp/3p1np1/8/2BPPP2/2N5/PPP3PP/R1BQK1NR b KQkq - 2 5": {
@@ -4196,7 +4424,8 @@
         "name": "Pirc Defense: Austrian Attack, Ljubojevic Variation",
         "scid": "B09c",
         "aliases": {
-            "scid": "Pirc: Austrian, Ljubojevic Variation"
+            "scid": "Pirc: Austrian, Ljubojevic Variation",
+            "ct": "Pirc Defense, Austrian Attack"
         }
     },
     "rnbq1rk1/ppp1ppbp/3p1np1/4P3/3P1P2/2N2N2/PPP3PP/R1BQKB1R b KQ - 0 6": {
@@ -4206,14 +4435,18 @@
         "name": "Pirc Defense: Austrian Attack, Unzicker Attack",
         "scid": "B09f",
         "aliases": {
-            "scid": "Pirc: Austrian, 5...O-O 6.e5"
+            "scid": "Pirc: Austrian, 5...O-O 6.e5",
+            "ct": "Pirc Defense, Austrian Attack"
         }
     },
     "rnbq1rk1/pppnppbp/3p2p1/4P3/3P1P1P/2N2N2/PPP3P1/R1BQKB1R b KQ - 0 7": {
         "src": "eco_tsv",
         "eco": "B09",
         "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 Nfd7 7. h4",
-        "name": "Pirc Defense: Austrian Attack, Unzicker Attack, Bronstein Variation"
+        "name": "Pirc Defense: Austrian Attack, Unzicker Attack, Bronstein Variation",
+        "aliases": {
+            "ct": "Pirc Defense, Austrian Attack"
+        }
     },
     "rnbq1rk1/ppp1ppbp/3p1np1/8/3PPP2/2NB1N2/PPP3PP/R1BQK2R b KQ - 4 6": {
         "src": "eco_tsv",
@@ -4222,7 +4455,8 @@
         "name": "Pirc Defense: Austrian Attack, Weiss Variation",
         "scid": "B09i",
         "aliases": {
-            "scid": "Pirc: Austrian, 5...O-O 6.Bd3"
+            "scid": "Pirc: Austrian, 5...O-O 6.Bd3",
+            "ct": "Pirc Defense, Austrian Attack"
         }
     },
     "rnbqk2r/ppp1ppbp/3p1np1/8/3PPP2/2N5/PPP3PP/R1BQKBNR w KQkq - 1 5": {
@@ -4365,7 +4599,8 @@
         "name": "Caro-Kann Defense",
         "scid": "B10a",
         "aliases": {
-            "scid": "Caro-Kann"
+            "scid": "Caro-Kann",
+            "ct": "Caro-Kann Defense, General"
         },
         "isEcoRoot": true
     },
@@ -4388,7 +4623,8 @@
         "scid": "B10q",
         "aliases": {
             "scid": "Caro-Kann: 2.Nc3 d5",
-            "eco_js": "Caro-Kann Defense, 2. Nc3 d5"
+            "eco_js": "Caro-Kann Defense, 2. Nc3 d5",
+            "ct": "Van Geet Opening, Caro-Kann Variation"
         }
     },
     "rnbqkbnr/pp1ppppp/2p5/8/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq - 0 2": {
@@ -4419,7 +4655,8 @@
         "name": "Caro-Kann Defense: Accelerated Panov Attack, Modern Variation",
         "scid": "B10k",
         "aliases": {
-            "scid": "Caro-Kann: English, Exchange, 4...Nf6"
+            "scid": "Caro-Kann: English, Exchange, 4...Nf6",
+            "ct": "Caro-Kann Defense, Accelerated Panov Attack"
         }
     },
     "rnbqkbnr/pp1p1ppp/2p5/4p3/2P1P3/8/PP1P1PPP/RNBQKBNR w KQkq - 0 3": {
@@ -4429,20 +4666,27 @@
         "name": "Caro-Kann Defense: Accelerated Panov Attack, Open Variation",
         "scid": "B10h",
         "aliases": {
-            "scid": "Caro-Kann: English Variation"
+            "scid": "Caro-Kann: English Variation",
+            "ct": "Caro-Kann Defense, Accelerated Panov Attack"
         }
     },
     "rnb1kbnr/pp2pppp/2p5/3q4/2P5/8/PP1P1PPP/RNBQKBNR w KQkq - 0 4": {
         "src": "eco_tsv",
         "eco": "B10",
         "moves": "1. e4 c6 2. c4 d5 3. exd5 Qxd5",
-        "name": "Caro-Kann Defense: Accelerated Panov Attack, Pseudo-Scandinavian"
+        "name": "Caro-Kann Defense: Accelerated Panov Attack, Pseudo-Scandinavian",
+        "aliases": {
+            "ct": "Caro-Kann Defense, Accelerated Panov Attack"
+        }
     },
     "rnbqkbnr/pp2pppp/8/3p4/4P3/1Q6/PP1P1PPP/RNB1KBNR b KQkq - 1 4": {
         "src": "eco_tsv",
         "eco": "B10",
         "moves": "1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. Qb3",
-        "name": "Caro-Kann Defense: Accelerated Panov Attack, Van Weersel Attack"
+        "name": "Caro-Kann Defense: Accelerated Panov Attack, Van Weersel Attack",
+        "aliases": {
+            "ct": "Caro-Kann Defense, Accelerated Panov Attack"
+        }
     },
     "rnbqkbnr/pp2pppp/8/3pN3/8/8/PPPP1PPP/RNBQKB1R b KQkq - 1 4": {
         "src": "eco_tsv",
@@ -4464,7 +4708,10 @@
         "src": "eco_tsv",
         "eco": "B10",
         "moves": "1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Ne7 7. O-O O-O 8. b4",
-        "name": "Caro-Kann Defense: Breyer Variation, Stein Attack"
+        "name": "Caro-Kann Defense: Breyer Variation, Stein Attack",
+        "aliases": {
+            "ct": "Caro-Kann Defense, Breyer Variation"
+        }
     },
     "rnbqkbnr/pp1ppppp/2p5/8/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq - 0 2": {
         "src": "eco_tsv",
@@ -4502,7 +4749,10 @@
         "src": "eco_tsv",
         "eco": "B10",
         "moves": "1. e4 c6 2. Bc4 d5 3. Bb3 dxe4 4. Qh5",
-        "name": "Caro-Kann Defense: Hillbilly Attack, Schaeffer Gambit"
+        "name": "Caro-Kann Defense: Hillbilly Attack, Schaeffer Gambit",
+        "aliases": {
+            "ct": "Caro-Kann Defense, Hillbilly Attack"
+        }
     },
     "rnbqkbnr/pp1ppppp/2p5/8/1P2P3/8/P1PP1PPP/RNBQKBNR b KQkq - 0 2": {
         "src": "eco_tsv",
@@ -4514,13 +4764,19 @@
         "src": "eco_tsv",
         "eco": "B10",
         "moves": "1. e4 c6 2. b4 d5 3. b5",
-        "name": "Caro-Kann Defense: Labahn Attack, Double Gambit"
+        "name": "Caro-Kann Defense: Labahn Attack, Double Gambit",
+        "aliases": {
+            "ct": "Caro-Kann Defense, Labahn Attack"
+        }
     },
     "rnbqkbnr/pp1p1ppp/2p5/4p3/1P2P3/8/PBPP1PPP/RN1QKBNR b KQkq - 1 3": {
         "src": "eco_tsv",
         "eco": "B10",
         "moves": "1. e4 c6 2. b4 e5 3. Bb2",
-        "name": "Caro-Kann Defense: Labahn Attack, Polish Variation"
+        "name": "Caro-Kann Defense: Labahn Attack, Polish Variation",
+        "aliases": {
+            "ct": "Caro-Kann Defense, Labahn Attack"
+        }
     },
     "rnbqkbnr/pp2pppp/2p5/6B1/4p3/2NP4/PPP2PPP/R2QKBNR b KQkq - 1 4": {
         "src": "eco_tsv",
@@ -4696,7 +4952,8 @@
         "name": "Caro-Kann Defense: Two Knights Attack, Mindeno Variation",
         "scid": "B11a",
         "aliases": {
-            "scid": "Caro-Kann: Two Knights, 3...Bg4"
+            "scid": "Caro-Kann: Two Knights, 3...Bg4",
+            "ct": "Caro-Kann Defense, Two Knights Attack"
         },
         "isEcoRoot": true
     },
@@ -4707,7 +4964,8 @@
         "name": "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line",
         "scid": "B11d",
         "aliases": {
-            "scid": "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3"
+            "scid": "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3",
+            "ct": "Caro-Kann Defense, Two Knights Attack"
         }
     },
     "rn1qkbnr/pp2pppp/2p5/3p3b/4P3/2N2N1P/PPPP1PP1/R1BQKB1R w KQkq - 1 5": {
@@ -4717,7 +4975,8 @@
         "name": "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Retreat Line",
         "scid": "B11b",
         "aliases": {
-            "scid": "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bh5"
+            "scid": "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bh5",
+            "ct": "Caro-Kann Defense, Two Knights Attack"
         }
     },
     "rn1qkbnr/pp2pppp/2p5/3p4/4P1b1/2N2N1P/PPPP1PP1/R1BQKB1R b KQkq - 0 4": {
@@ -4865,7 +5124,8 @@
         "name": "Caro-Kann Defense: Advance Variation, Bayonet Attack",
         "scid": "B12l",
         "aliases": {
-            "scid": "Caro-Kann: Advance, Bayonet Variation"
+            "scid": "Caro-Kann: Advance, Bayonet Variation",
+            "ct": "Caro-Kann Defense, Advance Variation"
         }
     },
     "rnbqkbnr/pp2pppp/8/2ppP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4": {
@@ -4875,20 +5135,27 @@
         "name": "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense",
         "scid": "B12j",
         "aliases": {
-            "scid": "Caro-Kann: Advance, 3...c5"
+            "scid": "Caro-Kann: Advance, 3...c5",
+            "ct": "Caro-Kann Defense, Advance Variation"
         }
     },
     "rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/8/PPP1NPPP/RNBQKB1R b KQkq - 2 4": {
         "src": "eco_tsv",
         "eco": "B12",
         "moves": "1. e4 c6 2. d4 d5 3. e5 Bf5 4. Ne2",
-        "name": "Caro-Kann Defense: Advance Variation, Bronstein Variation"
+        "name": "Caro-Kann Defense: Advance Variation, Bronstein Variation",
+        "aliases": {
+            "ct": "Caro-Kann Defense, Advance Variation"
+        }
     },
     "rn1qkbnr/pp2pppp/2p5/3pPb2/1P1P4/8/P1P2PPP/RNBQKBNR b KQkq - 0 4": {
         "src": "eco_tsv",
         "eco": "B12",
         "moves": "1. e4 c6 2. d4 d5 3. e5 Bf5 4. b4",
-        "name": "Caro-Kann Defense: Advance Variation, Prins Attack"
+        "name": "Caro-Kann Defense: Advance Variation, Prins Attack",
+        "aliases": {
+            "ct": "Caro-Kann Defense, Advance Variation"
+        }
     },
     "rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 2 4": {
         "src": "eco_tsv",
@@ -4897,7 +5164,8 @@
         "name": "Caro-Kann Defense: Advance Variation, Short Variation",
         "scid": "B12p",
         "aliases": {
-            "scid": "Caro-Kann: Advance, 4.Nf3"
+            "scid": "Caro-Kann: Advance, 4.Nf3",
+            "ct": "Caro-Kann Defense, Advance Variation"
         }
     },
     "rn1qkbnr/pp2pppp/2p5/3pPb2/3P3P/8/PPP2PP1/RNBQKBNR b KQkq - 0 4": {
@@ -4907,7 +5175,8 @@
         "name": "Caro-Kann Defense: Advance Variation, Tal Variation",
         "scid": "B12m",
         "aliases": {
-            "scid": "Caro-Kann: Advance, 4.h4"
+            "scid": "Caro-Kann: Advance, 4.h4",
+            "ct": "Caro-Kann Defense, Advance Variation"
         }
     },
     "rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 4": {
@@ -4917,7 +5186,8 @@
         "name": "Caro-Kann Defense: Advance Variation, Van der Wiel Attack",
         "scid": "B12v",
         "aliases": {
-            "scid": "Caro-Kann: Advance, 4.Nc3"
+            "scid": "Caro-Kann: Advance, 4.Nc3",
+            "ct": "Caro-Kann Defense, Advance Variation"
         }
     },
     "rn1qkbnr/pp3ppp/4p1b1/2ppP3/3P2PP/2N5/PPP1NP2/R1BQKB1R b KQkq - 0 7": {
@@ -4926,7 +5196,8 @@
         "moves": "1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4",
         "name": "Caro-Kann Defense: Advance Variation, Van der Wiel Attack",
         "aliases": {
-            "eco_js": "Caro-Kann Defense: Advance Variation, Van der Wiel Attack, 6. Nge2 c5 7. h4"
+            "eco_js": "Caro-Kann Defense: Advance Variation, Van der Wiel Attack, 6. Nge2 c5 7. h4",
+            "ct": "Caro-Kann Defense, Advance Variation"
         }
     },
     "rn2kbnr/pp2pppp/1qp5/3pPb2/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 3 5": {
@@ -4936,7 +5207,8 @@
         "name": "Caro-Kann Defense: Advance Variation, Van der Wiel Attack, Dreyev Defense",
         "scid": "B12v",
         "aliases": {
-            "scid": "Caro-Kann: Advance, 4.Nc3 Qb6"
+            "scid": "Caro-Kann: Advance, 4.Nc3 Qb6",
+            "ct": "Caro-Kann Defense, Advance Variation"
         }
     },
     "rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P4/2P5/PP2BPPP/RNBQK1NR b KQkq - 1 5": {
@@ -4997,7 +5269,8 @@
         "scid": "B12f",
         "aliases": {
             "scid": "Caro-Kann: Maroczy (Fantasy), Gambit line",
-            "eco_js": "Caro-Kann Defense: Maroczy Variation, Maroczy Gambit"
+            "eco_js": "Caro-Kann Defense: Maroczy Variation, Maroczy Gambit",
+            "ct": "Caro-Kann Defense, Maroczy Variation"
         }
     },
     "rnbqkb1r/pp1ppppp/2p2n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3": {
@@ -5020,7 +5293,10 @@
         "src": "eco_tsv",
         "eco": "B12",
         "moves": "1. e4 c6 2. d4 d5 3. Bd3 Nf6 4. e5 Nfd7 5. e6",
-        "name": "Caro-Kann Defense: Mieses Attack, Landau Gambit"
+        "name": "Caro-Kann Defense: Mieses Attack, Landau Gambit",
+        "aliases": {
+            "ct": "Caro-Kann Defense, Mieses Attack"
+        }
     },
     "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/4B3/PPP2PPP/RN1QKBNR b KQkq - 1 3": {
         "src": "eco_tsv",
@@ -5276,7 +5552,10 @@
         "src": "eco_tsv",
         "eco": "B13",
         "moves": "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. g4",
-        "name": "Caro-Kann Defense: Exchange Variation, Bulla Attack"
+        "name": "Caro-Kann Defense: Exchange Variation, Bulla Attack",
+        "aliases": {
+            "ct": "Caro-Kann Defense, Exchange Variation"
+        }
     },
     "r1bqkb1r/pp2pppp/2n2n2/3p4/3P1B2/2PB4/PP3PPP/RN1QK1NR b KQkq - 2 6": {
         "src": "eco_tsv",
@@ -5285,7 +5564,8 @@
         "name": "Caro-Kann Defense: Exchange Variation, Rubinstein Variation",
         "scid": "B13j",
         "aliases": {
-            "scid": "Caro-Kann: Exchange, Rubinstein Variation"
+            "scid": "Caro-Kann: Exchange, Rubinstein Variation",
+            "ct": "Caro-Kann Defense, Exchange  Variation"
         }
     },
     "rnbqkbnr/pp2pppp/8/3p4/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 0 4": {
@@ -5316,7 +5596,8 @@
         "name": "Caro-Kann Defense: Panov Attack, Gunderam Attack",
         "scid": "B13o",
         "aliases": {
-            "scid": "Caro-Kann: Panov-Botvinnik, Gunderam Variation"
+            "scid": "Caro-Kann: Panov-Botvinnik, Gunderam Variation",
+            "ct": "Caro-Kann Defense, Panov Attack"
         }
     },
     "r1bqkb1r/pp2pppp/2n2n2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR w KQkq - 3 6": {
@@ -5326,7 +5607,8 @@
         "name": "Caro-Kann Defense: Panov Attack, Modern Defense",
         "scid": "B13q",
         "aliases": {
-            "scid": "Caro-Kann: Panov-Botvinnik, 5...Nc6"
+            "scid": "Caro-Kann: Panov-Botvinnik, 5...Nc6",
+            "ct": "Caro-Kann Defense, Panov Attack"
         }
     },
     "r1bqkb1r/pp3ppp/2n1pn2/3p2B1/2PP4/2N5/PP3PPP/R2QKBNR w KQkq - 0 7": {
@@ -5336,7 +5618,8 @@
         "name": "Caro-Kann Defense: Panov Attack, Modern Defense, Carlsbad Line",
         "scid": "B13y",
         "aliases": {
-            "scid": "Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variation"
+            "scid": "Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variation",
+            "ct": "Caro-Kann Defense, Panov Attack"
         }
     },
     "r1b1kb1r/pp2pppp/2n2n2/q2p2B1/2PP4/2N5/PP3PPP/R2QKBNR w KQkq - 5 7": {
@@ -5346,7 +5629,8 @@
         "name": "Caro-Kann Defense: Panov Attack, Modern Defense, Czerniak Line",
         "scid": "B13w",
         "aliases": {
-            "scid": "Caro-Kann: Panov-Botvinnik, 5...Nc6, Czerniak Variation"
+            "scid": "Caro-Kann: Panov-Botvinnik, 5...Nc6, Czerniak Variation",
+            "ct": "Caro-Kann Defense, Panov Attack"
         }
     },
     "r2qkb1r/pp2pppp/2n2n2/3p4/2PP2b1/2N2N2/PP3PPP/R1BQKB1R w KQkq - 5 7": {
@@ -5356,7 +5640,8 @@
         "name": "Caro-Kann Defense: Panov Attack, Modern Defense, Mieses Line",
         "scid": "B13s",
         "aliases": {
-            "scid": "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4"
+            "scid": "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4",
+            "ct": "Caro-Kann Defense, Panov Attack"
         }
     },
     "r1b1kb1r/pp2pppp/1qn2n2/3p2B1/2PP4/2N5/PP3PPP/R2QKBNR w KQkq - 5 7": {
@@ -5366,7 +5651,8 @@
         "name": "Caro-Kann Defense: Panov Attack, Modern Defense, Reifir-Spielmann Line",
         "scid": "B13v",
         "aliases": {
-            "scid": "Caro-Kann: Panov-Botvinnik, 5...Nc6, Spielmann Variation"
+            "scid": "Caro-Kann: Panov-Botvinnik, 5...Nc6, Spielmann Variation",
+            "ct": "Caro-Kann Defense, Panov Attack"
         }
     },
     "r1bqkb1r/pp2pppp/5n2/n2P2B1/2p5/2N5/PP3PPP/R2QKBNR w KQkq - 1 8": {
@@ -5630,7 +5916,8 @@
         "name": "Caro-Kann Defense: Panov Attack, Fianchetto Defense",
         "scid": "B14a",
         "aliases": {
-            "scid": "Caro-Kann: Panov-Botvinnik, 5...g6"
+            "scid": "Caro-Kann: Panov-Botvinnik, 5...g6",
+            "ct": "Caro-Kann Defense, Panov Attack"
         }
     },
     "rnbqk2r/pp2ppbp/5np1/3P4/3P4/2N5/PP3PPP/R1BQKBNR w KQkq - 1 7": {
@@ -5640,7 +5927,8 @@
         "name": "Caro-Kann Defense: Panov Attack, Fianchetto Defense, Fianchetto Gambit",
         "scid": "B14e",
         "aliases": {
-            "scid": "Caro-Kann: Panov-Botvinnik, 5...g6 6.cxd5 Bg7"
+            "scid": "Caro-Kann: Panov-Botvinnik, 5...g6 6.cxd5 Bg7",
+            "ct": "Caro-Kann Defense, Panov Attack"
         }
     },
     "rnbqk2r/pp3ppp/4pn2/3p4/1bPP4/2N2N2/PP3PPP/R1BQKB1R w KQkq - 2 7": {
@@ -5830,7 +6118,8 @@
         "scid": "B15a",
         "aliases": {
             "scid": "Caro-Kann: 3.Nc3",
-            "eco_js": "Caro-Kann Defense, 2. d4 d5 3. Nc3"
+            "eco_js": "Caro-Kann Defense, 2. d4 d5 3. Nc3",
+            "ct": "Caro-Kann Defense, Standard"
         },
         "isEcoRoot": true
     },
@@ -6218,7 +6507,8 @@
         "name": "Caro-Kann Defense: Karpov Variation, Modern Main Line",
         "scid": "B17m",
         "aliases": {
-            "scid": "Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3, Main Line 10.Qxe4"
+            "scid": "Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3, Main Line 10.Qxe4",
+            "ct": "Caro-Kann Defense, Karpov Variation"
         }
     },
     "r1bqkbnr/pp1npppp/2p5/6N1/3P4/8/PPP2PPP/R1BQKBNR b KQkq - 2 5": {
@@ -6228,14 +6518,18 @@
         "name": "Caro-Kann Defense: Karpov Variation, Modern Variation",
         "scid": "B17h",
         "aliases": {
-            "scid": "Caro-Kann: Steinitz, 5.Ng5"
+            "scid": "Caro-Kann: Steinitz, 5.Ng5",
+            "ct": "Caro-Kann Defense, Karpov Variation"
         }
     },
     "r1bqkbnr/pp2pppp/2p2n2/6N1/3P4/8/PPP2PPP/R1BQKBNR w KQkq - 3 6": {
         "src": "eco_tsv",
         "eco": "B17",
         "moves": "1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Ng5 Ndf6",
-        "name": "Caro-Kann Defense: Karpov Variation, Modern Variation, Ivanchuk Defense"
+        "name": "Caro-Kann Defense: Karpov Variation, Modern Variation, Ivanchuk Defense",
+        "aliases": {
+            "ct": "Caro-Kann Defense, Karpov Variation"
+        }
     },
     "r1bqkb1r/pp1npppp/2p2n2/8/3P4/5NN1/PPP2PPP/R1BQKB1R b KQkq - 4 6": {
         "src": "eco_tsv",
@@ -6244,14 +6538,18 @@
         "name": "Caro-Kann Defense: Karpov Variation, Modern Variation, Kasparov Attack",
         "scid": "B17f",
         "aliases": {
-            "scid": "Caro-Kann: Steinitz, 5.Nf3 Ngf6 6.Ng3"
+            "scid": "Caro-Kann: Steinitz, 5.Nf3 Ngf6 6.Ng3",
+            "ct": "Caro-Kann Defense, Karpov Variation"
         }
     },
     "r1bqkb1r/pp3ppp/1np1pn2/6N1/2BP4/8/PPP1QPPP/R1B1K1NR w KQkq - 2 8": {
         "src": "eco_tsv",
         "eco": "B17",
         "moves": "1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6",
-        "name": "Caro-Kann Defense: Karpov Variation, Smyslov Variation"
+        "name": "Caro-Kann Defense: Karpov Variation, Smyslov Variation",
+        "aliases": {
+            "ct": "Caro-Kann Defense, Karpov Variation"
+        }
     },
     "r1bqkb1r/pp3ppp/1np1pn2/6N1/3P4/1B6/PPP1QPPP/R1B1K1NR b KQkq - 3 8": {
         "src": "eco_tsv",
@@ -6260,14 +6558,18 @@
         "name": "Caro-Kann Defense: Karpov Variation, Smyslov Variation, Main Line",
         "scid": "B17s",
         "aliases": {
-            "scid": "Caro-Kann: Steinitz, 5.Bc4 Ngf6 6.Ng5, 8.Bb3"
+            "scid": "Caro-Kann: Steinitz, 5.Bc4 Ngf6 6.Ng5, 8.Bb3",
+            "ct": "Caro-Kann Defense, Karpov Variation"
         }
     },
     "r1bqkb1r/pp2pppp/2p2n2/8/2BP4/8/PPP2PPP/R1BQK1NR w KQkq - 0 7": {
         "src": "eco_tsv",
         "eco": "B17",
         "moves": "1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Nxf6+ Nxf6",
-        "name": "Caro-Kann Defense: Karpov Variation, Tiviakov-Fischer Attack"
+        "name": "Caro-Kann Defense: Karpov Variation, Tiviakov-Fischer Attack",
+        "aliases": {
+            "ct": "Caro-Kann Defense, Karpov Variation"
+        }
     },
     "r1bqkbnr/pp1npppp/2p5/8/2BPN3/8/PPP2PPP/R1BQK1NR b KQkq - 2 5": {
         "src": "scid",
@@ -6399,7 +6701,8 @@
         "name": "Caro-Kann Defense: Classical Variation, Flohr Variation",
         "scid": "B18g",
         "aliases": {
-            "scid": "Caro-Kann: Classical, Flohr Variation"
+            "scid": "Caro-Kann: Classical, Flohr Variation",
+            "ct": "Caro-Kann Defense, Classical Variation"
         }
     },
     "rn1qkbnr/pp2pppp/2p3b1/8/3P3P/6N1/PPP2PP1/R1BQKBNR b KQkq - 0 6": {
@@ -6409,7 +6712,8 @@
         "name": "Caro-Kann Defense: Classical Variation, Main Line",
         "scid": "B18p",
         "aliases": {
-            "scid": "Caro-Kann: Classical, 6.h4"
+            "scid": "Caro-Kann: Classical, 6.h4",
+            "ct": "Caro-Kann Defense, Classical Variation"
         }
     },
     "rn1qkbnr/pp2pppp/2p3b1/8/3P1P2/6N1/PPP3PP/R1BQKBNR b KQkq - 0 6": {
@@ -6420,7 +6724,8 @@
         "scid": "B18f",
         "aliases": {
             "scid": "Caro-Kann: Classical, Maroczy Attack",
-            "eco_js": "Caro-Kann Defense: Classical Variation, Maroczy Attack"
+            "eco_js": "Caro-Kann Defense: Classical Variation, Maroczy Attack",
+            "ct": "Caro-Kann Defense, Classical Variation"
         }
     },
     "rn1qkbnr/pp2pppp/2p5/2N2b2/3P4/8/PPP2PPP/R1BQKBNR b KQkq - 2 5": {
@@ -6551,7 +6856,10 @@
         "src": "eco_tsv",
         "eco": "B19",
         "moves": "1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7",
-        "name": "Caro-Kann Defense: Classical Variation, Lobron System"
+        "name": "Caro-Kann Defense: Classical Variation, Lobron System",
+        "aliases": {
+            "ct": "Caro-Kann Defense, Classical Variation"
+        }
     },
     "r2qk2r/pp1n1pp1/2pbpn1p/7P/3P4/3Q1NN1/PPPB1PP1/2KR3R w kq - 2 13": {
         "src": "eco_tsv",
@@ -6631,7 +6939,10 @@
         "eco": "B19",
         "moves": "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5 Bh7 9. Bd3 Bxd3 10. Qxd3",
         "name": "Caro-Kann: Classical, Spassky, 10.Qxd3",
-        "scid": "B19i"
+        "scid": "B19i",
+        "aliases": {
+            "ct": "Caro-Kann Defense, Classical Variation"
+        }
     },
     "r2qkbnr/pp1n1pp1/2p1p2p/7P/3P4/3Q1NN1/PPP2PP1/R1B1K2R w KQkq - 0 11": {
         "src": "scid",
@@ -6717,7 +7028,8 @@
         "name": "Sicilian Defense",
         "scid": "B20",
         "aliases": {
-            "scid": "Sicilian Defence"
+            "scid": "Sicilian Defence",
+            "ct": "Sicilian Defense, General"
         },
         "isEcoRoot": true
     },
@@ -6747,7 +7059,10 @@
         "src": "eco_tsv",
         "eco": "B20",
         "moves": "1. e4 c5 2. Nh3",
-        "name": "Sicilian Defense: Brick Variation"
+        "name": "Sicilian Defense: Brick Variation",
+        "aliases": {
+            "ct": "Sicilian Defense, The Brick"
+        }
     },
     "rnbqkbnr/pp2pppp/8/2pp4/4P3/1P6/PBPP1PPP/RN1QKBNR b KQkq - 1 3": {
         "src": "eco_tsv",
@@ -6777,7 +7092,8 @@
         "name": "Sicilian Defense: Keres Variation",
         "scid": "B20",
         "aliases": {
-            "scid": "Sicilian: Keres Variation (2.Ne2)"
+            "scid": "Sicilian: Keres Variation (2.Ne2)",
+            "ct": "Sicilian Defense, Chameleon"
         }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPPKPPP/RNBQ1BNR b kq - 1 2": {
@@ -6796,7 +7112,10 @@
         "src": "eco_tsv",
         "eco": "B20",
         "moves": "1. e4 c5 2. Na3 Nc6 3. d4 cxd4 4. Bc4",
-        "name": "Sicilian Defense: Kronberger Variation, Nemeth Gambit"
+        "name": "Sicilian Defense: Kronberger Variation, Nemeth Gambit",
+        "aliases": {
+            "ct": "Sicilian Defense, Kronberger Variation"
+        }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/4P3/6P1/PPPP1P1P/RNBQKBNR b KQkq - 0 2": {
         "src": "eco_tsv",
@@ -6824,7 +7143,8 @@
         "moves": "1. e4 c5 2. a4",
         "name": "Sicilian Defense: Myers Attack, with a4",
         "aliases": {
-            "eco_js": "Sicilian Defense: Myers Attack, 2. a4"
+            "eco_js": "Sicilian Defense: Myers Attack, 2. a4",
+            "ct": "Sicilian Defense, Myers Attack"
         }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/4P2P/8/PPPP1PP1/RNBQKBNR b KQkq - 0 2": {
@@ -6833,7 +7153,8 @@
         "moves": "1. e4 c5 2. h4",
         "name": "Sicilian Defense: Myers Attack, with h4",
         "aliases": {
-            "eco_js": "Sicilian Defense: Myers Attack"
+            "eco_js": "Sicilian Defense: Myers Attack",
+            "ct": "Sicilian Defense, Myers Attack"
         }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq - 0 2": {
@@ -6850,7 +7171,10 @@
         "src": "eco_tsv",
         "eco": "B20",
         "moves": "1. e4 c5 2. b3 b6",
-        "name": "Sicilian Defense: Snyder Variation, Queen Fianchetto Variation"
+        "name": "Sicilian Defense: Snyder Variation, Queen Fianchetto Variation",
+        "aliases": {
+            "ct": "Sicilian Defense, Snyder Variation"
+        }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq - 0 2": {
         "src": "eco_tsv",
@@ -6876,7 +7200,10 @@
         "src": "eco_tsv",
         "eco": "B20",
         "moves": "1. e4 c5 2. b4 cxb4 3. Bb2",
-        "name": "Sicilian Defense: Wing Gambit, Abrahams Variation"
+        "name": "Sicilian Defense: Wing Gambit, Abrahams Variation",
+        "aliases": {
+            "ct": "Sicilian Defense, Wing Gambit"
+        }
     },
     "rnbqkbnr/pp1ppppp/8/8/4P3/p7/2PP1PPP/RNBQKBNR w KQkq - 0 4": {
         "src": "eco_tsv",
@@ -6885,7 +7212,8 @@
         "name": "Sicilian Defense: Wing Gambit, Carlsbad Variation",
         "scid": "B20",
         "aliases": {
-            "scid": "Sicilian: Wing Gambit, Carlsbad Variation"
+            "scid": "Sicilian: Wing Gambit, Carlsbad Variation",
+            "ct": "Sicilian Defense, Wing Gambit"
         }
     },
     "rnb1kbnr/pp2pppp/8/3q4/1p6/P7/1BPP1PPP/RN1QKBNR b KQkq - 1 5": {
@@ -6905,20 +7233,27 @@
         "name": "Sicilian Defense: Wing Gambit, Marshall Variation",
         "scid": "B20",
         "aliases": {
-            "scid": "Sicilian: Wing Gambit, Marshall Variation"
+            "scid": "Sicilian: Wing Gambit, Marshall Variation",
+            "ct": "Sicilian Defense, Wing Gambit"
         }
     },
     "rnb1kbnr/pp3ppp/4q3/4p3/1pP5/P2B1N2/3P1PPP/RNBQK2R b KQkq - 2 7": {
         "src": "eco_tsv",
         "eco": "B20",
         "moves": "1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 e5 6. c4 Qe6 7. Bd3",
-        "name": "Sicilian Defense: Wing Gambit, Nanu Gambit"
+        "name": "Sicilian Defense: Wing Gambit, Nanu Gambit",
+        "aliases": {
+            "ct": "Sicilian Defense, Wing Gambit"
+        }
     },
     "r1b1kbnr/pp3ppp/2n1q3/4p3/1pP5/P4N2/1B1P1PPP/RN1QKB1R w KQkq - 1 8": {
         "src": "eco_tsv",
         "eco": "B20",
         "moves": "1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 e5 6. Bb2 Nc6 7. c4 Qe6",
-        "name": "Sicilian Defense: Wing Gambit, Romanian Defense"
+        "name": "Sicilian Defense: Wing Gambit, Romanian Defense",
+        "aliases": {
+            "ct": "Sicilian Defense, Wing Gambit"
+        }
     },
     "rnbqkbnr/pp1ppppp/8/8/1pP1P3/8/P2P1PPP/RNBQKBNR b KQkq c3 0 3": {
         "src": "eco_tsv",
@@ -7067,7 +7402,10 @@
         "src": "eco_tsv",
         "eco": "B21",
         "moves": "1. e4 c5 2. f4 d5 3. Nf3 dxe4",
-        "name": "Bird Opening: Dutch Variation, Batavo Gambit"
+        "name": "Bird Opening: Dutch Variation, Batavo Gambit",
+        "aliases": {
+            "ct": "Bird Opening, Dutch Variation"
+        }
     },
     "r1bqkb1r/pp1ppppp/2n2n2/8/2B1P3/8/PPP2PPP/RNBQK1NR b KQkq - 4 5": {
         "src": "eco_tsv",
@@ -7103,7 +7441,8 @@
         "name": "Sicilian Defense: McDonnell Attack, Tal Gambit",
         "scid": "B21k",
         "aliases": {
-            "scid": "Sicilian: Grand Prix, Tal Gambit"
+            "scid": "Sicilian: Grand Prix, Tal Gambit",
+            "ct": "Sicilian Defense, McDonnell Attack"
         }
     },
     "rnbqkbnr/pp1ppppp/8/8/3pP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 3": {
@@ -7123,7 +7462,8 @@
         "name": "Sicilian Defense: Morphy Gambit, Andreaschek Gambit",
         "scid": "B21n",
         "aliases": {
-            "scid": "Sicilian: Smith-Morra, Andreaschek Gambit"
+            "scid": "Sicilian: Smith-Morra, Andreaschek Gambit",
+            "ct": "Sicilian Defense, Morphy Gambit"
         }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2": {
@@ -7151,19 +7491,28 @@
         "src": "eco_tsv",
         "eco": "B21",
         "moves": "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 d6 5. Nf3 e6 6. Bc4 Nf6 7. O-O a6",
-        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Chicago Defense"
+        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Chicago Defense",
+        "aliases": {
+            "ct": "Sicilian Defense, Smith-Morra Gambit"
+        }
     },
     "r1bqkb1r/1p2pppp/p1np1n2/8/2B1P3/2N2N2/PP3PPP/R1BQ1RK1 w kq - 2 8": {
         "src": "eco_tsv",
         "eco": "B21",
         "moves": "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 a6 7. O-O Nf6",
-        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Classical Formation"
+        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Classical Formation",
+        "aliases": {
+            "ct": "Sicilian Defense, Smith-Morra Gambit"
+        }
     },
     "r1bqkbnr/pp1ppp1p/2n3p1/8/4P3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 0 6": {
         "src": "eco_tsv",
         "eco": "B21",
         "moves": "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 g6",
-        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Fianchetto Defense"
+        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Fianchetto Defense",
+        "aliases": {
+            "ct": "Sicilian Defense, Smith-Morra Gambit"
+        }
     },
     "rnbqk2r/1p2bppp/p2ppn2/8/2B1P3/2N2N2/PP2QPPP/R1B2RK1 w kq - 4 9": {
         "src": "eco_tsv",
@@ -7175,7 +7524,10 @@
         "src": "eco_tsv",
         "eco": "B21",
         "moves": "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 a6",
-        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Kan Formation"
+        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Kan Formation",
+        "aliases": {
+            "ct": "Sicilian Defense, Smith-Morra Gambit"
+        }
     },
     "r1b1k1nr/1pqp1ppp/p1nbp3/8/2B1P3/2N2N2/PP2QPPP/R1B2RK1 w kq - 2 9": {
         "src": "eco_tsv",
@@ -7187,13 +7539,19 @@
         "src": "eco_tsv",
         "eco": "B21",
         "moves": "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 e6 6. Bc4 Bc5",
-        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Morphy Defense"
+        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Morphy Defense",
+        "aliases": {
+            "ct": "Sicilian Defense, Smith-Morra Gambit"
+        }
     },
     "r1bqk1nr/3p1ppp/p1n1p3/1pb5/4P3/1BN2N2/PP3PPP/R1BQ1RK1 w kq - 2 9": {
         "src": "eco_tsv",
         "eco": "B21",
         "moves": "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 e6 6. Bc4 a6 7. O-O b5 8. Bb3 Bc5",
-        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Morphy Defense Deferred"
+        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Morphy Defense Deferred",
+        "aliases": {
+            "ct": "Sicilian Defense, Smith-Morra Gambit"
+        }
     },
     "r1bqkbnr/1p1p1ppp/p1n1p3/8/2B1P3/2N2N2/PP3PPP/R1BQK2R w KQkq - 0 7": {
         "src": "eco_tsv",
@@ -7202,14 +7560,18 @@
         "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Paulsen Formation",
         "scid": "B21x",
         "aliases": {
-            "scid": "Sicilian: Smith-Morra, 4.Nxc3 Nc6 5.Nf3 e6 6.Bc4 a6"
+            "scid": "Sicilian: Smith-Morra, 4.Nxc3 Nc6 5.Nf3 e6 6.Bc4 a6",
+            "ct": "Sicilian Defense, Smith-Morra Gambit"
         }
     },
     "r1bqk1nr/pp1p1ppp/2n1p3/8/1bB1P3/2N2N2/PP3PPP/R1BQK2R w KQkq - 2 7": {
         "src": "eco_tsv",
         "eco": "B21",
         "moves": "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 e6 6. Bc4 Bb4",
-        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Pin Defense"
+        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Pin Defense",
+        "aliases": {
+            "ct": "Sicilian Defense, Smith-Morra Gambit"
+        }
     },
     "r1bqkbnr/pp3ppp/2npp3/8/2B1P3/2N2N2/PP3PPP/R1BQK2R w KQkq - 0 7": {
         "src": "eco_tsv",
@@ -7218,20 +7580,27 @@
         "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Scheveningen Formation",
         "scid": "B21y",
         "aliases": {
-            "scid": "Sicilian: Smith-Morra, 5.Nf3 d6 6.Bc4 e6"
+            "scid": "Sicilian: Smith-Morra, 5.Nf3 d6 6.Bc4 e6",
+            "ct": "Sicilian Defense, Smith-Morra Gambit"
         }
     },
     "r1bqkbnr/5ppp/p1npp3/1p6/2B1P3/2N2N2/PP2QPPP/R1B2RK1 w kq - 0 9": {
         "src": "eco_tsv",
         "eco": "B21",
         "moves": "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Bc4 e6 6. Nf3 d6 7. O-O a6 8. Qe2 b5",
-        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Sozin Formation"
+        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Sozin Formation",
+        "aliases": {
+            "ct": "Sicilian Defense, Smith-Morra Gambit"
+        }
     },
     "rnbqkb1r/1p1pnppp/p3p3/8/2B1P3/2N2N2/PP3PPP/R1BQK2R w KQkq - 2 7": {
         "src": "eco_tsv",
         "eco": "B21",
         "moves": "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Bc4 a6 6. Nf3 Ne7",
-        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Taimanov Formation"
+        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Taimanov Formation",
+        "aliases": {
+            "ct": "Sicilian Defense, Smith-Morra Gambit"
+        }
     },
     "rnbqkb1r/pp1ppppp/5n2/8/3pP3/2P5/PP3PPP/RNBQKBNR w KQkq - 1 4": {
         "src": "eco_tsv",
@@ -7240,20 +7609,27 @@
         "name": "Sicilian Defense: Smith-Morra Gambit Declined, Alapin Formation",
         "scid": "B21p",
         "aliases": {
-            "scid": "Sicilian: Smith-Morra, 3.c3 Nf6"
+            "scid": "Sicilian: Smith-Morra, 3.c3 Nf6",
+            "ct": "Sicilian Defense, Smith-Morra Gambit"
         }
     },
     "rnbqkbnr/pp1p1ppp/8/4p3/3pP3/2P5/PP3PPP/RNBQKBNR w KQkq - 0 4": {
         "src": "eco_tsv",
         "eco": "B21",
         "moves": "1. e4 c5 2. d4 cxd4 3. c3 e5",
-        "name": "Sicilian Defense: Smith-Morra Gambit Declined, Center Formation"
+        "name": "Sicilian Defense: Smith-Morra Gambit Declined, Center Formation",
+        "aliases": {
+            "ct": "Sicilian Defense, Smith-Morra Gambit"
+        }
     },
     "rnbqkbnr/pp1ppppp/8/8/2P1P3/3p4/PP3PPP/RNBQKBNR b KQkq - 0 4": {
         "src": "eco_tsv",
         "eco": "B21",
         "moves": "1. e4 c5 2. d4 cxd4 3. c3 d3 4. c4",
-        "name": "Sicilian Defense: Smith-Morra Gambit Declined, Dubois Variation"
+        "name": "Sicilian Defense: Smith-Morra Gambit Declined, Dubois Variation",
+        "aliases": {
+            "ct": "Sicilian Defense, Smith-Morra Gambit"
+        }
     },
     "rnbqkbnr/pp1ppppp/8/8/4P3/2Pp4/PP3PPP/RNBQKBNR w KQkq - 0 4": {
         "src": "eco_tsv",
@@ -7262,7 +7638,8 @@
         "name": "Sicilian Defense: Smith-Morra Gambit Declined, Push Variation",
         "scid": "B21r",
         "aliases": {
-            "scid": "Sicilian: Smith-Morra, 3.c3 d3"
+            "scid": "Sicilian: Smith-Morra, 3.c3 d3",
+            "ct": "Sicilian Defense, Smith-Morra Gambit"
         }
     },
     "rnbqkbnr/pp2pppp/8/3p4/3pP3/2P5/PP3PPP/RNBQKBNR w KQkq - 0 4": {
@@ -7272,14 +7649,18 @@
         "name": "Sicilian Defense: Smith-Morra Gambit Declined, Scandinavian Formation",
         "scid": "B21q",
         "aliases": {
-            "scid": "Sicilian: Smith-Morra, 3.c3 d5"
+            "scid": "Sicilian: Smith-Morra, 3.c3 d5",
+            "ct": "Sicilian Defense, Smith-Morra Gambit"
         }
     },
     "rnb1kbnr/pp1ppppp/8/q7/3pP3/2P5/PP3PPP/RNBQKBNR w KQkq - 1 4": {
         "src": "eco_tsv",
         "eco": "B21",
         "moves": "1. e4 c5 2. d4 cxd4 3. c3 Qa5",
-        "name": "Sicilian Defense: Smith-Morra Gambit Declined, Wing Formation"
+        "name": "Sicilian Defense: Smith-Morra Gambit Declined, Wing Formation",
+        "aliases": {
+            "ct": "Sicilian Defense, Smith-Morra Gambit"
+        }
     },
     "2bqkbnr/r4ppp/p1npp3/1p6/4P3/1BN2N2/PP2QPPP/R1B2RK1 w k - 2 10": {
         "src": "eco_tsv",
@@ -7295,7 +7676,10 @@
         "src": "eco_tsv",
         "eco": "B21",
         "moves": "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nf3",
-        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Danish Variation"
+        "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Danish Variation",
+        "aliases": {
+            "ct": "Sicilian Defense, Smith-Morra Gambit"
+        }
     },
     "rnbqkbnr/pp2pppp/3p4/2p5/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3": {
         "src": "scid",
@@ -7542,26 +7926,36 @@
         "name": "Sicilian Defense: Alapin Variation, Barmen Defense",
         "scid": "B22f",
         "aliases": {
-            "scid": "Sicilian: Alapin, 2...d5 3.exd5 Qxd5"
+            "scid": "Sicilian: Alapin, 2...d5 3.exd5 Qxd5",
+            "ct": "Sicilian Defense, Alapin Variation"
         }
     },
     "r3kbnr/pp2pppp/2n5/3q4/3P2b1/5N2/PP3PPP/RNBQKB1R w KQkq - 3 7": {
         "src": "eco_tsv",
         "eco": "B22",
         "moves": "1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 Bg4",
-        "name": "Sicilian Defense: Alapin Variation, Barmen Defense, Central Exchange"
+        "name": "Sicilian Defense: Alapin Variation, Barmen Defense, Central Exchange",
+        "aliases": {
+            "ct": "Sicilian Defense, Alapin Variation"
+        }
     },
     "r3kbnr/pp2pppp/8/8/3n4/2N2P2/PP3P1P/R1B1KB1R w KQkq - 0 10": {
         "src": "eco_tsv",
         "eco": "B22",
         "moves": "1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 Bg4 7. Nc3 Bxf3 8. gxf3 Qxd4 9. Qxd4 Nxd4",
-        "name": "Sicilian Defense: Alapin Variation, Barmen Defense, Endgame Variation"
+        "name": "Sicilian Defense: Alapin Variation, Barmen Defense, Endgame Variation",
+        "aliases": {
+            "ct": "Sicilian Defense, Alapin Variation"
+        }
     },
     "r1b1k1nr/pp3ppp/2n5/3qp3/1b1P4/2N2N2/PP2BPPP/R1BQK2R b KQkq - 3 8": {
         "src": "eco_tsv",
         "eco": "B22",
         "moves": "1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 cxd4 6. cxd4 e5 7. Nc3 Bb4 8. Be2",
-        "name": "Sicilian Defense: Alapin Variation, Barmen Defense, Milner-Barry Attack"
+        "name": "Sicilian Defense: Alapin Variation, Barmen Defense, Milner-Barry Attack",
+        "aliases": {
+            "ct": "Sicilian Defense, Alapin Variation"
+        }
     },
     "rn2kb1r/pp2pppp/5n2/2pq4/3P2b1/2P2N2/PP3PPP/RNBQKB1R w KQkq - 3 6": {
         "src": "eco_tsv",
@@ -7570,7 +7964,8 @@
         "name": "Sicilian Defense: Alapin Variation, Barmen Defense, Modern Line",
         "scid": "B22k",
         "aliases": {
-            "scid": "Sicilian: Alapin, 2...d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 Bg4"
+            "scid": "Sicilian: Alapin, 2...d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 Bg4",
+            "ct": "Sicilian Defense, Alapin Variation"
         }
     },
     "rnbqkb1r/pp1ppppp/8/3nP3/3p4/2P5/PP3PPP/RNBQKBNR w KQkq - 0 5": {
@@ -7580,20 +7975,27 @@
         "name": "Sicilian Defense: Alapin Variation, Smith-Morra Declined",
         "scid": "B22q",
         "aliases": {
-            "scid": "Sicilian: Alapin, 2...Nf6 3.e5 Nd5 4.d4 cxd4"
+            "scid": "Sicilian: Alapin, 2...Nf6 3.e5 Nd5 4.d4 cxd4",
+            "ct": "Sicilian Defense, Alapin Variation"
         }
     },
     "r1bqkb1r/pp1ppppp/1nn5/2p1P3/8/1BP2N2/PP1P1PPP/RNBQK2R b KQkq - 6 6": {
         "src": "eco_tsv",
         "eco": "B22",
         "moves": "1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. Bc4 Nb6 6. Bb3",
-        "name": "Sicilian Defense: Alapin Variation, Stoltz Attack"
+        "name": "Sicilian Defense: Alapin Variation, Stoltz Attack",
+        "aliases": {
+            "ct": "Sicilian Defense, Alapin Variation"
+        }
     },
     "r1b1kb1r/ppqppp1p/1nn5/4P1p1/2p5/2P2N2/PPBPQPPP/RNB1K2R w KQkq - 0 9": {
         "src": "eco_tsv",
         "eco": "B22",
         "moves": "1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. Bc4 Nb6 6. Bb3 c4 7. Bc2 Qc7 8. Qe2 g5",
-        "name": "Sicilian Defense: Alapin Variation, Stoltz Attack, Ivanchuk Line"
+        "name": "Sicilian Defense: Alapin Variation, Stoltz Attack, Ivanchuk Line",
+        "aliases": {
+            "ct": "Sicilian Defense, Alapin Variation"
+        }
     },
     "r1bqkb1r/pp1ppppp/2n5/2pnP3/8/N1P2N2/PP1P1PPP/R1BQKB1R b KQkq - 4 5": {
         "src": "eco_tsv",
@@ -8041,7 +8443,8 @@
         "scid": "B23a",
         "aliases": {
             "scid": "Sicilian: Closed",
-            "eco_js": "Sicilian Defense: Closed Variation"
+            "eco_js": "Sicilian Defense: Closed Variation",
+            "ct": "Sicilian Defense, Closed Variation"
         },
         "isEcoRoot": true
     },
@@ -8074,7 +8477,8 @@
         "scid": "B23n",
         "aliases": {
             "scid": "Sicilian: Chameleon Variation",
-            "eco_js": "Sicilian Defense: Closed Variation, Chameleon Variation"
+            "eco_js": "Sicilian Defense: Closed Variation, Chameleon Variation",
+            "ct": "Sicilian Defense, Closed Variation"
         }
     },
     "r1bqkbnr/pp1ppppp/2n5/2p5/4P1P1/2N5/PPPP1P1P/R1BQKBNR b KQkq - 0 3": {
@@ -8083,7 +8487,8 @@
         "moves": "1. e4 c5 2. Nc3 Nc6 3. g4",
         "name": "Sicilian Defense: Closed, Grob Attack",
         "aliases": {
-            "eco_js": "Sicilian Defense: Closed Variation, Grob Attack"
+            "eco_js": "Sicilian Defense: Closed Variation, Grob Attack",
+            "ct": "Sicilian Defense, Closed Variation"
         }
     },
     "rnbqkbnr/pp3ppp/4p3/2pp4/4P3/2N3P1/PPPP1P1P/R1BQKBNR w KQkq - 0 4": {
@@ -8094,7 +8499,8 @@
         "scid": "B23j",
         "aliases": {
             "scid": "Sicilian: Closed, Korchnoi Variation",
-            "eco_js": "Sicilian Defense: Closed Variation, Korchnoi Defense"
+            "eco_js": "Sicilian Defense: Closed Variation, Korchnoi Defense",
+            "ct": "Sicilian Defense, Closed Variation"
         }
     },
     "r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3": {
@@ -8105,7 +8511,8 @@
         "scid": "B23k",
         "aliases": {
             "scid": "Sicilian: Closed, 2...Nc6",
-            "eco_js": "Sicilian Defense: Closed Variation, Traditional"
+            "eco_js": "Sicilian Defense: Closed Variation, Traditional",
+            "ct": "Sicilian Defense, Closed Variation"
         }
     },
     "r1bqkbnr/pp1ppppp/2n5/2p5/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq - 0 3": {
@@ -8125,7 +8532,8 @@
         "name": "Sicilian Defense: Grand Prix Attack, Schofman Variation",
         "scid": "B23v",
         "aliases": {
-            "scid": "Sicilian: Closed, Grand Prix, Schofman Variation"
+            "scid": "Sicilian: Closed, Grand Prix, Schofman Variation",
+            "ct": "Sicilian Defense, Grand Prix Attack"
         }
     },
     "r1bqkbnr/pp1p1ppp/2n5/2p1p3/4P3/2N5/PPPPNPPP/R1BQKB1R w KQkq - 0 4": {
@@ -8319,7 +8727,8 @@
         "scid": "B24",
         "aliases": {
             "scid": "Sicilian: Closed, 3.g3",
-            "eco_js": "Sicilian Defense: Closed Variation, Fianchetto Variation"
+            "eco_js": "Sicilian Defense: Closed Variation, Fianchetto Variation",
+            "ct": "Sicilian Defense, Closed Variation"
         },
         "isEcoRoot": true
     },
@@ -8409,7 +8818,8 @@
         "scid": "B25e",
         "aliases": {
             "scid": "Sicilian: Closed, 6.f4",
-            "eco_js": "Sicilian Defense: Closed Variation, 5. d3 d6 6. f4"
+            "eco_js": "Sicilian Defense: Closed Variation, 5. d3 d6 6. f4",
+            "ct": "Sicilian Defense, Closed Variation"
         }
     },
     "r1bqk2r/pp2npbp/2np2p1/2p1p3/4PP2/2NP2PN/PPP3BP/R1BQK2R w KQkq - 2 8": {
@@ -8418,7 +8828,8 @@
         "moves": "1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nh3 Nge7",
         "name": "Sicilian Defense: Closed, Botvinnik Defense, Edge Variation",
         "aliases": {
-            "eco_js": "Sicilian Defense: Closed Variation, Botvinnik Defense, Edge Variation"
+            "eco_js": "Sicilian Defense: Closed Variation, Botvinnik Defense, Edge Variation",
+            "ct": "Sicilian Defense, Closed Variation"
         }
     },
     "r1bqk1nr/pp3pbp/2np2p1/2p1p3/4PP2/2NP2P1/PPP3BP/R1BQK1NR w KQkq - 0 7": {
@@ -8429,7 +8840,8 @@
         "scid": "B25i",
         "aliases": {
             "scid": "Sicilian: Closed, 6.f4 e5",
-            "eco_js": "Sicilian Defense: Closed Variation, Botvinnik Defense"
+            "eco_js": "Sicilian Defense: Closed Variation, Botvinnik Defense",
+            "ct": "Sicilian Defense, Closed Variation"
         }
     },
     "r1bqk1nr/pp3pbp/2np2p1/2p1p3/4P3/2NP2P1/PPP1NPBP/R1BQK2R w KQkq - 0 7": {
@@ -8440,7 +8852,8 @@
         "scid": "B25c",
         "aliases": {
             "scid": "Sicilian: Closed, Botvinnik",
-            "eco_js": "Sicilian Defense: Closed Variation, Botvinnik Defense, 5. d3 d6 6. Nge2 e5"
+            "eco_js": "Sicilian Defense: Closed Variation, Botvinnik Defense, 5. d3 d6 6. Nge2 e5",
+            "ct": "Sicilian Defense, Closed Variation"
         }
     },
     "r1bqk1nr/pp2ppbp/2np2p1/2p5/4P3/2NP2P1/PPP1NPBP/R1BQK2R b KQkq - 1 6": {
@@ -8598,7 +9011,8 @@
         "scid": "B26a",
         "aliases": {
             "scid": "Sicilian: Closed, 6.Be3",
-            "eco_js": "Sicilian Defense: Closed Variation, 5. d3 d6 6. Be3"
+            "eco_js": "Sicilian Defense: Closed Variation, 5. d3 d6 6. Be3",
+            "ct": "Sicilian Defense, Closed Variation"
         },
         "isEcoRoot": true
     },
@@ -8730,7 +9144,10 @@
         "src": "eco_tsv",
         "eco": "B27",
         "moves": "1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. Nc3 Qa5 5. d5",
-        "name": "Pterodactyl Defense: Sicilian, Benoni Gambit"
+        "name": "Pterodactyl Defense: Sicilian, Benoni Gambit",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Sicilian"
+        }
     },
     "rnb1k1nr/pp1ppp1p/6p1/q1P5/4P3/2P2N2/P1P2PPP/R1BQKB1R b KQkq - 0 6": {
         "src": "eco_tsv",
@@ -8759,7 +9176,10 @@
         "src": "eco_tsv",
         "eco": "B27",
         "moves": "1. e4 c5 2. Nf3 g6 3. c3 Bg7 4. d4 Qa5",
-        "name": "Pterodactyl Defense: Western, Pterodactyl"
+        "name": "Pterodactyl Defense: Western, Pterodactyl",
+        "aliases": {
+            "ct": "Pterodactyl Defense, Western"
+        }
     },
     "rnb1k1nr/pp1pppbp/6p1/q1P5/4P3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 5": {
         "src": "eco_tsv",
@@ -8768,7 +9188,8 @@
         "name": "Pterodactyl Defense: Western, Rhamphorhynchus",
         "scid": "B27o",
         "aliases": {
-            "scid": "Sicilian: Accelerated Pterodactyl, 4.dxc5 Qa5+"
+            "scid": "Sicilian: Accelerated Pterodactyl, 4.dxc5 Qa5+",
+            "ct": "Pterodactyl Defense, Western"
         }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2": {
@@ -8779,7 +9200,8 @@
         "scid": "B27a",
         "aliases": {
             "scid": "Sicilian: 2.Nf3",
-            "eco_js": "Sicilian Defense, 2. Nf3"
+            "eco_js": "Sicilian Defense, 2. Nf3",
+            "ct": "Sicilian Defense, Misc. Defenses"
         },
         "isEcoRoot": true
     },
@@ -8850,7 +9272,10 @@
         "src": "eco_tsv",
         "eco": "B27",
         "moves": "1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. dxc5 Qa5+ 5. Nc3 Bxc3+ 6. bxc3 Qxc3+",
-        "name": "Sicilian Defense: Hyperaccelerated Pterodactyl, Exchange Variation"
+        "name": "Sicilian Defense: Hyperaccelerated Pterodactyl, Exchange Variation",
+        "aliases": {
+            "ct": "Sicilian Defense, Hyperaccelerated Pterodactyl"
+        }
     },
     "rnbqkbnr/pp1p1ppp/8/2p1p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3": {
         "src": "eco_tsv",
@@ -8986,13 +9411,19 @@
         "src": "eco_tsv",
         "eco": "B28",
         "moves": "1. e4 c5 2. Nf3 a6 3. Be2",
-        "name": "Sicilian Defense: O'Kelly Variation, Aronin System"
+        "name": "Sicilian Defense: O'Kelly Variation, Aronin System",
+        "aliases": {
+            "ct": "Sicilian Defense, O'Kelly Variation"
+        }
     },
     "rnbqkbnr/1p1ppppp/p7/2p5/4P3/1P3N2/P1PP1PPP/RNBQKB1R b KQkq - 0 3": {
         "src": "eco_tsv",
         "eco": "B28",
         "moves": "1. e4 c5 2. Nf3 a6 3. b3",
-        "name": "Sicilian Defense: O'Kelly Variation, Kieseritzky System"
+        "name": "Sicilian Defense: O'Kelly Variation, Kieseritzky System",
+        "aliases": {
+            "ct": "Sicilian Defense, O'Kelly Variation"
+        }
     },
     "rnbqkbnr/1p1ppppp/p7/2p5/2P1P3/5N2/PP1P1PPP/RNBQKB1R b KQkq - 0 3": {
         "src": "eco_tsv",
@@ -9002,7 +9433,8 @@
         "scid": "B28f",
         "aliases": {
             "scid": "Sicilian: O'Kelly, 3.c4",
-            "eco_js": "Sicilian Defense: O'Kelly Variation, Maroczy Bind"
+            "eco_js": "Sicilian Defense: O'Kelly Variation, Maroczy Bind",
+            "ct": "Sicilian Defense, O'Kelly Variation"
         }
     },
     "rnbqkbnr/1p1p1ppp/p3p3/2p5/2P1P3/5N2/PP1P1PPP/RNBQKB1R w KQkq - 0 4": {
@@ -9013,7 +9445,8 @@
         "scid": "B28g",
         "aliases": {
             "scid": "Sicilian: O'Kelly, 3.c4 e6",
-            "eco_js": "Sicilian Defense: O'Kelly Variation, Maroczy Bind, Paulsen Line"
+            "eco_js": "Sicilian Defense: O'Kelly Variation, Maroczy Bind, Paulsen Line",
+            "ct": "Sicilian Defense, O'Kelly Variation"
         }
     },
     "rnbqkbnr/1p2pppp/p2p4/2p5/2P1P3/5N2/PP1P1PPP/RNBQKB1R w KQkq - 0 4": {
@@ -9022,7 +9455,8 @@
         "moves": "1. e4 c5 2. Nf3 a6 3. c4 d6",
         "name": "Sicilian Defense: O'Kelly Variation, Maróczy Bind, Robatsch Line",
         "aliases": {
-            "eco_js": "Sicilian Defense: O'Kelly Variation, Maroczy Bind, Robatsch Line"
+            "eco_js": "Sicilian Defense: O'Kelly Variation, Maroczy Bind, Robatsch Line",
+            "ct": "Sicilian Defense, O'Kelly Variation"
         }
     },
     "rnbqkbnr/1p1ppppp/p7/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3": {
@@ -9032,7 +9466,8 @@
         "name": "Sicilian Defense: O'Kelly Variation, Normal System",
         "scid": "B28c",
         "aliases": {
-            "scid": "Sicilian: O'Kelly, 3.d4"
+            "scid": "Sicilian: O'Kelly, 3.d4",
+            "ct": "Sicilian Defense, O'Kelly Variation"
         }
     },
     "rnbqkbnr/1p1ppppp/p7/8/2BpP3/5N2/PPP2PPP/RNBQK2R b KQkq - 1 4": {
@@ -9041,32 +9476,45 @@
         "moves": "1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Bc4",
         "name": "Sicilian Defense: O'Kelly Variation, Normal System, Cortlever Gambit",
         "aliases": {
-            "eco_wikip.g": "Coles Sicilian Gambit"
+            "eco_wikip.g": "Coles Sicilian Gambit",
+            "ct": "Sicilian Defense, O'Kelly Variation"
         }
     },
     "rnbqkbnr/1p1ppppp/p7/8/3pP3/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 4": {
         "src": "eco_tsv",
         "eco": "B28",
         "moves": "1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. c3",
-        "name": "Sicilian Defense: O'Kelly Variation, Normal System, Smith-Morra Line"
+        "name": "Sicilian Defense: O'Kelly Variation, Normal System, Smith-Morra Line",
+        "aliases": {
+            "ct": "Sicilian Defense, O'Kelly Variation"
+        }
     },
     "rnbqkbnr/1p1p1ppp/p7/4p3/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5": {
         "src": "eco_tsv",
         "eco": "B28",
         "moves": "1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 e5",
-        "name": "Sicilian Defense: O'Kelly Variation, Normal System, Taimanov Line"
+        "name": "Sicilian Defense: O'Kelly Variation, Normal System, Taimanov Line",
+        "aliases": {
+            "ct": "Sicilian Defense, O'Kelly Variation"
+        }
     },
     "rnbqkbnr/1p1ppppp/p7/8/3QP3/5N2/PPP2PPP/RNB1KB1R b KQkq - 0 4": {
         "src": "eco_tsv",
         "eco": "B28",
         "moves": "1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Qxd4",
-        "name": "Sicilian Defense: O'Kelly Variation, Normal System, Zagorovsky Line"
+        "name": "Sicilian Defense: O'Kelly Variation, Normal System, Zagorovsky Line",
+        "aliases": {
+            "ct": "Sicilian Defense, O'Kelly Variation"
+        }
     },
     "rnbqkbnr/1p1ppppp/p7/2p5/4P3/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 0 3": {
         "src": "eco_tsv",
         "eco": "B28",
         "moves": "1. e4 c5 2. Nf3 a6 3. d3",
-        "name": "Sicilian Defense: O'Kelly Variation, Quiet System"
+        "name": "Sicilian Defense: O'Kelly Variation, Quiet System",
+        "aliases": {
+            "ct": "Sicilian Defense, O'Kelly Variation"
+        }
     },
     "rnbqkbnr/1p1ppppp/p7/2p5/4P3/5NP1/PPPP1P1P/RNBQKB1R b KQkq - 0 3": {
         "src": "eco_tsv",
@@ -9074,7 +9522,8 @@
         "moves": "1. e4 c5 2. Nf3 a6 3. g3",
         "name": "Sicilian Defense: O'Kelly Variation, Réti System",
         "aliases": {
-            "eco_js": "Sicilian Defense: O'Kelly Variation, Reti System"
+            "eco_js": "Sicilian Defense: O'Kelly Variation, Reti System",
+            "ct": "Sicilian Defense, O'Kelly Variation"
         }
     },
     "rnbqkbnr/1p1ppppp/p7/2p5/4P3/2P2N2/PP1P1PPP/RNBQKB1R b KQkq - 0 3": {
@@ -9084,38 +9533,54 @@
         "name": "Sicilian Defense: O'Kelly Variation, Venice System",
         "scid": "B28h",
         "aliases": {
-            "scid": "Sicilian: O'Kelly, 3.c3"
+            "scid": "Sicilian: O'Kelly, 3.c3",
+            "ct": "Sicilian Defense, O'Kelly Variation"
         }
     },
     "rnbqkb1r/1p1ppppp/p4n2/2p5/4P3/2P2N2/PP1P1PPP/RNBQKB1R w KQkq - 1 4": {
         "src": "eco_tsv",
         "eco": "B28",
         "moves": "1. e4 c5 2. Nf3 a6 3. c3 Nf6",
-        "name": "Sicilian Defense: O'Kelly Variation, Venice System, Barcza Line"
+        "name": "Sicilian Defense: O'Kelly Variation, Venice System, Barcza Line",
+        "aliases": {
+            "ct": "Sicilian Defense, O'Kelly Variation"
+        }
     },
     "rnbqkb1r/1p2pppp/p4n2/2pP4/8/2P2N2/PP1P1PPP/RNBQKB1R w KQkq - 1 5": {
         "src": "eco_tsv",
         "eco": "B28",
         "moves": "1. e4 c5 2. Nf3 a6 3. c3 d5 4. exd5 Nf6",
-        "name": "Sicilian Defense: O'Kelly Variation, Venice System, Gambit Line"
+        "name": "Sicilian Defense: O'Kelly Variation, Venice System, Gambit Line",
+        "aliases": {
+            "ct": "Sicilian Defense, O'Kelly Variation"
+        }
     },
     "rnbqkbnr/3ppppp/p7/1pp5/4P3/2P2N2/PP1P1PPP/RNBQKB1R w KQkq - 0 4": {
         "src": "eco_tsv",
         "eco": "B28",
         "moves": "1. e4 c5 2. Nf3 a6 3. c3 b5",
-        "name": "Sicilian Defense: O'Kelly Variation, Venice System, Ljubojevic Line"
+        "name": "Sicilian Defense: O'Kelly Variation, Venice System, Ljubojevic Line",
+        "aliases": {
+            "ct": "Sicilian Defense, O'Kelly Variation"
+        }
     },
     "rnbqkbnr/1p2pppp/p2p4/2p5/4P3/2P2N2/PP1P1PPP/RNBQKB1R w KQkq - 0 4": {
         "src": "eco_tsv",
         "eco": "B28",
         "moves": "1. e4 c5 2. Nf3 a6 3. c3 d6",
-        "name": "Sicilian Defense: O'Kelly Variation, Venice System, Steiner Line"
+        "name": "Sicilian Defense: O'Kelly Variation, Venice System, Steiner Line",
+        "aliases": {
+            "ct": "Sicilian Defense, O'Kelly Variation"
+        }
     },
     "rnbqkbnr/1p1ppppp/p7/2p5/1P2P3/5N2/P1PP1PPP/RNBQKB1R b KQkq - 0 3": {
         "src": "eco_tsv",
         "eco": "B28",
         "moves": "1. e4 c5 2. Nf3 a6 3. b4",
-        "name": "Sicilian Defense: O'Kelly Variation, Wing Gambit"
+        "name": "Sicilian Defense: O'Kelly Variation, Wing Gambit",
+        "aliases": {
+            "ct": "Sicilian Defense, O'Kelly Variation"
+        }
     },
     "rnbqkbnr/1p1ppppp/p7/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3": {
         "src": "eco_tsv",
@@ -9124,7 +9589,8 @@
         "name": "Sicilian Defense: O'Kelly Variation, Yerevan System",
         "scid": "B28b",
         "aliases": {
-            "scid": "Sicilian: O'Kelly, 3.Nc3"
+            "scid": "Sicilian: O'Kelly, 3.Nc3",
+            "ct": "Sicilian Defense, O'Kelly Variation"
         }
     },
     "rnbqkbnr/1p2pppp/p7/2pp4/4P3/2P2N2/PP1P1PPP/RNBQKB1R w KQkq - 0 4": {
@@ -9173,7 +9639,8 @@
         "name": "Sicilian Defense: Nimzowitsch Variation, Advance Variation",
         "scid": "B29f",
         "aliases": {
-            "scid": "Sicilian: Nimzowitsch, 3.e5"
+            "scid": "Sicilian: Nimzowitsch, 3.e5",
+            "ct": "Sicilian Defense, Nimzowitsch  Variation"
         }
     },
     "rnbqkb1r/pp1ppppp/5n2/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3": {
@@ -9183,7 +9650,8 @@
         "name": "Sicilian Defense: Nimzowitsch Variation, Closed Variation",
         "scid": "B29c",
         "aliases": {
-            "scid": "Sicilian: Nimzowitsch, 3.Nc3"
+            "scid": "Sicilian: Nimzowitsch, 3.Nc3",
+            "ct": "Sicilian Defense, Nimzowitsch  Variation"
         }
     },
     "rnbqkb1r/pp1ppppp/8/2p1P3/8/2n2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 5": {
@@ -9193,7 +9661,8 @@
         "name": "Sicilian Defense: Nimzowitsch Variation, Exchange Variation",
         "scid": "B29j",
         "aliases": {
-            "scid": "Sicilian: Nimzowitsch, 4.Nc3 Nxc3"
+            "scid": "Sicilian: Nimzowitsch, 4.Nc3 Nxc3",
+            "ct": "Sicilian Defense, Nimzowitsch  Variation"
         }
     },
     "r1bqkb1r/pp1p1ppp/2n5/2ppP3/3P4/5N2/PPP2PPP/R1BQKB1R w KQkq - 1 7": {
@@ -9203,7 +9672,8 @@
         "name": "Sicilian Defense: Nimzowitsch Variation, Main Line",
         "scid": "B29m",
         "aliases": {
-            "scid": "Sicilian: Nimzowitsch, Rubinstein Countergambit"
+            "scid": "Sicilian: Nimzowitsch, Rubinstein Countergambit",
+            "ct": "Sicilian Defense, Nimzowitsch  Variation"
         }
     },
     "rnbqkb1r/pp1ppppp/5n2/2p5/4P3/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 0 3": {
@@ -9299,7 +9769,10 @@
         "src": "eco_tsv",
         "eco": "B30",
         "moves": "1. e4 c5 2. Nf3 Nc6 3. Bb5 Na5 4. b4",
-        "name": "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, San Francisco Gambit"
+        "name": "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, San Francisco Gambit",
+        "aliases": {
+            "ct": "Sicilian Defense, Nyezhmetdinov-Rossolimo Attack"
+        }
     },
     "r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3": {
         "src": "eco_tsv",
@@ -9322,7 +9795,10 @@
         "src": "eco_tsv",
         "eco": "B30",
         "moves": "1. e4 c5 2. Nf3 Nc6 3. Bb5 Nb8",
-        "name": "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Brooklyn Retreat Defense"
+        "name": "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Brooklyn Retreat Defense",
+        "aliases": {
+            "ct": "Sicilian Defense, Rossolimo Variation"
+        }
     },
     "r1bqkbnr/pp1ppppp/2n5/2p5/4P3/1P3N2/P1PP1PPP/RNBQKB1R b KQkq - 0 3": {
         "src": "scid",
@@ -9499,7 +9975,8 @@
         "name": "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation",
         "scid": "B31a",
         "aliases": {
-            "scid": "Sicilian: Rossolimo, 3...g6"
+            "scid": "Sicilian: Rossolimo, 3...g6",
+            "ct": "Sicilian Defense, Nyezhmetdinov-Rossolimo Attack"
         },
         "isEcoRoot": true
     },
@@ -9507,19 +9984,28 @@
         "src": "eco_tsv",
         "eco": "B31",
         "moves": "1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. d4",
-        "name": "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Gufeld Gambit"
+        "name": "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Gufeld Gambit",
+        "aliases": {
+            "ct": "Sicilian Defense, Nyezhmetdinov-Rossolimo Attack"
+        }
     },
     "r1bqk2r/pp1pppbp/2n2np1/1Bp5/3PP3/2P2N2/PP3PPP/RNBQ1RK1 b kq - 0 6": {
         "src": "eco_tsv",
         "eco": "B31",
         "moves": "1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. d4",
-        "name": "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Lutikov Gambit"
+        "name": "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Lutikov Gambit",
+        "aliases": {
+            "ct": "Sicilian Defense, Nyezhmetdinov-Rossolimo Attack"
+        }
     },
     "r1bqk2r/pp1pppbp/2n2np1/1Bp5/Q3P3/2P2N2/PP1P1PPP/RNB2RK1 b kq - 2 6": {
         "src": "eco_tsv",
         "eco": "B31",
         "moves": "1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Qa4",
-        "name": "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Totsky Attack"
+        "name": "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Totsky Attack",
+        "aliases": {
+            "ct": "Sicilian Defense, Nyezhmetdinov-Rossolimo Attack"
+        }
     },
     "r1bqk1nr/pp1p1pbp/2n3p1/1Bp1p3/1P2P3/5N2/P1PP1PPP/RNBQR1K1 b kq - 0 6": {
         "src": "eco_tsv",
@@ -9528,7 +10014,8 @@
         "name": "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Gurgenidze Variation",
         "scid": "B31p",
         "aliases": {
-            "scid": "Sicilian: Rossolimo, Gurgenidze Variation"
+            "scid": "Sicilian: Rossolimo, Gurgenidze Variation",
+            "ct": "Sicilian Defense, Nyezhmetdinov-Rossolimo Attack"
         }
     },
     "r1bqkbnr/pp1ppp1p/2B3p1/2p5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4": {
@@ -9711,7 +10198,8 @@
         "moves": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 a6 5. c4 e5",
         "name": "Sicilian Defense: O'Kelly Variation, Maróczy Bind, Geller Line",
         "aliases": {
-            "eco_js": "Sicilian Defense: O'Kelly Variation, Maroczy Bind, Geller Line"
+            "eco_js": "Sicilian Defense: O'Kelly Variation, Maroczy Bind, Geller Line",
+            "ct": "Sicilian Defense, O'Kelly Variation"
         }
     },
     "r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3": {
@@ -9721,7 +10209,8 @@
         "name": "Sicilian Defense: Open",
         "scid": "B32a",
         "aliases": {
-            "scid": "Sicilian: 2...Nc6 3.d4"
+            "scid": "Sicilian: 2...Nc6 3.d4",
+            "ct": "Sicilian Defense, Old Sicilian"
         }
     },
     "r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4": {
@@ -9889,7 +10378,8 @@
         "name": "Sicilian Defense: Lasker-Pelikan Variation, Bird Variation",
         "scid": "B33k",
         "aliases": {
-            "scid": "Sicilian: Pelikan, Bird Variation"
+            "scid": "Sicilian: Pelikan, Bird Variation",
+            "ct": "Sicilian Defense, Lasker-Pelikan Variation"
         }
     },
     "r1bqkb1r/pp1p1ppp/2N2n2/4p3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 6": {
@@ -9899,7 +10389,8 @@
         "name": "Sicilian Defense: Lasker-Pelikan Variation, Exchange Variation",
         "scid": "B33d",
         "aliases": {
-            "scid": "Sicilian: Pelikan/Sveshnikov, 6.Nxc6"
+            "scid": "Sicilian: Pelikan/Sveshnikov, 6.Nxc6",
+            "ct": "Sicilian Defense, Lasker-Pelikan Variation"
         }
     },
     "r1bqkb1r/pp1p1ppp/2n2n2/4p3/4P3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 6": {
@@ -9909,7 +10400,8 @@
         "name": "Sicilian Defense: Lasker-Pelikan Variation, Retreat Variation",
         "scid": "B33d",
         "aliases": {
-            "scid": "Sicilian: Pelikan/Sveshnikov, 6.Nf3"
+            "scid": "Sicilian: Pelikan/Sveshnikov, 6.Nf3",
+            "ct": "Sicilian Defense, Lasker-Pelikan Variation"
         }
     },
     "r1bqkb1r/pp1p1ppp/2n2n2/4p3/4P3/1NN5/PPP2PPP/R1BQKB1R b KQkq - 1 6": {
@@ -9919,7 +10411,8 @@
         "name": "Sicilian Defense: Lasker-Pelikan Variation, Schlechter Variation",
         "scid": "B33d",
         "aliases": {
-            "scid": "Sicilian: Pelikan/Sveshnikov, 6.Nb3"
+            "scid": "Sicilian: Pelikan/Sveshnikov, 6.Nb3",
+            "ct": "Sicilian Defense, Lasker-Pelikan Variation"
         }
     },
     "r1bqkb1r/5ppp/p1np1n2/1p2p1B1/4P3/N1N5/PPP2PPP/R2QKB1R w KQkq - 0 9": {
@@ -9929,7 +10422,8 @@
         "name": "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation",
         "scid": "B33l",
         "aliases": {
-            "scid": "Sicilian: Pelikan, Chelyabinsk Variation"
+            "scid": "Sicilian: Pelikan, Chelyabinsk Variation",
+            "ct": "Sicilian Defense, Lasker-Pelikan Variation"
         }
     },
     "r1bqkb1r/5p1p/p1np4/1p1Npp2/4P3/N7/PPP2PPP/R2QKB1R w KQkq - 0 11": {
@@ -9940,7 +10434,8 @@
         "scid": "B33u",
         "aliases": {
             "scid": "Sicilian: Pelikan, Sveshnikov Variation",
-            "eco_js": "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, 9. Bxf6 gxf6 10. Nd5 f5"
+            "eco_js": "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, 9. Bxf6 gxf6 10. Nd5 f5",
+            "ct": "Sicilian Defense, Lasker-Pelikan Variation"
         }
     },
     "r1bqkb1r/5ppp/p1np1n2/1p1Np1B1/4P3/N7/PPP2PPP/R2QKB1R b KQkq - 1 9": {
@@ -9950,7 +10445,8 @@
         "name": "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation",
         "scid": "B33l",
         "aliases": {
-            "scid": "Sicilian: Pelikan, Chelyabinsk, 9.Nd5"
+            "scid": "Sicilian: Pelikan, Chelyabinsk, 9.Nd5",
+            "ct": "Sicilian Defense, Lasker-Pelikan Variation"
         }
     },
     "r1bqk2r/5pbp/p1np1p2/1p1Np3/4P3/N7/PPP2PPP/R2QKB1R w KQkq - 2 11": {
@@ -9960,14 +10456,18 @@
         "name": "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Novosibirsk Variation",
         "scid": "B33s",
         "aliases": {
-            "scid": "Sicilian: Pelikan, Chelyabinsk, 9.Bxf6 gxf6 10.Nd5 Bg7"
+            "scid": "Sicilian: Pelikan, Chelyabinsk, 9.Bxf6 gxf6 10.Nd5 Bg7",
+            "ct": "Sicilian Defense, Lasker-Pelikan Variation"
         }
     },
     "r1bqkb1r/5p1p/p1np4/1B1Npp2/4P3/N7/PPP2PPP/R2QK2R b KQkq - 0 11": {
         "src": "eco_tsv",
         "eco": "B33",
         "moves": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bxb5",
-        "name": "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Peresypkin's Sacrifice"
+        "name": "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Peresypkin's Sacrifice",
+        "aliases": {
+            "ct": "Sicilian Defense, Lasker-Pelikan Variation"
+        }
     },
     "r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5": {
         "src": "eco_tsv",
@@ -9977,7 +10477,8 @@
         "scid": "B33a",
         "aliases": {
             "scid": "Sicilian: Open, 2...Nc6",
-            "eco_js": "Sicilian Defense: Open, 3. d4 cxd4 4. Nxd4 Nf6"
+            "eco_js": "Sicilian Defense: Open, 3. d4 cxd4 4. Nxd4 Nf6",
+            "ct": "Sicilian Defense, Old Sicilian"
         }
     },
     "r1b1kb1r/pp1ppppp/1qn2n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6": {
@@ -10218,7 +10719,8 @@
         "name": "Sicilian Defense: Accelerated Dragon, Exchange Variation",
         "scid": "B34c",
         "aliases": {
-            "scid": "Sicilian: Accelerated Fianchetto, Exchange Variation"
+            "scid": "Sicilian: Accelerated Fianchetto, Exchange Variation",
+            "ct": "Sicilian Defense, Accelerated Dragon"
         },
         "isEcoRoot": true
     },
@@ -10229,7 +10731,8 @@
         "name": "Sicilian Defense: Accelerated Dragon, Modern Variation",
         "scid": "B34f",
         "aliases": {
-            "scid": "Sicilian: Accelerated Fianchetto, Modern Variation"
+            "scid": "Sicilian: Accelerated Fianchetto, Modern Variation",
+            "ct": "Sicilian Defense, Accelerated Dragon"
         }
     },
     "r1bqkbnr/pp1ppp1p/2n3p1/8/2BNP3/8/PPP2PPP/RNBQK2R b KQkq - 1 5": {
@@ -10400,7 +10903,8 @@
         "name": "Sicilian Defense: Accelerated Dragon, Modern Bc4 Variation",
         "scid": "B35a",
         "aliases": {
-            "scid": "Sicilian: Accelerated Fianchetto, Modern, 7.Bc4"
+            "scid": "Sicilian: Accelerated Fianchetto, Modern, 7.Bc4",
+            "ct": "Sicilian Defense, Accelerated Dragon"
         },
         "isEcoRoot": true
     },
@@ -10544,7 +11048,8 @@
         "scid": "B36a",
         "aliases": {
             "scid": "Sicilian: Maroczy Bind",
-            "eco_js": "Sicilian Defense: Accelerated Dragon, Maroczy Bind"
+            "eco_js": "Sicilian Defense: Accelerated Dragon, Maroczy Bind",
+            "ct": "Sicilian Defense, Accelerated Dragon"
         },
         "isEcoRoot": true
     },
@@ -10556,7 +11061,8 @@
         "scid": "B36f",
         "aliases": {
             "scid": "Sicilian: Maroczy Bind, Gurgenidze Variation",
-            "eco_js": "Sicilian Defense: Accelerated Dragon, Maroczy Bind, Gurgenidze Variation"
+            "eco_js": "Sicilian Defense: Accelerated Dragon, Maroczy Bind, Gurgenidze Variation",
+            "ct": "Sicilian Defense, Accelerated Dragon"
         }
     },
     "r1bqkbnr/pp2pp1p/2np2p1/8/2PNP3/8/PP3PPP/RNBQKB1R w KQkq - 0 6": {
@@ -10849,7 +11355,8 @@
         "scid": "B38a",
         "aliases": {
             "scid": "Sicilian: Maroczy Bind, 6.Be3",
-            "eco_js": "Sicilian Defense: Accelerated Dragon, Maroczy Bind, 5. c4 Bg7 6. Be3"
+            "eco_js": "Sicilian Defense: Accelerated Dragon, Maroczy Bind, 5. c4 Bg7 6. Be3",
+            "ct": "Sicilian Defense, Accelerated Dragon"
         },
         "isEcoRoot": true
     },
@@ -11071,7 +11578,8 @@
         "scid": "B39a",
         "aliases": {
             "scid": "Sicilian: Maroczy Bind, Breyer Variation",
-            "eco_js": "Sicilian Defense: Accelerated Dragon, Maroczy Bind, Breyer Variation"
+            "eco_js": "Sicilian Defense: Accelerated Dragon, Maroczy Bind, Breyer Variation",
+            "ct": "Sicilian Defense, Accelerated Dragon"
         },
         "isEcoRoot": true
     },
@@ -11162,7 +11670,10 @@
         "src": "eco_tsv",
         "eco": "B40",
         "moves": "1. e4 c5 2. Nf3 e6 3. c3",
-        "name": "Sicilian Defense: Delayed Alapin Variation, with e6"
+        "name": "Sicilian Defense: Delayed Alapin Variation, with e6",
+        "aliases": {
+            "ct": "Sicilian Defense, Delayed Alapin Variation"
+        }
     },
     "rnbqkbnr/1p1p1ppp/p3p3/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4": {
         "src": "eco_tsv",
@@ -11187,7 +11698,8 @@
         "name": "Sicilian Defense: Four Knights Variation, Exchange Variation",
         "scid": "B45k",
         "aliases": {
-            "scid": "Sicilian: Taimanov, Four Knights, 6.Nxc6"
+            "scid": "Sicilian: Taimanov, Four Knights, 6.Nxc6",
+            "ct": "Sicilian Defense, Four Knights Variation"
         }
     },
     "rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3": {
@@ -11208,7 +11720,8 @@
         "name": "Sicilian Defense: French Variation, Normal",
         "scid": "B40o",
         "aliases": {
-            "scid": "Sicilian: Open, 2...e6, 4.Nxd4 Nf6"
+            "scid": "Sicilian: Open, 2...e6, 4.Nxd4 Nf6",
+            "ct": "Sicilian Defense, French Variation"
         }
     },
     "rnbqkbnr/pp1p1ppp/4p3/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4": {
@@ -11218,7 +11731,8 @@
         "name": "Sicilian Defense: French Variation, Open",
         "scid": "B40k",
         "aliases": {
-            "scid": "Sicilian: Open, 2...e6"
+            "scid": "Sicilian: Open, 2...e6",
+            "ct": "Sicilian Defense, French Variation"
         }
     },
     "rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/1P3N2/P1PP1PPP/RNBQKB1R b KQkq - 0 3": {
@@ -11228,7 +11742,8 @@
         "name": "Sicilian Defense: French Variation, Westerinen Attack",
         "scid": "B40c",
         "aliases": {
-            "scid": "Sicilian: 2...e6 3.b3"
+            "scid": "Sicilian: 2...e6 3.b3",
+            "ct": "Sicilian Defense, French Variation"
         }
     },
     "rnb1kb1r/pp1p1ppp/1q2pn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6": {
@@ -11241,7 +11756,10 @@
         "src": "eco_tsv",
         "eco": "B40",
         "moves": "1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. g3 b5 5. d4 cxd4 6. Nxd4",
-        "name": "Sicilian Defense: Kan Variation, Wing Attack, Fianchetto Variation"
+        "name": "Sicilian Defense: Kan Variation, Wing Attack, Fianchetto Variation",
+        "aliases": {
+            "ct": "Sicilian Defense, Kan Variation"
+        }
     },
     "rnbqkbnr/pp1p1ppp/4p3/2p5/2P1P3/5N2/PP1P1PPP/RNBQKB1R b KQkq - 0 3": {
         "src": "eco_tsv",
@@ -11301,7 +11819,8 @@
         "name": "Sicilian Defense: Pin Variation, Jaffe Variation",
         "scid": "B40t",
         "aliases": {
-            "scid": "Sicilian: Pin, Jaffe Variation"
+            "scid": "Sicilian: Pin, Jaffe Variation",
+            "ct": "Sicilian Defense, Pin Variation"
         }
     },
     "rnbqk2r/pp1p1ppp/4pn2/4P3/1b1N4/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 6": {
@@ -11311,7 +11830,8 @@
         "name": "Sicilian Defense: Pin Variation, Koch Variation",
         "scid": "B40u",
         "aliases": {
-            "scid": "Sicilian: Pin, Koch Variation"
+            "scid": "Sicilian: Pin, Koch Variation",
+            "ct": "Sicilian Defense, Pin Variation"
         }
     },
     "rnbqkbnr/pp1p1ppp/4p3/8/3pP3/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 4": {
@@ -11417,7 +11937,8 @@
         "name": "Sicilian Defense: Kan Variation",
         "scid": "B41a",
         "aliases": {
-            "scid": "Sicilian: Kan (Paulsen)"
+            "scid": "Sicilian: Kan (Paulsen)",
+            "ct": "Sicilian Defense, O'Kelly Variation"
         },
         "isEcoRoot": true
     },
@@ -11427,7 +11948,8 @@
         "moves": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Nc6",
         "name": "Sicilian Defense: Kan Variation, Maróczy Bind, Bronstein Variation",
         "aliases": {
-            "eco_js": "Sicilian Defense: Kan Variation, Maroczy Bind, Bronstein Variation"
+            "eco_js": "Sicilian Defense: Kan Variation, Maroczy Bind, Bronstein Variation",
+            "ct": "Sicilian Defense, Kan Variation"
         }
     },
     "r1bqk2r/1p1p1ppp/p1n1pn2/8/1bPNP3/2N5/PPB2PPP/R1BQK2R b KQkq - 6 8": {
@@ -11447,7 +11969,8 @@
         "moves": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 g6",
         "name": "Sicilian Defense: Kan Variation, Maróczy Bind, Hedgehog Variation",
         "aliases": {
-            "eco_js": "Sicilian Defense: Kan Variation, Maroczy Bind, Hedgehog Variation"
+            "eco_js": "Sicilian Defense: Kan Variation, Maroczy Bind, Hedgehog Variation",
+            "ct": "Sicilian Defense, Kan Variation"
         }
     },
     "rnbqkbnr/1p1p1ppp/p3p3/8/2PNP3/8/PP3PPP/RNBQKB1R b KQkq - 0 5": {
@@ -11458,7 +11981,8 @@
         "scid": "B41f",
         "aliases": {
             "scid": "Sicilian: Kan, 5.c4",
-            "eco_js": "Sicilian Defense: Kan Variation, Maroczy Bind, Reti Variation"
+            "eco_js": "Sicilian Defense: Kan Variation, Maroczy Bind, Reti Variation",
+            "ct": "Sicilian Defense, Kan Variation"
         }
     },
     "rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP1BPPP/RNBQK2R b KQkq - 1 5": {
@@ -11556,7 +12080,8 @@
         "name": "Sicilian Defense: Kan Variation, Modern Variation",
         "scid": "B42a",
         "aliases": {
-            "scid": "Sicilian: Kan, 5.Bd3"
+            "scid": "Sicilian: Kan, 5.Bd3",
+            "ct": "Sicilian Defense, Kan Variation"
         },
         "isEcoRoot": true
     },
@@ -11567,7 +12092,8 @@
         "name": "Sicilian Defense: Kan Variation, Polugaevsky Variation",
         "scid": "B42f",
         "aliases": {
-            "scid": "Sicilian: Kan, Polugaevsky Variation"
+            "scid": "Sicilian: Kan, Polugaevsky Variation",
+            "ct": "Sicilian Defense, Kan Variation"
         }
     },
     "rnbqkbnr/1p1p1p1p/p3p1p1/8/3NP3/3B4/PPP2PPP/RNBQK2R w KQkq - 0 6": {
@@ -11577,7 +12103,8 @@
         "name": "Sicilian Defense: Kan Variation, Swiss Cheese Variation",
         "scid": "B42b",
         "aliases": {
-            "scid": "Sicilian: Kan, Swiss Cheese Variation"
+            "scid": "Sicilian: Kan, Swiss Cheese Variation",
+            "ct": "Sicilian Defense, Kan Variation"
         }
     },
     "r1bqkbnr/1p1p1ppp/p1n1p3/8/3NP3/3B4/PPP2PPP/RNBQK2R w KQkq - 2 6": {
@@ -11685,7 +12212,8 @@
         "name": "Sicilian Defense: Kan Variation, Knight Variation",
         "scid": "B43a",
         "aliases": {
-            "scid": "Sicilian: Kan, 5.Nc3"
+            "scid": "Sicilian: Kan, 5.Nc3",
+            "ct": "Sicilian Defense, Kan Variation"
         },
         "isEcoRoot": true
     },
@@ -11696,20 +12224,27 @@
         "name": "Sicilian Defense: Kan Variation, Wing Attack",
         "scid": "B43c",
         "aliases": {
-            "scid": "Sicilian: Kan, 5.Nc3 b5"
+            "scid": "Sicilian: Kan, 5.Nc3 b5",
+            "ct": "Sicilian Defense, Kan Variation"
         }
     },
     "rnb1k1nr/3p1ppp/pq2p3/1pb5/3NP1Q1/2NBB3/PPP2PPP/R3K2R b KQkq - 5 8": {
         "src": "eco_tsv",
         "eco": "B43",
         "moves": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Qb6 7. Be3 Bc5 8. Qg4",
-        "name": "Sicilian Defense: Kan Variation, Wing Attack, Christiansen's Dream"
+        "name": "Sicilian Defense: Kan Variation, Wing Attack, Christiansen's Dream",
+        "aliases": {
+            "ct": "Sicilian Defense, Kan Variation"
+        }
     },
     "rnb1kbnr/3p1ppp/pq2p3/1p6/4P3/2NB1N2/PPP2PPP/R1BQK2R b KQkq - 3 7": {
         "src": "eco_tsv",
         "eco": "B43",
         "moves": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Qb6 7. Nf3",
-        "name": "Sicilian Defense: Kan Variation, Wing Attack, Spraggett Attack"
+        "name": "Sicilian Defense: Kan Variation, Wing Attack, Spraggett Attack",
+        "aliases": {
+            "ct": "Sicilian Defense, Kan Variation"
+        }
     },
     "rnbqkbnr/3p1ppp/p3p3/1p6/3NP3/2NB4/PPP2PPP/R1BQK2R b KQkq - 1 6": {
         "src": "scid",
@@ -11810,7 +12345,8 @@
         "scid": "B44a",
         "aliases": {
             "scid": "Sicilian: Taimanov",
-            "eco_js": "Sicilian Defense: Paulsen Variation"
+            "eco_js": "Sicilian Defense: Paulsen Variation",
+            "ct": "Sicilian Defense, Paulsen Variation"
         },
         "isEcoRoot": true
     },
@@ -11822,7 +12358,8 @@
         "scid": "B44r",
         "aliases": {
             "scid": "Sicilian: Taimanov, Szen, Kasparov Gambit",
-            "eco_js": "Sicilian Defense: Paulsen Variation, Gary Gambit"
+            "eco_js": "Sicilian Defense: Paulsen Variation, Gary Gambit",
+            "ct": "Sicilian Defense, Paulsen Variation"
         }
     },
     "r1bq1rk1/4bppp/ppnppn2/8/2P1P3/N1N5/PP2BPPP/R1BQ1RK1 w - - 0 11": {
@@ -11833,7 +12370,8 @@
         "scid": "B44w",
         "aliases": {
             "scid": "Sicilian: Taimanov, Szen, Hedgehog Variation",
-            "eco_js": "Sicilian Defense: Paulsen Variation, Modern Line"
+            "eco_js": "Sicilian Defense: Paulsen Variation, Modern Line",
+            "ct": "Sicilian Defense, Paulsen Variation"
         }
     },
     "r1bqkbnr/pp1p1ppp/2n1p3/1N6/4P3/8/PPP2PPP/RNBQKB1R b KQkq - 2 5": {
@@ -11844,7 +12382,8 @@
         "scid": "B44k",
         "aliases": {
             "scid": "Sicilian, Taimanov, Szen Variation",
-            "eco_js": "Sicilian Defense: Paulsen Variation, Szen Variation"
+            "eco_js": "Sicilian Defense: Paulsen Variation, Szen Variation",
+            "ct": "Sicilian Defense, Paulsen Variation"
         }
     },
     "r1bqkbnr/pp3ppp/2npp3/1N6/4P3/8/PPP2PPP/RNBQKB1R w KQkq - 0 6": {
@@ -12086,7 +12625,8 @@
         "scid": "B45q",
         "aliases": {
             "scid": "Sicilian: Taimanov, Four Knights, American Attack",
-            "eco_js": "Sicilian Defense: Paulsen Variation, American Attack"
+            "eco_js": "Sicilian Defense: Paulsen Variation, American Attack",
+            "ct": "Sicilian Defense, Paulsen Variation"
         }
     },
     "r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5": {
@@ -12097,7 +12637,8 @@
         "scid": "B45a",
         "aliases": {
             "scid": "Sicilian: Taimanov, 5.Nc3",
-            "eco_js": "Sicilian Defense: Paulsen Variation, Normal Variation"
+            "eco_js": "Sicilian Defense: Paulsen Variation, Normal Variation",
+            "ct": "Sicilian Defense, Paulsen Variation"
         },
         "isEcoRoot": true
     },
@@ -12277,7 +12818,8 @@
         "scid": "B46a",
         "aliases": {
             "scid": "Sicilian: Taimanov, 5...a6",
-            "eco_js": "Sicilian Defense: Paulsen Variation, 4. Nxd4 Nc6 5. Nc3 a6"
+            "eco_js": "Sicilian Defense: Paulsen Variation, 4. Nxd4 Nc6 5. Nc3 a6",
+            "ct": "Sicilian Defense, Paulsen Variation"
         },
         "isEcoRoot": true
     },
@@ -12309,7 +12851,8 @@
         "name": "Sicilian: Taimanov, 5...a6 6.Be2 Nge7",
         "scid": "B46o",
         "aliases": {
-            "eco_js": "Sicilian Defense: Paulsen Variation, Taimanov Variation"
+            "eco_js": "Sicilian Defense: Paulsen Variation, Taimanov Variation",
+            "ct": "Sicilian Defense, Paulsen Variation"
         }
     },
     "r1bqkb1r/1p1pnppp/p1n1p3/8/3NP3/2N1B3/PPP1BPPP/R2QK2R b KQkq - 3 7": {
@@ -12411,7 +12954,8 @@
         "scid": "B47a",
         "aliases": {
             "scid": "Sicilian: Taimanov, Bastrikov Variation",
-            "eco_js": "Sicilian Defense: Paulsen Variation, Bastrikov Variation"
+            "eco_js": "Sicilian Defense: Paulsen Variation, Bastrikov Variation",
+            "ct": "Sicilian Defense, Paulsen Variation"
         },
         "isEcoRoot": true
     },
@@ -12421,7 +12965,8 @@
         "moves": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Ndb5 Qb8 7. Be3 a6 8. Bb6",
         "name": "Sicilian Defense: Taimanov Variation, Bastrikov Variation, Ponomariov Gambit",
         "aliases": {
-            "eco_js": "Sicilian Defense: Paulsen Variation, Bastrikov Variation, Ponomariov Gambit"
+            "eco_js": "Sicilian Defense: Paulsen Variation, Bastrikov Variation, Ponomariov Gambit",
+            "ct": "Sicilian Defense, Paulsen Variation"
         }
     },
     "r1b1kbnr/ppqp1ppp/2n1p3/8/3NP3/2N5/PPP1BPPP/R1BQK2R b KQkq - 4 6": {
@@ -12649,7 +13194,8 @@
         "scid": "B48a",
         "aliases": {
             "scid": "Sicilian: Taimanov, 6.Be3",
-            "eco_js": "Sicilian Defense: Paulsen Variation, Bastrikov Variation, 5. Nc3 Qc7 6. Be3"
+            "eco_js": "Sicilian Defense: Paulsen Variation, Bastrikov Variation, 5. Nc3 Qc7 6. Be3",
+            "ct": "Sicilian Defense, Paulsen Variation"
         },
         "isEcoRoot": true
     },
@@ -12786,7 +13332,8 @@
         "name": "Sicilian: Taimanov, 6.Be3 a6 7.Qd2",
         "scid": "B48g",
         "aliases": {
-            "eco_js": "Sicilian Defense: Paulsen Variation, Bastrikov Variation, English Attack, 6. Be3 a6 7. Qd2"
+            "eco_js": "Sicilian Defense: Paulsen Variation, Bastrikov Variation, English Attack, 6. Be3 a6 7. Qd2",
+            "ct": "Sicilian Defense, Paulsen Variation"
         }
     },
     "r1b1kb1r/1pqp1ppp/p1n1pn2/8/3NP3/2N1BP2/PPPQ2PP/R3KB1R b KQkq - 0 8": {
@@ -12807,7 +13354,10 @@
         "src": "eco_js",
         "eco": "B49",
         "moves": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qc7 5. Nc3 e6 6. Be3 a6 7. f3",
-        "name": "Sicilian Defense: Paulsen Variation, Bastrikov Variation, English Attack"
+        "name": "Sicilian Defense: Paulsen Variation, Bastrikov Variation, English Attack",
+        "aliases": {
+            "ct": "Sicilian Defense, Paulsen Variation"
+        }
     },
     "r1b1kbnr/1pqp1ppp/p1n1p3/8/3NP3/2N1B3/PPP1BPPP/R2QK2R b KQkq - 1 7": {
         "src": "eco_tsv",
@@ -12817,7 +13367,8 @@
         "scid": "B49a",
         "aliases": {
             "scid": "Sicilian: Taimanov, 6.Be3 a6 7.Be2",
-            "eco_js": "Sicilian Defense: Paulsen Variation, Bastrikov Variation, 6. Be3 a6 7. Be2"
+            "eco_js": "Sicilian Defense: Paulsen Variation, Bastrikov Variation, 6. Be3 a6 7. Be2",
+            "ct": "Sicilian Defense, Paulsen Variation"
         },
         "isEcoRoot": true
     },
@@ -12983,20 +13534,27 @@
         "name": "Sicilian Defense: Delayed Alapin Variation, with d6",
         "scid": "B50l",
         "aliases": {
-            "scid": "Sicilian: 2.Nf3 d6 3.c3"
+            "scid": "Sicilian: 2.Nf3 d6 3.c3",
+            "ct": "Sicilian Defense, Delayed Alapin"
         }
     },
     "r1b1kb1r/pp2pppp/2np4/q2P4/8/2P2N2/P3BPPP/R1BQK2R b KQkq - 0 9": {
         "src": "eco_tsv",
         "eco": "B50",
         "moves": "1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 Nc6 5. d4 cxd4 6. cxd4 Nxe4 7. d5 Qa5+ 8. Nc3 Nxc3 9. bxc3",
-        "name": "Sicilian Defense: Delayed Alapin Variation, Basman-Palatnik Double Gambit"
+        "name": "Sicilian Defense: Delayed Alapin Variation, Basman-Palatnik Double Gambit",
+        "aliases": {
+            "ct": "Sicilian Defense, Delayed Alapin"
+        }
     },
     "r1bqkb1r/pp2pppp/2np4/8/3Pn3/5N2/PP2BPPP/RNBQK2R w KQkq - 0 7": {
         "src": "eco_tsv",
         "eco": "B50",
         "moves": "1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 Nc6 5. d4 cxd4 6. cxd4 Nxe4",
-        "name": "Sicilian Defense: Delayed Alapin Variation, Basman-Palatnik Gambit"
+        "name": "Sicilian Defense: Delayed Alapin Variation, Basman-Palatnik Gambit",
+        "aliases": {
+            "ct": "Sicilian Defense, Delayed Alapin"
+        }
     },
     "rnbqkbnr/pp2pppp/3p4/2p5/4P3/3B1N2/PPPP1PPP/RNBQK2R b KQkq - 1 3": {
         "src": "eco_tsv",
@@ -13029,20 +13587,27 @@
         "name": "Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order",
         "scid": "B53b",
         "aliases": {
-            "scid": "Sicilian: 2...d6 3.d4 Nf6"
+            "scid": "Sicilian: 2...d6 3.d4 Nf6",
+            "ct": "Sicilian Defense, Modern Variations"
         }
     },
     "rnbqkb1r/pp2pppp/3p4/2P5/4n3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5": {
         "src": "eco_tsv",
         "eco": "B50",
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. dxc5 Nxe4",
-        "name": "Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted"
+        "name": "Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted",
+        "aliases": {
+            "ct": "Sicilian Defense, Modern Variations"
+        }
     },
     "rnbqkbnr/pp2pppp/3p4/8/3pP3/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 4": {
         "src": "eco_tsv",
         "eco": "B50",
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. c3",
-        "name": "Sicilian Defense: Modern Variations, Tartakower"
+        "name": "Sicilian Defense: Modern Variations, Tartakower",
+        "aliases": {
+            "ct": "Sicilian Defense, Modern Variations"
+        }
     },
     "rnbqkbnr/pp2pppp/3p4/2p5/1P2P3/5N2/P1PP1PPP/RNBQKB1R b KQkq - 0 3": {
         "src": "eco_tsv",
@@ -13051,7 +13616,8 @@
         "name": "Sicilian Defense: Wing Gambit, Deferred Variation",
         "scid": "B50b",
         "aliases": {
-            "scid": "Sicilian: Wing Gambit deferred"
+            "scid": "Sicilian: Wing Gambit deferred",
+            "ct": "Sicilian Defense, Wing Gambit"
         }
     },
     "rnbqkbnr/pp2pppp/3p4/2p5/4P3/1P3N2/P1PP1PPP/RNBQKB1R b KQkq - 0 3": {
@@ -13202,7 +13768,8 @@
         "scid": "B51a",
         "aliases": {
             "scid": "Sicilian: Moscow",
-            "eco_js": "Sicilian Defense: Canal-Sokolsky Attack"
+            "eco_js": "Sicilian Defense: Canal-Sokolsky Attack",
+            "ct": "Sicilian Defense, Canal Attack"
         },
         "isEcoRoot": true
     },
@@ -13212,7 +13779,8 @@
         "moves": "1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bd7 5. Qe2 g6 6. e5",
         "name": "Sicilian Defense: Moscow Variation, Dorfman Gambit",
         "aliases": {
-            "eco_js": "Sicilian Defense: Canal Attack, Dorfman Gambit"
+            "eco_js": "Sicilian Defense: Canal Attack, Dorfman Gambit",
+            "ct": "Sicilian Defense, Canal Attack"
         }
     },
     "r2qkb1r/1p2pppp/p2p1n2/2p3B1/3Pb3/2P2N2/PP3PPP/RN1QR1K1 b kq - 1 9": {
@@ -13221,7 +13789,8 @@
         "moves": "1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bd7 5. c3 Nf6 6. Re1 a6 7. Bxc6 Bxc6 8. d4 Bxe4 9. Bg5",
         "name": "Sicilian Defense: Moscow Variation, Moscow Gambit",
         "aliases": {
-            "eco_js": "Sicilian Defense: Canal Attack, Moscow Gambit"
+            "eco_js": "Sicilian Defense: Canal Attack, Moscow Gambit",
+            "ct": "Sicilian Defense, Canal Attack"
         }
     },
     "r1bqkbnr/pp2pppp/2np4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4": {
@@ -13393,7 +13962,8 @@
         "scid": "B52t",
         "aliases": {
             "scid": "Sicilian: 3.Bb5+, Bronstein Gambit",
-            "eco_js": "Sicilian Defense: Canal Attack, Haag Gambit"
+            "eco_js": "Sicilian Defense: Canal Attack, Haag Gambit",
+            "ct": "Sicilian Defense, Canal Attack"
         }
     },
     "rn1qkbnr/pp1bpppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4": {
@@ -13404,7 +13974,8 @@
         "scid": "B52a",
         "aliases": {
             "scid": "Sicilian: Moscow 3...Bd7",
-            "eco_js": "Sicilian Defense: Canal Attack, Main Line"
+            "eco_js": "Sicilian Defense: Canal Attack, Main Line",
+            "ct": "Sicilian Defense, Canal Attack"
         },
         "isEcoRoot": true
     },
@@ -13556,7 +14127,8 @@
         "name": "Sicilian Defense: Chekhover Variation, Zaitsev Defense",
         "scid": "B53m",
         "aliases": {
-            "scid": "Sicilian: Chekhover, Zaitsev Variation"
+            "scid": "Sicilian: Chekhover, Zaitsev Variation",
+            "ct": "Sicilian Defense, Chekhover Variation"
         }
     },
     "rnbqkbnr/1p2pppp/p2p4/8/3QP3/5N2/PPP2PPP/RNB1KB1R w KQkq - 0 5": {
@@ -13721,7 +14293,8 @@
         "name": "Sicilian Defense: Modern Variations, Main Line",
         "scid": "B54d",
         "aliases": {
-            "scid": "Sicilian: Open, 2...d6, 4...Nf6"
+            "scid": "Sicilian: Open, 2...d6, 4...Nf6",
+            "ct": "Sicilian Defense, Modern Variations"
         }
     },
     "rnbqkb1r/pp2pppp/3p1n2/8/3NP3/5P2/PPP3PP/RNBQKB1R b KQkq - 0 5": {
@@ -13740,7 +14313,10 @@
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4",
         "name": "Sicilian: Open, 2...d6",
         "scid": "B54a",
-        "isEcoRoot": true
+        "isEcoRoot": true,
+        "aliases": {
+            "ct": "Sicilian Defense, Modern Variations"
+        }
     },
     "rnbqkbnr/1p2pppp/p2p4/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5": {
         "src": "scid",
@@ -13833,7 +14409,8 @@
         "name": "Sicilian Defense: Prins Variation, Venice Attack",
         "scid": "B55",
         "aliases": {
-            "scid": "Sicilian: Prins, Venice Attack"
+            "scid": "Sicilian: Prins, Venice Attack",
+            "ct": "Sicilian Defense, Prins Variation"
         },
         "isEcoRoot": true
     },
@@ -13882,7 +14459,8 @@
         "name": "Sicilian Defense: Classical Variation, Fianchetto Variation",
         "scid": "B56j",
         "aliases": {
-            "scid": "Sicilian: Open, 2...d6, 5.Nc3 Nc6 6.g3"
+            "scid": "Sicilian: Open, 2...d6, 5.Nc3 Nc6 6.g3",
+            "ct": "Sicilian Defense, Classical Variation"
         }
     },
     "rn1qkb1r/pp1bpppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6": {
@@ -13924,7 +14502,8 @@
         "name": "Sicilian: Open, 2...d6, 5.Nc3",
         "scid": "B56a",
         "aliases": {
-            "eco_js": "Sicilian Defense: Modern Variations"
+            "eco_js": "Sicilian Defense: Modern Variations",
+            "ct": "Sicilian Defense, Modern Variations"
         },
         "isEcoRoot": true
     },
@@ -14078,7 +14657,10 @@
         "eco": "B57",
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6",
         "name": "Sicilian: Sozin, Benko Variation",
-        "scid": "B57d"
+        "scid": "B57d",
+        "aliases": {
+            "ct": "Sicilian Defense, Classical Variation"
+        }
     },
     "r1b1kb1r/pp2pppp/1qnp1n2/8/2B1P3/1NN5/PPP2PPP/R1BQK2R b KQkq - 6 7": {
         "src": "scid",
@@ -14181,7 +14763,8 @@
         "name": "Sicilian Defense: Boleslavsky Variation, Louma Variation",
         "scid": "B58g",
         "aliases": {
-            "scid": "Sicilian: Boleslavsky, Louma Variation"
+            "scid": "Sicilian: Boleslavsky, Louma Variation",
+            "ct": "Sicilian Defense, Boleslavsky Variation"
         }
     },
     "r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP1BPPP/R1BQK2R b KQkq - 4 6": {
@@ -14199,7 +14782,10 @@
         "src": "eco_tsv",
         "eco": "B58",
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 Nxd4 7. Qxd4 g6",
-        "name": "Sicilian Defense: Classical Variation, Dragon Transfer"
+        "name": "Sicilian Defense: Classical Variation, Dragon Transfer",
+        "aliases": {
+            "ct": "Sicilian Defense, Classical Variation"
+        }
     },
     "r1bqkb1r/1p2pppp/p1np1n2/8/3NP3/2N5/PPP1BPPP/R1BQK2R w KQkq - 0 7": {
         "src": "scid",
@@ -14469,7 +15055,8 @@
         "name": "Sicilian Defense: Richter-Rauzer Variation, Dragon Variation",
         "scid": "B60b",
         "aliases": {
-            "scid": "Sicilian: Richter-Rauzer, Bondarevsky Variation"
+            "scid": "Sicilian: Richter-Rauzer, Bondarevsky Variation",
+            "ct": "Sicilian Defense, Richter-Rauzer Variation"
         }
     },
     "r2qkb1r/pp1bpppp/2np1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R w KQkq - 5 7": {
@@ -14479,7 +15066,8 @@
         "name": "Sicilian Defense: Richter-Rauzer Variation, Modern Variation",
         "scid": "B60f",
         "aliases": {
-            "scid": "Sicilian: Richter-Rauzer, Larsen Variation"
+            "scid": "Sicilian: Richter-Rauzer, Larsen Variation",
+            "ct": "Sicilian Defense, Richter-Rauzer Variation"
         }
     },
     "r1bqkb1r/1p2pppp/p1np1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R w KQkq - 0 7": {
@@ -14553,7 +15141,10 @@
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7 7. Qd2",
         "name": "Sicilian: Richter-Rauzer, Larsen, 7.Qd2",
         "scid": "B61a",
-        "isEcoRoot": true
+        "isEcoRoot": true,
+        "aliases": {
+            "ct": "Sicilian Defense, Richter-Rauzer Variation"
+        }
     },
     "r2qkb1r/1p1bpppp/p1np1n2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R w KQkq - 0 8": {
         "src": "scid",
@@ -14641,7 +15232,8 @@
         "name": "Sicilian Defense: Richter-Rauzer Variation, Exchange Variation",
         "scid": "B62e",
         "aliases": {
-            "scid": "Sicilian: Richter-Rauzer, Richter Attack"
+            "scid": "Sicilian: Richter-Rauzer, Richter Attack",
+            "ct": "Sicilian Defense, Richter-Rauzer Variation"
         }
     },
     "r1bqkb1r/pp3ppp/2nppn2/6B1/4P3/1NN5/PPP2PPP/R2QKB1R b KQkq - 1 7": {
@@ -14651,7 +15243,8 @@
         "name": "Sicilian Defense: Richter-Rauzer Variation, Podebrady Variation",
         "scid": "B62d",
         "aliases": {
-            "scid": "Sicilian: Richter-Rauzer, Podebrady Variation"
+            "scid": "Sicilian: Richter-Rauzer, Podebrady Variation",
+            "ct": "Sicilian Defense, Richter-Rauzer Variation"
         }
     },
     "r1bqkb1r/pp3ppp/2nppn2/1B4B1/3NP3/2N5/PPP2PPP/R2QK2R b KQkq - 1 7": {
@@ -14661,7 +15254,8 @@
         "name": "Sicilian Defense: Richter-Rauzer Variation, Vitolins Variation",
         "scid": "B62g",
         "aliases": {
-            "scid": "Sicilian: Richter-Rauzer, Margate (Alekhine) Variation"
+            "scid": "Sicilian: Richter-Rauzer, Margate (Alekhine) Variation",
+            "ct": "Sicilian Defense, Richter-Rauzer Variation"
         }
     },
     "r1bqkb1r/pp3ppp/2nppn2/6B1/3NP3/2N5/PPP1BPPP/R2QK2R b KQkq - 1 7": {
@@ -14699,14 +15293,18 @@
         "name": "Sicilian Defense: Richter-Rauzer Variation, Classical Variation",
         "scid": "B63k",
         "aliases": {
-            "scid": "Sicilian: Richter-Rauzer, 7.Qd2 Be7"
+            "scid": "Sicilian: Richter-Rauzer, 7.Qd2 Be7",
+            "ct": "Sicilian Defense, Richter-Rauzer Variation"
         }
     },
     "r1bqk2r/4bppp/p2ppn2/1p4B1/3QPP2/2N5/PPP3PP/2KR1B1R w kq - 0 11": {
         "src": "eco_tsv",
         "eco": "B63",
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8. O-O-O Nxd4 9. Qxd4 a6 10. f4 b5",
-        "name": "Sicilian Defense: Richter-Rauzer Variation, Classical Variation, Kantscher Line"
+        "name": "Sicilian Defense: Richter-Rauzer Variation, Classical Variation, Kantscher Line",
+        "aliases": {
+            "ct": "Sicilian Defense, Richter-Rauzer Variation"
+        }
     },
     "r1b1kb1r/pp3ppp/1qnppn2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R w KQkq - 2 8": {
         "src": "eco_tsv",
@@ -14715,7 +15313,8 @@
         "name": "Sicilian Defense: Richter-Rauzer Variation, Ivanov Variation",
         "scid": "B63c",
         "aliases": {
-            "scid": "Sicilian: Richter-Rauzer, 7.Qd2 Qb6"
+            "scid": "Sicilian: Richter-Rauzer, 7.Qd2 Qb6",
+            "ct": "Sicilian Defense, Richter-Rauzer Variation"
         }
     },
     "r1bqkb1r/pp3ppp/2nppn2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R b KQkq - 1 7": {
@@ -14725,7 +15324,8 @@
         "name": "Sicilian Defense: Richter-Rauzer Variation, Traditional Variation",
         "scid": "B63a",
         "aliases": {
-            "scid": "Sicilian: Richter-Rauzer, Rauzer Attack (7.Qd2)"
+            "scid": "Sicilian: Richter-Rauzer, Rauzer Attack (7.Qd2)",
+            "ct": "Sicilian Defense, Richter-Rauzer Variation"
         },
         "isEcoRoot": true
     },
@@ -14884,7 +15484,8 @@
         "scid": "B64b",
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer, Geller Variation",
-            "eco_js": "Sicilian Defense: Richter-Rauzer Variation, Classical Variation, 8. O-O-O O-O 9. f4 e5"
+            "eco_js": "Sicilian Defense: Richter-Rauzer Variation, Classical Variation, 8. O-O-O O-O 9. f4 e5",
+            "ct": "Sicilian Defense, Richter-Rauzer Variation"
         }
     },
     "r1bq1rk1/pp2bppp/2nppn2/6B1/3NPP2/2N5/PPPQ2PP/2KR1B1R b - - 0 9": {
@@ -14895,7 +15496,8 @@
         "scid": "B64a",
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer, 7.Qd2 Be7, 9.f4",
-            "eco_js": "Sicilian Defense: Richter-Rauzer Variation, Classical Variation, 8. O-O-O O-O 9. f4"
+            "eco_js": "Sicilian Defense: Richter-Rauzer Variation, Classical Variation, 8. O-O-O O-O 9. f4",
+            "ct": "Sicilian Defense, Richter-Rauzer Variation"
         },
         "isEcoRoot": true
     },
@@ -14935,7 +15537,8 @@
         "scid": "B65a",
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer, 7...Be7, 9.f4 Nxd4",
-            "eco_js": "Sicilian Defense: Richter-Rauzer Variation, Classical Variation, 9. f4 Nxd4 10. Qxd4"
+            "eco_js": "Sicilian Defense: Richter-Rauzer Variation, Classical Variation, 9. f4 Nxd4 10. Qxd4",
+            "ct": "Sicilian Defense, Richter-Rauzer Variation"
         },
         "isEcoRoot": true
     },
@@ -14999,7 +15602,8 @@
         "name": "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations",
         "scid": "B66a",
         "aliases": {
-            "scid": "Sicilian: Richter-Rauzer, 7...a6"
+            "scid": "Sicilian: Richter-Rauzer, 7...a6",
+            "ct": "Sicilian Defense, Richter-Rauzer Variation"
         },
         "isEcoRoot": true
     },
@@ -15143,7 +15747,8 @@
         "name": "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation",
         "scid": "B67a",
         "aliases": {
-            "scid": "Sicilian: Richter-Rauzer, 7...a6 8.O-O-O Bd7"
+            "scid": "Sicilian: Richter-Rauzer, 7...a6 8.O-O-O Bd7",
+            "ct": "Sicilian Defense, Richter-Rauzer Variation"
         },
         "isEcoRoot": true
     },
@@ -15288,7 +15893,8 @@
         "scid": "B68",
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer, 7...a6, 9.f4 Be7",
-            "eco_js": "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, 8. O-O-O Bd7 9. f4 Be7"
+            "eco_js": "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, 8. O-O-O Bd7 9. f4 Be7",
+            "ct": "Sicilian Defense, Richter-Rauzer Variation"
         },
         "isEcoRoot": true
     },
@@ -15334,7 +15940,8 @@
         "name": "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Nyezhmetdinov Attack",
         "scid": "B69",
         "aliases": {
-            "scid": "Sicilian: Richter-Rauzer, 7...a6, 9.f4 Be7 10.Nf3 b5 11.Bxf6"
+            "scid": "Sicilian: Richter-Rauzer, 7...a6, 9.f4 Be7 10.Nf3 b5 11.Bxf6",
+            "ct": "Sicilian Defense, Richter-Rauzer Variation"
         },
         "isEcoRoot": true
     },
@@ -15377,7 +15984,8 @@
         "name": "Sicilian Defense: Dragon Variation, Classical Variation",
         "scid": "B70i",
         "aliases": {
-            "scid": "Sicilian: Dragon, 6.Be2"
+            "scid": "Sicilian: Dragon, 6.Be2",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N3P1/PPP2P1P/R1BQKB1R b KQkq - 0 6": {
@@ -15387,7 +15995,8 @@
         "name": "Sicilian Defense: Dragon Variation, Fianchetto Variation",
         "scid": "B70b",
         "aliases": {
-            "scid": "Sicilian: Dragon, 6.g3"
+            "scid": "Sicilian: Dragon, 6.g3",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "rnbqkb1r/pp2pp1p/3p1np1/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 6": {
@@ -15600,7 +16209,8 @@
         "name": "Sicilian Defense: Dragon Variation, Levenfish Variation",
         "scid": "B71",
         "aliases": {
-            "scid": "Sicilian: Dragon, Levenfish Variation"
+            "scid": "Sicilian: Dragon, Levenfish Variation",
+            "ct": "Sicilian Defense, Dragon Variation"
         },
         "isEcoRoot": true
     },
@@ -15611,7 +16221,8 @@
         "name": "Sicilian Defense: Dragon Variation, Levenfish Variation, Main Line",
         "scid": "B71",
         "aliases": {
-            "scid": "Sicilian: Dragon, Levenfish, 6...Nbd7"
+            "scid": "Sicilian: Dragon, Levenfish, 6...Nbd7",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "rnbqk2r/pp2ppbp/3p1np1/8/3NPP2/2N5/PPP3PP/R1BQKB1R w KQkq - 1 7": {
@@ -15676,7 +16287,8 @@
         "scid": "B72",
         "aliases": {
             "scid": "Sicilian: Dragon, Classical Attack",
-            "eco_js": "Sicilian Defense: Dragon, Classical Attack"
+            "eco_js": "Sicilian Defense: Dragon, Classical Attack",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "r1bqk2r/pp2ppbp/2np1np1/8/3NP3/2N1B3/PPP1BPPP/R2QK2R w KQkq - 4 8": {
@@ -15685,7 +16297,8 @@
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 Nc6",
         "name": "Sicilian Defense: Dragon Variation, Classical Variation",
         "aliases": {
-            "eco_js": "Sicilian Defense: Dragon Variation, Classical Variation, 6. Be3 Bg7 7. Be2 Nc6"
+            "eco_js": "Sicilian Defense: Dragon Variation, Classical Variation, 6. Be3 Bg7 7. Be2 Nc6",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "r1bqk2r/pp2ppbp/2np1np1/8/4P3/1NN1B3/PPP1BPPP/R2QK2R b KQkq - 5 8": {
@@ -15696,7 +16309,8 @@
         "scid": "B72",
         "aliases": {
             "scid": "Sicilian: Dragon, Classical, Nottingham Variation",
-            "eco_js": "Sicilian Defense: Dragon Variation, Classical Variation, 7. Be2 Nc6 8. Nb3"
+            "eco_js": "Sicilian Defense: Dragon Variation, Classical Variation, 7. Be2 Nc6 8. Nb3",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "r1bqk2r/pp2ppbp/2np1np1/8/3NP3/2N1B3/PPPQBPPP/R3K2R b KQkq - 3 8": {
@@ -15788,7 +16402,8 @@
         "scid": "B73",
         "aliases": {
             "scid": "Sicilian: Dragon, Classical, 8.O-O",
-            "eco_js": "Sicilian Defense: Dragon Variation, Classical Variation, 7. O-O Nc6 8. Be3"
+            "eco_js": "Sicilian Defense: Dragon Variation, Classical Variation, 7. O-O Nc6 8. Be3",
+            "ct": "Sicilian Defense, Dragon Variation"
         },
         "isEcoRoot": true
     },
@@ -15799,7 +16414,8 @@
         "name": "Sicilian Defense: Dragon Variation, Classical Variation, Battery Variation",
         "scid": "B73",
         "aliases": {
-            "scid": "Sicilian: Dragon, Classical, Richter Variation"
+            "scid": "Sicilian: Dragon, Classical, Richter Variation",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "r1b2rk1/pp2ppbp/1qnp1np1/4P3/3N1P2/2N1B3/PPP1B1PP/R2Q1RK1 b - - 0 10": {
@@ -15841,7 +16457,8 @@
         "name": "Sicilian Defense: Dragon Variation, Classical Variation, Alekhine Line",
         "scid": "B74",
         "aliases": {
-            "scid": "Sicilian: Dragon, Classical, Alekhine Variation"
+            "scid": "Sicilian: Dragon, Classical, Alekhine Variation",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "r2q1rk1/pp2ppbp/5np1/n2p1P2/4P3/1NNPB3/PP4PP/R2Q1RK1 w - - 0 14": {
@@ -15863,7 +16480,8 @@
         "scid": "B74",
         "aliases": {
             "scid": "Sicilian: Dragon, Classical, Maroczy Variation",
-            "eco_js": "Sicilian Defense: Dragon Variation, Classical Variation, Maroczy Line"
+            "eco_js": "Sicilian Defense: Dragon Variation, Classical Variation, Maroczy Line",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "r1bq1rk1/pp2ppbp/2np1np1/8/4P3/1NN1B3/PPP1BPPP/R2Q1RK1 b - - 7 9": {
@@ -15873,7 +16491,8 @@
         "name": "Sicilian Defense: Dragon Variation, Classical Variation, Normal Line",
         "scid": "B74",
         "aliases": {
-            "scid": "Sicilian: Dragon, Classical, 9.Nb3"
+            "scid": "Sicilian: Dragon, Classical, 9.Nb3",
+            "ct": "Sicilian Defense, Dragon Variation"
         },
         "isEcoRoot": true
     },
@@ -15895,7 +16514,8 @@
         "name": "Sicilian Defense: Dragon Variation, Classical Variation, Stockholm Attack",
         "scid": "B74",
         "aliases": {
-            "scid": "Sicilian: Dragon, Classical, Stockholm Attack"
+            "scid": "Sicilian: Dragon, Classical, Stockholm Attack",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "r1q2rk1/pp2ppbp/2npbnp1/8/4PP2/1NN1B3/PPP1B1PP/R2Q1RK1 w - - 1 11": {
@@ -15905,7 +16525,8 @@
         "name": "Sicilian Defense: Dragon Variation, Classical Variation, Tartakower Line",
         "scid": "B74",
         "aliases": {
-            "scid": "Sicilian: Dragon, Classical, Tartakower Variation"
+            "scid": "Sicilian: Dragon, Classical, Tartakower Variation",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "r1bq1rk1/1p2ppbp/p1np1np1/8/4P3/1NN1B3/PPP1BPPP/R2Q1RK1 w - - 0 10": {
@@ -15950,7 +16571,8 @@
         "name": "Sicilian Defense: Dragon Variation, Yugoslav Attack, Belezky Line",
         "scid": "B75",
         "aliases": {
-            "scid": "Sicilian: Dragon, Yugoslav, 7...Nc6"
+            "scid": "Sicilian: Dragon, Yugoslav, 7...Nc6",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "rnbqk2r/pp2ppbp/3p1np1/8/3NP3/2N1BP2/PPP3PP/R2QKB1R b KQkq - 0 7": {
@@ -15960,7 +16582,8 @@
         "name": "Sicilian Defense: Dragon Variation, Yugoslav Attack, Early Deviations",
         "scid": "B75",
         "aliases": {
-            "scid": "Sicilian: Dragon, Yugoslav Attack"
+            "scid": "Sicilian: Dragon, Yugoslav Attack",
+            "ct": "Sicilian Defense, Dragon Variation"
         },
         "isEcoRoot": true
     },
@@ -16013,7 +16636,8 @@
         "name": "Sicilian Defense: Dragon Variation, Yugoslav Attack",
         "scid": "B76a",
         "aliases": {
-            "scid": "Sicilian: Dragon, Yugoslav, 7.f3 O-O"
+            "scid": "Sicilian: Dragon, Yugoslav, 7.f3 O-O",
+            "ct": "Sicilian Defense, Dragon Variation"
         },
         "isEcoRoot": true
     },
@@ -16025,7 +16649,8 @@
         "scid": "B76c",
         "aliases": {
             "scid": "Sicilian: Dragon, Yugoslav, 8.Qd2 Nc6",
-            "eco_js": "Sicilian Defense: Dragon Variation, Yugoslav Attack, 7. f3 O-O 8. Qd2 Nc6"
+            "eco_js": "Sicilian Defense: Dragon Variation, Yugoslav Attack, 7. f3 O-O 8. Qd2 Nc6",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "r1bq1rk1/pp2ppbp/2np1np1/8/3NP3/2N1BP2/PPPQ2PP/2KR1B1R b - - 4 9": {
@@ -16035,7 +16660,8 @@
         "name": "Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line",
         "scid": "B76g",
         "aliases": {
-            "scid": "Sicilian: Dragon, Yugoslav, 9.O-O-O"
+            "scid": "Sicilian: Dragon, Yugoslav, 9.O-O-O",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "r1bq1rk1/pp2ppbp/2np1np1/8/3NP1P1/2N1BP2/PPPQ3P/R3KB1R b KQ - 0 9": {
@@ -16045,7 +16671,8 @@
         "name": "Sicilian Defense: Dragon Variation, Yugoslav Attack, Panov Variation",
         "scid": "B76d",
         "aliases": {
-            "scid": "Sicilian: Dragon, Yugoslav, 9.g4"
+            "scid": "Sicilian: Dragon, Yugoslav, 9.g4",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "rnbq1rk1/pp2ppbp/3p1np1/8/3NP3/2N1BP2/PPPQ2PP/R3KB1R b KQ - 2 8": {
@@ -16182,7 +16809,8 @@
         "scid": "B77f",
         "aliases": {
             "scid": "Sicilian: Dragon, Yugoslav, 9.Bc4 Bd7",
-            "eco_js": "Sicilian Defense: Dragon Variation, Yugoslav Attack, 8. Qd2 Nc6 9. Bc4 Bd7"
+            "eco_js": "Sicilian Defense: Dragon Variation, Yugoslav Attack, 8. Qd2 Nc6 9. Bc4 Bd7",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "r1bq1rk1/1p2ppbp/2np1np1/p7/2BNP3/2N1BP2/PPPQ2PP/R3K2R w KQ - 0 10": {
@@ -16200,7 +16828,10 @@
         "src": "eco_tsv",
         "eco": "B77",
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2 O-O 9. Bc4 Nxd4 10. Bxd4 Be6",
-        "name": "Sicilian Defense: Dragon Variation, Yugoslav Attack, Czerniak Variation"
+        "name": "Sicilian Defense: Dragon Variation, Yugoslav Attack, Czerniak Variation",
+        "aliases": {
+            "ct": "Sicilian Defense, Dragon Variation"
+        }
     },
     "r1bq1rk1/pp2ppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/R3K2R b KQ - 4 9": {
         "src": "eco_tsv",
@@ -16209,7 +16840,8 @@
         "name": "Sicilian Defense: Dragon Variation, Yugoslav Attack, Main Line",
         "scid": "B77a",
         "aliases": {
-            "scid": "Sicilian: Dragon, Yugoslav, 9.Bc4"
+            "scid": "Sicilian: Dragon, Yugoslav, 9.Bc4",
+            "ct": "Sicilian Defense, Dragon Variation"
         },
         "isEcoRoot": true
     },
@@ -16220,7 +16852,8 @@
         "name": "Sicilian Defense: Dragon Variation, Yugoslav Attack, Sosonko Variation",
         "scid": "B77d",
         "aliases": {
-            "scid": "Sicilian: Dragon, Yugoslav, 9.Bc4 Nd7"
+            "scid": "Sicilian: Dragon, Yugoslav, 9.Bc4 Nd7",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "r2q1rk1/pp1bppbp/2np1np1/8/3NP3/1BN1BP2/PPPQ2PP/R3K2R b KQ - 6 10": {
@@ -16273,7 +16906,8 @@
         "scid": "B78a",
         "aliases": {
             "scid": "Sicilian: Dragon, Yugoslav, 10.O-O-O",
-            "eco_js": "Sicilian Defense: Dragon Variation, Yugoslav Attack, 9. Bc4 Bd7 10. O-O-O"
+            "eco_js": "Sicilian Defense: Dragon Variation, Yugoslav Attack, 9. Bc4 Bd7 10. O-O-O",
+            "ct": "Sicilian Defense, Dragon Variation"
         },
         "isEcoRoot": true
     },
@@ -16284,7 +16918,8 @@
         "name": "Sicilian Defense: Dragon Variation, Yugoslav Attack, Old Line",
         "scid": "B78c",
         "aliases": {
-            "scid": "Sicilian: Dragon, Yugoslav, 10.O-O-O Rc8"
+            "scid": "Sicilian: Dragon, Yugoslav, 10.O-O-O Rc8",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "r2q1rk1/pp1bppbp/3p1np1/4n3/2BNP3/2N1BP2/PPPQ2PP/2KR3R w - - 7 11": {
@@ -16450,7 +17085,8 @@
         "name": "Sicilian Defense: Dragon Variation, Yugoslav Attack, Soltis Variation",
         "scid": "B79a",
         "aliases": {
-            "scid": "Sicilian: Dragon, Yugoslav, Old Main Line, 12.h4 h5"
+            "scid": "Sicilian: Dragon, Yugoslav, Old Main Line, 12.h4 h5",
+            "ct": "Sicilian Defense, Dragon Variation"
         }
     },
     "r1r3k1/pp1bppbp/2np1np1/q7/3NP2P/1BN1BP2/PPPQ2P1/2KR3R b - - 0 12": {
@@ -16515,7 +17151,8 @@
         "scid": "B80f",
         "aliases": {
             "scid": "Sicilian: Scheveningen, 7.Qd2",
-            "eco_js": "Sicilian Defense: Scheveningen Variation, English Attack, 6. Be3 e6 7. Qd2"
+            "eco_js": "Sicilian Defense: Scheveningen Variation, English Attack, 6. Be3 e6 7. Qd2",
+            "ct": "Sicilian Defense, Scheveningen Variation"
         }
     },
     "rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N3P1/PPP2P1P/R1BQKB1R b KQkq - 0 6": {
@@ -16525,7 +17162,8 @@
         "name": "Sicilian Defense: Scheveningen Variation, Fianchetto Variation",
         "scid": "B80o",
         "aliases": {
-            "scid": "Sicilian: Scheveningen, Fianchetto Variation"
+            "scid": "Sicilian: Scheveningen, Fianchetto Variation",
+            "ct": "Sicilian Defense, Scheveningen Variation"
         }
     },
     "rnbqkb1r/pp3ppp/3ppn2/1B6/3NP3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 6": {
@@ -16535,7 +17173,8 @@
         "name": "Sicilian Defense: Scheveningen Variation, Vitolins Variation",
         "scid": "B80n",
         "aliases": {
-            "scid": "Sicilian: Scheveningen, Vitolins Variation"
+            "scid": "Sicilian: Scheveningen, Vitolins Variation",
+            "ct": "Sicilian Defense, Scheveningen Variation"
         }
     },
     "rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6": {
@@ -16692,7 +17331,8 @@
         "name": "Sicilian Defense: Scheveningen Variation, Keres Attack",
         "scid": "B81a",
         "aliases": {
-            "scid": "Sicilian: Scheveningen, Keres Attack"
+            "scid": "Sicilian: Scheveningen, Keres Attack",
+            "ct": "Sicilian Defense, Scheveningen Variation"
         },
         "isEcoRoot": true
     },
@@ -16850,7 +17490,8 @@
         "name": "Sicilian Defense: Scheveningen Variation, Matanovic Attack",
         "scid": "B82",
         "aliases": {
-            "scid": "Sicilian: Scheveningen, 6.f4"
+            "scid": "Sicilian: Scheveningen, 6.f4",
+            "ct": "Sicilian Defense, Scheveningen Variation"
         },
         "isEcoRoot": true
     },
@@ -16861,7 +17502,8 @@
         "name": "Sicilian Defense: Scheveningen Variation, Tal Variation",
         "scid": "B82",
         "aliases": {
-            "scid": "Sicilian: Scheveningen, Tal Variation"
+            "scid": "Sicilian: Scheveningen, Tal Variation",
+            "ct": "Sicilian Defense, Scheveningen Variation"
         }
     },
     "rnbqkb1r/1p3ppp/p2ppn2/8/3NPP2/2N5/PPP3PP/R1BQKB1R w KQkq - 0 7": {
@@ -16948,7 +17590,8 @@
         "name": "Sicilian Defense: Scheveningen Variation, Classical Variation",
         "scid": "B83",
         "aliases": {
-            "scid": "Sicilian: Scheveningen, 6.Be2"
+            "scid": "Sicilian: Scheveningen, 6.Be2",
+            "ct": "Sicilian Defense, Scheveningen Variation"
         },
         "isEcoRoot": true
     },
@@ -16959,7 +17602,8 @@
         "name": "Sicilian Defense: Scheveningen Variation, Modern Variation",
         "scid": "B83",
         "aliases": {
-            "scid": "Sicilian: Scheveningen, Modern"
+            "scid": "Sicilian: Scheveningen, Modern",
+            "ct": "Sicilian Defense, Scheveningen Variation"
         }
     },
     "r1bq1rk1/pp2bppp/2nppn2/8/3NPP2/2N1B3/PPP1B1PP/R2Q1RK1 b - - 2 9": {
@@ -17006,7 +17650,10 @@
         "eco": "B83",
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 Nc6 7. O-O Be7 8. Be3 O-O 9. f4",
         "name": "Sicilian: Scheveningen, Modern, 9.f4",
-        "scid": "B83"
+        "scid": "B83",
+        "aliases": {
+            "ct": "Sicilian Defense, Scheveningen Variation"
+        }
     },
     "r2q1rk1/pp1bbppp/2nppn2/8/3NPP2/2N1B3/PPP1B1PP/R2Q1RK1 w - - 1 10": {
         "src": "scid",
@@ -17027,7 +17674,10 @@
         "eco": "B83",
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 Nc6 7. O-O Be7 8. Be3 O-O 9. f4 Bd7 10. Nb3",
         "name": "Sicilian: Scheveningen, Modern, 9.f4 Bd7 10.Nb3",
-        "scid": "B83"
+        "scid": "B83",
+        "aliases": {
+            "ct": "Sicilian Defense, Scheveningen Variation"
+        }
     },
     "r2q1rk1/1p1bbppp/p1nppn2/8/4PP2/1NN1B3/PPP1B1PP/R2Q1RK1 w - - 0 11": {
         "src": "scid",
@@ -17078,7 +17728,8 @@
         "name": "Sicilian Defense: Najdorf Variation, Scheveningen Variation",
         "scid": "B84",
         "aliases": {
-            "scid": "Sicilian: Scheveningen, Classical, 7.O-O Nbd7"
+            "scid": "Sicilian: Scheveningen, Classical, 7.O-O Nbd7",
+            "ct": "Sicilian Defense, Najdorf Variation"
         }
     },
     "rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2N5/PPP1BPPP/R1BQK2R w KQkq - 0 7": {
@@ -17089,7 +17740,8 @@
         "scid": "B84",
         "aliases": {
             "scid": "Sicilian: Scheveningen, Classical",
-            "eco_js": "Sicilian Defense: Scheveningen Variation, Classical Variation, 5. Nc3 a6 6. Be2 e6"
+            "eco_js": "Sicilian Defense: Scheveningen Variation, Classical Variation, 5. Nc3 a6 6. Be2 e6",
+            "ct": "Sicilian Defense, Scheveningen Variation"
         },
         "isEcoRoot": true
     },
@@ -17101,7 +17753,8 @@
         "scid": "B84",
         "aliases": {
             "scid": "Sicilian: Scheveningen, Classical, 7.O-O Qc7",
-            "eco_js": "Sicilian Defense: Scheveningen Variation, Classical Variation, 6. Be2 e6 7. O-O Qc7"
+            "eco_js": "Sicilian Defense: Scheveningen Variation, Classical Variation, 6. Be2 e6 7. O-O Qc7",
+            "ct": "Sicilian Defense, Scheveningen Variation"
         }
     },
     "rnbqkb1r/1p3ppp/p2ppn2/8/P2NP3/2N5/1PP1BPPP/R1BQK2R b KQkq - 0 7": {
@@ -17250,7 +17903,10 @@
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 a6 7. O-O Qc7 8. f4 Nc6",
         "name": "Sicilian: Scheveningen, Classical, 7.O-O Qc7 8.f4 Nc6",
         "scid": "B84",
-        "isEcoRoot": true
+        "isEcoRoot": true,
+        "aliases": {
+            "ct": "Sicilian Defense, Scheveningen Variation"
+        }
     },
     "rnb1kb1r/1pq2ppp/p2ppn2/8/3NP3/2N5/PPP1BPPP/R1BQ1R1K b kq - 3 8": {
         "src": "scid",
@@ -17296,7 +17952,8 @@
         "moves": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 8. Kh1 Be7 9. f4 d6 10. a4",
         "name": "Sicilian Defense: Scheveningen Variation, Classical Variation, Paulsen Variation",
         "aliases": {
-            "eco_js": "Sicilian Defense: Scheveningen Variation, Classical Variation, Paulsen Variation, 9. f4 d6 10. a4"
+            "eco_js": "Sicilian Defense: Scheveningen Variation, Classical Variation, Paulsen Variation, 9. f4 d6 10. a4",
+            "ct": "Sicilian Defense, Scheveningen Variation"
         }
     },
     "rnbq1rk1/1p2bppp/p2ppn2/8/3NPP2/2N1B3/PPP1B1PP/R2Q1RK1 b - - 2 9": {
@@ -17436,7 +18093,8 @@
         "name": "Sicilian Defense: Sozin Attack, Flank Variation",
         "scid": "B87",
         "aliases": {
-            "scid": "Sicilian: Sozin-Najdorf, 7.Bb3 b5"
+            "scid": "Sicilian: Sozin-Najdorf, 7.Bb3 b5",
+            "ct": "Sicilian Defense, Sozin Attack"
         },
         "isEcoRoot": true
     },
@@ -17491,7 +18149,10 @@
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bc4 Nc6",
         "name": "Sicilian: Sozin-Scheveningen",
         "scid": "B88",
-        "isEcoRoot": true
+        "isEcoRoot": true,
+        "aliases": {
+            "ct": "Sicilian Defense, Sozin Attack"
+        }
     },
     "r1bqkb1r/pp3ppp/2nppn2/8/3NP3/1BN5/PPP2PPP/R1BQK2R b KQkq - 3 7": {
         "src": "scid",
@@ -17524,7 +18185,10 @@
         "src": "eco_tsv",
         "eco": "B89",
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7 8. Bb3 O-O 9. O-O Na5 10. f4 b6",
-        "name": "Sicilian Defense: Sozin Attack, Main Line, Sherbakov Variation"
+        "name": "Sicilian Defense: Sozin Attack, Main Line, Sherbakov Variation",
+        "aliases": {
+            "ct": "Sicilian Defense, Sozin Attack"
+        }
     },
     "r1bqk2r/pp2bppp/2nppn2/8/2BNP3/2N1B3/PPP1QPPP/R3K2R b KQkq - 3 8": {
         "src": "eco_tsv",
@@ -17538,7 +18202,10 @@
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bc4 Nc6 7. Be3",
         "name": "Sicilian: Sozin, 7.Be3",
         "scid": "B89",
-        "isEcoRoot": true
+        "isEcoRoot": true,
+        "aliases": {
+            "ct": "Sicilian Defense, Sozin Attack"
+        }
     },
     "r1bqkb1r/1p3ppp/p1nppn2/8/2BNP3/2N1B3/PPP2PPP/R2QK2R w KQkq - 0 8": {
         "src": "scid",
@@ -17559,7 +18226,10 @@
         "eco": "B89",
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bc4 Nc6 7. Be3 Be7 8. Qe2",
         "name": "Sicilian: Velimirovic",
-        "scid": "B89"
+        "scid": "B89",
+        "aliases": {
+            "ct": "Sicilian Defense, Velimirovic Attack"
+        }
     },
     "r1bqkb1r/1p3ppp/p1nppn2/8/2BNP3/2N1B3/PPP1QPPP/R3K2R b KQkq - 1 8": {
         "src": "scid",
@@ -17607,14 +18277,18 @@
         "name": "Sicilian Defense: Najdorf Variation, Adams Attack",
         "scid": "B90e",
         "aliases": {
-            "scid": "Sicilian: Najdorf, Adams Attack"
+            "scid": "Sicilian: Najdorf, Adams Attack",
+            "ct": "Sicilian Defense, Najdorf Variation"
         }
     },
     "rnbqkb1r/1p2pppp/p2p1n2/8/3NP1P1/2N5/PPP2P1P/R1BQKB1R b KQkq - 0 6": {
         "src": "eco_tsv",
         "eco": "B90",
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g4",
-        "name": "Sicilian Defense: Najdorf Variation, Dekker Gambit"
+        "name": "Sicilian Defense: Najdorf Variation, Dekker Gambit",
+        "aliases": {
+            "ct": "Sicilian Defense, Najdorf Variation"
+        }
     },
     "rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6": {
         "src": "eco_tsv",
@@ -17623,7 +18297,8 @@
         "name": "Sicilian Defense: Najdorf Variation, English Attack",
         "scid": "B90g",
         "aliases": {
-            "scid": "Sicilian: Najdorf, 6.Be3"
+            "scid": "Sicilian: Najdorf, 6.Be3",
+            "ct": "Sicilian Defense, Najdorf Variation"
         }
     },
     "rnbqkb1r/1p2pppp/p2p4/8/3NP1n1/2N1B3/PPP2PPP/R2QKB1R w KQkq - 2 7": {
@@ -17633,14 +18308,18 @@
         "name": "Sicilian Defense: Najdorf Variation, English Attack, Anti-English",
         "scid": "B90h",
         "aliases": {
-            "scid": "Sicilian: Najdorf, 6.Be3 Ng4"
+            "scid": "Sicilian: Najdorf, 6.Be3 Ng4",
+            "ct": "Sicilian Defense, Najdorf Variation"
         }
     },
     "rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKBR1 b Qkq - 1 6": {
         "src": "eco_tsv",
         "eco": "B90",
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Rg1",
-        "name": "Sicilian Defense: Najdorf Variation, Freak Attack"
+        "name": "Sicilian Defense: Najdorf Variation, Freak Attack",
+        "aliases": {
+            "ct": "Sicilian Defense, Najdorf Variation"
+        }
     },
     "rnbqkb1r/1p2pppp/p2p1n2/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 6": {
         "src": "eco_tsv",
@@ -17657,13 +18336,19 @@
         "src": "eco_tsv",
         "eco": "B90",
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4",
-        "name": "Sicilian Defense: Scheveningen Variation, Delayed Keres Attack"
+        "name": "Sicilian Defense: Scheveningen Variation, Delayed Keres Attack",
+        "aliases": {
+            "ct": "Sicilian Defense, Scheveningen Variation"
+        }
     },
     "rnbqkb1r/1p3p1p/p2p1np1/4pNP1/4P3/2N1B3/PPP2P1P/R2QKB1R b KQkq - 0 9": {
         "src": "eco_tsv",
         "eco": "B90",
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 e5 8. Nf5 g6 9. g5",
-        "name": "Sicilian Defense: Scheveningen Variation, Delayed Keres Attack, Perenyi Gambit"
+        "name": "Sicilian Defense: Scheveningen Variation, Delayed Keres Attack, Perenyi Gambit",
+        "aliases": {
+            "ct": "Sicilian Defense, Scheveningen Variation"
+        }
     },
     "rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2N1BP2/PPP3PP/R2QKB1R b KQkq - 0 7": {
         "src": "eco_tsv",
@@ -17673,7 +18358,8 @@
         "scid": "B80g",
         "aliases": {
             "scid": "Sicilian: Scheveningen, English Attack",
-            "eco_js": "Sicilian Defense: Scheveningen Variation, English Attack"
+            "eco_js": "Sicilian Defense: Scheveningen Variation, English Attack",
+            "ct": "Sicilian Defense, Scheveningen Variation"
         }
     },
     "rnbqkb1r/1p2pppp/p2p1n2/8/P2NP3/2N5/1PP2PPP/R1BQKB1R b KQkq - 0 6": {
@@ -17824,7 +18510,8 @@
         "scid": "B91a",
         "aliases": {
             "scid": "Sicilian: Najdorf, 6.g3",
-            "eco_js": "Sicilian Defense: Najdorf Variation, Zagreb (Fianchetto) Variation"
+            "eco_js": "Sicilian Defense: Najdorf Variation, Zagreb (Fianchetto) Variation",
+            "ct": "Sicilian Defense, Najdorf Variation"
         },
         "isEcoRoot": true
     },
@@ -17926,7 +18613,8 @@
         "name": "Sicilian Defense: Najdorf Variation, Opocensky Variation",
         "scid": "B92a",
         "aliases": {
-            "scid": "Sicilian: Najdorf, 6.Be2"
+            "scid": "Sicilian: Najdorf, 6.Be2",
+            "ct": "Sicilian Defense, Najdorf Variation"
         },
         "isEcoRoot": true
     },
@@ -17937,7 +18625,8 @@
         "name": "Sicilian Defense: Najdorf Variation, Opocensky Variation, Modern Line",
         "scid": "B92h",
         "aliases": {
-            "scid": "Sicilian: Najdorf, 6.Be2 e5 7.Nb3 Be7 8.O-O Be6"
+            "scid": "Sicilian: Najdorf, 6.Be2 e5 7.Nb3 Be7 8.O-O Be6",
+            "ct": "Sicilian Defense, Najdorf Variation"
         }
     },
     "rnbq1rk1/1p2bppp/p2p1n2/4p3/4P3/1NN5/PPP1BPPP/R1BQ1RK1 w - - 4 9": {
@@ -17947,7 +18636,8 @@
         "name": "Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line",
         "scid": "B92j",
         "aliases": {
-            "scid": "Sicilian: Najdorf, 6.Be2 e5 7.Nb3 Be7 8.O-O O-O"
+            "scid": "Sicilian: Najdorf, 6.Be2 e5 7.Nb3 Be7 8.O-O O-O",
+            "ct": "Sicilian Defense, Najdorf Variation"
         }
     },
     "rnbqkb1r/1p3ppp/p2p1n2/4p3/3NP3/2N5/PPP1BPPP/R1BQK2R w KQkq - 0 7": {
@@ -18083,7 +18773,8 @@
         "name": "Sicilian Defense: Najdorf Variation, Amsterdam Variation",
         "scid": "B93a",
         "aliases": {
-            "scid": "Sicilian: Najdorf, 6.f4"
+            "scid": "Sicilian: Najdorf, 6.f4",
+            "ct": "Sicilian Defense, Najdorf Variation"
         },
         "isEcoRoot": true
     },
@@ -18454,7 +19145,8 @@
         "name": "Sicilian Defense: Najdorf Variation, Neo-Classical Defense",
         "scid": "B96c",
         "aliases": {
-            "scid": "Sicilian: Najdorf, 7.f4 Nc6"
+            "scid": "Sicilian: Najdorf, 7.f4 Nc6",
+            "ct": "Sicilian Defense, Najdorf Variation"
         }
     },
     "rnbqkb1r/5ppp/p2ppn2/1p4B1/3NPP2/2N5/PPP3PP/R2QKB1R w KQkq - 0 8": {
@@ -18464,7 +19156,8 @@
         "name": "Sicilian Defense: Najdorf Variation, Polugaevsky Variation",
         "scid": "B96n",
         "aliases": {
-            "scid": "Sicilian: Najdorf, Polugaevsky Variation"
+            "scid": "Sicilian: Najdorf, Polugaevsky Variation",
+            "ct": "Sicilian Defense, Najdorf Variation"
         }
     },
     "rnb1kb1r/2q2ppp/p3pn2/1p2P1B1/3N4/2N5/PPP1Q1PP/R3KB1R b KQkq - 2 10": {
@@ -18474,7 +19167,8 @@
         "name": "Sicilian Defense: Najdorf Variation, Polugaevsky Variation, Simagin Line",
         "scid": "B96t",
         "aliases": {
-            "scid": "Sicilian: Najdorf, Polugaevsky, 10.Qe2"
+            "scid": "Sicilian: Najdorf, Polugaevsky, 10.Qe2",
+            "ct": "Sicilian Defense, Najdorf Variation"
         }
     },
     "rn1qkb1r/1p1b1ppp/p2ppn2/6B1/3NPP2/2N5/PPP3PP/R2QKB1R w KQkq - 1 8": {
@@ -18708,7 +19402,8 @@
         "name": "Sicilian Defense: Najdorf Variation, Poisoned Pawn Accepted",
         "scid": "B97m",
         "aliases": {
-            "scid": "Sicilian: Najdorf, Poisoned Pawn, 9.Rb1 Qa3"
+            "scid": "Sicilian: Najdorf, Poisoned Pawn, 9.Rb1 Qa3",
+            "ct": "Sicilian Defense, Najdorf Variation"
         }
     },
     "rnb1kb1r/1p3ppp/pq1ppn2/6B1/3NPP2/2N5/PPP3PP/R2QKB1R w KQkq - 1 8": {
@@ -18718,7 +19413,8 @@
         "name": "Sicilian Defense: Najdorf Variation, Poisoned Pawn Variation",
         "scid": "B97a",
         "aliases": {
-            "scid": "Sicilian: Najdorf, Poisoned Pawn"
+            "scid": "Sicilian: Najdorf, Poisoned Pawn",
+            "ct": "Sicilian Defense, Najdorf Variation"
         },
         "isEcoRoot": true
     },
@@ -18993,7 +19689,8 @@
         "name": "Sicilian Defense: Najdorf Variation, Browne Variation",
         "scid": "B98g",
         "aliases": {
-            "scid": "Sicilian: Najdorf, Browne Variation"
+            "scid": "Sicilian: Najdorf, Browne Variation",
+            "ct": "Sicilian Defense, Najdorf Variation"
         }
     },
     "rnbqk2r/1p2bp2/p2ppn1p/6p1/3NPP1B/2N2Q2/PPP3PP/R3KB1R w KQkq - 0 10": {
@@ -19004,7 +19701,8 @@
         "scid": "B98k",
         "aliases": {
             "scid": "Sicilian: Najdorf, Gothenburg (Argentine) Variation",
-            "eco_js": "Sicilian Defense: Najdorf Variation, Goteborg (Argentine)"
+            "eco_js": "Sicilian Defense: Najdorf Variation, Goteborg (Argentine)",
+            "ct": "Sicilian Defense, Najdorf Variation"
         }
     },
     "rnb1k2r/1pq1bppp/p2ppn2/6B1/3NPP2/2N2Q2/PPP3PP/R3KB1R w KQkq - 3 9": {
@@ -19014,7 +19712,8 @@
         "name": "Sicilian Defense: Najdorf Variation, Traditional Line",
         "scid": "B98n",
         "aliases": {
-            "scid": "Sicilian: Najdorf, 8...Qc7"
+            "scid": "Sicilian: Najdorf, 8...Qc7",
+            "ct": "Sicilian Defense, Najdorf Variation"
         }
     },
     "rnbqk2r/1p2bppp/p2ppn2/6B1/3NPP2/2N2Q2/PPP3PP/R3KB1R b KQkq - 2 8": {
@@ -19122,7 +19821,8 @@
         "name": "Sicilian Defense: Najdorf Variation, Main Line",
         "scid": "B99a",
         "aliases": {
-            "scid": "Sicilian: Najdorf, Main Line"
+            "scid": "Sicilian: Najdorf, Main Line",
+            "ct": "Sicilian Defense, Najdorf Variation"
         },
         "isEcoRoot": true
     },
@@ -20134,7 +20834,10 @@
         "src": "eco_tsv",
         "eco": "B10",
         "moves": "1. Nc3 d5 2. e4 c6 3. h3",
-        "name": "Caro-Kann Defense: St. Patrick's Attack"
+        "name": "Caro-Kann Defense: St. Patrick's Attack",
+        "aliases": {
+            "ct": "Van Geet Opening, Caro-Kann Variation"
+        }
     },
     "r1b1kbnr/ppqp1ppp/2n1p3/8/2B1P3/2N2N2/PP3PPP/R1BQK2R w KQkq - 2 7": {
         "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Siberian Variation",
@@ -20229,5 +20932,122 @@
         "eco": "B02",
         "moves": "1.e4 Nf6 2.e5 Nd5 3.e6",
         "src": "eco_wikip.g"
+    },
+    "r2q1rk1/pp2ppbp/1nnp2p1/5b2/2PP1B2/2N2N1P/PP2BPP1/R2Q1RK1 b - - 4 11": {
+        "name": "Alekhine Defense, Exchange Variation",
+        "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nf3 g6 7. Be2 Bg7 8. O-O O-O 9. h3 Nc6 10. Nc3 Bf5 11. Bf4",
+        "eco": "B03",
+        "src": "ct"
+    },
+    "rn1qkb1r/ppp1pppp/1n1p4/4P3/2PP2b1/5N2/PP2BPPP/RNBQK2R b KQkq - 2 6": {
+        "name": "Alekhine Defense, Modern Variation",
+        "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. c4 Nb6 6. Be2",
+        "eco": "B04",
+        "src": "ct"
+    },
+    "rnbqkb1r/pp2pppp/2p5/3nN3/3P4/8/PPP2PPP/RNBQKB1R w KQkq - 0 6": {
+        "name": "Alekhine Defense, Modern Variation",
+        "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6",
+        "eco": "B04",
+        "src": "ct"
+    },
+    "rnb1k1nr/pp1pppbp/6p1/q1p5/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 2 5": {
+        "name": "Modern Defense: Modern Pterodactyl",
+        "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 c5 4. Nf3 Qa5",
+        "src": "ct",
+        "eco": "B06",
+        "aliases": {
+            "scid": "Modern: Nc3 Pterodactyl"
+        }
+    },
+    "rnb1k1nr/pp1pppbp/6p1/q1p5/3PP3/2N1BN2/PPP2PPP/R2QKB1R b KQkq - 3 5": {
+        "name": "Pterodactyl Defense, Sicilian",
+        "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 c5 4. Nf3 Qa5 5. Be3",
+        "eco": "B06",
+        "src": "ct"
+    },
+    "rnb1k1nr/pp1pppbp/6p1/q1P5/4P3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 5": {
+        "name": "Pterodactyl Defense, Sicilian",
+        "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 c5 4. Nf3 Qa5 5. dxc5",
+        "eco": "B06",
+        "src": "ct"
+    },
+    "rnb1k1nr/pp1pppbp/6p1/q1p5/3PP3/2N2N2/PPPB1PPP/R2QKB1R b KQkq - 3 5": {
+        "name": "Pterodactyl Defense, Sicilian",
+        "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 c5 4. Nf3 Qa5 5. Bd2",
+        "eco": "B06",
+        "src": "ct"
+    },
+    "rnb1k1nr/pp1ppp1p/6p1/q1P5/4P3/2P2N2/P1P2PPP/R1BQKB1R b KQkq - 2 6": {
+        "name": "Pterodactyl Defense, Sicilian",
+        "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 c5 4. dxc5 Bxc3+ 5. bxc3 Qa5 6. Nf3",
+        "eco": "B06",
+        "src": "ct"
+    },
+    "rnb1k1nr/pp1pppbp/6p1/q1p5/2PPP3/5N2/PP3PPP/RNBQKB1R w KQkq - 2 5": {
+        "name": "Modern Defense, Semi-Averbakh Variation",
+        "moves": "1. e4 g6 2. d4 Bg7 3. c4 c5 4. Nf3 Qa5+",
+        "eco": "B06",
+        "src": "ct"
+    },
+    "rn2kb1r/pp2pppp/2p2n2/5b2/1qBP1B2/2N5/PPP1NPPP/R2QK2R w KQkq - 6 8": {
+        "name": "Scandinavian Defense, Schiller-Pytel Variation",
+        "moves": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Bc4 Nf6 6. Nge2 Bf5 7. Bf4 Qb4",
+        "eco": "B01",
+        "src": "ct"
+    },
+    "r1bqkb1r/pp2pppp/2np1n2/8/4P3/2N5/PPP1NPPP/R1BQKB1R b KQkq - 4 6": {
+        "name": "Sicilian Defense, Spielmann Variation",
+        "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nde2",
+        "eco": "B56",
+        "src": "ct"
+    },
+    "r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2NB4/PPP2PPP/R1BQK2R b KQkq - 4 6": {
+        "name": "Sicilian Defense, Yates Variation",
+        "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bd3",
+        "eco": "B56",
+        "src": "ct"
+    },
+    "r1b1kb1r/1pq2ppp/p1nppn2/8/3NPP2/2N1B3/PPP1B1PP/R2Q1RK1 b kq - 2 9": {
+        "name": "Sicilian Defense, Scheveningen Variation",
+        "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 a6 7. O-O Qc7 8. f4 Nc6 9. Be3",
+        "eco": "B85",
+        "src": "ct"
+    },
+    "r1bqk2r/pp2ppbp/2np1np1/8/2BNP3/2N1B3/PPP2PPP/R2QK2R w KQkq - 6 8": {
+        "name": "Sicilian Defense, Dragon Variation",
+        "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 Nc6",
+        "eco": "B35",
+        "src": "ct"
+    },
+    "r1bqk2r/pp1p1ppp/2n1pn2/1Nb5/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq - 5 7": {
+        "name": "Sicilian Defense, Four Knights Variation",
+        "moves": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bc5",
+        "eco": "B45",
+        "src": "ct"
+    },
+    "r1bqkb1r/pp1p1ppp/2n1p3/2pnP3/3P4/2P2N2/PP3PPP/RNBQKB1R w KQkq - 2 6": {
+        "name": "Sicilian Defense, Alapin Variation",
+        "moves": "1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 e6 5. Nf3 Nc6",
+        "eco": "B22",
+        "src": "ct"
+    },
+    "r1bqk1nr/pp3ppp/2np4/2p1p1b1/2B1P3/2NP4/PPPN1PPP/R1BQK2R w KQkq - 3 7": {
+        "name": "Sicilian Defense, Closed Sicilian",
+        "moves": "1. e4 c5 2. Nc3 Nc6 3. Nf3 e5 4. Bc4 d6 5. d3 Be7 6. Nd2 Bg5",
+        "eco": "B30",
+        "src": "ct"
+    },
+    "r1b1k1nr/1pqp1ppp/p1nbp3/8/2B1P3/2N2N2/PP2QPPP/R1B2RK1 w kq - 4 9": {
+        "name": "Sicilian Defense, Smith-Morra Gambit",
+        "moves": "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 e6 6. Bc4 a6 7. O-O Qc7 8. Qe2 Bd6",
+        "eco": "B21",
+        "src": "ct"
+    },
+    "r1bqkbnr/1ppppppp/p1n5/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3": {
+        "name": "St. George Defense, Woodchuck Variation",
+        "moves": "1. e4 a6 2. d4 Nc6",
+        "eco": "B00",
+        "src": "ct"
     }
 }
