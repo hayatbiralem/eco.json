@@ -15,7 +15,8 @@
             "scid": "Amar/Paris Opening",
             "eco_wikip": "Irregular Openings: Amar Opening",
             "ct": "Amar Opening, General",
-            "chessGraph": "Amar; Paris Opening"
+            "chessGraph": "Amar; Paris Opening",
+            "chronos": "Amar (Paris) opening"
         }
     },
     "rn1qkbnr/ppp2ppp/8/3p4/8/6PB/PPPPP3/RNBQ1RK1 b kq - 0 6": {
@@ -77,7 +78,8 @@
             "eco_js": "Gedult's Opening",
             "eco_wikip": "Irregular Openings: Barnes Opening",
             "ct": "Barnes Opening, General",
-            "chessGraph": "Barnes; Gedult-Gunderam; Walkerling"
+            "chessGraph": "Barnes; Gedult-Gunderam; Walkerling",
+            "chronos": "Gedult's opening"
         }
     },
     "rnb1kbnr/pppp1ppp/8/4p3/6Pq/5P2/PPPPP2P/RNBQKBNR w KQkq - 1 3": {
@@ -110,7 +112,8 @@
         "aliases": {
             "scid": "Fried fox",
             "eco_wikip": "Irregular Openings: Barnes Opening, Hammerschlag Variation",
-            "chessGraph": "Hammerschlag; Pork Chop Opening"
+            "chessGraph": "Hammerschlag; Pork Chop Opening",
+            "chronos": "Hammerschlag (Fried fox/Pork chop opening)"
         }
     },
     "rnbqkbnr/pppp1ppp/8/4p3/8/6P1/PPPPPP1P/RNBQKBNR w KQkq - 0 2": {
@@ -156,7 +159,8 @@
         "scid": "A00d",
         "aliases": {
             "eco_wikip": "Irregular Openings: Clemenz Opening",
-            "ct": "Clemenz Opening, General"
+            "ct": "Clemenz Opening, General",
+            "chronos": "Clemenz (Mead's, Basman's or de Klerk's) opening"
         }
     },
     "rnbqkbnr/ppppppp1/8/7p/6P1/7P/PPPPPP2/RNBQKBNR b KQkq - 0 2": {
@@ -174,7 +178,8 @@
         "moves": "1. a4 e5 2. h4",
         "name": "Ware Opening: Crab Variation",
         "aliases": {
-            "eco_wikip": "Irregular Openings: Ware Opening, Crab Variation"
+            "eco_wikip": "Irregular Openings: Ware Opening, Crab Variation",
+            "chronos": "Crab opening"
         }
     },
     "rnbqkbnr/ppp2ppp/8/3pp3/8/P6P/1PPPPPP1/RNBQKBNR w KQkq - 0 3": {
@@ -236,7 +241,8 @@
             "scid": "Grob",
             "eco_wikip": "Irregular Openings: Grob's Attack",
             "ct": "Grob Opening, General",
-            "chessGraph": "Grob; Ahlhausen; Colibri; Fric; Genoa; Spike"
+            "chessGraph": "Grob; Ahlhausen; Colibri; Fric; Genoa; Spike",
+            "chronos": "Grob's attack"
         }
     },
     "rnbqkbnr/ppppp1pp/8/5p2/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2": {
@@ -311,7 +317,8 @@
         "scid": "A00o",
         "aliases": {
             "scid": "Grob Gambit Accepted: Fritz Gambit",
-            "ct": "Grob Opening, Grob Gambit"
+            "ct": "Grob Opening, Grob Gambit",
+            "chronos": "Grob: Fritz gambit"
         }
     },
     "q3kbnr/p1pnpppp/8/8/2Pp2b1/8/PP1PPP1P/RNBQK1NR w KQk - 0 6": {
@@ -368,7 +375,8 @@
         "moves": "1. g4 d5 2. Bg2 Bxg4 3. c4 d4",
         "name": "Grob Opening: Romford Countergambit",
         "aliases": {
-            "chessGraph": "Romford Counter-Gambit, Grob"
+            "chessGraph": "Romford Counter-Gambit, Grob",
+            "chronos": "Grob: Romford counter-gambit"
         }
     },
     "rnbqkbnr/pp2pppp/2p5/3p2P1/8/8/PPPPPPBP/RNBQK1NR b KQkq - 0 3": {
@@ -379,7 +387,8 @@
         "scid": "A00o",
         "aliases": {
             "scid": "Grob Gambit: Spike Attack",
-            "chessGraph": "Spike, Grob"
+            "chessGraph": "Spike, Grob",
+            "chronos": "Grob: spike attack"
         }
     },
     "rnbqkbnr/ppp2ppp/8/3pp3/2P3P1/8/PP1PPPBP/RNBQK1NR b KQkq - 0 3": {
@@ -442,7 +451,8 @@
             "scid": "Benko Opening",
             "eco_wikip": "Irregular Openings: King's Fianchetto Opening",
             "ct": "Hungarian Opening, General",
-            "chessGraph": "Benko; Barczay; Bilek; Hungarian"
+            "chessGraph": "Benko; Barczay; Bilek; Hungarian",
+            "chronos": "Benko's opening"
         }
     },
     "r1bqkbnr/ppp3pp/2n5/4Pp2/3pN3/6P1/PPP1PP1P/R1BQKBNR w KQkq f6 0 6": {
@@ -516,7 +526,8 @@
         "moves": "1. g3 e5 2. Nf3",
         "name": "Hungarian Opening: Reversed Alekhine",
         "aliases": {
-            "chessGraph": "Reversed Alekhine"
+            "chessGraph": "Reversed Alekhine",
+            "chronos": "Benko's opening: reversed Alekhine"
         }
     },
     "rnbqkb1r/pppp1ppp/5n2/8/1P2p3/6P1/P1PPPP1P/RNBQKBNR b KQkq - 0 4": {
@@ -589,7 +600,8 @@
             "eco_js": "Kadas Opening",
             "eco_wikip": "Irregular Openings: Kadas Opening",
             "ct": "Kadas Opening, General",
-            "chessGraph": "Despres Opening"
+            "chessGraph": "Despres Opening",
+            "chronos": "Anti-Borg (Desprez) opening"
         }
     },
     "rnbqkbnr/ppp1pppp/8/3p4/7P/7R/PPPPPPP1/RNBQKBN1 b Qkq - 1 2": {
@@ -700,7 +712,8 @@
         "scid": "A00j",
         "aliases": {
             "scid": "Mieses: 1...e5",
-            "chessGraph": "Reversed Rat"
+            "chessGraph": "Reversed Rat",
+            "chronos": "Mieses opening"
         }
     },
     "rnbqkbnr/ppp1pppp/8/3p4/8/3P4/PPP1PPPP/RNBQKBNR w KQkq - 0 2": {
@@ -720,7 +733,8 @@
             "scid": "Polish (Sokolsky; Orang-Utan)",
             "eco_wikip": "Irregular Openings: Polish Opening",
             "ct": "Polish Opening, General",
-            "chessGraph": "Polish; Orangutan; Sokolsky; Hunt"
+            "chessGraph": "Polish; Orangutan; Sokolsky; Hunt",
+            "chronos": "Polish (Sokolsky) opening"
         }
     },
     "rn1qkbnr/ppp1pppp/8/3p1b2/1P6/8/PBPPPPPP/RN1QKBNR w KQkq - 2 3": {
@@ -803,7 +817,8 @@
         "moves": "1. b4 Nh6",
         "name": "Polish Opening: Karniewski Variation",
         "aliases": {
-            "chessGraph": "Karniewski; Tubingen Variation, Polish"
+            "chessGraph": "Karniewski; Tubingen Variation, Polish",
+            "chronos": "Polish: Tuebingen variation"
         }
     },
     "rnbqkb1r/pppppp1p/5np1/8/1P6/8/PBPPPPPP/RN1QKBNR w KQkq - 0 3": {
@@ -861,7 +876,8 @@
         "aliases": {
             "scid": "Polish: 1...c6",
             "eco_wikip": "Irregular Openings: Polish Opening, Outflank Variation",
-            "chessGraph": "Outflank Variation, Polish"
+            "chessGraph": "Outflank Variation, Polish",
+            "chronos": "Polish: Outflank variation"
         }
     },
     "rnbqkb1r/p1pp1ppp/1p2pn2/1P6/8/8/PBPPPPPP/RN1QKBNR w KQkq - 0 4": {
@@ -1080,7 +1096,8 @@
             "scid": "Durkin",
             "eco_wikip": "Irregular Openings: Sodium Attack",
             "ct": "Sodium Attack, General",
-            "chessGraph": "Durkin's Opening; Sodium Attack"
+            "chessGraph": "Durkin's Opening; Sodium Attack",
+            "chronos": "Durkin's attack"
         }
     },
     "rnbqk1nr/pp3ppp/8/2ppp3/8/P2PP3/P1P2PPP/1RBQKBNR b Kkq - 1 5": {
@@ -1127,7 +1144,8 @@
             "scid": "Van Geet (Dunst) Opening",
             "eco_wikip": "Irregular Openings: Van Geet Opening",
             "ct": "Van Geet Opening, General",
-            "chessGraph": "Dunst; Heinrichsen; Will Bull; Kotrc"
+            "chessGraph": "Dunst; Heinrichsen; Will Bull; Kotrc",
+            "chronos": "Dunst (Sleipner, Heinrichsen) opening"
         }
     },
     "rnbqkbnr/pppp1ppp/8/4p3/8/P1N5/1PPPPPPP/R1BQKBNR b KQkq - 1 2": {
@@ -1257,7 +1275,8 @@
         "moves": "1. Nc3 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qh4",
         "name": "Van Geet Opening: Novosibirsk Variation",
         "aliases": {
-            "chessGraph": "Novosibirsk Variation, Dunst"
+            "chessGraph": "Novosibirsk Variation, Dunst",
+            "chronos": "Novosibirsk opening"
         }
     },
     "rnbqkbnr/pppp1ppp/8/8/4Pp2/2N5/PPPP2PP/R1BQKBNR b KQkq e3 0 3": {
@@ -1289,7 +1308,8 @@
         "scid": "A00l",
         "aliases": {
             "scid": "Van Geet: 1...e5",
-            "chessGraph": "Reversed Nimzovich"
+            "chessGraph": "Reversed Nimzovich",
+            "chronos": "Dunst (Sleipner, Heinrichsen) opening"
         }
     },
     "r1bqkbnr/pppp1ppp/2n5/8/Q7/2N5/PPP1PPPP/R1B1KBNR b KQkq - 2 4": {
@@ -1489,7 +1509,8 @@
         "moves": "1. d3 c5 2. Nc3 Nc6 3. g3",
         "name": "Mieses Opening: Venezolana Variation",
         "aliases": {
-            "chessGraph": "Venezolana"
+            "chessGraph": "Venezolana",
+            "chronos": "Venezolana opening"
         }
     },
     "rnbqkbnr/pppppppp/8/8/P7/8/1PPPPPPP/RNBQKBNR b KQkq - 0 1": {
@@ -1501,7 +1522,8 @@
         "aliases": {
             "eco_wikip": "Irregular Openings: Ware Opening",
             "ct": "Ware Opening, General",
-            "chessGraph": "Ware; Meadow Hay; Crab"
+            "chessGraph": "Ware; Meadow Hay; Crab",
+            "chronos": "Ware (Meadow Hay) opening"
         }
     },
     "r1bqkbnr/p1pnpppp/1p6/3p4/P2P4/2N5/1PP1PPPP/R1BQKBNR w KQkq - 2 4": {
@@ -1574,7 +1596,8 @@
         "aliases": {
             "scid": "Nimzowitsch-Larsen Attack",
             "ct": "Nimzo-Larsen Attack, General",
-            "chessGraph": "Larsen; Queen's Fianchetto; Nimzo-Larsen Attack A01"
+            "chessGraph": "Larsen; Queen's Fianchetto; Nimzo-Larsen Attack A01",
+            "chronos": "Nimzovich-Larsen attack"
         },
         "isEcoRoot": true
     },
@@ -1587,7 +1610,8 @@
         "aliases": {
             "scid": "Nimzowitsch-Larsen: 1...d5",
             "eco_wikip": "Larsen's Opening:Classical Variation",
-            "chessGraph": "Classical Variation, Larsen"
+            "chessGraph": "Classical Variation, Larsen",
+            "chronos": "Nimzovich-Larsen attack: classical variation"
         }
     },
     "rnbqkbnr/ppppp1pp/8/5p2/8/1P6/P1PPPPPP/RNBQKBNR w KQkq - 0 2": {
@@ -1599,7 +1623,8 @@
         "aliases": {
             "scid": "Nimzowitsch-Larsen: Dutch Variation",
             "eco_wikip": "Larsen's Opening:Dutch Variation",
-            "chessGraph": "Dutch Variation, Larsen"
+            "chessGraph": "Dutch Variation, Larsen",
+            "chronos": "Nimzovich-Larsen attack: Dutch variation"
         }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/8/1P6/P1PPPPPP/RNBQKBNR w KQkq - 0 2": {
@@ -1611,7 +1636,8 @@
         "aliases": {
             "scid": "Nimzowitsch-Larsen: English Variation",
             "eco_wikip": "Larsen's Opening:English Variation",
-            "chessGraph": "English Variation, Larsen"
+            "chessGraph": "English Variation, Larsen",
+            "chronos": "Nimzovich-Larsen attack: English variation"
         }
     },
     "rnbqkbnr/ppp1pppp/8/3p4/8/BP6/P1PPPPPP/RN1QKBNR b KQkq - 1 2": {
@@ -1629,7 +1655,8 @@
         "aliases": {
             "scid": "Nimzowitsch-Larsen: Indian Variation",
             "eco_wikip": "Larsen's Opening:Indian Variation",
-            "chessGraph": "Indian Variation, Larsen"
+            "chessGraph": "Indian Variation, Larsen",
+            "chronos": "Nimzovich-Larsen attack: Indian variation"
         }
     },
     "rnbqkbnr/pppp1ppp/8/4p3/8/1P6/P1PPPPPP/RNBQKBNR w KQkq - 0 2": {
@@ -1641,7 +1668,8 @@
         "aliases": {
             "scid": "Nimzowitsch-Larsen: 1...e5",
             "eco_wikip": "Larsen's Opening:Modern Variation",
-            "chessGraph": "Modern Variation, Larsen"
+            "chessGraph": "Modern Variation, Larsen",
+            "chronos": "Nimzovich-Larsen attack: modern variation"
         }
     },
     "r1bqkbnr/pppp1ppp/2n5/4p3/8/1P6/PBPPPPPP/RN1QKBNR w KQkq - 2 3": {
@@ -1686,7 +1714,8 @@
         "aliases": {
             "scid": "Nimzowitsch-Larsen: Polish Variation",
             "eco_js": "Nimzowitsch-Larsen Attack: Polish Variation",
-            "eco_wikip": "Larsen's Opening:Polish Variation"
+            "eco_wikip": "Larsen's Opening:Polish Variation",
+            "chronos": "Nimzovich-Larsen attack: Polish variation"
         }
     },
     "rnbqkbnr/pppp2pp/4p3/5p2/4P3/1P6/PBPP1PPP/RN1QKBNR b KQkq - 0 3": {
@@ -1719,7 +1748,8 @@
         "aliases": {
             "scid": "Nimzowitsch-Larsen: Symmetrical",
             "eco_wikip": "Larsen's Opening:Symmetrical Variation",
-            "chessGraph": "Symmetrical Variation, Larsen"
+            "chessGraph": "Symmetrical Variation, Larsen",
+            "chronos": "Nimzovich-Larsen attack: symmetrical variation"
         }
     },
     "rnbqkbnr/ppp1pppp/8/3p4/8/1P6/PBPPPPPP/RN1QKBNR b KQkq - 1 2": {
@@ -1808,7 +1838,8 @@
         "aliases": {
             "scid": "Bird: From Gambit",
             "eco_wikip": "Bird's Opening, Dutch Attack:From's Gambit",
-            "chessGraph": "From's Gambit, Bird"
+            "chessGraph": "From's Gambit, Bird",
+            "chronos": "Bird: From gambit"
         }
     },
     "rnbqkbnr/pppp1ppp/8/4p3/5P2/2N5/PPPPP1PP/R1BQKBNR b KQkq - 1 2": {
@@ -1839,7 +1870,8 @@
         "scid": "A02",
         "aliases": {
             "scid": "Bird: From Gambit, Lasker Variation",
-            "ct": "Bird Opening, From Gambit"
+            "ct": "Bird Opening, From Gambit",
+            "chronos": "Bird: From gambit, Lasker variation"
         }
     },
     "rnbqk2r/ppp2ppp/3b3n/8/3P4/5N2/PPP1P1PP/RNBQKB1R b KQkq - 0 5": {
@@ -1849,7 +1881,8 @@
         "name": "Bird Opening: From's Gambit, Lipke Variation",
         "scid": "A02",
         "aliases": {
-            "scid": "Bird: From Gambit, Lipke"
+            "scid": "Bird: From Gambit, Lipke",
+            "chronos": "Bird: From gambit, Lipke variation"
         }
     },
     "rnbqkbnr/pppppp1p/8/6p1/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 0 2": {
@@ -1860,7 +1893,8 @@
         "scid": "A02",
         "aliases": {
             "scid": "Bird: Hobbs Gambit",
-            "chessGraph": "Hobbs Gambit, Bird"
+            "chessGraph": "Hobbs Gambit, Bird",
+            "chronos": "Bird: Hobbs gambit"
         }
     },
     "rnbqkbnr/pppppp2/7p/6p1/5P2/5N2/PPPPP1PP/RNBQKB1R w KQkq - 0 3": {
@@ -1929,7 +1963,8 @@
         "scid": "A02",
         "aliases": {
             "scid": "Bird: Swiss Gambit",
-            "chessGraph": "Swiss Gambit, Bird"
+            "chessGraph": "Swiss Gambit, Bird",
+            "chronos": "Bird's opening, Swiss gambit"
         }
     },
     "rnbqkbnr/ppppp1pp/8/5p2/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2": {
@@ -2121,7 +2156,8 @@
         "scid": "A03",
         "aliases": {
             "scid": "Bird: 1...d5",
-            "chessGraph": "A03"
+            "chessGraph": "A03",
+            "chronos": "Bird's opening"
         },
         "isEcoRoot": true
     },
@@ -2155,7 +2191,8 @@
         "aliases": {
             "scid": "Bird: Sturm Gambit",
             "eco_wikip": "Bird's Opening, Dutch Variation:Mujannah-Sturm Gambit",
-            "chessGraph": "Sturm; Mujannah"
+            "chessGraph": "Sturm; Mujannah",
+            "chronos": "Mujannah opening"
         }
     },
     "rnbqkb1r/pp2pppp/5n2/2p5/3p1P2/1P2PN2/PBPP2PP/RN1QKB1R b KQkq - 0 5": {
@@ -2664,7 +2701,8 @@
             "scid": "Reti",
             "eco_js": "Reti Opening",
             "ct": "Zukertort Opening, General",
-            "chessGraph": "Reti; Zukertort; A04"
+            "chessGraph": "Reti; Zukertort; A04",
+            "chronos": "Reti opening"
         },
         "isEcoRoot": true
     },
@@ -2717,7 +2755,8 @@
         "name": "Zukertort Opening: Dutch Variation",
         "scid": "A04",
         "aliases": {
-            "scid": "Reti: 1...f5"
+            "scid": "Reti: 1...f5",
+            "chronos": "Reti v Dutch"
         }
     },
     "rnbqkbnr/pppppp1p/8/6p1/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2": {
@@ -2728,7 +2767,8 @@
         "scid": "A04",
         "aliases": {
             "scid": "Reti: Herrstrom Gambit",
-            "chessGraph": "Herrstrom Gambit, Reti"
+            "chessGraph": "Herrstrom Gambit, Reti",
+            "chronos": "Reti: Herrstroem gambit"
         }
     },
     "rnbqkbnr/pppppp1p/6p1/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2": {
@@ -2749,7 +2789,8 @@
         "scid": "A04",
         "aliases": {
             "scid": "Reti: Lisitsin",
-            "chessGraph": "Lisitsin Gambit; Polish Gambit"
+            "chessGraph": "Lisitsin Gambit; Polish Gambit",
+            "chronos": "Reti: Pirc-Lisitsin gambit"
         }
     },
     "rnbqkb1r/ppppp1pp/5n2/5p2/4P3/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 0 3": {
@@ -2760,7 +2801,8 @@
         "scid": "A04",
         "aliases": {
             "scid": "Reti: Lisitsin Deferred",
-            "eco_wikip.g": "Deferred Lisitsyn Gambit"
+            "eco_wikip.g": "Deferred Lisitsyn Gambit",
+            "chronos": "Reti: Lisitsin gambit deferred"
         }
     },
     "rnbqkbnr/ppp1pppp/3p4/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2": {
@@ -2771,7 +2813,8 @@
         "scid": "A04",
         "aliases": {
             "scid": "Reti: 1...d6",
-            "chessGraph": "Wade Defense"
+            "chessGraph": "Wade Defense",
+            "chronos": "Reti opening"
         }
     },
     "rnbqkbnr/p1pppppp/8/1p6/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2": {
@@ -2862,7 +2905,8 @@
         "moves": "1. Nf3 d6 2. e4 Bg4",
         "name": "Zukertort Opening: Wade Defense",
         "aliases": {
-            "ct": "Zukertort Opening, Wade-Tartakower Defense"
+            "ct": "Zukertort Opening, Wade-Tartakower Defense",
+            "chronos": "Reti: Wade defence"
         }
     },
     "rnbqkbnr/1ppppppp/8/p7/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2": {
@@ -2887,7 +2931,8 @@
         "name": "King's Indian Attack: Smyslov Variation",
         "scid": "A05",
         "aliases": {
-            "scid": "Reti: KIA, Reti-Smyslov Variation"
+            "scid": "Reti: KIA, Reti-Smyslov Variation",
+            "chronos": "Reti: King's Indian attack, Reti-Smyslov variation"
         }
     },
     "rnbqkb1r/p1pppppp/5n2/1p6/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq - 0 3": {
@@ -2897,7 +2942,8 @@
         "name": "King's Indian Attack: Spassky Variation",
         "scid": "A05",
         "aliases": {
-            "scid": "Reti: KIA, Spassky"
+            "scid": "Reti: KIA, Spassky",
+            "chronos": "Reti: King's Indian attack, Spassky's variation"
         }
     },
     "rnbqkb1r/pppppp1p/5np1/8/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq - 0 3": {
@@ -2907,7 +2953,8 @@
         "name": "King's Indian Attack: Symmetrical Defense",
         "scid": "A05",
         "aliases": {
-            "scid": "Reti: KIA"
+            "scid": "Reti: KIA",
+            "chronos": "Reti: King's Indian attack"
         }
     },
     "rnbq1rk1/ppp1ppbp/5np1/3p4/8/3P1NP1/PPP1PPBP/RNBQ1RK1 w - - 0 6": {
@@ -3048,7 +3095,8 @@
             "scid": "Reti: 1...Nf6",
             "eco_js": "Reti Opening, 1... Nf6",
             "ct": "Zukertort Opening, Symmetrical Variation",
-            "chessGraph": "King's Indian Attack; Reti; Zukertort; A05"
+            "chessGraph": "King's Indian Attack; Reti; Zukertort; A05",
+            "chronos": "Reti opening"
         },
         "isEcoRoot": true
     },
@@ -3110,7 +3158,8 @@
             "eco_js": "Nimzo-Larsen Attack: Classical Variation, 2. b3",
             "eco_wikip": "Réti Opening: 1...d5:Nimzowitsch–Larsen Attack",
             "ct": "Nimzowitsch-Larsen Attack, General",
-            "chessGraph": "Nimzovich Opening, Reti"
+            "chessGraph": "Nimzovich Opening, Reti",
+            "chronos": "Reti: Nimzovich-Larsen attack"
         }
     },
     "rnbqkbnr/pp2pppp/8/2pp4/4P3/1P3N2/P1PP1PPP/RNBQKB1R b KQkq - 0 3": {
@@ -3207,7 +3256,8 @@
         "aliases": {
             "eco_wikip": "Réti Opening: 1...d5:Santassiere's Folly",
             "ct": "Zukertort Opening, Santasiere's Folly",
-            "chessGraph": "Santasiere's Folly, Reti"
+            "chessGraph": "Santasiere's Folly, Reti",
+            "chronos": "Santasiere's folly"
         }
     },
     "rnbqkb1r/ppp1pppp/5n2/3p4/1P6/5N2/P1PPPPPP/RNBQKB1R w KQkq - 1 3": {
@@ -3232,7 +3282,8 @@
         "scid": "A06",
         "aliases": {
             "ct": "Zukertort Opening, Tennison Gambit",
-            "chessGraph": "Tennison G; Lemberg G; Abonyi G"
+            "chessGraph": "Tennison G; Lemberg G; Abonyi G",
+            "chronos": "Tennison (Lemberg, Zukertort) gambit"
         }
     },
     "rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2": {
@@ -3245,7 +3296,8 @@
             "scid": "Reti: 1...d5",
             "eco_js": "Reti Opening, 1... d5",
             "ct": "Zukertort Opening, Queen Pawn Defense",
-            "chessGraph": "A06"
+            "chessGraph": "A06",
+            "chronos": "Reti opening"
         },
         "isEcoRoot": true
     },
@@ -3268,7 +3320,8 @@
         "scid": "A06",
         "aliases": {
             "scid": "Reti: Old Indian Attack",
-            "chessGraph": "Old Indian Attack"
+            "chessGraph": "Old Indian Attack",
+            "chronos": "Reti: old Indian attack"
         }
     },
     "rnbqkbnr/pp2pppp/8/2p5/2p5/1P2PN2/P2P1PPP/RNBQKB1R b KQkq - 0 4": {
@@ -3327,7 +3380,8 @@
         "aliases": {
             "scid": "Reti: KIA",
             "ct": "King's Indian Attack, General",
-            "chessGraph": "Barcza Opening, Reti; A07"
+            "chessGraph": "Barcza Opening, Reti; A07",
+            "chronos": "Reti: King's Indian attack (Barcza system)"
         },
         "isEcoRoot": true
     },
@@ -3338,7 +3392,8 @@
         "name": "King's Indian Attack: Double Fianchetto",
         "scid": "A07",
         "aliases": {
-            "scid": "Reti: KIA"
+            "scid": "Reti: KIA",
+            "chronos": "Reti: King's Indian attack"
         }
     },
     "rn1qkbnr/ppp1pppp/8/3p4/6b1/5NP1/PPPPPP1P/RNBQKB1R w KQkq - 1 3": {
@@ -3360,7 +3415,8 @@
         "scid": "A07",
         "aliases": {
             "scid": "Reti: KIA, Keres Variation",
-            "eco_js": "King's Indian Attack: Keres Variation, 2. g3 Bg4 3. Bg2 Nd7"
+            "eco_js": "King's Indian Attack: Keres Variation, 2. g3 Bg4 3. Bg2 Nd7",
+            "chronos": "Reti: King's Indian attack, Keres variation"
         }
     },
     "rnbqkbnr/ppp2ppp/8/3pp3/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq - 0 3": {
@@ -3376,7 +3432,8 @@
         "name": "King's Indian Attack: Pachman System",
         "scid": "A07",
         "aliases": {
-            "scid": "Reti: KIA, Pachman"
+            "scid": "Reti: KIA, Pachman",
+            "chronos": "Reti: King's Indian attack, Pachman system"
         }
     },
     "rnbqkbnr/pp2pppp/8/2pp4/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq - 0 3": {
@@ -3387,7 +3444,8 @@
         "scid": "A08",
         "aliases": {
             "scid": "Reti: KIA, 2...c5",
-            "chessGraph": "A08"
+            "chessGraph": "A08",
+            "chronos": "Reti: King's Indian attack (with ...c5)"
         }
     },
     "rn1qkb1r/pp2pppp/2p2n2/3p4/6b1/5NP1/PPPPPPBP/RNBQ1RK1 w kq - 2 5": {
@@ -3397,7 +3455,8 @@
         "name": "King's Indian Attack: Yugoslav Variation",
         "scid": "A07",
         "aliases": {
-            "scid": "Reti: KIA, Yugoslav"
+            "scid": "Reti: KIA, Yugoslav",
+            "chronos": "Reti: King's Indian attack, Yugoslav variation"
         }
     },
     "r1bqkbnr/ppp1pppp/2n5/3p4/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq - 1 3": {
@@ -3591,7 +3650,8 @@
         "scid": "A08",
         "aliases": {
             "scid": "Reti: KIA, 2...c5",
-            "eco_js": "King's Indian Attack: Sicilian Variation, 2. g3 c5 3. Bg2"
+            "eco_js": "King's Indian Attack: Sicilian Variation, 2. g3 c5 3. Bg2",
+            "chronos": "Reti: King's Indian attack"
         },
         "isEcoRoot": true
     },
@@ -3710,7 +3770,8 @@
         "name": "Reti: KIA, French Variation",
         "scid": "A08",
         "aliases": {
-            "ct": "King's Indian Attack, Sicilian Variation"
+            "ct": "King's Indian Attack, Sicilian Variation",
+            "chronos": "Reti: King's Indian attack, French variation"
         }
     },
     "r1bqk2r/pp2nppp/2nbp3/2pp4/4P3/3P1NP1/PPPN1PBP/R1BQ1RK1 b kq - 0 7": {
@@ -3761,7 +3822,8 @@
             "scid": "Reti: Advance Variation",
             "eco_js": "Reti Opening: Advance Variation",
             "eco_wikip": "Réti Opening, proper:Advance Variation",
-            "chessGraph": "Benoni Reversed; Wing Blumenfeld"
+            "chessGraph": "Benoni Reversed; Wing Blumenfeld",
+            "chronos": "Reti: advance variation"
         }
     },
     "rnbqkbnr/pp2pppp/8/2p5/1PPp4/5N2/P2PPPPP/RNBQKB1R w KQkq - 0 4": {
@@ -3795,7 +3857,8 @@
             "eco_js": "Reti Opening: Reti Accepted",
             "eco_wikip": "Réti Opening, proper:Accepted",
             "ct": "Reti Opening, Reti Gambit",
-            "chessGraph": "Reti Gambit Accepted"
+            "chessGraph": "Reti Gambit Accepted",
+            "chronos": "Reti accepted"
         }
     },
     "rn1qkbnr/ppp1pppp/4b3/8/2p5/4PN2/PP1P1PPP/RNBQKB1R w KQkq - 1 4": {
@@ -3807,7 +3870,8 @@
         "aliases": {
             "scid": "Reti: Accepted, Keres Variation",
             "eco_js": "Reti Opening: Reti Gambit, Keres Variation",
-            "eco_wikip": "Réti Opening, proper:Accepted, Keres Variation"
+            "eco_wikip": "Réti Opening, proper:Accepted, Keres Variation",
+            "chronos": "Reti accepted: Keres variation"
         }
     },
     "rnbqkbnr/pp2pppp/8/2p5/1PPp4/4PN2/P2P1PPP/RNBQKB1R b KQkq - 0 4": {
@@ -4034,7 +4098,8 @@
         "scid": "A10",
         "aliases": {
             "scid": "English: Adorjan Defence",
-            "chessGraph": "Adorjan System, English"
+            "chessGraph": "Adorjan System, English",
+            "chronos": "English: Adorjan defence"
         }
     },
     "rnbqkbnr/ppppp1pp/8/5p2/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2": {
@@ -4045,7 +4110,8 @@
         "scid": "A10",
         "aliases": {
             "scid": "English: Anglo-Dutch",
-            "chessGraph": "Anglo-Dutch Defense"
+            "chessGraph": "Anglo-Dutch Defense",
+            "chronos": "English: Anglo-Dutch defense"
         }
     },
     "rnbqkbnr/ppppp1pp/8/5p2/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq - 0 2": {
@@ -4139,7 +4205,8 @@
         "scid": "A10",
         "aliases": {
             "scid": "English: 1...g6",
-            "chessGraph": "Great Snake, English"
+            "chessGraph": "Great Snake, English",
+            "chronos": "English opening"
         }
     },
     "rnbqkbnr/p1pppppp/8/1p6/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2": {
@@ -4151,7 +4218,8 @@
         "aliases": {
             "scid": "English: Jaenisch Gambit",
             "ct": "English Opening, Halibut Gambit",
-            "chessGraph": "Halibut Gambit, English"
+            "chessGraph": "Halibut Gambit, English",
+            "chronos": "English: Jaenisch gambit"
         }
     },
     "rnbq1rk1/1p3pbp/p1pp1np1/4p3/2P1P3/2NP2P1/PP2NPBP/R1BQ1RK1 w - - 0 9": {
@@ -4505,7 +4573,8 @@
         "aliases": {
             "scid": "English: Caro-Kann Defence",
             "ct": "English Opening, Anglo-Slav Variation",
-            "chessGraph": "Anglo-Slav, English; A11"
+            "chessGraph": "Anglo-Slav, English; A11",
+            "chronos": "English: Caro-Kann defensive system"
         },
         "isEcoRoot": true
     },
@@ -4663,7 +4732,8 @@
         "name": "English: Capablanca",
         "scid": "A12",
         "aliases": {
-            "ct": "Reti Opening, Anglo-Slav Variation"
+            "ct": "Reti Opening, Anglo-Slav Variation",
+            "chronos": "English: Capablanca's variation"
         }
     },
     "rnbqkb1r/pp2pppp/2p2n2/3p4/2P5/1P3N2/PB1PPPPP/RN1QKB1R b KQkq - 2 4": {
@@ -4673,7 +4743,8 @@
         "name": "English: Caro-Kann Defence, 3.b3",
         "scid": "A12",
         "aliases": {
-            "ct": "Reti Opening, Anglo-Slav Variation"
+            "ct": "Reti Opening, Anglo-Slav Variation",
+            "chronos": "English: Caro-Kann defensive system"
         }
     },
     "rn1qkb1r/pp2pppp/2p2n2/3p1b2/2P5/1P3NP1/P2PPPBP/RNBQK2R b KQkq - 2 5": {
@@ -4704,7 +4775,8 @@
         "name": "English: New York/London Defence",
         "scid": "A12",
         "aliases": {
-            "ct": "Reti Opening, Anglo-Slav Variation"
+            "ct": "Reti Opening, Anglo-Slav Variation",
+            "chronos": "English: New York (London) defensive system"
         }
     },
     "rn1qkb1r/pp2pppp/2p2n2/3p4/2P3b1/1P3NP1/P2PPPBP/RNBQK2R b KQkq - 2 5": {
@@ -4737,7 +4809,8 @@
         "aliases": {
             "scid": "English: Bled Variation",
             "eco_js": "Reti Opening: Anglo-Slav Variation, Bled Variation",
-            "ct": "Reti Opening, Anglo-Slav Variation"
+            "ct": "Reti Opening, Anglo-Slav Variation",
+            "chronos": "English: Bled variation"
         }
     },
     "rnbqkbnr/pp2pppp/2p5/3p4/2P5/1P3N2/P2PPPPP/RNBQKB1R b KQkq - 0 3": {
@@ -4750,7 +4823,8 @@
             "scid": "English: Caro-Kann Defence, 3.b3",
             "eco_js": "Reti Opening: Anglo-Slav Variation, Bogoljubov Variation",
             "ct": "Reti Opening, Anglo-Slav Variation",
-            "chessGraph": "A12"
+            "chessGraph": "A12",
+            "chronos": "English: Caro-Kann defensive system"
         },
         "isEcoRoot": true
     },
@@ -4764,7 +4838,8 @@
             "scid": "English: Bogoljubow Variation",
             "eco_js": "Reti Opening: Anglo-Slav Variation, Bogoljubov Variation, 2. c4 c6 3. b3 Bg4",
             "eco_wikip": "English, Caro–Kann defensive system: Bogoljubov Variation",
-            "ct": "Reti Opening, Anglo-Slav Variation"
+            "ct": "Reti Opening, Anglo-Slav Variation",
+            "chronos": "English: Caro-Kann defensive system, Bogolyubov variation"
         }
     },
     "rnbqkb1r/pp2pppp/2p2n2/3p4/2P5/1P3N2/PB1PPPPP/RN1QKB1R b KQkq - 1 4": {
@@ -4795,7 +4870,8 @@
             "scid": "English: London Defence",
             "eco_js": "Reti Opening: Anglo-Slav Variation, London Defensive System",
             "eco_wikip": "English, Caro–Kann defensive system: London Defence",
-            "ct": "Reti Opening, Anglo-Slav Variation"
+            "ct": "Reti Opening, Anglo-Slav Variation",
+            "chronos": "English: London defensive system"
         }
     },
     "rn1qkb1r/pp2pppp/2p2n2/3p1b2/2P5/1P3N2/PB1PPPPP/RN1QKB1R w KQkq - 2 5": {
@@ -4816,7 +4892,8 @@
         "aliases": {
             "scid": "English: Torre Defence",
             "eco_js": "Reti Opening: Anglo-Slav Variation, Torre System",
-            "ct": "Reti Opening, Anglo-Slav Variation"
+            "ct": "Reti Opening, Anglo-Slav Variation",
+            "chronos": "English: Torre defensive system"
         }
     },
     "rnbqkbnr/pppp1ppp/4p3/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2": {
@@ -4827,7 +4904,8 @@
         "scid": "A13a",
         "aliases": {
             "scid": "English: 1...e6",
-            "chessGraph": "Agincourt; Kurajica Defense, English; A13"
+            "chessGraph": "Agincourt; Kurajica Defense, English; A13",
+            "chronos": "English opening"
         },
         "isEcoRoot": true
     },
@@ -4851,7 +4929,8 @@
         "aliases": {
             "scid": "English: 1...e6 2.Nf3 d5",
             "eco_js": "English Opening: Agincourt Defense, 2. Nf3 d5",
-            "chessGraph": "King's Knight Variation, English"
+            "chessGraph": "King's Knight Variation, English",
+            "chronos": "English opening: Agincourt variation"
         }
     },
     "rnbqk2r/ppp2ppp/3bpn2/3p4/2P5/5NP1/PP1PPPBP/RNBQK2R w KQkq - 2 5": {
@@ -4885,7 +4964,8 @@
         "aliases": {
             "scid": "English: Neo-Catalan Accepted",
             "ct": "English Opening, Agincourt Defense",
-            "chessGraph": "Neo Catalan Accepted, English"
+            "chessGraph": "Neo Catalan Accepted, English",
+            "chronos": "English: Neo-Catalan accepted"
         }
     },
     "rnbqkb1r/pp3ppp/2p1pn2/3p4/2P5/5NP1/PP1PPPBP/RNBQK2R w KQkq - 0 5": {
@@ -4908,7 +4988,8 @@
         "aliases": {
             "scid": "English: Kurajica Defence",
             "ct": "English Opening, Agincourt Defense",
-            "chessGraph": "Kurajica Defense, English"
+            "chessGraph": "Kurajica Defense, English",
+            "chronos": "English: Kurajica defence"
         }
     },
     "r1bqk2r/pp2bppp/2n1pn2/2pp4/2P5/1P3NP1/P2PPPBP/RNBQ1RK1 w kq - 4 7": {
@@ -4926,7 +5007,8 @@
         "aliases": {
             "scid": "English: Wimpey System",
             "ct": "English Opening, Agincourt Defense",
-            "chessGraph": "Wimpy System, English"
+            "chessGraph": "Wimpy System, English",
+            "chronos": "English: Wimpey system"
         }
     },
     "rnbqkb1r/ppp2ppp/4pn2/3p4/2P5/5NP1/PP1PPP1P/RNBQKB1R w KQkq - 0 4": {
@@ -4950,7 +5032,8 @@
         "aliases": {
             "scid": "English: Romanishin Gambit",
             "ct": "English Opening, Anglo-Indian Defense",
-            "chessGraph": "Romanishin Gambit, English"
+            "chessGraph": "Romanishin Gambit, English",
+            "chronos": "English: Romanishin gambit"
         }
     },
     "rnbqkbnr/pppp1ppp/4p3/8/2P5/6P1/PP1PPP1P/RNBQKBNR b KQkq - 0 2": {
@@ -5024,7 +5107,8 @@
         "scid": "A13o",
         "aliases": {
             "ct": "English Opening, Agincourt Defense",
-            "chessGraph": "Afincourt Variation, English"
+            "chessGraph": "Afincourt Variation, English",
+            "chronos": "English opening: Agincourt variation"
         }
     },
     "rnbqkbnr/pp3ppp/2p1p3/3p4/2P5/5NP1/PPQPPP1P/RNB1KB1R b KQkq - 1 4": {
@@ -5042,7 +5126,8 @@
         "scid": "A13r",
         "aliases": {
             "scid": "English: Neo-Catalan",
-            "chessGraph": "Neo Catalan, English"
+            "chessGraph": "Neo Catalan, English",
+            "chronos": "English: Neo-Catalan"
         }
     },
     "rnbqkb1r/ppp2ppp/4pn2/3p4/2P5/5NP1/PP1PPPBP/RNBQK2R b KQkq - 2 4": {
@@ -5155,7 +5240,8 @@
         "aliases": {
             "scid": "English: Neo-Catalan Declined",
             "ct": "English Opening, Agincourt Defense",
-            "chessGraph": "Neo Catalan Declined, English"
+            "chessGraph": "Neo Catalan Declined, English",
+            "chronos": "English: Neo-Catalan declined"
         }
     },
     "rnbqk2r/pp2bppp/4pn2/2pp4/2P5/5NP1/PP1PPPBP/RNBQ1RK1 w kq - 0 6": {
@@ -5252,7 +5338,8 @@
         "scid": "A15",
         "aliases": {
             "scid": "English: Anglo-Indian",
-            "chessGraph": "Anglo System, English; A15"
+            "chessGraph": "Anglo System, English; A15",
+            "chronos": "English, 1...Nf6 (Anglo-Indian defense)"
         },
         "isEcoRoot": true
     },
@@ -5424,7 +5511,8 @@
         "aliases": {
             "scid": "English: Anglo-Indian, 2.Nf3",
             "ct": "English Opening, Anglo-Indian Defense",
-            "chessGraph": "King's Knight Variation, English"
+            "chessGraph": "King's Knight Variation, English",
+            "chronos": "English opening"
         }
     },
     "rnbqk2r/ppppppbp/5np1/8/2P5/5NP1/PP1PPPBP/RNBQK2R b KQkq - 2 4": {
@@ -5452,7 +5540,8 @@
             "eco_js": "English Opening: Anglo-Gruenfeld Defense",
             "eco_wikip": "English Opening, Anglo-Indian Defence: Anglo-Grünfeld",
             "ct": "English Opening, Golombek Defense",
-            "chessGraph": "Golombek Defense, English; Anti English"
+            "chessGraph": "Golombek Defense, English; Anti English",
+            "chronos": "English: Anglo-Gruenfeld defense"
         }
     },
     "rnbqk2r/ppp2pbp/6p1/3np3/8/2N2NP1/PP1PPPBP/R1BQK2R w KQkq - 0 7": {
@@ -5464,7 +5553,8 @@
         "aliases": {
             "scid": "English: Anglo-Gruenfeld, Korchnoi Variation",
             "eco_js": "English Opening: Anglo-Gruenfeld Defense: Korchnoi Variation",
-            "chessGraph": "Korchnoi's Variation, English"
+            "chessGraph": "Korchnoi's Variation, English",
+            "chronos": "English: Anglo-Gruenfeld defense, Korchnoi variation"
         }
     },
     "rnbqkb1r/ppp1pppp/8/3n4/8/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 4": {
@@ -5476,7 +5566,8 @@
         "aliases": {
             "scid": "English: Anglo-Gruenfeld, 4.Nf3",
             "eco_js": "English Opening: Anglo-Indian Defense, Anglo-Gruenfeld Variation",
-            "ct": "English Opening, Anglo-Indian Defense"
+            "ct": "English Opening, Anglo-Indian Defense",
+            "chronos": "English: Anglo-Gruenfeld defense"
         }
     },
     "rnbqkb1r/ppp1pp1p/1n4p1/8/8/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 2 6": {
@@ -5489,7 +5580,8 @@
             "scid": "English: Anglo-Gruenfeld, Czech Variation",
             "eco_js": "English Opening: Anglo-Indian Defense, Anglo-Gruenfeld Variation, 4. g3 g6 5. Bg2 Nb6",
             "ct": "English Opening, Anglo-Indian Defense",
-            "chessGraph": "Czech Variation, English"
+            "chessGraph": "Czech Variation, English",
+            "chronos": "English: Anglo-Gruenfeld, Czech defense"
         }
     },
     "rnbqkb1r/ppp1pp1p/6p1/8/8/2n3P1/PP1PPPBP/R1BQK1NR w KQkq - 0 6": {
@@ -5502,7 +5594,8 @@
             "scid": "English: Anglo-Gruenfeld, Smyslov Variation",
             "eco_js": "English Opening: Anglo-Indian Defense, Anglo-Gruenfeld Variation, 4. g3 g6 5. Bg2 Nxc3",
             "ct": "English Opening, Anglo-Indian Defense",
-            "chessGraph": "Smyslov Defense, English"
+            "chessGraph": "Smyslov Defense, English",
+            "chronos": "English: Anglo-Gruenfeld, Smyslov defense"
         }
     },
     "rnbqkb1r/pppppppp/5n2/8/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 2 2": {
@@ -5514,7 +5607,8 @@
         "aliases": {
             "scid": "English: Anglo-Indian, 2.Nc3",
             "ct": "English Opening, Anglo-Indian Defense",
-            "chessGraph": "A16"
+            "chessGraph": "A16",
+            "chronos": "English opening"
         },
         "isEcoRoot": true
     },
@@ -5736,7 +5830,8 @@
         "aliases": {
             "scid": "English: Anglo-Indian, 2.Nc3 e6",
             "ct": "English Opening, Anglo-Indian Defense",
-            "chessGraph": "Hegehog System, Anglo-Indian English; A17"
+            "chessGraph": "Hegehog System, Anglo-Indian English; A17",
+            "chronos": "English opening"
         },
         "isEcoRoot": true
     },
@@ -5749,7 +5844,8 @@
         "aliases": {
             "scid": "English: Nimzo-English",
             "ct": "English Opening, Anglo-Indian Defense",
-            "chessGraph": "Nimzo-English Opening"
+            "chessGraph": "Nimzo-English Opening",
+            "chronos": "English: Nimzo-English opening"
         }
     },
     "rnbqkb1r/p1pp1ppp/1p2pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 0 4": {
@@ -5762,7 +5858,8 @@
             "scid": "English: Anglo-Queen's Indian",
             "eco_js": "English Opening: Anglo-Indian Defense, Queen's Indian Formation, 2. Nc3 e6 3. Nf3 b6",
             "ct": "English Opening, Anglo-Indian Defense",
-            "chessGraph": "Queen's Indian Formation, English"
+            "chessGraph": "Queen's Indian Formation, English",
+            "chronos": "English: Queens Indian formation"
         }
     },
     "rn1qkb1r/pbpp1ppp/1p2pn2/8/2P1P3/2NB1N2/PP1P1PPP/R1BQK2R b KQkq - 2 5": {
@@ -5773,7 +5870,8 @@
         "scid": "A17",
         "aliases": {
             "scid": "English: Anglo-Queen's Indian, Romanishin",
-            "ct": "English Opening, Anglo-Indian Defense"
+            "ct": "English Opening, Anglo-Indian Defense",
+            "chronos": "English: Queens Indian, Romanishin variation"
         }
     },
     "rnbqk2r/pppp1ppp/4pn2/8/1bP3P1/2N2N2/PP1PPP1P/R1BQKB1R b KQkq - 0 4": {
@@ -5872,7 +5970,8 @@
         "aliases": {
             "scid": "English: Mikenas",
             "ct": "English Opening, Anglo-Indian Defense",
-            "chessGraph": "Flohr-Mikenas-Carls Variation, English; A18"
+            "chessGraph": "Flohr-Mikenas-Carls Variation, English; A18",
+            "chronos": "English: Mikenas-Carls variation"
         },
         "isEcoRoot": true
     },
@@ -5886,7 +5985,8 @@
             "scid": "English: Mikenas, Kevitz Defence",
             "eco_js": "English Opening: Mikenas-Carls Variation, 2. Nc3 e6 3. e4 Nc6",
             "ct": "English Opening, Anglo-Indian Defense",
-            "chessGraph": "Kevitz Defense, English"
+            "chessGraph": "Kevitz Defense, English",
+            "chronos": "English: Mikenas-Carls, Kevitz variation"
         }
     },
     "rnbqkb1r/ppp2ppp/4pn2/3pP3/2P5/2N5/PP1P1PPP/R1BQKBNR b KQkq - 0 4": {
@@ -5898,7 +5998,8 @@
         "aliases": {
             "scid": "English: Mikenas, Flohr Variation",
             "eco_js": "English Opening: Mikenas-Carls Variation, 3. e4 d5 4. e5",
-            "ct": "English Opening, Anglo-Indian Defense"
+            "ct": "English Opening, Anglo-Indian Defense",
+            "chronos": "English: Mikenas-Carls, Flohr variation"
         }
     },
     "rnbqkb1r/ppp2ppp/3ppn2/8/2P1P3/2N5/PP1P1PPP/R1BQKBNR w KQkq - 0 4": {
@@ -5992,7 +6093,8 @@
         "aliases": {
             "scid": "English: Mikenas, Sicilian Variation",
             "ct": "English Opening, Anglo-Indian Defense",
-            "chessGraph": "Floh-Mikenas-Carls Variation, English; A19"
+            "chessGraph": "Floh-Mikenas-Carls Variation, English; A19",
+            "chronos": "English: Mikenas-Carls, Sicilian variation"
         },
         "isEcoRoot": true
     },
@@ -6055,7 +6157,8 @@
         "scid": "A20",
         "aliases": {
             "scid": "English: King's (1...e5)",
-            "chessGraph": "King's English; A20"
+            "chessGraph": "King's English; A20",
+            "chronos": "English opening"
         },
         "isEcoRoot": true
     },
@@ -6079,7 +6182,8 @@
         "aliases": {
             "scid": "English: King's, Nimzowitsch",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Nimzovich Variation, English"
+            "chessGraph": "Nimzovich Variation, English",
+            "chronos": "English, Nimzovich variation"
         }
     },
     "rnbqkbnr/pppp1ppp/8/8/2P1p3/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3": {
@@ -6091,7 +6195,8 @@
         "aliases": {
             "scid": "English: King's, Nimzowitsch, Flohr Variation",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Nimzovich-Flohr Variation, English"
+            "chessGraph": "Nimzovich-Flohr Variation, English",
+            "chronos": "English, Nimzovich, Flohr variation"
         }
     },
     "rnbqkbnr/pppp1ppp/8/4p3/2P5/3P4/PP2PPPP/RNBQKBNR b KQkq - 0 2": {
@@ -6243,7 +6348,8 @@
         "aliases": {
             "scid": "English: King's, 2.Nc3 d6 3.Nf3",
             "eco_js": "English Opening: King's English Variation, 2. Nc3 d6 3. Nf3",
-            "chessGraph": "General Variation, King's English"
+            "chessGraph": "General Variation, King's English",
+            "chronos": "English opening"
         }
     },
     "rnbqkbnr/pp3ppp/2pp4/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 0 4": {
@@ -6255,7 +6361,8 @@
         "aliases": {
             "scid": "English: King's, Keres Variation",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Keres Defense, English"
+            "chessGraph": "Keres Defense, English",
+            "chronos": "English, Keres variation"
         }
     },
     "rnbqk1nr/pppp1ppp/8/4p3/1bP5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3": {
@@ -6267,7 +6374,8 @@
         "aliases": {
             "scid": "English: Kramnik-Shirov Counterattack",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Kramnik-Shirov Variation, English"
+            "chessGraph": "Kramnik-Shirov Variation, English",
+            "chronos": "English, Kramnik-Shirov counterattack"
         }
     },
     "rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2": {
@@ -6279,7 +6387,8 @@
         "aliases": {
             "scid": "English: King's, 2.Nc3",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Reversed Sicilian, English; A21"
+            "chessGraph": "Reversed Sicilian, English; A21",
+            "chronos": "English opening"
         },
         "isEcoRoot": true
     },
@@ -6292,7 +6401,8 @@
         "aliases": {
             "scid": "English: Smyslov Defence",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Smyslov Variation, English"
+            "chessGraph": "Smyslov Variation, English",
+            "chronos": "English, Smyslov defence"
         }
     },
     "r2qkbnr/ppp2ppp/2npb3/4p3/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 2 5": {
@@ -6506,7 +6616,8 @@
         "aliases": {
             "scid": "English: Bremen System",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Bremen; Carls Variation, English"
+            "chessGraph": "Bremen; Carls Variation, English",
+            "chronos": "English: Carls' Bremen system"
         }
     },
     "rnbqkb1r/p1pp1ppp/5n2/1p4N1/2P1p3/2N5/PP1PPPPP/R1BQKB1R w KQkq - 0 5": {
@@ -6518,7 +6629,8 @@
         "aliases": {
             "scid": "English: Bellon Gambit",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Bellon Gambit, English"
+            "chessGraph": "Bellon Gambit, English",
+            "chronos": "English: Bellon gambit"
         }
     },
     "rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3": {
@@ -6530,7 +6642,8 @@
         "aliases": {
             "scid": "English: King's, 2.Nc3 Nf6",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Two Knights Variation, English; A22"
+            "chessGraph": "Two Knights Variation, English; A22",
+            "chronos": "English opening"
         },
         "isEcoRoot": true
     },
@@ -6543,7 +6656,8 @@
         "aliases": {
             "scid": "English: Bremen, Reverse Dragon",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Reversed Dragon, English"
+            "chessGraph": "Reversed Dragon, English",
+            "chronos": "English: Bremen, reverse dragon"
         }
     },
     "rnbqk2r/pppp1ppp/5n2/4p3/1bP5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 1 4": {
@@ -6555,7 +6669,8 @@
         "aliases": {
             "scid": "English: Bremen, Smyslov System",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Kapengut; Smyslov; Modern V, English"
+            "chessGraph": "Kapengut; Smyslov; Modern V, English",
+            "chronos": "English: Bremen, Smyslov system"
         }
     },
     "rnbqkb1r/pppp1ppp/8/6N1/2P1p1n1/2N5/PP1PPPPP/R1BQKB1R w KQkq - 2 5": {
@@ -6692,7 +6807,8 @@
         "aliases": {
             "scid": "English: Bremen, Keres System",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Keres Variation, English; A23"
+            "chessGraph": "Keres Variation, English; A23",
+            "chronos": "English: Bremen system, Keres variation"
         },
         "isEcoRoot": true
     },
@@ -6761,7 +6877,8 @@
         "aliases": {
             "scid": "English: Bremen, 3...g6",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Fianchetto Lines, Two Knights Variation, English; A24"
+            "chessGraph": "Fianchetto Lines, Two Knights Variation, English; A24",
+            "chronos": "English: Bremen system with ...g6"
         },
         "isEcoRoot": true
     },
@@ -6871,7 +6988,8 @@
         "scid": "A25",
         "aliases": {
             "scid": "English: Closed, 5.Rb1, Taimanov Variation",
-            "eco_js": "English Opening: Closed, 5. Rb1 Taimanov Variation"
+            "eco_js": "English Opening: Closed, 5. Rb1 Taimanov Variation",
+            "chronos": "English: closed, 5.Rb1 Taimanov variation"
         }
     },
     "r1bqk2r/ppp2pbp/2np2pn/4p3/2P5/2N1P1P1/PP1PNPBP/R1BQK2R w KQkq - 2 7": {
@@ -6881,7 +6999,8 @@
         "name": "English Opening: Closed, Taimanov Variation",
         "scid": "A25",
         "aliases": {
-            "scid": "English: Closed, Taimanov Variation"
+            "scid": "English: Closed, Taimanov Variation",
+            "chronos": "English: closed, Taimanov variation"
         }
     },
     "r2qk1nr/ppp2pbp/2npb1p1/4p3/2P5/2N1P1P1/PP1PNPBP/R1BQK2R w KQkq - 2 7": {
@@ -6893,7 +7012,8 @@
         "aliases": {
             "scid": "English: Closed, Hort Variation",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Bremen-Hort Variation, English"
+            "chessGraph": "Bremen-Hort Variation, English",
+            "chronos": "English: closed, Hort variation"
         }
     },
     "r1bqk1nr/pppp1pbp/2n3p1/4p3/2P5/2NP2P1/PP2PPBP/R1BQK1NR b KQkq - 0 5": {
@@ -6905,7 +7025,8 @@
         "aliases": {
             "scid": "English: Closed, 5.d3",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Closed System, King's English; A26"
+            "chessGraph": "Closed System, King's English; A26",
+            "chronos": "English: closed system (without ...d6)"
         }
     },
     "r1bqk1nr/pppp1pbp/2n3p1/4p3/2P5/2N3P1/PP1PPPBP/1RBQK1NR b Kkq - 3 5": {
@@ -6917,7 +7038,8 @@
         "aliases": {
             "scid": "English: Closed, 5.Rb1",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Hungarian Attack, English"
+            "chessGraph": "Hungarian Attack, English",
+            "chronos": "English: closed, 5.Rb1"
         }
     },
     "r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3": {
@@ -6929,7 +7051,8 @@
         "aliases": {
             "scid": "English: Closed",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Reversed Closed Sicilian, English; A25"
+            "chessGraph": "Reversed Closed Sicilian, English; A25",
+            "chronos": "English: Sicilian reversed"
         },
         "isEcoRoot": true
     },
@@ -6942,7 +7065,8 @@
         "aliases": {
             "scid": "English: Closed",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Taimanov Variation, English"
+            "chessGraph": "Taimanov Variation, English",
+            "chronos": "English: closed system"
         }
     },
     "r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N1P3/PP1P1PPP/R1BQKBNR b KQkq - 0 3": {
@@ -7119,7 +7243,8 @@
             "scid": "English: Botvinnik System",
             "eco_wikip": "English Opening, Closed System: Botvinnik System",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Botvinnik System, King's English"
+            "chessGraph": "Botvinnik System, King's English",
+            "chronos": "English: Botvinnik system"
         }
     },
     "r1bqk1nr/ppp2pbp/2np2p1/4p3/2P5/2NP2P1/PP2PPBP/R1BQK1NR w KQkq - 0 6": {
@@ -7131,7 +7256,8 @@
         "aliases": {
             "scid": "English: Closed, 5.d3 d6",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Closed System, Full Symmetry, King's English"
+            "chessGraph": "Closed System, Full Symmetry, King's English",
+            "chronos": "English: closed system"
         },
         "isEcoRoot": true
     },
@@ -7277,7 +7403,8 @@
         "aliases": {
             "scid": "English: Three Knights",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Three Knights System, English; A27"
+            "chessGraph": "Three Knights System, English; A27",
+            "chronos": "English: three knights system"
         },
         "isEcoRoot": true
     },
@@ -7353,7 +7480,8 @@
         "aliases": {
             "scid": "English: Four Knights, Nimzowitsch Variation",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Botvinnik Line, English"
+            "chessGraph": "Botvinnik Line, English",
+            "chronos": "English: four knights, Nimzovich variation"
         }
     },
     "r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 4 4": {
@@ -7365,7 +7493,8 @@
         "aliases": {
             "scid": "English: Four Knights",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Four Knights Variation, English; A28"
+            "chessGraph": "Four Knights Variation, English; A28",
+            "chronos": "English: four knights system"
         },
         "isEcoRoot": true
     },
@@ -7378,7 +7507,8 @@
         "aliases": {
             "scid": "English: Four Knights, Nenarokov Variation",
             "eco_js": "English Opening: King's English Variation, Four Knights Variation, 7. Bh4 Bxc3+ 8. bxc3 Ne5",
-            "ct": "English Opening, King's English Variation"
+            "ct": "English Opening, King's English Variation",
+            "chronos": "English: Nenarokov variation"
         }
     },
     "r1bqkb1r/pppp1ppp/2n2n2/8/2PPp3/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5": {
@@ -7390,7 +7520,8 @@
         "aliases": {
             "scid": "English: Four Knights, Bradley Beach Variation",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Bradley Beach Variation, English"
+            "chessGraph": "Bradley Beach Variation, English",
+            "chronos": "English: Bradley Beach variation"
         }
     },
     "r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/2NP1N2/PP2PPPP/R1BQKB1R b KQkq - 0 4": {
@@ -7402,7 +7533,8 @@
         "aliases": {
             "scid": "English: Four Knights, Capablanca Variation",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Flexible Line, English"
+            "chessGraph": "Flexible Line, English",
+            "chronos": "English: four knights, Capablanca variation"
         }
     },
     "r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/P1N2N2/1P1PPPPP/R1BQKB1R b KQkq - 0 4": {
@@ -7414,7 +7546,8 @@
         "aliases": {
             "scid": "English: Four Knights, Marini Variation",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Korchnoi Line, English"
+            "chessGraph": "Korchnoi Line, English",
+            "chronos": "English: four knights, Marini variation"
         }
     },
     "r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/2N1PN2/PP1P1PPP/R1BQKB1R b KQkq - 0 4": {
@@ -7426,7 +7559,8 @@
         "aliases": {
             "scid": "English: Four Knights, 4.e3",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Quiet Line, English"
+            "chessGraph": "Quiet Line, English",
+            "chronos": "English: four knights, 4.e3"
         }
     },
     "r1bqk2r/pppp1ppp/2n2n2/4p3/2P5/2b1PN2/PPQP1PPP/R1B1KB1R w KQkq - 0 6": {
@@ -7439,7 +7573,8 @@
             "scid": "English: Four Knights, Romanishin Variation",
             "eco_js": "English Opening: King's English Variation, Four Knights Variation, Quiet Line, 4. e3 Bb4 5. Qc2 Bxc3",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Romanishin Variation, English"
+            "chessGraph": "Romanishin Variation, English",
+            "chronos": "English: four knights, Romanishin variation"
         }
     },
     "r1bqr1k1/pppp1ppp/2n2n2/3NpQ2/1bP5/4PN2/PP1P1PPP/R1B1KB1R b KQ - 6 7": {
@@ -7452,7 +7587,8 @@
             "scid": "English: Four Knights, Stean Variation",
             "eco_js": "English Opening: King's English Variation, Four Knights Variation, Quiet Line, 6. Nd5 Re8 7. Qf5",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Keene; Stean Variation, English"
+            "chessGraph": "Keene; Stean Variation, English",
+            "chronos": "English: four knights, Stean variation"
         }
     },
     "r1bqkb1r/pppp1ppp/2n2n2/4p3/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 0 4": {
@@ -7485,7 +7621,8 @@
         "aliases": {
             "scid": "English: Four Knights, 4.g3",
             "ct": "English Opening, King's English Variation",
-            "chessGraph": "Fianchetto Line, Four Knights English; A29"
+            "chessGraph": "Fianchetto Line, Four Knights English; A29",
+            "chronos": "English: four knights, kingside fianchetto"
         },
         "isEcoRoot": true
     },
@@ -7668,7 +7805,8 @@
         "scid": "A30a",
         "aliases": {
             "scid": "English: Symmetrical",
-            "chessGraph": "Symmetrical Defense, English; A30"
+            "chessGraph": "Symmetrical Defense, English; A30",
+            "chronos": "English: symmetrical variation"
         },
         "isEcoRoot": true
     },
@@ -7705,7 +7843,8 @@
         "name": "English Opening: Symmetrical, Hedgehog, Flexible Formation",
         "scid": "A30x",
         "aliases": {
-            "scid": "English: Symmetrical, Hedgehog, Flexible Formation"
+            "scid": "English: Symmetrical, Hedgehog, Flexible Formation",
+            "chronos": "English: symmetrical, hedgehog, flexible formation"
         }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/1PP5/8/P2PPPPP/RNBQKBNR b KQkq - 0 2": {
@@ -8054,7 +8193,8 @@
         "isEcoRoot": true,
         "aliases": {
             "ct": "English Opening, Symmetrical Variation",
-            "chessGraph": "Anti-Benoni Variation, Symmetrical English; A31"
+            "chessGraph": "Anti-Benoni Variation, Symmetrical English; A31",
+            "chronos": "English: symmetrical, Benoni formation"
         }
     },
     "rnbqkb1r/pp1ppppp/5n2/8/2Pp4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4": {
@@ -8188,7 +8328,8 @@
         "aliases": {
             "scid": "English: Symmetrical, Two Knights, 4...e6",
             "ct": "English Opening, Symmetrical Variation",
-            "chessGraph": "Spielmann Defense, Symmetrical English; A32"
+            "chessGraph": "Spielmann Defense, Symmetrical English; A32",
+            "chronos": "English: symmetrical variation"
         },
         "isEcoRoot": true
     },
@@ -8356,7 +8497,8 @@
             "scid": "English: Symmetrical, Geller Variation",
             "eco_wikip": "English Opening, Symmetrical: Geller Variation",
             "ct": "English Opening, Symmetrical Variation",
-            "chessGraph": "Geller Variation, Symmetrical English"
+            "chessGraph": "Geller Variation, Symmetrical English",
+            "chronos": "English: symmetrical, Geller variation"
         }
     },
     "r1bqkb1r/pp1p1ppp/2n1pn2/8/2PN4/2N5/PP2PPPP/R1BQKB1R w KQkq - 0 6": {
@@ -8391,7 +8533,8 @@
         "isEcoRoot": true,
         "aliases": {
             "ct": "English Opening, Symmetrical Variation",
-            "chessGraph": "A33"
+            "chessGraph": "A33",
+            "chronos": "English: symmetrical variation"
         }
     },
     "r1bqkb1r/pp1p1ppp/2n1pn2/8/2PN4/P1N5/1P2PPPP/R1BQKB1R b KQkq - 0 6": {
@@ -8494,7 +8637,8 @@
         "aliases": {
             "scid": "English: Symmetrical, 2...Nf6 3.g3",
             "ct": "English Opening, Symmetrical Variation",
-            "chessGraph": "Fianchetto Variation, Symmetrical English"
+            "chessGraph": "Fianchetto Variation, Symmetrical English",
+            "chronos": "English: symmetrical variation"
         }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2": {
@@ -8506,7 +8650,8 @@
         "aliases": {
             "scid": "English: Symmetrical",
             "ct": "English Opening, Symmetrical Variation",
-            "chessGraph": "Normal Variation, Symmetrical English; A34"
+            "chessGraph": "Normal Variation, Symmetrical English; A34",
+            "chronos": "English: symmetrical variation"
         },
         "isEcoRoot": true
     },
@@ -8519,7 +8664,8 @@
         "aliases": {
             "scid": "English: Symmetrical, Rubinstein System",
             "ct": "English Opening, Symmetrical Variation",
-            "chessGraph": "Rubinstein Variation, Symmetrical English"
+            "chessGraph": "Rubinstein Variation, Symmetrical English",
+            "chronos": "English: symmetrical, Rubinstein system"
         }
     },
     "rnbqkb1r/pp1ppppp/5n2/2p5/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 3 3": {
@@ -8712,7 +8858,8 @@
         "aliases": {
             "eco_js": "English Opening: Symmetrical Variation, Three Knights Variation",
             "ct": "English Opening, Symmetrical Variation",
-            "chessGraph": "Asymmetrical Variation, English"
+            "chessGraph": "Asymmetrical Variation, English",
+            "chronos": "English: symmetrical, three knights system"
         }
     },
     "rnb1kb1r/pp2pppp/8/2p5/4P3/2P2N2/PP3PPP/R1BK1B1R b kq - 0 7": {
@@ -8737,7 +8884,8 @@
         "aliases": {
             "scid": "English: Symmetrical",
             "ct": "English Opening, Symmetrical Variation",
-            "chessGraph": "Two Knights Variation, Symmetrical English; A35"
+            "chessGraph": "Two Knights Variation, Symmetrical English; A35",
+            "chronos": "English: symmetrical variation"
         },
         "isEcoRoot": true
     },
@@ -8783,7 +8931,8 @@
         "name": "English: Symmetrical, Four Knights",
         "scid": "A35g",
         "aliases": {
-            "ct": "English Opening, Symmetrical Variation"
+            "ct": "English Opening, Symmetrical Variation",
+            "chronos": "English: symmetrical, four knights system"
         }
     },
     "r1bqkb1r/pp1ppppp/2n2n2/2p5/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 0 4": {
@@ -8850,7 +8999,8 @@
             "scid": "English: Symmetrical, 5.e3 e5 (Botvinnik Reversed)",
             "eco_js": "English Opening: Symmetrical Variation, Botvinnik System Reversed",
             "ct": "English Opening, Symmetrical Variation",
-            "chessGraph": "Botvinnik System Reversed, Symmetrical English"
+            "chessGraph": "Botvinnik System Reversed, Symmetrical English",
+            "chronos": "English: symmetrical, Botvinnik system reversed"
         }
     },
     "r1bqk1nr/pp1pppbp/2n3p1/2p5/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 4 5": {
@@ -8869,7 +9019,8 @@
             "scid": "English: Symmetrical, 3.g3",
             "eco_js": "English Opening: Symmetrical Variation, Fianchetto Variation, 2. Nc3 Nc6 3. g3",
             "ct": "English Opening, Symmetrical Variation",
-            "chessGraph": "Fianchetto Variation, Symmetrical English; A36"
+            "chessGraph": "Fianchetto Variation, Symmetrical English; A36",
+            "chronos": "English: symmetrical variation"
         },
         "isEcoRoot": true
     },
@@ -8909,7 +9060,8 @@
         "scid": "A36e",
         "aliases": {
             "ct": "English Opening, Symmetrical Variation",
-            "chessGraph": "Symmetrical Variation, Symmetrical English"
+            "chessGraph": "Symmetrical Variation, Symmetrical English",
+            "chronos": "English: ultra-symmetrical variation"
         }
     },
     "r1bqkb1r/pp1ppppp/2n2n2/2p5/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 1 4": {
@@ -9119,7 +9271,8 @@
         "scid": "A37q",
         "aliases": {
             "scid": "English: Symmetrical, 5.Nf3 e5",
-            "ct": "English Opening, Symmetrical Variation"
+            "ct": "English Opening, Symmetrical Variation",
+            "chronos": "English: symmetrical, Botvinnik system reversed"
         }
     },
     "r1bqk1nr/pp1pppbp/2n3p1/2p5/2P5/2N2NP1/PP1PPPBP/R1BQK2R b KQkq - 3 5": {
@@ -9132,7 +9285,8 @@
             "scid": "English: Symmetrical, 5.Nf3",
             "eco_js": "English Opening: Symmetrical Variation, Two Knights Line",
             "ct": "English Opening, Symmetrical Variation",
-            "chessGraph": "Two Knights Line, Symmetrical English; A37"
+            "chessGraph": "Two Knights Line, Symmetrical English; A37",
+            "chronos": "English: symmetrical variation"
         },
         "isEcoRoot": true
     },
@@ -9341,7 +9495,8 @@
         "aliases": {
             "scid": "English: Symmetrical, Main Line, 7.b3",
             "ct": "English Opening, Symmetrical Variation",
-            "chessGraph": "Double Fianchetto, Symmetrical English"
+            "chessGraph": "Double Fianchetto, Symmetrical English",
+            "chronos": "English: symmetrical, main line with b3"
         }
     },
     "r1bq1rk1/pp1pppbp/2n2np1/2p5/2P5/2NP1NP1/PP2PPBP/R1BQ1RK1 b - - 0 7": {
@@ -9353,7 +9508,8 @@
         "aliases": {
             "scid": "English: Symmetrical, Main Line, 7.d3",
             "ct": "English Opening, Symmetrical Variation",
-            "chessGraph": "Duchamp Variation, Symmetrical English"
+            "chessGraph": "Duchamp Variation, Symmetrical English",
+            "chronos": "English: symmetrical, main line with d3"
         }
     },
     "r1bqk2r/pp1pppbp/2n2np1/2p5/2P5/2N2NP1/PP1PPPBP/R1BQK2R w KQkq - 2 6": {
@@ -9371,7 +9527,8 @@
         "isEcoRoot": true,
         "aliases": {
             "ct": "English Opening, Symmetrical Variation",
-            "chessGraph": "Full Symmetry Line, Symmetrical English; A38"
+            "chessGraph": "Full Symmetry Line, Symmetrical English; A38",
+            "chronos": "English: symmetrical variation"
         }
     },
     "r1bqk2r/pp1pppbp/2n2np1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQK2R b KQkq - 0 6": {
@@ -9488,7 +9645,8 @@
         "aliases": {
             "scid": "English: Symmetrical, Main Line 7.d4",
             "ct": "English Opening, Symmetrical Variation",
-            "chessGraph": "Mecking Variation, Symmetrical English; A39"
+            "chessGraph": "Mecking Variation, Symmetrical English; A39",
+            "chronos": "English: symmetrical, main line with d4"
         },
         "isEcoRoot": true
     },
@@ -9677,7 +9835,8 @@
         "aliases": {
             "scid": "Queen's Pawn: English Defence",
             "ct": "Queen Pawn Game, Queen Fianchetto",
-            "chessGraph": "Queen Fianchetto, Queen Pawn Game"
+            "chessGraph": "Queen Fianchetto, Queen Pawn Game",
+            "chronos": "Queen's pawn: English defence"
         }
     },
     "rnbqkbnr/p1pp1ppp/1p2p3/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3": {
@@ -9689,7 +9848,8 @@
         "aliases": {
             "scid": "Queen's Pawn: English Defence, 2.c4 e6",
             "eco_js": "English Defense, 2. c4 b6",
-            "ct": "English Defense, General"
+            "ct": "English Defense, General",
+            "chronos": "Queen's pawn: Keres defence"
         }
     },
     "rn1qkbnr/pbpp1ppp/1p6/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4": {
@@ -9744,7 +9904,8 @@
         "scid": "A40i",
         "aliases": {
             "ct": "Englund Gambit Complex, General",
-            "chessGraph": "Charlick Gambit; Englund Gambit"
+            "chessGraph": "Charlick Gambit; Englund Gambit",
+            "chronos": "Queen's pawn: Charlick (Englund) gambit"
         }
     },
     "rnbqkbnr/pppp1ppp/8/4P3/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2": {
@@ -9949,7 +10110,8 @@
         "aliases": {
             "scid": "Queen's Pawn: 1...e6",
             "ct": "Horwitz Defense, General",
-            "chessGraph": "Franco-Indian Defense"
+            "chessGraph": "Franco-Indian Defense",
+            "chronos": "Queen's pawn"
         }
     },
     "rnbqkbnr/pppp1ppp/8/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3": {
@@ -9970,7 +10132,8 @@
         "aliases": {
             "scid": "Queen's Pawn: Keres Defence",
             "ct": "Kangaroo Defense, General",
-            "chessGraph": "Keres Defense, Indian; Kangaroo Defense"
+            "chessGraph": "Keres Defense, Indian; Kangaroo Defense",
+            "chronos": "Queen's pawn: Franco-Indian (Keres) defence"
         }
     },
     "rnbqk1nr/pppp1ppp/4p3/8/1bPP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 2 3": {
@@ -9991,7 +10154,8 @@
         "scid": "A40j",
         "aliases": {
             "scid": "Queen's Pawn: Bogoljubow-Miles Defence",
-            "chessGraph": "Bogoljubov; Mikenas-Van Geet Defense"
+            "chessGraph": "Bogoljubov; Mikenas-Van Geet Defense",
+            "chronos": "Queen's pawn: Lundin (Kevitz-Mikenas) defence"
         }
     },
     "r1bqkbnr/pppp1ppp/8/3Pp3/2Pn4/8/PP2PPPP/RNBQKBNR w KQkq - 1 4": {
@@ -10031,7 +10195,8 @@
         "scid": "A40y",
         "aliases": {
             "scid": "Queen's Pawn: Modern, Beefeater Defence",
-            "chessGraph": "Beefeater"
+            "chessGraph": "Beefeater",
+            "chronos": "Beefeater defence"
         }
     },
     "rnbqkb1r/pppppp1p/5np1/7P/3P4/8/PPP1PPP1/RNBQKBNR b KQkq - 0 3": {
@@ -10136,7 +10301,8 @@
         "aliases": {
             "eco_js": "Queen's Pawn",
             "ct": "Queen Pawn Opening, General",
-            "chessGraph": "Queen's Pawn Opening; A40"
+            "chessGraph": "Queen's Pawn Opening; A40",
+            "chronos": "Queen's pawn"
         },
         "isEcoRoot": true
     },
@@ -10153,7 +10319,10 @@
         "src": "eco_js",
         "eco": "A40",
         "moves": "1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Qd5 f6 5. exf6 Nxf6",
-        "name": "Queen's Pawn Game: Englund Gambit"
+        "name": "Queen's Pawn Game: Englund Gambit",
+        "aliases": {
+            "chronos": "Queen's pawn: Englund gambit"
+        }
     },
     "rnbqkbnr/pppppp1p/6p1/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2": {
         "src": "eco_tsv",
@@ -10165,7 +10334,8 @@
             "scid": "Queen's Pawn: Modern",
             "eco_js": "Modern Defense, 1... g6",
             "ct": "Modern Defense, Queen Pawn Fianchetto",
-            "chessGraph": "Queen Pawn Fianchetto"
+            "chessGraph": "Queen Pawn Fianchetto",
+            "chronos": "Modern defence"
         }
     },
     "rnbqkbnr/pp1ppppp/2p5/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2": {
@@ -10560,7 +10730,10 @@
         "eco": "A41",
         "moves": "1. d4 d6 2. c4 g6 3. Nc3 Bg7",
         "name": "Neo-Old Indian: Modern, 3.Nc3 Bg7",
-        "scid": "A41t"
+        "scid": "A41t",
+        "aliases": {
+            "chronos": "Modern defence"
+        }
     },
     "rnbqk1nr/ppp1ppbp/3p2p1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4": {
         "src": "scid",
@@ -10795,7 +10968,8 @@
         "aliases": {
             "scid": "Neo-Old Indian: Modern, Rossolimo Variation",
             "ct": "Modern Defense, Rossolimo Variation",
-            "chessGraph": "Rossolimo Variation, Modern Defense"
+            "chessGraph": "Rossolimo Variation, Modern Defense",
+            "chronos": "Robatsch defence: Rossolimo variation"
         }
     },
     "rn1qkbnr/ppp1pppp/3p4/8/3P2b1/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3": {
@@ -10806,7 +10980,8 @@
         "scid": "A41f",
         "aliases": {
             "scid": "Neo-Old Indian: Wade Defence",
-            "ct": "Wade Defense, General"
+            "ct": "Wade Defense, General",
+            "chronos": "Old Indian: Tartakower (Wade) variation"
         }
     },
     "1r1qkbnr/pppnpppp/3p4/8/2PP2b1/1Q3N2/PP2PPPP/RNB1KB1R w KQk - 3 5": {
@@ -10851,7 +11026,8 @@
         "aliases": {
             "scid": "Modern: Averbakh, Kotov Variation",
             "ct": "Modern Defense, Averbakh System",
-            "chessGraph": "Kotov Variation, Modern"
+            "chessGraph": "Kotov Variation, Modern",
+            "chronos": "Modern defence: Averbakh system, Kotov variation"
         }
     },
     "rnbqk1nr/ppp1p1bp/3p2p1/5p2/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5": {
@@ -10863,7 +11039,8 @@
         "aliases": {
             "scid": "Modern: Averbakh, Randspringer Variation",
             "ct": "Modern Defense, Averbakh System",
-            "chessGraph": "Randspringer Variation"
+            "chessGraph": "Randspringer Variation",
+            "chronos": "Modern defence: Averbakh system, Randspringer variation"
         }
     },
     "rnbqk1nr/pp2ppbp/2pp2p1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5": {
@@ -11084,7 +11261,8 @@
         "scid": "A42c",
         "aliases": {
             "ct": "Modern Defense, Pterodactyl Variation",
-            "chessGraph": "Pterodactyl Variation, Modern"
+            "chessGraph": "Pterodactyl Variation, Modern",
+            "chronos": "Pterodactyl defence"
         }
     },
     "rnb1k1nr/pp2ppbp/3p2p1/q1p5/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 0 6": {
@@ -11131,7 +11309,8 @@
         "scid": "A43k",
         "aliases": {
             "scid": "Old Benoni: 2.d5 Nf6",
-            "chessGraph": "Benoni-Indian Defense"
+            "chessGraph": "Benoni-Indian Defense",
+            "chronos": "Old Benoni defence"
         }
     },
     "rnbqkb1r/pp1ppppp/5n2/2pP4/8/5N2/PPP1PPPP/RNBQKB1R b KQkq - 0 3": {
@@ -11170,7 +11349,8 @@
             "scid": "Old Benoni: Franco-Benoni",
             "eco_js": "Franco-Benoni Defense",
             "ct": "Benoni Defense, Franco-Sicilian Defense",
-            "chessGraph": "Franco-Benoni; Franco-Sicilian"
+            "chessGraph": "Franco-Benoni; Franco-Sicilian",
+            "chronos": "Old Benoni: Franco-Benoni defence"
         }
     },
     "rnbqkb1r/pp1ppppp/5n2/3P4/2p5/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 4": {
@@ -11181,7 +11361,8 @@
         "scid": "A43r",
         "aliases": {
             "scid": "Old Benoni: Hawk",
-            "chessGraph": "Habichd; Hawk Variation, Benoni"
+            "chessGraph": "Habichd; Hawk Variation, Benoni",
+            "chronos": "Hawk (Habichd) defence"
         }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2": {
@@ -11194,7 +11375,8 @@
             "scid": "Old Benoni",
             "eco_js": "Old Benoni Defense",
             "ct": "Benoni Defense, General",
-            "chessGraph": "Staunton Defense; Benoni C-G; A43"
+            "chessGraph": "Staunton Defense; Benoni C-G; A43",
+            "chronos": "Old Benoni defence"
         },
         "isEcoRoot": true
     },
@@ -11217,7 +11399,8 @@
         "scid": "A43s",
         "aliases": {
             "scid": "Old Benoni: Schmidt",
-            "chessGraph": "Old Benoni"
+            "chessGraph": "Old Benoni",
+            "chronos": "Old Benoni defence"
         }
     },
     "rnbqkbnr/pp1pp1pp/8/2pP1p2/8/8/PPP1PPPP/RNBQKBNR w KQkq - 0 3": {
@@ -11230,7 +11413,8 @@
             "scid": "Old Benoni: Clarendon Court Defence",
             "eco_js": "Old Benoni Defense: Mujannah Formation",
             "ct": "Benoni Defense, Old Benoni Defense",
-            "chessGraph": "Clarendon Court Variation, Benoni"
+            "chessGraph": "Clarendon Court Variation, Benoni",
+            "chronos": "Old Benoni: Mujannah formation"
         }
     },
     "rnbqkbnr/pp2pp1p/3p2p1/2pP4/8/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 4": {
@@ -11242,7 +11426,8 @@
         "aliases": {
             "scid": "Old Benoni: Schmidt, 3.Nc3 g6",
             "ct": "Benoni Defense, Old Benoni",
-            "chessGraph": "Schmid Variation, Benoni"
+            "chessGraph": "Schmid Variation, Benoni",
+            "chronos": "Old Benoni: Schmid's system"
         }
     },
     "r1bqkbnr/pp1ppppp/n7/2pP4/8/8/PPP1PPPP/RNBQKBNR w KQkq - 1 3": {
@@ -11263,7 +11448,8 @@
         "scid": "A43k",
         "aliases": {
             "scid": "Old Benoni: Woozle",
-            "chessGraph": "Woozle Defense, Benoni"
+            "chessGraph": "Woozle Defense, Benoni",
+            "chronos": "Woozle defence"
         }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/1P1P4/8/P1P1PPPP/RNBQKBNR b KQkq - 0 2": {
@@ -11395,7 +11581,8 @@
         "aliases": {
             "scid": "Old Benoni: 2.d5 Nf6 3.Nf3",
             "ct": "Benoni Defense, Benoni-Indian Defense",
-            "chessGraph": "Kingside move order, Benoni"
+            "chessGraph": "Kingside move order, Benoni",
+            "chronos": "Old Benoni defence"
         }
     },
     "rnbqkb1r/pp1p1ppp/4pn2/2pP4/8/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 4": {
@@ -11658,7 +11845,8 @@
         "aliases": {
             "scid": "Old Benoni: Czech",
             "eco_js": "Old Benoni Defense, 2. d5 e5",
-            "chessGraph": "Pawn Thrust, Benoni; A44"
+            "chessGraph": "Pawn Thrust, Benoni; A44",
+            "chronos": "Old Benoni defence"
         },
         "isEcoRoot": true
     },
@@ -11672,7 +11860,8 @@
             "scid": "Old Benoni: Czech, 3.e4 d6",
             "eco_js": "Semi-Bononi",
             "ct": "Benoni Defense, Old Benoni",
-            "chessGraph": "Blockade Variation; Semi-Benoni; Russian Variation"
+            "chessGraph": "Blockade Variation; Semi-Benoni; Russian Variation",
+            "chronos": "Semi-Benoni (`blockade variation')"
         }
     },
     "rnbqkbnr/pp1p1ppp/8/2pPp3/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3": {
@@ -11871,7 +12060,8 @@
             "scid": "Queen's Pawn: Indian",
             "eco_js": "Indian Game",
             "ct": "Indian Game, General",
-            "chessGraph": "Indian Defense; A45"
+            "chessGraph": "Indian Defense; A45",
+            "chronos": "Queen's pawn game"
         },
         "isEcoRoot": true
     },
@@ -11885,7 +12075,8 @@
             "scid": "Indian: Gedult Attack",
             "eco_js": "Indian Game: Gedult Attack, Gedult Attack",
             "ct": "Indian Game, Gedult Attack",
-            "chessGraph": "Gedult Attack"
+            "chessGraph": "Gedult Attack",
+            "chronos": "Gedult attack"
         }
     },
     "rnbqkb1r/pppppppp/5n2/8/3P2P1/8/PPP1PP1P/RNBQKBNR b KQkq - 0 2": {
@@ -11897,7 +12088,8 @@
         "aliases": {
             "scid": "Indian: Gibbins Gambit",
             "eco_js": "Bronstein Gambit",
-            "chessGraph": "Bullfrog; Weidenhagen; Krabbe; Ochsenfrosch"
+            "chessGraph": "Bullfrog; Weidenhagen; Krabbe; Ochsenfrosch",
+            "chronos": "Queen's pawn: Bronstein gambit"
         }
     },
     "rnbqkb1r/pppppppp/8/8/3P2n1/8/PPP1PP1P/RNBQKBNR w KQkq - 0 3": {
@@ -12006,7 +12198,8 @@
             "scid": "Indian: Blackmar-Diemer Gambit (without Nc3)",
             "eco_js": "Indian Game: Paleface Attack, Blackmar-Diemer Gambit Deferred",
             "ct": "Indian Game, Paleface Attack",
-            "chessGraph": "Blackmar-Diemer Gambit Deferred"
+            "chessGraph": "Blackmar-Diemer Gambit Deferred",
+            "chronos": "Blackmar-Diemer gambit"
         }
     },
     "rnbqkb1r/pppppppp/5n2/3P4/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2": {
@@ -12221,7 +12414,8 @@
         "aliases": {
             "scid": "Trompowsky Opening",
             "ct": "Trompowsky Attack, General",
-            "chessGraph": "Trompowsky; Opocensky; Ruth Opening"
+            "chessGraph": "Trompowsky; Opocensky; Ruth Opening",
+            "chronos": "Trompovsky attack (Ruth, Opovcensky opening)"
         }
     },
     "rnbqkb1r/pppppp1p/8/6p1/3PnB2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 4": {
@@ -12702,7 +12896,8 @@
             "scid": "Indian: 2.Nf3",
             "eco_js": "Torre Attack",
             "ct": "Indian Game, Knights Variation",
-            "chessGraph": "Knights Variation, Indian Game; A46"
+            "chessGraph": "Knights Variation, Indian Game; A46",
+            "chronos": "Queen's pawn game"
         },
         "isEcoRoot": true
     },
@@ -13208,7 +13403,8 @@
         "scid": "A46r",
         "aliases": {
             "scid": "Torre Attack",
-            "eco_js": "Torre Attack, 2. Nf3 e6 3. Bg5"
+            "eco_js": "Torre Attack, 2. Nf3 e6 3. Bg5",
+            "chronos": "Queen's pawn: Torre attack"
         }
     },
     "rnbqkb1r/pppp1pp1/4pn1p/6B1/3P4/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4": {
@@ -13240,7 +13436,8 @@
         "name": "Torre Attack: Wagner Gambit",
         "scid": "A46s",
         "aliases": {
-            "chessGraph": "Swiss; Wagner Gambit"
+            "chessGraph": "Swiss; Wagner Gambit",
+            "chronos": "Queen's pawn: Torre attack, Wagner gambit"
         }
     },
     "rnbqkb1r/pppp1ppp/4pn2/8/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3": {
@@ -13251,7 +13448,8 @@
         "scid": "A46k",
         "aliases": {
             "scid": "Indian: 1.d4 Nf6 2.Nf3 e6 3.e3",
-            "ct": "Indian Game, Yusupov-Rubinstein System"
+            "ct": "Indian Game, Yusupov-Rubinstein System",
+            "chronos": "Queen's pawn: Yusupov-Rubinstein system"
         }
     },
     "rnbqkb1r/p1pp1ppp/1p3n2/4p3/3P4/2P2N2/PP2PPPP/RNBQKB1R w KQkq - 0 4": {
@@ -13274,7 +13472,8 @@
         "aliases": {
             "scid": "Neo-Queen's Indian: Marienbad System",
             "ct": "Indian Game Defense, Pseudo-Queen's Indian",
-            "chessGraph": "Marienbad Variation"
+            "chessGraph": "Marienbad Variation",
+            "chronos": "Queen's Indian: Marienbad system"
         }
     },
     "rn1qkb1r/pb1ppppp/1p3n2/8/2PQ4/5NP1/PP2PPBP/RNB1K2R b KQkq - 0 6": {
@@ -13287,7 +13486,8 @@
             "scid": "Neo-Queen's Indian: Marienbad System, Berg Variation",
             "eco_js": "Queen's Indian Defense: Marienbad System, Berg Variation",
             "ct": "Queen's Indian Defense, Marienbad System",
-            "chessGraph": "Berg Variation"
+            "chessGraph": "Berg Variation",
+            "chronos": "Queen's Indian: Marienbad system, Berg variation"
         }
     },
     "rnbqkb1r/p1pppppp/1p3n2/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3": {
@@ -13457,7 +13657,8 @@
             "scid": "Neo-Queen's Indian",
             "eco_js": "Queen's Indian Defense",
             "ct": "Indian Game, Pseudo-Queen's Indian",
-            "chessGraph": "Capablanca Variation, Indian Game; A47"
+            "chessGraph": "Capablanca Variation, Indian Game; A47",
+            "chronos": "Queen's Indian defence"
         },
         "isEcoRoot": true
     },
@@ -13470,7 +13671,8 @@
         "aliases": {
             "scid": "Neo-King's Indian",
             "ct": "Indian Game, Pseudo-King's Indian Variation",
-            "chessGraph": "Pseudo-King's Indian Variation; A48"
+            "chessGraph": "Pseudo-King's Indian Variation; A48",
+            "chronos": "King's Indian: East Indian defence"
         },
         "isEcoRoot": true
     },
@@ -13499,7 +13701,8 @@
         "aliases": {
             "scid": "Neo-King's Indian: London System",
             "ct": "Indian Game, London System",
-            "chessGraph": "London System, Torre Attack"
+            "chessGraph": "London System, Torre Attack",
+            "chronos": "King's Indian: London system"
         }
     },
     "rnbqkb1r/pppppp1p/5np1/8/3P4/5N2/PPPNPPPP/R1BQKB1R b KQkq - 1 3": {
@@ -13739,7 +13942,8 @@
         "aliases": {
             "scid": "Neo-King's Indian: Torre Attack",
             "eco_js": "Torre Attack, 2. Nf3 g6 3. Bg5",
-            "chessGraph": "Fianchetto Defense, Torre Attack"
+            "chessGraph": "Fianchetto Defense, Torre Attack",
+            "chronos": "King's Indian: Torre attack"
         }
     },
     "rnbqk2r/pp1pppbp/5np1/2p3B1/3P4/5N2/PPPNPPPP/R2QKB1R w KQkq - 0 5": {
@@ -13762,7 +13966,8 @@
             "scid": "Neo-King's Indian: Fianchetto System",
             "eco_js": "Indian Game: Przepiorka Variation",
             "ct": "Indian Game, Przepiorka Variation",
-            "chessGraph": "Przepiorka Variation; A49"
+            "chessGraph": "Przepiorka Variation; A49",
+            "chronos": "King's Indian: fianchetto without c4"
         },
         "isEcoRoot": true
     },
@@ -13835,7 +14040,8 @@
             "scid": "Indian: 2.c4",
             "eco_js": "Indian Game: Normal Variation",
             "ct": "Indian Game, Normal Variation",
-            "chessGraph": "Normal Variation, Indian Game; A50"
+            "chessGraph": "Normal Variation, Indian Game; A50",
+            "chronos": "Queen's pawn game"
         },
         "isEcoRoot": true
     },
@@ -13936,7 +14142,8 @@
         "aliases": {
             "scid": "Indian: Mexican Defence (Two Knights Tango)",
             "ct": "Mexican Defense, General",
-            "chessGraph": "Van Geet; Kevitz; Trajkovic; Mexican"
+            "chessGraph": "Van Geet; Kevitz; Trajkovic; Mexican",
+            "chronos": "Kevitz-Trajkovich defence"
         }
     },
     "r1bqkb1r/pppppppp/5n2/3Pn3/2P2P2/8/PP2P1PP/RNBQKBNR b KQkq - 0 4": {
@@ -14043,7 +14250,8 @@
             "scid": "Budapest",
             "eco_js": "Indian Game: Budapest Defense",
             "ct": "Indian Game, Budapest Defense",
-            "chessGraph": "Budapest Defense; A51"
+            "chessGraph": "Budapest Defense; A51",
+            "chronos": "Budapest defence declined"
         },
         "isEcoRoot": true
     },
@@ -14068,7 +14276,8 @@
             "scid": "Budapest: Fajarowicz",
             "eco_js": "Budapest Defense: Fajarowicz Variation",
             "ct": "Budapest Defense, Fajarowicz Variation",
-            "chessGraph": "Fajarowicz Variation, Budapest"
+            "chessGraph": "Fajarowicz Variation, Budapest",
+            "chronos": "Budapest: Fajarowicz variation"
         }
     },
     "rnbqkb1r/pppp1ppp/8/4P3/2P1n3/8/PPQ1PPPP/RNB1KBNR b KQkq - 2 4": {
@@ -14081,7 +14290,8 @@
             "scid": "Budapest: Fajarowicz, Steiner Variation",
             "eco_js": "Budapest Defense: Fajarowicz-Steiner Variation",
             "ct": "Budapest Defense, Fajarowicz - Steiner Variation",
-            "chessGraph": "Steiner Variation, Budapest"
+            "chessGraph": "Steiner Variation, Budapest",
+            "chronos": "Budapest: Fajarowicz, Steiner variation"
         }
     },
     "rnbqkb1r/pppp1ppp/8/4P3/2P3n1/4P3/PP3PPP/RNBQKBNR b KQkq - 0 4": {
@@ -14150,7 +14360,8 @@
             "scid": "Budapest: 3...Ng4",
             "eco_js": "Budapest Defense",
             "ct": "Budapest Defense, General",
-            "chessGraph": "Normal Variation, Budapest; A52"
+            "chessGraph": "Normal Variation, Budapest; A52",
+            "chronos": "Budapest defence"
         },
         "isEcoRoot": true
     },
@@ -14164,7 +14375,8 @@
             "scid": "Budapest: Adler Variation",
             "eco_js": "Budapest Defense: Adler Variation",
             "ct": "Budapest Defense, Adler Variation",
-            "chessGraph": "Adler Variation, Budapest"
+            "chessGraph": "Adler Variation, Budapest",
+            "chronos": "Budapest: Adler variation"
         }
     },
     "rnbqkb1r/pppp1ppp/8/4P3/2P1P1n1/8/PP3PPP/RNBQKBNR b KQkq - 0 4": {
@@ -14177,7 +14389,8 @@
             "scid": "Budapest: Alekhine Variation",
             "eco_js": "Budapest Defense: Alekhine Variation",
             "ct": "Budapest Defense, Alekhine Variation",
-            "chessGraph": "Center Play Variation, Budapest; Alekhine Variation"
+            "chessGraph": "Center Play Variation, Budapest; Alekhine Variation",
+            "chronos": "Budapest: Alekhine variation"
         }
     },
     "rnbqkb1r/pppp1ppp/2n5/8/2P1PP2/8/PP4PP/RNBQKBNR w KQkq - 1 6": {
@@ -14190,7 +14403,8 @@
             "scid": "Budapest: Alekhine, Abonyi Variation",
             "eco_js": "Budapest Defense: Alekhine Variation, Abonyi Variation",
             "ct": "Budapest Defense, Alekhine Variation",
-            "chessGraph": "Abonyi Variation, Budapest"
+            "chessGraph": "Abonyi Variation, Budapest",
+            "chronos": "Budapest: Alekhine, Abonyi variation"
         }
     },
     "rnbqkb1r/ppp2ppp/3p4/4P3/2P1P1n1/8/PP3PPP/RNBQKBNR w KQkq - 0 5": {
@@ -14203,7 +14417,8 @@
             "scid": "Budapest: Alekhine, Balogh Gambit",
             "eco_js": "Budapest Defense: Alekhine Variation, Tartakower Defense",
             "ct": "Budapest Defense, Alekhine Variation",
-            "chessGraph": "Balogh; Tartakower C-G, Budapest"
+            "chessGraph": "Balogh; Tartakower C-G, Budapest",
+            "chronos": "Budapest: Alekhine variation, Balogh gambit"
         }
     },
     "rnbqkb1r/pppp1ppp/8/4P3/2P2Bn1/8/PP2PPPP/RN1QKBNR b KQkq - 2 4": {
@@ -14216,7 +14431,8 @@
             "scid": "Budapest: Rubinstein Variation",
             "eco_js": "Budapest Defense: Rubinstein Variation",
             "ct": "Budapest Defense, Rubinstein Variation",
-            "chessGraph": "Rubinstein Variation, Budapest"
+            "chessGraph": "Rubinstein Variation, Budapest",
+            "chronos": "Budapest: Rubinstein variation"
         }
     },
     "rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3": {
@@ -14276,7 +14492,8 @@
         "scid": "A53",
         "aliases": {
             "scid": "Old Indian: Janowski",
-            "chessGraph": "Janowski Variation, Old Indian"
+            "chessGraph": "Janowski Variation, Old Indian",
+            "chronos": "Old Indian: Janowski variation"
         }
     },
     "rn1qkb1r/ppp1pppp/3p1n2/5b2/2PP4/2N3P1/PP2PP1P/R1BQKBNR b KQkq - 0 4": {
@@ -14476,7 +14693,8 @@
         "name": "Old Indian Defense: Duz-Khotimirsky Variation",
         "scid": "A53",
         "aliases": {
-            "scid": "Old Indian: Dus-Khotimirsky"
+            "scid": "Old Indian: Dus-Khotimirsky",
+            "chronos": "Old Indian: Dus-Khotimirsky variation"
         }
     },
     "rn1qkb1r/ppp1pppp/3p1n2/8/2PP2b1/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4": {
@@ -14504,7 +14722,8 @@
         "scid": "A54",
         "aliases": {
             "scid": "Old Indian: 4.Nf3",
-            "chessGraph": "Two Knights Variation, Old Indian; A54"
+            "chessGraph": "Two Knights Variation, Old Indian; A54",
+            "chronos": "Old Indian: Ukrainian variation, 4.Nf3"
         },
         "isEcoRoot": true
     },
@@ -14516,7 +14735,8 @@
         "scid": "A53",
         "aliases": {
             "scid": "Old Indian: Ukrainian",
-            "chessGraph": "Ukranian Variation"
+            "chessGraph": "Ukranian Variation",
+            "chronos": "Old Indian: Ukrainian variation"
         }
     },
     "rnbqkb1r/ppp2ppp/3p1n2/8/2PPp3/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5": {
@@ -14716,7 +14936,8 @@
         "isEcoRoot": true,
         "aliases": {
             "ct": "Old Indian Defense, Normal Variation",
-            "chessGraph": "Normal Variation, Old Indian; A55"
+            "chessGraph": "Normal Variation, Old Indian; A55",
+            "chronos": "Old Indian: main line"
         }
     },
     "r1bqk2r/pppnbppp/3p1n2/4p3/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 1 6": {
@@ -14957,7 +15178,8 @@
         "scid": "A56o",
         "aliases": {
             "scid": "Benoni: Czech",
-            "chessGraph": "Petrosian System; Czech Benoni Defense"
+            "chessGraph": "Petrosian System; Czech Benoni Defense",
+            "chronos": "Czech Benoni defence"
         }
     },
     "rnbqkb1r/pp2pppp/3p1n2/2pP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4": {
@@ -14969,7 +15191,8 @@
         "aliases": {
             "scid": "Benoni: 3.d5 d6",
             "eco_js": "Benoni Defense: Hromadka System",
-            "chessGraph": "Hromadka System, Benoni"
+            "chessGraph": "Hromadka System, Benoni",
+            "chronos": "Benoni defence, Hromodka system"
         }
     },
     "rnbqkb1r/pp3p1p/3p1np1/2pPp3/2P1P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6": {
@@ -14980,7 +15203,8 @@
         "scid": "A56q",
         "aliases": {
             "scid": "Benoni: Czech, 5.e4 g6",
-            "chessGraph": "King's Indian System, Benoni"
+            "chessGraph": "King's Indian System, Benoni",
+            "chronos": "Czech Benoni: King's Indian system"
         }
     },
     "rnbqkb1r/pp1p1ppp/4pn2/2P5/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4": {
@@ -15213,7 +15437,8 @@
         "name": "Benko Gambit Accepted",
         "scid": "A57h",
         "aliases": {
-            "scid": "Benko Gambit: 4.cxb5 a6"
+            "scid": "Benko Gambit: 4.cxb5 a6",
+            "chronos": "Benko gambit half accepted"
         }
     },
     "rnbqkb1r/3ppppp/p4n2/1PpP4/8/5P2/PP2P1PP/RNBQKBNR b KQkq - 0 5": {
@@ -15546,7 +15771,8 @@
             "scid": "Benko Gambit: 5.bxa6",
             "eco_js": "Benko Gambit Accepted, Fully Accepted Variation",
             "ct": "Benko Gambit, Accepted",
-            "chessGraph": "Fully Accepted Variation, Benko Gambit; A58"
+            "chessGraph": "Fully Accepted Variation, Benko Gambit; A58",
+            "chronos": "Benko gambit accepted"
         },
         "isEcoRoot": true
     },
@@ -15793,7 +16019,8 @@
             "scid": "Benko Gambit: 7.e4",
             "eco_js": "Benko Gambit Accepted, Yugoslav, without 7... Bxf1",
             "ct": "Benko Gambit, Accepted",
-            "chessGraph": "A59"
+            "chessGraph": "A59",
+            "chronos": "Benko gambit: 7.e4"
         },
         "isEcoRoot": true
     },
@@ -15806,7 +16033,8 @@
         "aliases": {
             "scid": "Benko Gambit: 7.e4 Line, 9.Nge2",
             "eco_js": "Benko Gambit Accepted, Yugoslav, with Bxf1 and Nge2",
-            "ct": "Benko Gambit, Accepted"
+            "ct": "Benko Gambit, Accepted",
+            "chronos": "Benko gambit: Ne2 variation"
         }
     },
     "rn1qkb1r/4pp1p/3p1np1/2pP4/4P3/2N5/PP3PPP/R1BQ1KNR w kq - 0 9": {
@@ -15851,7 +16079,8 @@
         "name": "Benko Gambit: 7.e4, Main Line",
         "scid": "A59i",
         "aliases": {
-            "ct": "Benko Gambit, Accepted"
+            "ct": "Benko Gambit, Accepted",
+            "chronos": "Benko gambit: main line"
         }
     },
     "r2q1rk1/3nppbp/3p1np1/2pP4/4P3/2N2NP1/PP3PKP/R1BQ3R w - - 5 12": {
@@ -15939,7 +16168,8 @@
         "scid": "A60a",
         "aliases": {
             "scid": "Benoni: 3.d5 e6",
-            "chessGraph": "Tal Variation, Modern Variation, Benoni; A60"
+            "chessGraph": "Tal Variation, Modern Variation, Benoni; A60",
+            "chronos": "Benoni defence"
         },
         "isEcoRoot": true
     },
@@ -16086,7 +16316,8 @@
         "scid": "A61",
         "aliases": {
             "scid": "Benoni: Fianchetto Variation",
-            "chessGraph": "A62"
+            "chessGraph": "A62",
+            "chronos": "Benoni: fianchetto variation"
         }
     },
     "rnbqkb1r/pp3p1p/3p1np1/2pP4/8/2N5/PP1NPPPP/R1BQKB1R b KQkq - 1 7": {
@@ -16097,7 +16328,8 @@
         "scid": "A61",
         "aliases": {
             "scid": "Benoni: Nimzowitsch Variation",
-            "chessGraph": "Nimzovich Variation, Knight's Tour Variation, Benoni"
+            "chessGraph": "Nimzovich Variation, Knight's Tour Variation, Benoni",
+            "chronos": "Benoni: Nimzovich (knight's tour) variation"
         }
     },
     "rnbqkb1r/pp3p1p/3p1np1/2pP2B1/8/2N2N2/PP2PPPP/R2QKB1R b KQkq - 1 7": {
@@ -16108,7 +16340,8 @@
         "scid": "A61",
         "aliases": {
             "scid": "Benoni: Uhlmann Variation",
-            "chessGraph": "Uhlmann Variation, Benoni"
+            "chessGraph": "Uhlmann Variation, Benoni",
+            "chronos": "Benoni: Uhlmann variation"
         }
     },
     "rnbqkb1r/pp3p1p/3p1np1/2pP4/5B2/2N2N2/PP2PPPP/R2QKB1R b KQkq - 1 7": {
@@ -16212,7 +16445,8 @@
         "scid": "A62",
         "isEcoRoot": true,
         "aliases": {
-            "ct": "Benoni Defense, Fianchetto Variation"
+            "ct": "Benoni Defense, Fianchetto Variation",
+            "chronos": "Benoni: fianchetto variation"
         }
     },
     "rnbq1rk1/pp3pbp/3p1np1/2pP4/8/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 4 9": {
@@ -16388,7 +16622,8 @@
         "aliases": {
             "scid": "Benoni: 6.e4",
             "ct": "Benoni Defense, King Pawn lines",
-            "chessGraph": "King Pawn lines, Benoni; A65"
+            "chessGraph": "King Pawn lines, Benoni; A65",
+            "chronos": "Benoni: 6.e4"
         },
         "isEcoRoot": true
     },
@@ -16645,7 +16880,8 @@
         "scid": "A66",
         "aliases": {
             "scid": "Benoni: Four Pawns, Mikenas Attack",
-            "chessGraph": "Mikenas V, Benoni"
+            "chessGraph": "Mikenas V, Benoni",
+            "chronos": "Benoni: Mikenas variation"
         }
     },
     "rnbqkb1r/pp3p1p/3p1np1/2pP4/4PP2/2N5/PP4PP/R1BQKBNR b KQkq - 0 7": {
@@ -16656,7 +16892,8 @@
         "scid": "A66",
         "aliases": {
             "scid": "Benoni: Four Pawns Attack",
-            "chessGraph": "Pawn Storm Variation, Benoni; A66"
+            "chessGraph": "Pawn Storm Variation, Benoni; A66",
+            "chronos": "Benoni: pawn storm variation"
         },
         "isEcoRoot": true
     },
@@ -16731,7 +16968,8 @@
         "scid": "A67a",
         "aliases": {
             "scid": "Benoni: Four Pawns, Taimanov (Alatortsev) Variation",
-            "chessGraph": "Taimanov Variation, Benoni; A67"
+            "chessGraph": "Taimanov Variation, Benoni; A67",
+            "chronos": "Benoni: Taimanov variation"
         },
         "isEcoRoot": true
     },
@@ -16869,7 +17107,8 @@
         "scid": "A68a",
         "aliases": {
             "scid": "Benoni: Four Pawns, 8.Nf3 O-O",
-            "chessGraph": "Four Pawns Attack, Benoni"
+            "chessGraph": "Four Pawns Attack, Benoni",
+            "chronos": "Benoni: four pawns attack"
         },
         "isEcoRoot": true
     },
@@ -16989,7 +17228,8 @@
         "isEcoRoot": true,
         "aliases": {
             "ct": "Benoni Defense, Four Pawns Attack",
-            "chessGraph": "A69"
+            "chessGraph": "A69",
+            "chronos": "Benoni: four pawns attack, main line"
         }
     },
     "rnbqr1k1/pp3pbp/3p1np1/2pPP3/5P2/2N2N2/PP2B1PP/R1BQK2R b KQ - 0 10": {
@@ -17108,7 +17348,8 @@
         "isEcoRoot": true,
         "aliases": {
             "ct": "Benoni Defense, Classical Variation",
-            "chessGraph": "Classical Variation, Benoni; A70"
+            "chessGraph": "Classical Variation, Benoni; A70",
+            "chronos": "Benoni: classical with e4 and Nf3"
         }
     },
     "rnbqkb1r/1p3p1p/p2p1np1/2pP4/4P3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 0 8": {
@@ -17168,7 +17409,8 @@
         "scid": "A70e",
         "aliases": {
             "ct": "Benoni Defense, Classical Variation",
-            "chessGraph": "A72"
+            "chessGraph": "A72",
+            "chronos": "Benoni: classical without 9.O-O"
         }
     },
     "rnbqk2r/1p3pbp/p2p1np1/2pP4/4P3/2N2N2/PP2BPPP/R1BQK2R w KQkq - 0 9": {
@@ -17372,7 +17614,8 @@
         "scid": "A72",
         "aliases": {
             "scid": "Benoni: Classical, 8.Be2 O-O",
-            "eco_js": "Benoni Defense: Classical, without 9. O-O"
+            "eco_js": "Benoni Defense: Classical, without 9. O-O",
+            "chronos": "Benoni: classical without 9.O-O"
         },
         "isEcoRoot": true
     },
@@ -17427,7 +17670,8 @@
         "aliases": {
             "scid": "Benoni: Classical, 9.O-O",
             "ct": "Benoni Defense, Classical Variation",
-            "chessGraph": "A73"
+            "chessGraph": "A73",
+            "chronos": "Benoni: classical, 9.O-O"
         },
         "isEcoRoot": true
     },
@@ -17506,7 +17750,8 @@
         "scid": "A74",
         "aliases": {
             "scid": "Benoni: Classical, 9.O-O a6 10.a4",
-            "ct": "Benoni Defense, Classical Variation"
+            "ct": "Benoni Defense, Classical Variation",
+            "chronos": "Benoni: classical, 9...a6, 10.a4"
         }
     },
     "r1bq1rk1/1p1n1pbp/p2p1np1/2pP4/P3P3/2N2N2/1P2BPPP/R1BQ1RK1 w - - 1 11": {
@@ -17553,7 +17798,8 @@
         "aliases": {
             "scid": "Benoni: Classical, 9.O-O a6 10.a4 Bg4",
             "ct": "Benoni Defense, Classical Variation",
-            "chessGraph": "Argentine Attack, Benoni; A75"
+            "chessGraph": "Argentine Attack, Benoni; A75",
+            "chronos": "Benoni: classical with ...a6 and 10...Bg4"
         },
         "isEcoRoot": true
     },
@@ -17650,7 +17896,8 @@
         "aliases": {
             "scid": "Benoni: Classical, Main Line",
             "ct": "Benoni Defense, Classical Variation",
-            "chessGraph": "Czerniak Defesne, Benoni; A76"
+            "chessGraph": "Czerniak Defesne, Benoni; A76",
+            "chronos": "Benoni: classical, 9...Re8"
         },
         "isEcoRoot": true
     },
@@ -17705,7 +17952,8 @@
         "aliases": {
             "scid": "Benoni: Classical, Main Line, 10.Nd2",
             "ct": "Benoni Defense, Classical Variation",
-            "chessGraph": "A77"
+            "chessGraph": "A77",
+            "chronos": "Benoni: classical, 9...Re8, 10.Nd2"
         },
         "isEcoRoot": true
     },
@@ -17811,7 +18059,8 @@
         "isEcoRoot": true,
         "aliases": {
             "ct": "Benoni Defense, Classical Variation",
-            "chessGraph": "A78"
+            "chessGraph": "A78",
+            "chronos": "Benoni: classical with ...Re8 and ...Na6"
         }
     },
     "r1bqr1k1/pp3pbp/n2p1np1/2pP4/4PP2/2N5/PP1NB1PP/R1BQ1RK1 b - - 0 11": {
@@ -17859,7 +18108,8 @@
             "scid": "Benoni: Classical, Main Line, 10.Nd2 Na6 11.f3",
             "eco_js": "Benoni Defense: Classical Variation, Czerniak Defense, 10. Nd2 Na6 11. f3",
             "ct": "Benoni Defense, Classical Variation",
-            "chessGraph": "A79"
+            "chessGraph": "A79",
+            "chronos": "Benoni: classical, 11.f3"
         }
     },
     "r1bqr1k1/ppn2pbp/3p1np1/2pP4/4P3/2N2P2/PP1NB1PP/R1BQ1RK1 w - - 1 12": {
@@ -17927,7 +18177,8 @@
         "aliases": {
             "scid": "Dutch: Alapin",
             "ct": "Dutch Defense, Kmoch Attack",
-            "chessGraph": "Alapin; Ulvestad; Manhattan; Kmoch Variation, Dutch"
+            "chessGraph": "Alapin; Ulvestad; Manhattan; Kmoch Variation, Dutch",
+            "chronos": "Dutch, Manhattan (Alapin, Ulvestad) variation"
         }
     },
     "rnbqkbnr/pppp2pp/8/4pp2/3P2P1/8/PPP1PP1P/RNBQKBNR w KQkq - 0 3": {
@@ -17947,7 +18198,8 @@
         "scid": "A80d",
         "aliases": {
             "scid": "Dutch: 2.Bg5",
-            "chessGraph": "Hopton Attack, Dutch"
+            "chessGraph": "Hopton Attack, Dutch",
+            "chronos": "Dutch, 2.Bg5 variation"
         }
     },
     "rnbqkb1r/ppppp1pp/5n2/5p2/3P2P1/7P/PPP1PP2/RNBQKBNR b KQkq - 0 3": {
@@ -17981,7 +18233,8 @@
         "aliases": {
             "scid": "Dutch: Korchnoi Attack",
             "eco_wikip": "Dutch Defence (without 2.c4 (A84–A99), 2.e4 (A82–A83), 2.g3 (A81)): Korchnoi Attack",
-            "chessGraph": "Korchnoi's Variation, Dutch"
+            "chessGraph": "Korchnoi's Variation, Dutch",
+            "chronos": "Dutch, Korchnoi attack"
         }
     },
     "rnbqkbnr/ppppp1pp/8/5p2/3P2P1/8/PPP1PP1P/RNBQKBNR b KQkq - 0 2": {
@@ -17992,7 +18245,8 @@
         "scid": "A80b",
         "aliases": {
             "scid": "Dutch: Krejcik Gambit",
-            "chessGraph": "Lisbon Gambit, Dutch; Krejcik Gambit"
+            "chessGraph": "Lisbon Gambit, Dutch; Krejcik Gambit",
+            "chronos": "Dutch, Krejcik gambit"
         }
     },
     "rnbqkbnr/ppp1p1pp/8/3p4/3PP1p1/2N5/PPP2P1P/R1BQKBNR b KQkq - 1 4": {
@@ -18014,7 +18268,8 @@
         "aliases": {
             "scid": "Dutch: Von Pretzel Gambit",
             "ct": "Dutch Defense, Manhattan Gambit",
-            "chessGraph": "Anti-Classical Line, Dutch"
+            "chessGraph": "Anti-Classical Line, Dutch",
+            "chronos": "Dutch, Von Pretzel gambit"
         }
     },
     "rnbqkbnr/ppppp2p/6p1/5p2/3P2P1/3Q4/PPP1PP1P/RNB1KBNR b KQkq - 0 3": {
@@ -18083,7 +18338,8 @@
         "scid": "A80m",
         "aliases": {
             "scid": "Dutch: Spielmann Gambit",
-            "chessGraph": "Spielmann Gambit, Dutch"
+            "chessGraph": "Spielmann Gambit, Dutch",
+            "chronos": "Dutch, Spielmann gambit"
         }
     },
     "rnbqkbnr/pp1pp1pp/2p5/5pB1/3P4/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3": {
@@ -18267,7 +18523,8 @@
         "scid": "A81",
         "aliases": {
             "scid": "Dutch: 2.g3",
-            "chessGraph": "Dutch Indian; Leningrad Variation, Dutch; A81"
+            "chessGraph": "Dutch Indian; Leningrad Variation, Dutch; A81",
+            "chronos": "Dutch defence"
         },
         "isEcoRoot": true
     },
@@ -18280,7 +18537,8 @@
         "aliases": {
             "scid": "Dutch: Leningrad, Carlsbad Variation",
             "ct": "Dutch Defense, Leningrad Variation",
-            "chessGraph": "Carlsbad Variation, Dutch"
+            "chessGraph": "Carlsbad Variation, Dutch",
+            "chronos": "Dutch: Leningrad, Karlsbad variation"
         }
     },
     "rnbqk2r/pp1pp1bp/2p3pn/5p2/3P4/5NP1/PPP1PPBP/RNBQ1RK1 w kq - 4 6": {
@@ -18297,7 +18555,8 @@
         "scid": "A81",
         "aliases": {
             "scid": "Dutch: 2.g3 Nf6 3.Bg2 g6",
-            "chessGraph": "Semi-Leningrad Variation, Dutch"
+            "chessGraph": "Semi-Leningrad Variation, Dutch",
+            "chronos": "Dutch defence"
         }
     },
     "rnbqkbnr/pppp2pp/4p3/5p2/3P4/6P1/PPP1PP1P/RNBQKBNR w KQkq - 0 3": {
@@ -18363,7 +18622,8 @@
         "name": "Dutch: Leningrad, Basman Variation",
         "scid": "A81",
         "aliases": {
-            "chessGraph": "Basman Variation, Dutch"
+            "chessGraph": "Basman Variation, Dutch",
+            "chronos": "Dutch: Leningrad, Basman system"
         }
     },
     "rnbqkb1r/ppppp1pp/5n2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR b KQkq - 0 4": {
@@ -18385,7 +18645,8 @@
         "scid": "A82",
         "aliases": {
             "scid": "Dutch: Staunton Gambit",
-            "chessGraph": "Staunton Gambit, Dutch; A82"
+            "chessGraph": "Staunton Gambit, Dutch; A82",
+            "chronos": "Dutch: Staunton gambit"
         },
         "isEcoRoot": true
     },
@@ -18399,7 +18660,8 @@
             "scid": "Dutch: Staunton Gambit Accepted",
             "eco_wikip": "Dutch, Staunton Gambit: Staunton Gambit Accepted",
             "ct": "Dutch Defense, Staunton Gambit",
-            "chessGraph": "Staunton Gambit Accepted, Dutch"
+            "chessGraph": "Staunton Gambit Accepted, Dutch",
+            "chronos": "Dutch: Staunton gambit"
         }
     },
     "rnbqkbnr/ppppp1pp/8/8/3Pp3/8/PPPN1PPP/R1BQKBNR b KQkq - 1 3": {
@@ -18421,7 +18683,8 @@
         "aliases": {
             "scid": "Dutch: Staunton Gambit, Tartakower Variation",
             "ct": "Dutch Defense, Staunton Gambit",
-            "chessGraph": "Tartakower Variation, Dutch"
+            "chessGraph": "Tartakower Variation, Dutch",
+            "chronos": "Dutch: Staunton gambit, Tartakower variation"
         }
     },
     "rnbqkbnr/ppppp1pp/8/8/3Pp3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3": {
@@ -18504,7 +18767,8 @@
             "scid": "Dutch: Staunton Gambit, Balogh Defence",
             "eco_wikip": "Dutch, Staunton Gambit: Balogh Defence",
             "ct": "Dutch Defense, Staunton Gambit",
-            "chessGraph": "Balogh Defense, Dutch"
+            "chessGraph": "Balogh Defense, Dutch",
+            "chronos": "Dutch: Balogh defence"
         }
     },
     "rnbqkb1r/ppppp1pp/5n2/6B1/3Pp3/2N5/PPP2PPP/R2QKBNR b KQkq - 3 4": {
@@ -18516,7 +18780,8 @@
         "aliases": {
             "scid": "Dutch: Staunton Gambit, Staunton Variation",
             "eco_js": "Dutch Defense: Staunton Gambit, 3. Nc3 Nf6 4. Bg5",
-            "chessGraph": "General Variation, Staunton Gambit, Dutch; A83"
+            "chessGraph": "General Variation, Staunton Gambit, Dutch; A83",
+            "chronos": "Dutch: Staunton gambit, Staunton's line"
         },
         "isEcoRoot": true
     },
@@ -18527,7 +18792,8 @@
         "name": "Dutch Defense: Staunton Gambit, Alekhine Variation",
         "scid": "A83e",
         "aliases": {
-            "scid": "Dutch: Staunton Gambit, Alekhine Variation"
+            "scid": "Dutch: Staunton Gambit, Alekhine Variation",
+            "chronos": "Dutch: Staunton gambit, Alekhine variation"
         }
     },
     "rnbqkb1r/pp1pp1pp/2p2n2/6B1/3Pp3/2N5/PPP2PPP/R2QKBNR w KQkq - 0 5": {
@@ -18539,7 +18805,8 @@
         "aliases": {
             "scid": "Dutch: Staunton Gambit, Chigorin Variation",
             "ct": "Dutch Defense, Staunton Gambit",
-            "chessGraph": "Chigorin Variation, Dutch"
+            "chessGraph": "Chigorin Variation, Dutch",
+            "chronos": "Dutch: Staunton gambit, Chigorin variation"
         }
     },
     "rnbqkb1r/ppppp2p/5np1/6B1/3Pp3/2N2P2/PPP3PP/R2QKBNR b KQkq - 0 5": {
@@ -18551,7 +18818,8 @@
         "aliases": {
             "scid": "Dutch: Staunton Gambit, Lasker Variation",
             "ct": "Dutch Defense, Staunton Gambit",
-            "chessGraph": "Lasker Variation, Dutch"
+            "chessGraph": "Lasker Variation, Dutch",
+            "chronos": "Dutch: Staunton gambit, Lasker variation"
         }
     },
     "rnbqkb1r/p1ppp1pp/1p3n2/6B1/3Pp3/2N5/PPP2PPP/R2QKBNR w KQkq - 0 5": {
@@ -18562,7 +18830,8 @@
         "scid": "A83b",
         "aliases": {
             "scid": "Dutch: Staunton Gambit, Nimzowitsch Variation",
-            "chessGraph": "Nimzovich Variation, Dutch"
+            "chessGraph": "Nimzovich Variation, Dutch",
+            "chronos": "Dutch: Staunton gambit, Nimzovich variation"
         }
     },
     "rnbqkb1r/pppp2pp/4pn2/6B1/3Pp3/2N5/PPP2PPP/R2QKBNR w KQkq - 0 5": {
@@ -18644,7 +18913,8 @@
             "scid": "Dutch: Staunton Gambit Deferred",
             "eco_js": "Horwitz Defense: Dutch Defense, Bellon Gambit",
             "ct": "Horwitz Defense, Dutch Defense",
-            "chessGraph": "Bellon Gambit"
+            "chessGraph": "Bellon Gambit",
+            "chronos": "Dutch: Staunton gambit deferred"
         }
     },
     "rnbqkb1r/ppppp2p/6pn/5p2/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4": {
@@ -18666,7 +18936,8 @@
         "scid": "A84",
         "aliases": {
             "scid": "Dutch: 2.c4 e6",
-            "chessGraph": "Classical Variation, Dutch"
+            "chessGraph": "Classical Variation, Dutch",
+            "chronos": "Dutch defence"
         }
     },
     "r1bqkb1r/ppp1p1pp/2np1n2/5p2/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 2 5": {
@@ -18692,7 +18963,8 @@
         "scid": "A84",
         "aliases": {
             "scid": "Dutch: 2.c4 Nf6",
-            "chessGraph": "Normal Variation, Dutch"
+            "chessGraph": "Normal Variation, Dutch",
+            "chronos": "Dutch defence"
         }
     },
     "rnbqkbnr/pppp2pp/4p3/5p2/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3": {
@@ -18766,7 +19038,8 @@
         "scid": "A85",
         "aliases": {
             "scid": "Dutch: 2.c4 Nf6 3.Nc3",
-            "chessGraph": "Queen's Knight Variation, Dutch"
+            "chessGraph": "Queen's Knight Variation, Dutch",
+            "chronos": "Dutch with c4 & Nc3"
         },
         "isEcoRoot": true
     },
@@ -18900,7 +19173,8 @@
         "scid": "A86",
         "aliases": {
             "scid": "Dutch: 2.c4 Nf6 3.g3",
-            "chessGraph": "Fianchetto Variation, Dutch; A86"
+            "chessGraph": "Fianchetto Variation, Dutch; A86",
+            "chronos": "Dutch with c4 & g3"
         },
         "isEcoRoot": true
     },
@@ -18911,7 +19185,8 @@
         "name": "Dutch Defense: Hort-Antoshin System",
         "scid": "A86",
         "aliases": {
-            "scid": "Dutch: Hort-Antoshin System"
+            "scid": "Dutch: Hort-Antoshin System",
+            "chronos": "Dutch: Hort-Antoshin system"
         }
     },
     "rnb1kb1r/ppq1p1pp/2pp1n2/5p2/2PP4/2N3P1/PP2PPBP/R1BQK1NR w KQkq - 1 6": {
@@ -18928,7 +19203,8 @@
         "scid": "A86",
         "aliases": {
             "scid": "Dutch: Leningrad Variation",
-            "chessGraph": "Leningrad Variation, Dutch"
+            "chessGraph": "Leningrad Variation, Dutch",
+            "chronos": "Dutch: Leningrad variation"
         }
     },
     "rnbqkb1r/ppp1p1pp/3p1n2/5p2/2PP4/6P1/PP2PP1P/RNBQKBNR w KQkq - 0 4": {
@@ -19052,7 +19328,8 @@
         "aliases": {
             "scid": "Dutch: Leningrad, Main Line",
             "eco_js": "Dutch Defense: Leningrad Variation, 4. Bg2 Bg7 5. Nf3",
-            "chessGraph": "A87"
+            "chessGraph": "A87",
+            "chronos": "Dutch: Leningrad, main variation"
         },
         "isEcoRoot": true
     },
@@ -19236,7 +19513,8 @@
         "aliases": {
             "scid": "Dutch: Leningrad, Main Line, 7.Nc3 c6",
             "ct": "Dutch Defense, Leningrad Variation",
-            "chessGraph": "Warsaw Variation, Dutch; A88"
+            "chessGraph": "Warsaw Variation, Dutch; A88",
+            "chronos": "Dutch: Leningrad, main variation with c6"
         },
         "isEcoRoot": true
     },
@@ -19347,7 +19625,8 @@
         "aliases": {
             "scid": "Dutch: Leningrad, Main Line, 7.Nc3 Nc6",
             "ct": "Dutch Defense, Leningrad Variation",
-            "chessGraph": "Matulovic Variation, Dutch; A89"
+            "chessGraph": "Matulovic Variation, Dutch; A89",
+            "chronos": "Dutch: Leningrad, main variation with Nc6"
         },
         "isEcoRoot": true
     },
@@ -19422,7 +19701,8 @@
         "scid": "A90",
         "aliases": {
             "scid": "Dutch: 2.c4 Nf6 3.g3 e6 4.Bg2",
-            "chessGraph": "Classical Variation, Dutch"
+            "chessGraph": "Classical Variation, Dutch",
+            "chronos": "Dutch defence"
         },
         "isEcoRoot": true
     },
@@ -19440,7 +19720,8 @@
         "scid": "A90",
         "aliases": {
             "scid": "Dutch: Dutch-Indian (Nimzo-Dutch) Variation",
-            "chessGraph": "Nimzo-Dutch Variation"
+            "chessGraph": "Nimzo-Dutch Variation",
+            "chronos": "Dutch defence: Dutch-Indian (Nimzo-Dutch) variation"
         }
     },
     "rnbqk2r/pppp2pp/4pn2/5p2/1bPP4/6P1/PP2PPBP/RNBQK1NR w KQkq - 3 5": {
@@ -19457,7 +19738,8 @@
         "scid": "A90",
         "aliases": {
             "scid": "Dutch: Dutch-Indian, Alekhine Variation",
-            "ct": "Dutch Defense, Nimzo-Dutch Variation"
+            "ct": "Dutch Defense, Nimzo-Dutch Variation",
+            "chronos": "Dutch-Indian, Alekhine variation"
         }
     },
     "rnbqk2r/ppppb1pp/4pn2/5p2/2PP4/6P1/PP1BPPBP/RN1QK1NR w KQkq - 5 6": {
@@ -19637,7 +19919,8 @@
         "scid": "A91",
         "aliases": {
             "scid": "Dutch: 2.c4 Nf6 3.g3 e6 4.Bg2 Be7",
-            "chessGraph": "A91"
+            "chessGraph": "A91",
+            "chronos": "Dutch defence"
         },
         "isEcoRoot": true
     },
@@ -19799,7 +20082,8 @@
         "name": "Dutch Defense: Classical Variation",
         "scid": "A92",
         "aliases": {
-            "scid": "Dutch: 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O"
+            "scid": "Dutch: 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O",
+            "chronos": "Dutch defence"
         },
         "isEcoRoot": true
     },
@@ -19818,7 +20102,8 @@
         "aliases": {
             "scid": "Dutch: Stonewall, 7.Nc3",
             "eco_js": "Dutch Defense: Stonewall, with Nc3",
-            "chessGraph": "A95"
+            "chessGraph": "A95",
+            "chronos": "Dutch: stonewall with Nc3"
         }
     },
     "rnbq1rk1/ppp1b1pp/4pn2/3p1p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - - 0 7": {
@@ -19828,7 +20113,8 @@
         "name": "Dutch Defense: Stonewall Variation",
         "scid": "A92",
         "aliases": {
-            "scid": "Dutch: Stonewall Variation"
+            "scid": "Dutch: Stonewall Variation",
+            "chronos": "Dutch: stonewall variation"
         }
     },
     "rnbq1rk1/ppp1b1pp/4pn2/3p1p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - - 2 7": {
@@ -19945,7 +20231,8 @@
             "scid": "Dutch: Stonewall, Botvinnik Variation",
             "eco_js": "Dutch Defense: Classical Variation, Stonewall Variation, Botvinnik Variation",
             "ct": "Dutch Defense, Classical Variation",
-            "chessGraph": "Botvinnik Variation, Dutch; A93"
+            "chessGraph": "Botvinnik Variation, Dutch; A93",
+            "chronos": "Dutch: stonewall, Botwinnik variation"
         },
         "isEcoRoot": true
     },
@@ -20003,7 +20290,8 @@
         "aliases": {
             "scid": "Dutch: Stonewall, Botvinnik, 8.Ba3",
             "eco_js": "Dutch Defense: Classical Variation, Stonewall Variation, 7. b3 c6 8. Ba3",
-            "ct": "Dutch Defense, Classical Variation"
+            "ct": "Dutch Defense, Classical Variation",
+            "chronos": "Dutch: stonewall with Ba3"
         },
         "isEcoRoot": true
     },
@@ -20072,7 +20360,8 @@
         "aliases": {
             "scid": "Dutch: Stonewall, 7.Nc3 c6",
             "eco_js": "Dutch Defense: Classical Variation, Stonewall Variation",
-            "ct": "Dutch Defense, Classical Variation"
+            "ct": "Dutch Defense, Classical Variation",
+            "chronos": "Dutch: stonewall with Nc3"
         },
         "isEcoRoot": true
     },
@@ -20084,7 +20373,8 @@
         "scid": "A95",
         "aliases": {
             "scid": "Dutch: Stonewall: Chekhover Variation",
-            "eco_js": "Dutch Defense: Stonewall: Chekhover Variation"
+            "eco_js": "Dutch Defense: Stonewall: Chekhover Variation",
+            "chronos": "Dutch: stonewall: Chekhover variation"
         }
     },
     "rnbq1rk1/pp2b1pp/2p1pn2/3p1p2/2PP4/1PN2NP1/P3PPBP/R1BQ1RK1 b - - 0 8": {
@@ -20138,7 +20428,8 @@
         "aliases": {
             "scid": "Dutch: Classical",
             "eco_js": "Dutch Defense: Classical Variation, 5. Nf3 O-O 6. O-O d6",
-            "chessGraph": "A96"
+            "chessGraph": "A96",
+            "chronos": "Dutch: classical variation"
         },
         "isEcoRoot": true
     },
@@ -20234,7 +20525,8 @@
         "aliases": {
             "scid": "Dutch: Ilyin-Zhenevsky Variation",
             "ct": "Dutch Defense, Classical Variation",
-            "chessGraph": "Ilyin-Zhenevsky Variation, Dutch; A97"
+            "chessGraph": "Ilyin-Zhenevsky Variation, Dutch; A97",
+            "chronos": "Dutch: Ilyin-Genevsky variation"
         },
         "isEcoRoot": true
     },
@@ -20246,7 +20538,8 @@
         "scid": "A97",
         "aliases": {
             "scid": "Dutch: Ilyin-Zhenevsky, Winter Variation",
-            "eco_js": "Dutch Defense: Ilyin-Zhenevsky, Winter Variation"
+            "eco_js": "Dutch Defense: Ilyin-Zhenevsky, Winter Variation",
+            "chronos": "Dutch: Ilyin-Genevsky, Winter variation"
         }
     },
     "rnb1qrk1/ppp1b1pp/3ppn2/5p2/1PPP4/2N2NP1/P3PPBP/R1BQ1RK1 b - - 0 8": {
@@ -20300,7 +20593,8 @@
         "aliases": {
             "scid": "Dutch: Ilyin-Zhenevsky, 8.Qc2",
             "ct": "Dutch Defense, Classical Variation",
-            "chessGraph": "A98"
+            "chessGraph": "A98",
+            "chronos": "Dutch: Ilyin-Genevsky variation with Qc2"
         },
         "isEcoRoot": true
     },
@@ -20327,7 +20621,8 @@
         "aliases": {
             "scid": "Dutch: Ilyin-Zhenevsky, 8.b3",
             "ct": "Dutch Defense, Classical Variation",
-            "chessGraph": "A99"
+            "chessGraph": "A99",
+            "chronos": "Dutch: Ilyin-Genevsky variation with b3"
         },
         "isEcoRoot": true
     },
@@ -21125,7 +21420,8 @@
         "added": "Feb 2025",
         "aliases": {
             "ct": "English Opening, Agincourt Defense",
-            "chessGraph": "Keres Defense, English"
+            "chessGraph": "Keres Defense, English",
+            "chronos": "English: Symmetrical, Keres defence"
         }
     },
     "rn1qkb1r/pbpppp1p/1p3np1/8/2P5/5NP1/PP1PPPBP/RNBQK2R w KQkq - 2 5": {
@@ -21288,7 +21584,8 @@
         "eco": "A21",
         "src": "ct",
         "aliases": {
-            "chessGraph": "Troger Variation, English"
+            "chessGraph": "Troger Variation, English",
+            "chronos": "English, Troeger defence"
         }
     },
     "rnbq1rk1/pp2bppp/2p1pn2/3p4/2P5/1P3NP1/PB1PPPBP/RN1Q1RK1 b - - 4 7": {
@@ -21309,7 +21606,8 @@
         "eco": "A00",
         "src": "ct",
         "aliases": {
-            "chessGraph": "Battambang, Dunst"
+            "chessGraph": "Battambang, Dunst",
+            "chronos": "Battambang opening"
         }
     },
     "rnbqkbnr/pppp2pp/8/4pp2/4P3/1P6/PBPP1PPP/RN1QKBNR b KQkq - 0 3": {

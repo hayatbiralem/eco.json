@@ -21,7 +21,8 @@
         "aliases": {
             "scid": "Reversed Grob (Borg/Basman Defence)",
             "ct": "Borg Defense, General",
-            "chessGraph": "Basman Defense; Macho Grob"
+            "chessGraph": "Basman Defense; Macho Grob",
+            "chronos": "Reversed Grob (Borg/Basman defence/macho Grob)"
         }
     },
     "rnbqk1nr/ppppppbp/8/6p1/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3": {
@@ -84,7 +85,8 @@
         "aliases": {
             "scid": "King's Pawn: Fred",
             "ct": "Duras Gambit, General",
-            "chessGraph": "Mao Tse Tung; Duras"
+            "chessGraph": "Mao Tse Tung; Duras",
+            "chronos": "Fred"
         }
     },
     "rnbq1bnr/pppppkpp/5p2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQ - 1 3": {
@@ -119,7 +121,8 @@
         "name": "Owen Defense: Guatemala Defense",
         "aliases": {
             "ct": "Guatemala Defense, General",
-            "chessGraph": "Guatemalan Defense"
+            "chessGraph": "Guatemalan Defense",
+            "chronos": "Guatemala defence"
         }
     },
     "rnbqkb1r/pppppppp/7n/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2": {
@@ -152,7 +155,8 @@
             "scid": "King's Pawn",
             "eco_js": "King's Pawn",
             "ct": "King's Pawn Opening, General",
-            "chessGraph": "King's Pawn Opening; B00"
+            "chessGraph": "King's Pawn Opening; B00",
+            "chronos": "King's pawn opening"
         },
         "isEcoRoot": true
     },
@@ -162,7 +166,8 @@
         "moves": "1. e4 Nc6 2. b4 Nxb4 3. c3 Nc6 4. d4",
         "name": "King's Pawn Game: Nimzowitsch Defense: Wheeler Gambit",
         "aliases": {
-            "chessGraph": "Wheeler Gambit, Nimzovich Defense"
+            "chessGraph": "Wheeler Gambit, Nimzovich Defense",
+            "chronos": "KP: Nimzovich defence, Wheeler gambit"
         }
     },
     "r1bqkbnr/pppppppp/n7/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2": {
@@ -322,7 +327,8 @@
         "scid": "B00l",
         "aliases": {
             "scid": "Nimzowitsch Defence",
-            "ct": "Nimzowitsch Defense, General"
+            "ct": "Nimzowitsch Defense, General",
+            "chronos": "KP: Nimzovich defence"
         }
     },
     "r1bqkbnr/pppppppp/2n5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2": {
@@ -333,7 +339,8 @@
         "scid": "B00t",
         "aliases": {
             "scid": "Nimzowitsch Defence: 2.d4",
-            "eco_js": "King's Pawn Game: Nimzowitsch Defense"
+            "eco_js": "King's Pawn Game: Nimzowitsch Defense",
+            "chronos": "KP: Nimzovich defence"
         }
     },
     "r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4": {
@@ -352,7 +359,8 @@
             "scid": "Nimzowitsch Defence: Colorado Counter",
             "eco_js": "Nimzowitsch Defense: Lean Variation",
             "ct": "Nimzowitsch Defense, Lean Variation",
-            "chessGraph": "Colorado Defense, Nimzovich; Lean Variation"
+            "chessGraph": "Colorado Defense, Nimzovich; Lean Variation",
+            "chronos": "KP: Colorado counter"
         }
     },
     "r1bqkbnr/ppppp1pp/2n5/5P2/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 0 3": {
@@ -374,7 +382,8 @@
         "scid": "B00n",
         "aliases": {
             "scid": "Nimzowitsch Defence: 2.Nf3",
-            "eco_js": "Nimzowitsch Defense, Declined Variation"
+            "eco_js": "Nimzowitsch Defense, Declined Variation",
+            "chronos": "KP: Nimzovich defence"
         }
     },
     "r1bqkb1r/pppppppp/2n5/4P3/6n1/5N2/PPPP1PPP/RNBQKB1R w KQkq - 1 4": {
@@ -577,7 +586,8 @@
         "moves": "1. e4 Nc6 2. d4 f6",
         "name": "Nimzowitsch Defense: Neo-Mongoloid Defense",
         "aliases": {
-            "chessGraph": "Neo-Mongoloid Defense, Nimzovich"
+            "chessGraph": "Neo-Mongoloid Defense, Nimzovich",
+            "chronos": "KP: Neo-Mongoloid defence"
         }
     },
     "r1bqkbnr/pppppp1p/2n3p1/8/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3": {
@@ -638,7 +648,8 @@
         "aliases": {
             "scid": "Nimzowitsch Defence: Bogoljubow Variation",
             "ct": "Nimzowitsch Defense, Scandinavian Variation",
-            "chessGraph": "Bogoljubow Variation, Nizovich Defense"
+            "chessGraph": "Bogoljubow Variation, Nizovich Defense",
+            "chronos": "KP: Nimzovich defence, Bogolyubov variation"
         }
     },
     "r1bqkbnr/ppp1pppp/2n5/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4": {
@@ -735,7 +746,8 @@
         "aliases": {
             "scid": "Nimzowitsch Defence: Marshall Gambit",
             "ct": "Nimzowitsch Defense, Scandinavian Variation",
-            "chessGraph": "Marshall Gambit, Nimzovich"
+            "chessGraph": "Marshall Gambit, Nimzovich",
+            "chronos": "KP: Nimzovich defence, Marshall gambit"
         }
     },
     "r1bqkbnr/pppppppp/2n5/8/1P2P3/8/P1PP1PPP/RNBQKBNR b KQkq - 0 2": {
@@ -1012,7 +1024,8 @@
         "aliases": {
             "scid": "St. George Defence",
             "ct": "St. George Defense, General",
-            "chessGraph": "St George; Birmingham; Baker"
+            "chessGraph": "St George; Birmingham; Baker",
+            "chronos": "St. George (Baker) defence"
         }
     },
     "rn1qkbnr/1bpp1ppp/p3p3/1p6/3PP3/3B1N2/PPP2PPP/RNBQK2R w KQkq - 0 5": {
@@ -1055,7 +1068,8 @@
         "name": "Ware Defense",
         "aliases": {
             "ct": "Ware Defense, General",
-            "chessGraph": "Corn Stalks"
+            "chessGraph": "Corn Stalks",
+            "chronos": "Corn stalk defence"
         }
     },
     "r1bqkbnr/1ppppppp/2n5/p7/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3": {
@@ -1076,7 +1090,8 @@
         "aliases": {
             "scid": "Scandinavian (Centre Counter)",
             "ct": "Scandinavian Defense, General",
-            "chessGraph": "Center Counter; Scandanavian; B01"
+            "chessGraph": "Center Counter; Scandanavian; B01",
+            "chronos": "Scandinavian (centre counter) defence"
         },
         "isEcoRoot": true
     },
@@ -1098,7 +1113,8 @@
         "scid": "B01g",
         "aliases": {
             "scid": "Scandinavian: Anderssen Counterattack",
-            "chessGraph": "Anderssen Variation, Center Counter"
+            "chessGraph": "Anderssen Variation, Center Counter",
+            "chronos": "Scandinavian: Anderssen counter-attack"
         }
     },
     "rn2kbnr/ppp2ppp/8/q3p3/3P2b1/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 2 6": {
@@ -1110,7 +1126,8 @@
         "aliases": {
             "scid": "Scandinavian: Anderssen Counterattack, Collijn Variation",
             "ct": "Scandinavian Defense, Anderssen Counterattack",
-            "chessGraph": "Collijn Variation, Center Counter"
+            "chessGraph": "Collijn Variation, Center Counter",
+            "chronos": "Scandinavian: Anderssen counter-attack, Collijn variation"
         }
     },
     "rnb1kbnr/ppp2ppp/8/q3p3/3P4/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 5": {
@@ -1120,14 +1137,18 @@
         "name": "Scandinavian Defense: Anderssen Counterattack, Goteborg System",
         "scid": "B01g",
         "aliases": {
-            "scid": "Scandinavian: Anderssen Counterattack, Goteborg Variation"
+            "scid": "Scandinavian: Anderssen Counterattack, Goteborg Variation",
+            "chronos": "Scandinavian: Anderssen counter-attack, Goteborg system"
         }
     },
     "r1b1k1nr/ppp2ppp/2n5/q3P3/1b6/2N2N2/PPPB1PPP/R2QKB1R b KQkq - 4 7": {
         "src": "eco_tsv",
         "eco": "B01",
         "moves": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. dxe5 Nc6 6. Nf3 Bb4 7. Bd2",
-        "name": "Scandinavian Defense: Anderssen Counterattack, Orthodox Attack"
+        "name": "Scandinavian Defense: Anderssen Counterattack, Orthodox Attack",
+        "aliases": {
+            "chronos": "Scandinavian: Anderssen counter-attack orthodox attack"
+        }
     },
     "r1bqkbnr/pp2pppp/2n5/8/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 4": {
         "src": "eco_tsv",
@@ -1171,7 +1192,8 @@
         "name": "Scandinavian Defense: Classical Variation",
         "scid": "B01l",
         "aliases": {
-            "scid": "Scandinavian: 2...Qxd5, 5.Nf3 Bf5"
+            "scid": "Scandinavian: 2...Qxd5, 5.Nf3 Bf5",
+            "chronos": "Scandinavian defence"
         }
     },
     "rn2kb1r/pp2pppp/2p2n2/q3Nb2/3P2P1/2N5/PPP2P1P/R1BQKB1R b KQkq - 0 7": {
@@ -1183,7 +1205,8 @@
         "aliases": {
             "scid": "Scandinavian: Gruenfeld Variation",
             "eco_js": "Scandinavian Defense: Gruenfeld Variation",
-            "chessGraph": "Gruenfeld Variation, Center Counter"
+            "chessGraph": "Gruenfeld Variation, Center Counter",
+            "chronos": "Scandinavian defence, Gruenfeld variation"
         }
     },
     "rnb1kbnr/ppp1pppp/3q4/8/8/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 4": {
@@ -1194,7 +1217,8 @@
         "scid": "B01d",
         "aliases": {
             "scid": "Scandinavian: Schiller Defence",
-            "chessGraph": "Gubinsky-Melts Defense, Center Counter"
+            "chessGraph": "Gubinsky-Melts Defense, Center Counter",
+            "chronos": "Scandinavian: Pytel-Wade variation"
         }
     },
     "rnbqkb1r/ppp2ppp/4pn2/3P4/2P5/8/PP1P1PPP/RNBQKBNR w KQkq - 0 4": {
@@ -1205,7 +1229,8 @@
         "scid": "B01t",
         "aliases": {
             "scid": "Scandinavian: Icelandic Gambit",
-            "chessGraph": "Icelandic-Palme Gambit, CC"
+            "chessGraph": "Icelandic-Palme Gambit, CC",
+            "chronos": "Scandinavian: Icelandic gambit"
         }
     },
     "rnbqkb1r/pp3ppp/2P2n2/4p3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 5": {
@@ -1224,7 +1249,8 @@
         "moves": "1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb4",
         "name": "Scandinavian Defense: Kiel Variation",
         "aliases": {
-            "chessGraph": "Kiel Variation, Center Counter"
+            "chessGraph": "Kiel Variation, Center Counter",
+            "chronos": "Scandinavian: Kiel variation"
         }
     },
     "rnbqkbnr/pp3ppp/2P5/4p3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 4": {
@@ -1266,7 +1292,8 @@
         "aliases": {
             "scid": "Scandinavian, Mieses Gambit",
             "ct": "Scandinavian Defense, Main Lines",
-            "chessGraph": "Leonhardt (Rosen) Gambit, Center Counter"
+            "chessGraph": "Leonhardt (Rosen) Gambit, Center Counter",
+            "chronos": "Scandinavian, Mieses-Kotrvc gambit"
         }
     },
     "rnb1kb1r/ppp1pppp/5n2/q7/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 5": {
@@ -1289,7 +1316,8 @@
         "scid": "B01w",
         "aliases": {
             "scid": "Scandinavian: Marshall Variation",
-            "chessGraph": "Marshall Variation, Center Counter"
+            "chessGraph": "Marshall Variation, Center Counter",
+            "chronos": "Scandinavian: Marshall variation"
         }
     },
     "rnb1kbnr/ppp1pppp/8/3q4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3": {
@@ -1311,7 +1339,8 @@
         "scid": "B01r",
         "aliases": {
             "scid": "Scandinavian: 2...Nf6",
-            "chessGraph": "Marshall Gambit, Scandanavian G; Modern Variation, CC"
+            "chessGraph": "Marshall Gambit, Scandanavian G; Modern Variation, CC",
+            "chronos": "Scandinavian defence"
         }
     },
     "rnbqkb1r/ppp1pppp/5n2/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3": {
@@ -1322,7 +1351,8 @@
         "scid": "B01u",
         "aliases": {
             "scid": "Scandinavian: 2...Nf6 3.d4",
-            "eco_js": "Scandinavian Defense: Modern Variation, 2. exd5 Nf6 3. d4"
+            "eco_js": "Scandinavian Defense: Modern Variation, 2. exd5 Nf6 3. d4",
+            "chronos": "Scandinavian defence"
         }
     },
     "rn1qkb1r/ppp1pppp/8/3n4/3P2b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 5": {
@@ -1355,7 +1385,8 @@
         "scid": "B01t",
         "aliases": {
             "scid": "Scandinavian: Scandinavian Gambit",
-            "chessGraph": "Panov Transfer, Center Counter"
+            "chessGraph": "Panov Transfer, Center Counter",
+            "chronos": "Scandinavian gambit"
         }
     },
     "rn1qkb1r/ppp1pppp/5n2/3P4/3P2b1/8/PPP2PPP/RNBQKBNR w KQkq - 1 4": {
@@ -1460,7 +1491,8 @@
         "name": "Scandinavian Defense: Richter Variation",
         "scid": "B01u",
         "aliases": {
-            "scid": "Scandinavian: Richter Variation"
+            "scid": "Scandinavian: Richter Variation",
+            "chronos": "Scandinavian: Richter variation"
         }
     },
     "rnb1kbnr/pp2pppp/2pq4/8/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 5": {
@@ -2155,7 +2187,8 @@
         "scid": "B02l",
         "aliases": {
             "scid": "Alekhine: Brooklyn Defence (Retreat Variation)",
-            "chessGraph": "Retreat; Brooklyn Variation, Alekhine"
+            "chessGraph": "Retreat; Brooklyn Variation, Alekhine",
+            "chronos": "Alekhine's defence: Brooklyn defence"
         }
     },
     "rnbqkbnr/ppppp1pp/8/4Pp2/3P4/8/PPP2PPP/RNBQKBNR w KQkq f6 0 4": {
@@ -2214,7 +2247,8 @@
         "scid": "B02n",
         "aliases": {
             "scid": "Alekhine: Kmoch Variation",
-            "chessGraph": "Kmoch Variation, Alekhine"
+            "chessGraph": "Kmoch Variation, Alekhine",
+            "chronos": "Alekhine's defence: Kmoch variation"
         }
     },
     "rnbqkb1r/pppppppp/5n2/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 2 2": {
@@ -2225,7 +2259,8 @@
         "scid": "B02a",
         "aliases": {
             "scid": "Alekhine: Krejcik Variation",
-            "chessGraph": "Krejcik Variation, Alekhine"
+            "chessGraph": "Krejcik Variation, Alekhine",
+            "chronos": "Alekhine's defence: Krejcik variation"
         }
     },
     "rnbqkb1r/pppppBpp/8/8/4n3/8/PPPP1PPP/RNBQK1NR b KQkq - 0 3": {
@@ -2247,7 +2282,8 @@
         "aliases": {
             "scid": "Alekhine: Maroczy Variation",
             "eco_js": "Alekhine Defense: Maroczy Variation",
-            "chessGraph": "Maroczy Variation, Alekhine"
+            "chessGraph": "Maroczy Variation, Alekhine",
+            "chronos": "Alekhine's defence: Maroczy variation"
         }
     },
     "rnbqkb1r/pppppppp/8/4P3/4n3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3": {
@@ -2258,7 +2294,8 @@
         "scid": "B02l",
         "aliases": {
             "scid": "Alekhine: Mokele Mbembe (Buecker) Variation",
-            "chessGraph": "Mokele Mbembe; Knight's Tour"
+            "chessGraph": "Mokele Mbembe; Knight's Tour",
+            "chronos": "Alekhine's defence: Mokele Mbembe (Buecker) variation"
         }
     },
     "rnbqkb1r/ppppp1pp/5p2/4P3/3Pn3/8/PPP2PPP/RNBQKBNR w KQkq - 0 4": {
@@ -2286,7 +2323,8 @@
         "name": "Alekhine Defense: Normal Variation",
         "scid": "B02m",
         "aliases": {
-            "scid": "Alekhine: 2.e5 Nd5"
+            "scid": "Alekhine: 2.e5 Nd5",
+            "chronos": "Alekhine's defence"
         }
     },
     "rnbqkb1r/pppppppp/8/3nP3/8/2N5/PPPP1PPP/R1BQKBNR b KQkq - 2 3": {
@@ -2298,7 +2336,8 @@
         "aliases": {
             "scid": "Alekhine: Saemisch Attack",
             "eco_js": "Alekhine Defense: Saemisch Attack",
-            "chessGraph": "Saemisch Attack, Alekhine"
+            "chessGraph": "Saemisch Attack, Alekhine",
+            "chronos": "Alekhine's defence: Saemisch attack"
         }
     },
     "rnbqkb1r/ppp1pppp/5n2/3p4/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3": {
@@ -2309,7 +2348,8 @@
         "scid": "B02c",
         "aliases": {
             "scid": "Alekhine: Scandinavian Variation",
-            "chessGraph": "Scandanavian Variation, Alekhine"
+            "chessGraph": "Scandanavian Variation, Alekhine",
+            "chronos": "Alekhine's defence: Scandinavian variation"
         }
     },
     "rnbqkb1r/pp2pppp/2p2n2/3P4/8/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 4": {
@@ -2342,7 +2382,8 @@
         "scid": "B02f",
         "aliases": {
             "scid": "Alekhine: Spielmann Gambit",
-            "chessGraph": "Spielmann Variation, Alekhine"
+            "chessGraph": "Spielmann Variation, Alekhine",
+            "chronos": "Alekhine's defence: Spielmann variation"
         }
     },
     "rnbqkb1r/pppppppp/1n6/4P3/2P5/1P6/P2P1PPP/RNBQKBNR b KQkq - 0 4": {
@@ -2353,7 +2394,8 @@
         "scid": "B02r",
         "aliases": {
             "scid": "Alekhine: Chase, Steiner Variation",
-            "chessGraph": "Steiner Variation, Alekhine"
+            "chessGraph": "Steiner Variation, Alekhine",
+            "chronos": "Alekhine's defence: Steiner variation"
         }
     },
     "rnbqkb1r/pppppppp/8/4P3/2P2n2/8/PP1P1PPP/RNBQKBNR w KQkq - 1 4": {
@@ -2371,7 +2413,8 @@
         "aliases": {
             "scid": "Alekhine: Chase Variation",
             "eco_js": "Alekhine Defense: Two Pawn Attack",
-            "chessGraph": "Hunt Gambit, Alekhine; Two Pawn Attack"
+            "chessGraph": "Hunt Gambit, Alekhine; Two Pawn Attack",
+            "chronos": "Alekhine's defence"
         }
     },
     "rnbqkb1r/pppppppp/1n6/2P1P3/8/8/PP1P1PPP/RNBQKBNR b KQkq - 0 4": {
@@ -2384,7 +2427,8 @@
             "scid": "Alekhine: Two Pawns (Lasker) Attack",
             "eco_js": "Alekhine Defense: Two Pawn Attack, Lasker Variation",
             "ct": "Alekhine Defense, Two Pawn Attack",
-            "chessGraph": "Lasker Variation, Alekhine"
+            "chessGraph": "Lasker Variation, Alekhine",
+            "chronos": "Alekhine's defence: two pawns' (Lasker's) attack"
         }
     },
     "rnbqkb1r/ppp2ppp/3pp3/2PnP3/2B5/2N5/PP1P1PPP/R1BQK1NR w KQkq - 0 7": {
@@ -2394,7 +2438,8 @@
         "name": "Alekhine Defense: Two Pawns Attack, Mikenas Variation",
         "scid": "B02u",
         "aliases": {
-            "scid": "Alekhine: Two Pawns Attack, Mikenas Variation"
+            "scid": "Alekhine: Two Pawns Attack, Mikenas Variation",
+            "chronos": "Alekhine's defence: two pawns' attack, Mikenas variation"
         }
     },
     "rnbqkb1r/pppppppp/8/3nP3/8/1P6/P1PP1PPP/RNBQKBNR b KQkq - 0 3": {
@@ -2405,7 +2450,8 @@
         "scid": "B02m",
         "aliases": {
             "scid": "Alekhine: Welling Variation",
-            "chessGraph": "Welling Variation, Alekhine"
+            "chessGraph": "Welling Variation, Alekhine",
+            "chronos": "Alekhine's defence: Welling variation"
         }
     },
     "rnbqkb1r/pppppppp/5n2/4P3/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2": {
@@ -2588,7 +2634,8 @@
         "scid": "B03d",
         "aliases": {
             "scid": "Alekhine: Balogh Variation",
-            "chessGraph": "Balogh Variation, Alekhine"
+            "chessGraph": "Balogh Variation, Alekhine",
+            "chronos": "Alekhine's defence: Balogh variation"
         }
     },
     "rnbqkb1r/ppp1pppp/1n1P4/8/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 0 5": {
@@ -2598,7 +2645,8 @@
         "name": "Alekhine Defense: Exchange Variation",
         "scid": "B03o",
         "aliases": {
-            "scid": "Alekhine: Exchange Variation"
+            "scid": "Alekhine: Exchange Variation",
+            "chronos": "Alekhine's defence: exchange variation"
         }
     },
     "r2q1rk1/pp2ppbp/1nnp2p1/5b2/2PP1B2/2N2N1P/PP2BPP1/R2Q1RK1 b - - 8 11": {
@@ -2621,7 +2669,8 @@
         "scid": "B03g",
         "aliases": {
             "scid": "Alekhine: Four Pawns Attack",
-            "chessGraph": "Four Pawns Attack; Chase V"
+            "chessGraph": "Four Pawns Attack; Chase V",
+            "chronos": "Alekhine's defence: four pawns attack"
         }
     },
     "rnbqkb1r/ppp1pp1p/1n1p4/4P1p1/2PP1P2/8/PP4PP/RNBQKBNR w KQkq - 0 6": {
@@ -2633,7 +2682,8 @@
         "aliases": {
             "scid": "Alekhine: Four Pawns Attack, Planinc Variation",
             "ct": "Alekhine Defense, Four Pawns Attack",
-            "chessGraph": "Cambridge Gambit, Alekhine"
+            "chessGraph": "Cambridge Gambit, Alekhine",
+            "chronos": "Alekhine's defence: four pawns attack, Planinc variation"
         }
     },
     "rnbqkb1r/ppp1pp1p/1n1p2p1/4P3/2PP1P2/8/PP4PP/RNBQKBNR w KQkq - 0 6": {
@@ -2644,7 +2694,8 @@
         "scid": "B03i",
         "aliases": {
             "scid": "Alekhine: Four Pawns Attack, Fianchetto Variation",
-            "ct": "Alekhine Defense, Four Pawns Attack"
+            "ct": "Alekhine Defense, Four Pawns Attack",
+            "chronos": "Alekhine's defence: four pawns attack, fianchetto variation"
         }
     },
     "r2qkb1r/ppp1p1pp/1nn1p3/2P5/3P2b1/5N2/PP4PP/RNBQKB1R b KQkq - 0 9": {
@@ -2654,7 +2705,8 @@
         "name": "Alekhine Defense: Four Pawns Attack, Ilyin-Zhenevsky Variation",
         "scid": "B03m",
         "aliases": {
-            "scid": "Alekhine: Four Pawns Attack, Ilyin-Zhenevsky Variation"
+            "scid": "Alekhine: Four Pawns Attack, Ilyin-Zhenevsky Variation",
+            "chronos": "Alekhine's defence: four pawns attack, Ilyin-Genevsky var."
         }
     },
     "rn1q1rk1/ppp1b1pp/1n2pp2/4Pb2/2PP4/2N2N2/PP2B1PP/R1BQ1RK1 w - - 0 11": {
@@ -2664,7 +2716,8 @@
         "name": "Alekhine Defense: Four Pawns Attack, Korchnoi Variation",
         "scid": "B03l",
         "aliases": {
-            "scid": "Alekhine: Four Pawns Attack, Korchnoi Variation"
+            "scid": "Alekhine: Four Pawns Attack, Korchnoi Variation",
+            "chronos": "Alekhine's defence: four pawns attack, Korchnoi variation"
         }
     },
     "r1bqkb1r/ppp1pppp/1nn5/4P3/2PP4/4B3/PP4PP/RN1QKBNR b KQkq - 2 7": {
@@ -2675,14 +2728,18 @@
         "scid": "B03n",
         "aliases": {
             "scid": "Alekhine: Four Pawns Attack, 7.Be3",
-            "ct": "Alekhine Defense, Four Pawns Attack"
+            "ct": "Alekhine Defense, Four Pawns Attack",
+            "chronos": "Alekhine's defence: four pawns attack, 7.Be3"
         }
     },
     "2kr3r/pppqbppp/1nn1p3/4Pb2/2PP4/2N1BN2/PP2B1PP/R2Q1RK1 w - - 6 12": {
         "src": "eco_tsv",
         "eco": "B03",
         "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3 e6 9. Nf3 Qd7 10. Be2 O-O-O 11. O-O Be7",
-        "name": "Alekhine Defense: Four Pawns Attack, Tartakower Variation"
+        "name": "Alekhine Defense: Four Pawns Attack, Tartakower Variation",
+        "aliases": {
+            "chronos": "Alekhine's defence: four pawns attack, Tartakower variation"
+        }
     },
     "rn1qkb1r/ppp1pppp/1n1p4/4Pb2/2PP1P2/8/PP4PP/RNBQKBNR w KQkq - 1 6": {
         "src": "eco_tsv",
@@ -2693,7 +2750,8 @@
         "aliases": {
             "scid": "Alekhine: Four Pawns Attack, Trifunovic Variation",
             "ct": "Alekhine Defense, Four Pawns Attack",
-            "chessGraph": "Trifunovic Variation, Alekhine"
+            "chessGraph": "Trifunovic Variation, Alekhine",
+            "chronos": "Alekhine's defence: four pawns attack, Trifunovic variation"
         }
     },
     "rnbqkb1r/ppp1pppp/1n1p4/2P1P3/3P4/8/PP3PPP/RNBQKBNR b KQkq - 0 5": {
@@ -2718,7 +2776,8 @@
         "name": "Alekhine Defense: O'Sullivan Gambit",
         "scid": "B03a",
         "aliases": {
-            "scid": "Alekhine: O'Sullivan Gambit"
+            "scid": "Alekhine: O'Sullivan Gambit",
+            "chronos": "Alekhine's defence: O'Sullivan gambit"
         }
     },
     "rnbqkb1r/ppp1pppp/3P4/3n4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 4": {
@@ -2819,7 +2878,8 @@
         "name": "Alekhine: Four Pawns Attack, 6...Nc6",
         "scid": "B03m",
         "aliases": {
-            "eco_js": "Alekhine Defense: Four Pawns Attack, 6... Nc6"
+            "eco_js": "Alekhine Defense: Four Pawns Attack, 6... Nc6",
+            "chronos": "Alekhine's defence: four pawns attack, 6...Nc6"
         }
     },
     "rn1qk2r/ppp2ppp/1n2p3/4Pb2/1bPP4/2NB1N2/PP4PP/R1BQK2R b KQkq - 3 9": {
@@ -2837,7 +2897,8 @@
         "scid": "B04a",
         "aliases": {
             "scid": "Alekhine: Modern Variation",
-            "chessGraph": "B04"
+            "chessGraph": "B04",
+            "chronos": "Alekhine's defence: modern variation"
         },
         "isEcoRoot": true
     },
@@ -2850,7 +2911,8 @@
         "aliases": {
             "scid": "Alekhine: Modern, Fianchetto Variation",
             "ct": "Alekhine Defense, Modern Variation",
-            "chessGraph": "Alburt Variation, Alekhine"
+            "chessGraph": "Alburt Variation, Alekhine",
+            "chronos": "Alekhine's defence: modern, fianchetto variation"
         }
     },
     "rnbqk2r/ppp1ppbp/1n1p2p1/4P3/P2P4/1B3N2/1PP2PPP/RNBQK2R b KQkq - 0 7": {
@@ -2862,7 +2924,8 @@
         "aliases": {
             "scid": "Alekhine: Modern, Fianchetto, Keres Variation",
             "ct": "Alekhine Defense, Modern Variation",
-            "chessGraph": "Keres Variation, Alekhine"
+            "chessGraph": "Keres Variation, Alekhine",
+            "chronos": "Alekhine's defence: modern, Keres variation"
         }
     },
     "rnbqkb1r/ppp1pppp/8/3np3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5": {
@@ -2874,7 +2937,8 @@
         "aliases": {
             "scid": "Alekhine: Modern, Larsen Variation",
             "ct": "Alekhine Defense, Modern Variation",
-            "chessGraph": "Larsen Variation, Alekhine"
+            "chessGraph": "Larsen Variation, Alekhine",
+            "chronos": "Alekhine's defence: modern, Larsen variation"
         }
     },
     "r1bqkb1r/ppp1pppp/2np4/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 5": {
@@ -2897,7 +2961,8 @@
         "aliases": {
             "scid": "Alekhine: Modern, Schmid Variation",
             "ct": "Alekhine Defense, Modern Variation",
-            "chessGraph": "Schmid Variation, Alekhine"
+            "chessGraph": "Schmid Variation, Alekhine",
+            "chronos": "Alekhine's defence: modern, Schmid variation"
         }
     },
     "rnbqkb1r/pp2pppp/2pp4/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5": {
@@ -2972,7 +3037,8 @@
         "aliases": {
             "scid": "Alekhine: Modern, Alekhine Variation",
             "ct": "Alekhine Defense, Modern Variation",
-            "chessGraph": "Alekhine Variation, Alekhine"
+            "chessGraph": "Alekhine Variation, Alekhine",
+            "chronos": "Alekhine's defence: modern, Alekhine variation"
         }
     },
     "rn1qkb1r/pp2pppp/2pp4/3nP3/3P2b1/5N2/PPP1BPPP/RNBQK2R w KQkq - 0 6": {
@@ -2984,7 +3050,8 @@
         "aliases": {
             "scid": "Alekhine: Modern, Flohr Variation",
             "eco_js": "Alekhine Defense: Modern, Flohr Variation",
-            "chessGraph": "Flohr Variation, Alekhine"
+            "chessGraph": "Flohr Variation, Alekhine",
+            "chronos": "Alekhine's defence: modern, Flohr variation"
         }
     },
     "rn1qkb1r/ppp1pppp/3p4/3nP3/3P2b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 5": {
@@ -2996,7 +3063,8 @@
         "aliases": {
             "scid": "Alekhine: Modern, 4...Bg4",
             "ct": "Alekhine Defense, Modern Variation",
-            "chessGraph": "B05"
+            "chessGraph": "B05",
+            "chronos": "Alekhine's defence: modern variation, 4...Bg4"
         },
         "isEcoRoot": true
     },
@@ -3009,7 +3077,8 @@
         "aliases": {
             "scid": "Alekhine: Modern, Panov Variation",
             "ct": "Alekhine Defense, Modern Variation",
-            "chessGraph": "Panov Variation, Alekhine"
+            "chessGraph": "Panov Variation, Alekhine",
+            "chronos": "Alekhine's defence: modern, Panov variation"
         }
     },
     "rn1qkb1r/ppp1pppp/1n1p4/3PP3/2P3b1/5N2/PP3PPP/RNBQKB1R b KQkq - 0 6": {
@@ -3018,7 +3087,8 @@
         "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. c4 Nb6 6. d5",
         "name": "Alekhine Defense: Modern Variation, Vitolins Attack",
         "aliases": {
-            "eco_js": "Alekhine Defense: Modern, Vitolins Attack"
+            "eco_js": "Alekhine Defense: Modern, Vitolins Attack",
+            "chronos": "Alekhine's defence: modern, Vitolins attack"
         }
     },
     "rn1qkb1r/ppp1pppp/3p4/3nP3/3P2b1/5N2/PPP1BPPP/RNBQK2R b KQkq - 3 5": {
@@ -3261,7 +3331,8 @@
         "aliases": {
             "scid": "Modern",
             "ct": "Modern Defense, King Pawn Fianchetto",
-            "chessGraph": "Pirc; Robatsch; Modern; King Pawn Fianchetto; B06"
+            "chessGraph": "Pirc; Robatsch; Modern; King Pawn Fianchetto; B06",
+            "chronos": "Robatsch (modern) defence"
         },
         "isEcoRoot": true
     },
@@ -3273,7 +3344,8 @@
         "scid": "B06f",
         "aliases": {
             "scid": "Modern",
-            "eco_js": "Robatsch (Modern) Defense"
+            "eco_js": "Robatsch (Modern) Defense",
+            "chronos": "Robatsch (modern) defence"
         }
     },
     "rnbqk1nr/pp2ppbp/2pp2p1/8/2BPP3/2N5/PPP1QPPP/R1B1K1NR b KQkq - 1 5": {
@@ -3342,7 +3414,8 @@
         "scid": "B15h",
         "aliases": {
             "scid": "Caro-Kann: Gurgenidze: 4.e5 Bg7 5.f4 h5",
-            "chessGraph": "Gurgenidze Variation, Caro"
+            "chessGraph": "Gurgenidze Variation, Caro",
+            "chronos": "Robatsch defence: Gurgenidze variation"
         }
     },
     "rnbqk1nr/ppp1ppbp/6p1/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4": {
@@ -3426,7 +3499,8 @@
         "scid": "B06s",
         "aliases": {
             "scid": "Modern: Pseudo-Austrian Attack",
-            "chessGraph": "Pseudo-Austrian Attack"
+            "chessGraph": "Pseudo-Austrian Attack",
+            "chronos": "Robatsch defence: Pseudo-Austrian attack"
         }
     },
     "rnb1k1nr/pp2ppbp/3p2p1/q1p5/2PPP3/5N2/PP2BPPP/RNBQK2R w KQkq - 2 6": {
@@ -3445,7 +3519,8 @@
         "name": "Modern Defense: Standard Defense",
         "scid": "B06m",
         "aliases": {
-            "scid": "Modern: 3.Nc3"
+            "scid": "Modern: 3.Nc3",
+            "chronos": "Robatsch (modern) defence"
         }
     },
     "rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3": {
@@ -3455,7 +3530,8 @@
         "name": "Modern Defense: Standard Line",
         "scid": "B06l",
         "aliases": {
-            "scid": "Modern: 3.Nc3"
+            "scid": "Modern: 3.Nc3",
+            "chronos": "Robatsch defence"
         }
     },
     "rnbqk1nr/ppppppbp/6p1/8/3PPP2/8/PPP3PP/RNBQKBNR b KQkq - 0 3": {
@@ -3466,7 +3542,8 @@
         "scid": "B06u",
         "aliases": {
             "scid": "Modern: Three Pawns Attack",
-            "chessGraph": "Three Pawns Attack"
+            "chessGraph": "Three Pawns Attack",
+            "chronos": "Robatsch defence: three pawns attack"
         }
     },
     "rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 4": {
@@ -3477,7 +3554,8 @@
         "scid": "B06r",
         "aliases": {
             "scid": "Modern: Two Knights Variation",
-            "chessGraph": "Two Knight Variation, Modern Defense"
+            "chessGraph": "Two Knight Variation, Modern Defense",
+            "chronos": "Robatsch defence: two knights variation"
         }
     },
     "rnbqk1nr/pp2ppbp/2pp2p1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5": {
@@ -3489,7 +3567,8 @@
         "aliases": {
             "scid": "Modern: Two Knights, Suttles Variation",
             "ct": "Modern Defense, Two Knights Variation",
-            "chessGraph": "Suttles Variation, Modern Defense"
+            "chessGraph": "Suttles Variation, Modern Defense",
+            "chronos": "Robatsch defence: two knights, Suttles variation"
         }
     },
     "rnb1k1nr/pp2ppbp/2pp2p1/6B1/3PP3/2N2N2/PqPQ1PPP/R3KB1R w KQkq - 0 7": {
@@ -3847,7 +3926,8 @@
         "scid": "B07n",
         "aliases": {
             "scid": "Pirc: Pytel/Czech",
-            "ct": "Czech Defense, General"
+            "ct": "Czech Defense, General",
+            "chronos": "Pirc: Ufimtsev-Pytel variation"
         }
     },
     "rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3": {
@@ -3901,7 +3981,8 @@
         "moves": "1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. c3",
         "name": "Modern Defense: Geller's System",
         "aliases": {
-            "chessGraph": "Geller's System, Modern Defense"
+            "chessGraph": "Geller's System, Modern Defense",
+            "chronos": "Robatsch defence: Geller's system"
         }
     },
     "rnbqkbnr/ppp1pppp/3p4/8/4P3/6P1/PPPP1P1P/RNBQKBNR b KQkq - 0 2": {
@@ -3936,7 +4017,8 @@
         "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. Qd2",
         "name": "Pirc Defense: 150 Attack",
         "aliases": {
-            "chessGraph": "150 Attack"
+            "chessGraph": "150 Attack",
+            "chronos": "Pirc: 150 attack"
         }
     },
     "rn1qkb1r/pp2pp1p/2pp1np1/8/3PP1b1/2N1B3/PPPQ1PPP/R3KBNR w KQkq - 2 6": {
@@ -3966,7 +4048,8 @@
         "scid": "B07z",
         "aliases": {
             "scid": "Pirc: Bayonet/Mariotti Attack",
-            "chessGraph": "Bayonet Attack, Pirc"
+            "chessGraph": "Bayonet Attack, Pirc",
+            "chronos": "Pirc: bayonet (Mariotti) attack"
         }
     },
     "rnbqkb1r/ppp1pp1p/3p1np1/6B1/3PP3/2N5/PPP2PPP/R2QKBNR b KQkq - 1 4": {
@@ -3977,7 +4060,8 @@
         "scid": "B07w",
         "aliases": {
             "scid": "Pirc: Byrne 4.Bg5",
-            "chessGraph": "Panov; Opatijav; Byrne Variation, Pirc"
+            "chessGraph": "Panov; Opatijav; Byrne Variation, Pirc",
+            "chronos": "Pirc: Byrne variation"
         }
     },
     "rnbqk2r/ppp1ppbp/3p1np1/8/3PP1P1/2N5/PPP1BP1P/R1BQK1NR b KQkq - 0 5": {
@@ -3988,7 +4072,8 @@
         "scid": "B07y",
         "aliases": {
             "scid": "Pirc: Chinese Variation",
-            "chessGraph": "Chinese Variation, Pirc"
+            "chessGraph": "Chinese Variation, Pirc",
+            "chronos": "Pirc: Chinese variation"
         }
     },
     "rnbqkb1r/ppp1pp1p/3p1np1/8/2BPP3/2N5/PPP2PPP/R1BQK1NR b KQkq - 1 4": {
@@ -3999,7 +4084,8 @@
         "scid": "B07s",
         "aliases": {
             "scid": "Pirc: Holmov (4.Bc4)",
-            "chessGraph": "Kholmov System, Pirc"
+            "chessGraph": "Kholmov System, Pirc",
+            "chronos": "Pirc: Holmov system"
         }
     },
     "rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N3P1/PPP2P1P/R1BQKBNR b KQkq - 0 4": {
@@ -4009,7 +4095,8 @@
         "name": "Pirc Defense: Sveshnikov System",
         "scid": "B07r",
         "aliases": {
-            "scid": "Pirc: Sveshnikov (4.g3)"
+            "scid": "Pirc: Sveshnikov (4.g3)",
+            "chronos": "Pirc: Sveshnikov system"
         }
     },
     "rnbqkbnr/pp2pppp/2pp4/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3": {
@@ -4201,7 +4288,8 @@
         "name": "Pirc: 3.Nc3",
         "scid": "B07k",
         "aliases": {
-            "eco_js": "Pirc Defense, 2. d4 Nf6 3. Nc3"
+            "eco_js": "Pirc Defense, 2. d4 Nf6 3. Nc3",
+            "chronos": "Pirc defence"
         }
     },
     "rnbqkb1r/ppp2ppp/3p1n2/4p3/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4": {
@@ -4234,7 +4322,8 @@
         "aliases": {
             "eco_js": "Pirc Defense: Classical Variation",
             "ct": "Pirc Defense, Classical Variation",
-            "chessGraph": "Classical System, Pirc"
+            "chessGraph": "Classical System, Pirc",
+            "chronos": "Pirc defence"
         }
     },
     "rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N5/PPP1BPPP/R1BQK1NR w KQkq - 2 5": {
@@ -4365,7 +4454,8 @@
         "aliases": {
             "scid": "Pirc: Classical",
             "eco_js": "Pirc Defense: Classical Variation, 3. Nc3 g6 4. Nf3",
-            "chessGraph": "B08"
+            "chessGraph": "B08",
+            "chronos": "Pirc: classical (two knights) system"
         },
         "isEcoRoot": true
     },
@@ -4378,7 +4468,8 @@
         "aliases": {
             "scid": "Pirc: Classical",
             "eco_js": "Pirc Defense: Classical Variation, 3. Nc3 g6 4. Nf3 Bg7",
-            "chessGraph": "Two Knights System, Pirc"
+            "chessGraph": "Two Knights System, Pirc",
+            "chronos": "Pirc: classical (two knights) system"
         }
     },
     "rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N2N2/PPP1BPPP/R1BQK2R b KQkq - 3 5": {
@@ -4390,7 +4481,8 @@
         "aliases": {
             "scid": "Pirc: Classical, 5.Be2",
             "ct": "Pirc Defense, Classical Variation",
-            "chessGraph": "Quiet System, Pirc"
+            "chessGraph": "Quiet System, Pirc",
+            "chronos": "Pirc: classical system, 5.Be2"
         }
     },
     "r1bq1rk1/ppp1ppbp/2np1np1/8/3PP3/2N2N2/PPP1BPPP/R1BQ1RK1 w - - 6 7": {
@@ -4438,7 +4530,8 @@
         "aliases": {
             "scid": "Pirc: Classical, 5.h3",
             "ct": "Pirc Defense, Classical Variation",
-            "chessGraph": "Schlechter Variation, Pirc"
+            "chessGraph": "Schlechter Variation, Pirc",
+            "chronos": "Pirc: classical, h3 system"
         }
     },
     "rnbqk2r/ppp1ppbp/3p1np1/8/P2PP3/2N2N2/1PP2PPP/R1BQKB1R b KQkq - 0 5": {
@@ -4610,7 +4703,8 @@
         "scid": "B09a",
         "aliases": {
             "scid": "Pirc: Austrian Attack",
-            "chessGraph": "Austrian Attack, Pirc; B09"
+            "chessGraph": "Austrian Attack, Pirc; B09",
+            "chronos": "Pirc: Austrian attack"
         },
         "isEcoRoot": true
     },
@@ -4622,7 +4716,8 @@
         "scid": "B09e",
         "aliases": {
             "scid": "Pirc: Austrian, 5...O-O",
-            "eco_js": "Pirc Defense: Austrian Attack, 4. f4 Bg7 5. Nf3 O-O"
+            "eco_js": "Pirc Defense: Austrian Attack, 4. f4 Bg7 5. Nf3 O-O",
+            "chronos": "Pirc: Austrian attack"
         }
     },
     "rnbqk2r/pp2ppbp/3p1np1/2p5/3PPP2/2N2N2/PPP3PP/R1BQKB1R w KQkq - 0 6": {
@@ -4634,7 +4729,8 @@
         "aliases": {
             "scid": "Pirc: Austrian, 5...c5",
             "ct": "Pirc Defense, Austrian Attack",
-            "chessGraph": "Dragon Formation, Pirc"
+            "chessGraph": "Dragon Formation, Pirc",
+            "chronos": "Pirc: Austrian attack, dragon formation"
         }
     },
     "rnbq1rk1/ppp1ppbp/3p1np1/8/3PPP2/2N1BN2/PPP3PP/R2QKB1R b KQ - 4 6": {
@@ -4646,7 +4742,8 @@
         "aliases": {
             "scid": "Pirc: Austrian, 5...O-O 6.Be3",
             "ct": "Pirc Defense, Austrian Attack",
-            "chessGraph": "Kurajica Variation, Pirc"
+            "chessGraph": "Kurajica Variation, Pirc",
+            "chronos": "Pirc: Austrian attack, 6.Be3"
         }
     },
     "rnbqk2r/ppp1ppbp/3p1np1/8/2BPPP2/2N5/PPP3PP/R1BQK1NR b KQkq - 2 5": {
@@ -4658,7 +4755,8 @@
         "aliases": {
             "scid": "Pirc: Austrian, Ljubojevic Variation",
             "ct": "Pirc Defense, Austrian Attack",
-            "chessGraph": "Ljubojevic Variation, Pirc"
+            "chessGraph": "Ljubojevic Variation, Pirc",
+            "chronos": "Pirc: Austrian attack, Ljubojevic variation"
         }
     },
     "rnbq1rk1/ppp1ppbp/3p1np1/4P3/3P1P2/2N2N2/PPP3PP/R1BQKB1R b KQ - 0 6": {
@@ -4670,7 +4768,8 @@
         "aliases": {
             "scid": "Pirc: Austrian, 5...O-O 6.e5",
             "ct": "Pirc Defense, Austrian Attack",
-            "chessGraph": "Unzicker Attack, Pirc"
+            "chessGraph": "Unzicker Attack, Pirc",
+            "chronos": "Pirc: Austrian attack, 6.e5"
         }
     },
     "rnbq1rk1/pppnppbp/3p2p1/4P3/3P1P1P/2N2N2/PPP3P1/R1BQKB1R b KQ - 0 7": {
@@ -4691,7 +4790,8 @@
         "aliases": {
             "scid": "Pirc: Austrian, 5...O-O 6.Bd3",
             "ct": "Pirc Defense, Austrian Attack",
-            "chessGraph": "Weiss Variation, Pirc"
+            "chessGraph": "Weiss Variation, Pirc",
+            "chronos": "Pirc: Austrian attack, 6.Bd3"
         }
     },
     "rnbqk2r/ppp1ppbp/3p1np1/8/3PPP2/2N5/PPP3PP/R1BQKBNR w KQkq - 1 5": {
@@ -4875,7 +4975,8 @@
         "scid": "B10g",
         "aliases": {
             "scid": "Caro-Kann: English Variation",
-            "chessGraph": "Modern; English Variation, Accelerated Panov; Caro-Kann"
+            "chessGraph": "Modern; English Variation, Accelerated Panov; Caro-Kann",
+            "chronos": "Caro-Kann: anti-Caro-Kann defence"
         }
     },
     "rnbqkbnr/pp2pppp/2p5/3p4/2P1P3/8/PP1P1PPP/RNBQKBNR w KQkq - 0 3": {
@@ -4886,7 +4987,8 @@
         "scid": "B10i",
         "aliases": {
             "scid": "Caro-Kann: English Variation",
-            "eco_js": "Caro-Kann Defense: Accelerated Panov Attack, 2. c4 d5"
+            "eco_js": "Caro-Kann Defense: Accelerated Panov Attack, 2. c4 d5",
+            "chronos": "Caro-Kann: anti-anti-Caro-Kann defence"
         }
     },
     "rnbqkb1r/pp2pppp/5n2/3P4/8/8/PP1P1PPP/RNBQKBNR w KQkq - 1 5": {
@@ -4943,7 +5045,8 @@
         "scid": "B10b",
         "aliases": {
             "scid": "Caro-Kann: Breyer Variation",
-            "chessGraph": "Breyer Variation, Caro-Kann"
+            "chessGraph": "Breyer Variation, Caro-Kann",
+            "chronos": "Caro-Kann: closed (Breyer) variation"
         }
     },
     "rnbq1rk1/pp2npbp/2p3p1/3pp3/1P2P3/3P1NP1/P1PN1PBP/R1BQ1RK1 b - - 0 8": {
@@ -4970,7 +5073,8 @@
         "scid": "B10r",
         "aliases": {
             "scid": "Caro-Kann: Goldman/Spielmann",
-            "chessGraph": "Goldman Variation, Caro"
+            "chessGraph": "Goldman Variation, Caro",
+            "chronos": "Caro-Kann: Goldman (Spielmann) variation"
         }
     },
     "rnbqkbnr/pp2pppp/2p5/6N1/4p3/2N5/PPPP1PPP/R1BQKB1R b KQkq - 1 4": {
@@ -4990,7 +5094,8 @@
         "moves": "1. e4 c6 2. Bc4",
         "name": "Caro-Kann Defense: Hillbilly Attack",
         "aliases": {
-            "chessGraph": "Hillbilly Attack, Caro-Kann"
+            "chessGraph": "Hillbilly Attack, Caro-Kann",
+            "chronos": "Caro-Kann: Hillbilly attack"
         }
     },
     "rnbqkbnr/pp2pppp/2p5/7Q/4p3/1B6/PPPP1PPP/RNB1K1NR b KQkq - 1 4": {
@@ -5061,7 +5166,8 @@
         "scid": "B10s",
         "aliases": {
             "scid": "Caro-Kann: Two Knights Variation",
-            "chessGraph": "Two Knights Attack, Caro Kann"
+            "chessGraph": "Two Knights Attack, Caro Kann",
+            "chronos": "Caro-Kann: two knights variation"
         }
     },
     "rnbqkbnr/pp1ppppp/2p5/8/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2": {
@@ -5206,7 +5312,8 @@
         "aliases": {
             "scid": "Caro-Kann: Two Knights, 3...Bg4",
             "ct": "Caro-Kann Defense, Two Knights Attack",
-            "chessGraph": "Mindeno Variation, Caro-Kann"
+            "chessGraph": "Mindeno Variation, Caro-Kann",
+            "chronos": "Caro-Kann: two knights, 3...Bg4"
         },
         "isEcoRoot": true
     },
@@ -5370,7 +5477,8 @@
         "scid": "B12i",
         "aliases": {
             "scid": "Caro-Kann: Advance Variation",
-            "chessGraph": "Advance Variation, Caro"
+            "chessGraph": "Advance Variation, Caro",
+            "chronos": "Caro-Kann: advance variation"
         }
     },
     "rn1qkbnr/pp2pppp/2p5/3pPb2/3P2P1/8/PPP2P1P/RNBQKBNR b KQkq - 0 4": {
@@ -5482,7 +5590,8 @@
         "name": "Caro-Kann Defense: Advance, Short Variation",
         "scid": "B12n",
         "aliases": {
-            "scid": "Caro-Kann: Advance, Short Variation"
+            "scid": "Caro-Kann: Advance, Short Variation",
+            "chronos": "Caro-Kann: advance, Short variation"
         }
     },
     "r1bqkbnr/pp1ppppp/n1p5/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3": {
@@ -5502,7 +5611,8 @@
         "moves": "1. e4 c6 2. d4 Na6 3. Nc3 Nc7",
         "name": "Caro-Kann Defense: De Bruycker Defense",
         "aliases": {
-            "eco_js": "Caro-Kann Defense: De Bruycker Defense, 2. d4 Na6 3. Nc3 Nc7"
+            "eco_js": "Caro-Kann Defense: De Bruycker Defense, 2. d4 Na6 3. Nc3 Nc7",
+            "chronos": "de Bruycker defence"
         }
     },
     "rnb1kbnr/pp2pppp/1qp5/3p4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq - 2 4": {
@@ -5513,7 +5623,8 @@
         "scid": "B12g",
         "aliases": {
             "scid": "Caro-Kann: Edinburgh Variation",
-            "chessGraph": "Edinburgh Variation, Caro"
+            "chessGraph": "Edinburgh Variation, Caro",
+            "chronos": "Caro-Kann: Edinburgh variation"
         }
     },
     "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/5P2/PPP3PP/RNBQKBNR b KQkq - 0 3": {
@@ -5525,7 +5636,8 @@
         "aliases": {
             "scid": "Caro-Kann: Maroczy (Fantasy) Variation",
             "eco_js": "Caro-Kann Defense: Maroczy Variation",
-            "chessGraph": "Maroczy Variation, Caro"
+            "chessGraph": "Maroczy Variation, Caro",
+            "chronos": "Caro-Kann: Tartakower (fantasy) variation"
         }
     },
     "rnbqkbnr/pp3ppp/2p5/8/2BpP3/5N2/PPP3PP/RNBQK2R b KQkq - 1 6": {
@@ -5549,7 +5661,8 @@
         "scid": "B12a",
         "aliases": {
             "scid": "Caro-Kann: Masi Defence",
-            "chessGraph": "Masi Variation, Caro-Kann"
+            "chessGraph": "Masi Variation, Caro-Kann",
+            "chronos": "Caro-Masi defence"
         }
     },
     "rnbqkbnr/pp1pp1pp/2p5/5p2/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3": {
@@ -5590,7 +5703,8 @@
         "scid": "B12g",
         "aliases": {
             "scid": "Caro-Kann: 3.Nd2",
-            "chessGraph": "Modern Variation, Caro-Kann"
+            "chessGraph": "Modern Variation, Caro-Kann",
+            "chronos": "Caro-Kann: 3.Nd2"
         }
     },
     "rnbqkbnr/pp2pppp/2p5/6N1/3Pp3/8/PPP2PPP/RNBQKB1R b KQkq - 1 4": {
@@ -5825,7 +5939,8 @@
         "scid": "B13a",
         "aliases": {
             "scid": "Caro-Kann: Exchange Variation",
-            "chessGraph": "Exchange Variation, Caro; B13"
+            "chessGraph": "Exchange Variation, Caro; B13",
+            "chronos": "Caro-Kann: exchange variation"
         }
     },
     "rnbqkbnr/pp2pppp/8/3p4/3P2P1/8/PPP2P1P/RNBQKBNR b KQkq - 0 4": {
@@ -5845,7 +5960,8 @@
         "scid": "B13j",
         "aliases": {
             "scid": "Caro-Kann: Exchange, Rubinstein Variation",
-            "ct": "Caro-Kann Defense, Exchange  Variation"
+            "ct": "Caro-Kann Defense, Exchange  Variation",
+            "chronos": "Caro-Kann: exchange, Rubinstein variation"
         }
     },
     "rnbqkbnr/pp2pppp/8/3p4/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 0 4": {
@@ -5856,7 +5972,8 @@
         "scid": "B13n",
         "aliases": {
             "scid": "Caro-Kann: Panov-Botvinnik Attack",
-            "chessGraph": "Panov-Botvinnik; Gunderam Attack"
+            "chessGraph": "Panov-Botvinnik; Gunderam Attack",
+            "chronos": "Caro-Kann: Panov-Botvinnik attack"
         }
     },
     "rnbqkb1r/pp2pppp/5n2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR b KQkq - 2 5": {
@@ -5868,7 +5985,8 @@
         "aliases": {
             "scid": "Caro-Kann: Panov-Botvinnik, 5.Nc3",
             "eco_js": "Caro-Kann Defense: Panov Attack, 4. c4 Nf6 5. Nc3",
-            "chessGraph": "B14"
+            "chessGraph": "B14",
+            "chronos": "Caro-Kann: Panov-Botvinnik attack"
         }
     },
     "rnbqkb1r/pp2pppp/5n2/2Pp4/3P4/8/PP3PPP/RNBQKBNR b KQkq - 0 5": {
@@ -5879,7 +5997,8 @@
         "scid": "B13o",
         "aliases": {
             "scid": "Caro-Kann: Panov-Botvinnik, Gunderam Variation",
-            "ct": "Caro-Kann Defense, Panov Attack"
+            "ct": "Caro-Kann Defense, Panov Attack",
+            "chronos": "Caro-Kann: Panov-Botvinnik, Gunderam attack"
         }
     },
     "r1bqkb1r/pp2pppp/2n2n2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR w KQkq - 3 6": {
@@ -5902,7 +6021,8 @@
         "aliases": {
             "scid": "Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variation",
             "ct": "Caro-Kann Defense, Panov Attack",
-            "chessGraph": "Carlsbad Line, Caro-Kann"
+            "chessGraph": "Carlsbad Line, Caro-Kann",
+            "chronos": "Caro-Kann: Panov-Botvinnik, normal variation"
         }
     },
     "r1b1kb1r/pp2pppp/2n2n2/q2p2B1/2PP4/2N5/PP3PPP/R2QKBNR w KQkq - 5 7": {
@@ -5914,7 +6034,8 @@
         "aliases": {
             "scid": "Caro-Kann: Panov-Botvinnik, 5...Nc6, Czerniak Variation",
             "ct": "Caro-Kann Defense, Panov Attack",
-            "chessGraph": "Czerniak Line, Caro-Kann"
+            "chessGraph": "Czerniak Line, Caro-Kann",
+            "chronos": "Caro-Kann: Panov-Botvinnik, Czerniak variation"
         }
     },
     "r2qkb1r/pp2pppp/2n2n2/3p4/2PP2b1/2N2N2/PP3PPP/R1BQKB1R w KQkq - 5 7": {
@@ -5937,7 +6058,8 @@
         "aliases": {
             "scid": "Caro-Kann: Panov-Botvinnik, 5...Nc6, Spielmann Variation",
             "ct": "Caro-Kann Defense, Panov Attack",
-            "chessGraph": "Reifir-Spielmann Line, Caro-Kann"
+            "chessGraph": "Reifir-Spielmann Line, Caro-Kann",
+            "chronos": "Caro-Kann: Panov-Botvinnik, Reifir (Spielmann) variation"
         }
     },
     "r1bqkb1r/pp2pppp/5n2/n2P2B1/2p5/2N5/PP3PPP/R2QKBNR w KQkq - 1 8": {
@@ -5947,7 +6069,8 @@
         "name": "Caro-Kann Defense: Panov-Botvinnik, Herzog Defense",
         "scid": "B13v",
         "aliases": {
-            "scid": "Caro-Kann: Panov-Botvinnik, 5...Nc6, Herzog Defence"
+            "scid": "Caro-Kann: Panov-Botvinnik, 5...Nc6, Herzog Defence",
+            "chronos": "Caro-Kann: Panov-Botvinnik, Herzog defence"
         }
     },
     "rnbqkbnr/pp2pppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4": {
@@ -6190,7 +6313,8 @@
         "scid": "B14i",
         "aliases": {
             "scid": "Caro-Kann: Panov-Botvinnik, 5...e6",
-            "eco_js": "Caro-Kann Defense: Panov Attack, 4. c4 Nf6 5. Nc3 e6"
+            "eco_js": "Caro-Kann Defense: Panov Attack, 4. c4 Nf6 5. Nc3 e6",
+            "chronos": "Caro-Kann: Panov-Botvinnik attack, 5...e6"
         },
         "isEcoRoot": true
     },
@@ -6202,7 +6326,8 @@
         "scid": "B14a",
         "aliases": {
             "scid": "Caro-Kann: Panov-Botvinnik, 5...g6",
-            "ct": "Caro-Kann Defense, Panov Attack"
+            "ct": "Caro-Kann Defense, Panov Attack",
+            "chronos": "Caro-Kann: Panov-Botvinnik attack, 5...g6"
         }
     },
     "rnbqk2r/pp2ppbp/5np1/3P4/3P4/2N5/PP3PPP/R1BQKBNR w KQkq - 1 7": {
@@ -6427,7 +6552,8 @@
         "scid": "B15r",
         "aliases": {
             "scid": "Caro-Kann: Alekhine Gambit",
-            "chessGraph": "Tarrasch (Alekhine) Gambit, Caro"
+            "chessGraph": "Tarrasch (Alekhine) Gambit, Caro",
+            "chronos": "Caro-Kann: Alekhine gambit"
         }
     },
     "rnbqkb1r/pp2pppp/2p2n2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 4": {
@@ -6447,7 +6573,8 @@
         "scid": "B15u",
         "aliases": {
             "scid": "Caro-Kann: Tartakower, Forgacs Variation",
-            "chessGraph": "Forgacs Variation, Caro Kann"
+            "chessGraph": "Forgacs Variation, Caro Kann",
+            "chronos": "Caro-Kann: Forgacs variation"
         }
     },
     "rnbqkbnr/p3pppp/2p5/1p1p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4": {
@@ -6458,7 +6585,8 @@
         "scid": "B15b",
         "aliases": {
             "scid": "Caro-Kann: Gurgenidze Counterattack",
-            "chessGraph": "Gurgenidze Variation, Caro"
+            "chessGraph": "Gurgenidze Variation, Caro",
+            "chronos": "Caro-Kann: Gurgenidze counter-attack"
         }
     },
     "rnbqkbnr/pp2pp1p/2p3p1/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4": {
@@ -6469,7 +6597,8 @@
         "scid": "B15c",
         "aliases": {
             "scid": "Caro-Kann: Gurgenidze/Modern",
-            "chessGraph": "Gurgenidze System, Caro-Kann"
+            "chessGraph": "Gurgenidze System, Caro-Kann",
+            "chronos": "Caro-Kann: Gurgenidze system"
         }
     },
     "rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4": {
@@ -6479,7 +6608,8 @@
         "name": "Caro-Kann Defense: Main Line",
         "scid": "B15q",
         "aliases": {
-            "scid": "Caro-Kann: 4.Nxe4"
+            "scid": "Caro-Kann: 4.Nxe4",
+            "chronos": "Caro-Kann defence"
         }
     },
     "rnbqkbnr/pp2pppp/2p5/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR b KQkq - 0 4": {
@@ -6490,7 +6620,8 @@
         "scid": "B15p",
         "aliases": {
             "scid": "Caro-Kann: Rasa-Studier Gambit",
-            "chessGraph": "Milner-Barry Gambit, Caro; Rasa-Studier Gambit"
+            "chessGraph": "Milner-Barry Gambit, Caro; Rasa-Studier Gambit",
+            "chronos": "Caro-Kann: Rasa-Studier gambit"
         }
     },
     "rnbqkb1r/pp3ppp/2p2p2/8/3P4/8/PPP2PPP/R1BQKBNR w KQkq - 0 6": {
@@ -6501,7 +6632,8 @@
         "scid": "B15t",
         "aliases": {
             "scid": "Caro-Kann: Tartakower (Nimzowitsch) Variation",
-            "chessGraph": "Tartakower Variation, Caro"
+            "chessGraph": "Tartakower Variation, Caro",
+            "chronos": "Caro-Kann: Tartakower (Nimzovich) variation"
         }
     },
     "rnbqkbnr/pp2pppp/2p5/8/2BPp3/2N5/PPP2PPP/R1BQK1NR b KQkq - 1 4": {
@@ -6688,7 +6820,8 @@
         "scid": "B16a",
         "aliases": {
             "scid": "Caro-Kann: Bronstein-Larsen",
-            "chessGraph": "Nimzovich; Bronstein-Larsen, Caro; B16"
+            "chessGraph": "Nimzovich; Bronstein-Larsen, Caro; B16",
+            "chronos": "Caro-Kann: Bronstein-Larsen variation"
         },
         "isEcoRoot": true
     },
@@ -6800,7 +6933,8 @@
         "scid": "B17a",
         "aliases": {
             "scid": "Caro-Kann: Steinitz Variation",
-            "chessGraph": "Karpov Variation, Caro-Kann; B17"
+            "chessGraph": "Karpov Variation, Caro-Kann; B17",
+            "chronos": "Caro-Kann: Steinitz variation"
         },
         "isEcoRoot": true
     },
@@ -6999,7 +7133,8 @@
         "scid": "B18a",
         "aliases": {
             "scid": "Caro-Kann: Classical",
-            "chessGraph": "Classical Variation, Caro; B18"
+            "chessGraph": "Classical Variation, Caro; B18",
+            "chronos": "Caro-Kann: classical variation"
         },
         "isEcoRoot": true
     },
@@ -7012,7 +7147,8 @@
         "aliases": {
             "scid": "Caro-Kann: Classical, Flohr Variation",
             "ct": "Caro-Kann Defense, Classical Variation",
-            "chessGraph": "Flohr Variation, Caro-Kann"
+            "chessGraph": "Flohr Variation, Caro-Kann",
+            "chronos": "Caro-Kann: classical, Flohr variation"
         }
     },
     "rn1qkbnr/pp2pppp/2p3b1/8/3P3P/6N1/PPP2PP1/R1BQKBNR b KQkq - 0 6": {
@@ -7023,7 +7159,8 @@
         "scid": "B18p",
         "aliases": {
             "scid": "Caro-Kann: Classical, 6.h4",
-            "ct": "Caro-Kann Defense, Classical Variation"
+            "ct": "Caro-Kann Defense, Classical Variation",
+            "chronos": "Caro-Kann: classical, 6.h4"
         }
     },
     "rn1qkbnr/pp2pppp/2p3b1/8/3P1P2/6N1/PPP3PP/R1BQKBNR b KQkq - 0 6": {
@@ -7035,7 +7172,8 @@
         "aliases": {
             "scid": "Caro-Kann: Classical, Maroczy Attack",
             "eco_js": "Caro-Kann Defense: Classical Variation, Maroczy Attack",
-            "ct": "Caro-Kann Defense, Classical Variation"
+            "ct": "Caro-Kann Defense, Classical Variation",
+            "chronos": "Caro-Kann: classical, Maroczy attack"
         }
     },
     "rn1qkbnr/pp2pppp/2p5/2N2b2/3P4/8/PPP2PPP/R1BQKBNR b KQkq - 2 5": {
@@ -7158,7 +7296,8 @@
         "scid": "B19g",
         "aliases": {
             "scid": "Caro-Kann: Classical, 7.Nf3 Nd7",
-            "eco_js": "Caro-Kann Defense: Classical, 7... Nd7"
+            "eco_js": "Caro-Kann Defense: Classical, 7... Nd7",
+            "chronos": "Caro-Kann: classical, 7...Nd7"
         },
         "isEcoRoot": true
     },
@@ -7185,7 +7324,8 @@
         "scid": "B19h",
         "aliases": {
             "scid": "Caro-Kann: Classical, Spassky Variation",
-            "eco_js": "Caro-Kann Defense: Classical, Spassky Variation"
+            "eco_js": "Caro-Kann Defense: Classical, Spassky Variation",
+            "chronos": "Caro-Kann: classical, Spassky variation"
         }
     },
     "rn1qkbnr/pp2ppp1/2p3bp/8/3P3P/5NN1/PPP2PP1/R1BQKB1R b KQkq - 1 7": {
@@ -7398,7 +7538,8 @@
         "moves": "1. e4 c5 2. c4 d6 3. Nc3 Nc6 4. g3 h5",
         "name": "Sicilian Defense: Gloria Variation",
         "aliases": {
-            "chessGraph": "Gloria Variation, Sicilian"
+            "chessGraph": "Gloria Variation, Sicilian",
+            "chronos": "Sicilian: Gloria variation"
         }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/4P1P1/8/PPPP1P1P/RNBQKBNR b KQkq - 0 2": {
@@ -7416,7 +7557,8 @@
         "aliases": {
             "scid": "Sicilian: Keres Variation (2.Ne2)",
             "ct": "Sicilian Defense, Chameleon",
-            "chessGraph": "Keres; Billium Attack, Sicilian; Chameleon"
+            "chessGraph": "Keres; Billium Attack, Sicilian; Chameleon",
+            "chronos": "Sicilian: Keres variation (2.Ne2)"
         }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPPKPPP/RNBQ1BNR b kq - 1 2": {
@@ -7451,7 +7593,8 @@
         "scid": "B20",
         "aliases": {
             "scid": "Sicilian: 2.g3",
-            "chessGraph": "Steinitz; Tartakower, Lasker-Dunne Variation, Sicilian"
+            "chessGraph": "Steinitz; Tartakower, Lasker-Dunne Variation, Sicilian",
+            "chronos": "Sicilian: Steinitz variation"
         }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/4P3/P7/1PPP1PPP/RNBQKBNR b KQkq - 0 2": {
@@ -7526,7 +7669,8 @@
         "scid": "B20",
         "aliases": {
             "scid": "Sicilian: Wing Gambit",
-            "chessGraph": "Wing Gambit, Sicilian"
+            "chessGraph": "Wing Gambit, Sicilian",
+            "chronos": "Sicilian: wing gambit"
         }
     },
     "rnbqkbnr/pp1ppppp/8/8/1p2P3/8/PBPP1PPP/RN1QKBNR b KQkq - 1 3": {
@@ -7548,7 +7692,8 @@
         "aliases": {
             "scid": "Sicilian: Wing Gambit, Carlsbad Variation",
             "ct": "Sicilian Defense, Wing Gambit",
-            "chessGraph": "Wing; Carlsbad Variation, Sicilian"
+            "chessGraph": "Wing; Carlsbad Variation, Sicilian",
+            "chronos": "Sicilian: wing gambit, Carlsbad variation"
         }
     },
     "rnb1kbnr/pp2pppp/8/3q4/1p6/P7/1BPP1PPP/RN1QKBNR b KQkq - 1 5": {
@@ -7559,7 +7704,8 @@
         "scid": "B20",
         "aliases": {
             "scid": "Sicilian: Wing Gambit, Marienbad Variation",
-            "chessGraph": "Marienbad Variation, Sicilian"
+            "chessGraph": "Marienbad Variation, Sicilian",
+            "chronos": "Sicilian: wing gambit, Marienbad variation"
         }
     },
     "rnbqkbnr/pp1ppppp/8/8/1p2P3/P7/2PP1PPP/RNBQKBNR b KQkq - 0 3": {
@@ -7571,7 +7717,8 @@
         "aliases": {
             "scid": "Sicilian: Wing Gambit, Marshall Variation",
             "ct": "Sicilian Defense, Wing Gambit",
-            "chessGraph": "Marshall Variation, Sicilian"
+            "chessGraph": "Marshall Variation, Sicilian",
+            "chronos": "Sicilian: wing gambit, Marshall variation"
         }
     },
     "rnb1kbnr/pp3ppp/4q3/4p3/1pP5/P2B1N2/3P1PPP/RNBQK2R b KQkq - 2 7": {
@@ -7600,7 +7747,8 @@
         "scid": "B20",
         "aliases": {
             "scid": "Sicilian: Wing Gambit, Santasiere Variation",
-            "chessGraph": "Santasiere Wing Gambit, Sicilian"
+            "chessGraph": "Santasiere Wing Gambit, Sicilian",
+            "chronos": "Sicilian: wing gambit, Santasiere variation"
         }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2": {
@@ -7773,7 +7921,8 @@
         "scid": "B21a",
         "aliases": {
             "scid": "Sicilian: Grand Prix Attack",
-            "chessGraph": "Larsen-Santasiere (McDonnell Attack) Variation, Sicilian; B21"
+            "chessGraph": "Larsen-Santasiere (McDonnell Attack) Variation, Sicilian; B21",
+            "chronos": "Sicilian: Grand Prix attack"
         },
         "isEcoRoot": true
     },
@@ -7809,7 +7958,8 @@
         "aliases": {
             "scid": "Sicilian: Smith-Morra, Andreaschek Gambit",
             "ct": "Sicilian Defense, Morphy Gambit",
-            "chessGraph": "Andreaschek Gambit, Sicilian"
+            "chessGraph": "Andreaschek Gambit, Sicilian",
+            "chronos": "Sicilian: Andreaschek gambit"
         }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2": {
@@ -7819,7 +7969,8 @@
         "name": "Sicilian Defense: Smith-Morra Gambit",
         "scid": "B21m",
         "aliases": {
-            "scid": "Sicilian: Smith-Morra Gambit"
+            "scid": "Sicilian: Smith-Morra Gambit",
+            "chronos": "Sicilian: Smith-Morra gambit"
         }
     },
     "rnbqkbnr/pp1ppppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3": {
@@ -7831,7 +7982,8 @@
         "aliases": {
             "scid": "Sicilian: Smith-Morra, 3.c3",
             "eco_js": "Sicilian Defense: Smith-Morra Gambit, 2. d4 cxd4 3. c3",
-            "chessGraph": "Smith-Morra; Fleissig Gambit, Sic"
+            "chessGraph": "Smith-Morra; Fleissig Gambit, Sic",
+            "chronos": "Sicilian: Smith-Morra gambit"
         }
     },
     "rnbqkb1r/1p3ppp/p2ppn2/8/2B1P3/2N2N2/PP3PPP/R1BQ1RK1 w kq - 0 8": {
@@ -8032,7 +8184,8 @@
         "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Chicago Defense",
         "scid": "B21y",
         "aliases": {
-            "scid": "Sicilian: Smith-Morra Gambit, Chicago Defence"
+            "scid": "Sicilian: Smith-Morra Gambit, Chicago Defence",
+            "chronos": "Sicilian: Smith-Morra gambit, Chicago defence"
         }
     },
     "rnbqkbnr/pp1ppppp/8/8/4P3/2p2N2/PP3PPP/RNBQKB1R b KQkq - 1 4": {
@@ -8283,7 +8436,8 @@
         "scid": "B22a",
         "aliases": {
             "scid": "Sicilian: Alapin",
-            "chessGraph": "Alapin; Sveshnikov Var, Sicilian; B22"
+            "chessGraph": "Alapin; Sveshnikov Var, Sicilian; B22",
+            "chronos": "Sicilian: Alapin's variation (2.c3)"
         },
         "isEcoRoot": true
     },
@@ -8375,7 +8529,8 @@
         "scid": "B22p",
         "aliases": {
             "scid": "Sicilian: Alapin, Heidenfeld Variation",
-            "eco_js": "Sicilian Defense: 2. c3, Heidenfeld Variation"
+            "eco_js": "Sicilian Defense: 2. c3, Heidenfeld Variation",
+            "chronos": "Sicilian: 2.c3, Heidenfeld variation"
         }
     },
     "rnbqkbnr/pp2pppp/8/2pp4/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 3": {
@@ -8815,7 +8970,8 @@
             "scid": "Sicilian: Closed",
             "eco_js": "Sicilian Defense: Closed Variation",
             "ct": "Sicilian Defense, Closed Variation",
-            "chessGraph": "Closed; Chigorin Variation, Sicilian; B23"
+            "chessGraph": "Closed; Chigorin Variation, Sicilian; B23",
+            "chronos": "Sicilian: closed"
         },
         "isEcoRoot": true
     },
@@ -8850,7 +9006,8 @@
             "scid": "Sicilian: Chameleon Variation",
             "eco_js": "Sicilian Defense: Closed Variation, Chameleon Variation",
             "ct": "Sicilian Defense, Closed Variation",
-            "chessGraph": "Chameleon Sicilian"
+            "chessGraph": "Chameleon Sicilian",
+            "chronos": "Sicilian: chameleon variation"
         }
     },
     "r1bqkbnr/pp1ppppp/2n5/2p5/4P1P1/2N5/PPPP1P1P/R1BQKBNR b KQkq - 0 3": {
@@ -8873,7 +9030,8 @@
             "scid": "Sicilian: Closed, Korchnoi Variation",
             "eco_js": "Sicilian Defense: Closed Variation, Korchnoi Defense",
             "ct": "Sicilian Defense, Closed Variation",
-            "chessGraph": "Korchnoi Defense, Sicilian"
+            "chessGraph": "Korchnoi Defense, Sicilian",
+            "chronos": "Sicilian: closed, Korchnoi variation"
         }
     },
     "r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3": {
@@ -8886,7 +9044,8 @@
             "scid": "Sicilian: Closed, 2...Nc6",
             "eco_js": "Sicilian Defense: Closed Variation, Traditional",
             "ct": "Sicilian Defense, Closed Variation",
-            "chessGraph": "Traditional Closed Sicilian"
+            "chessGraph": "Traditional Closed Sicilian",
+            "chronos": "Sicilian: closed, 2...Nc6"
         }
     },
     "r1bqkbnr/pp1ppppp/2n5/2p5/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq - 0 3": {
@@ -8897,7 +9056,8 @@
         "scid": "B23o",
         "aliases": {
             "scid": "Sicilian: Closed, Grand Prix",
-            "chessGraph": "Vinken System, Sicilian; Grand Prix Attack"
+            "chessGraph": "Vinken System, Sicilian; Grand Prix Attack",
+            "chronos": "Sicilian: Grand Prix attack"
         }
     },
     "r1bqk1nr/pp1p1pbp/2n1p1p1/2p2P2/2B1P3/2N2N2/PPPP2PP/R1BQK2R b KQkq - 0 6": {
@@ -8909,7 +9069,8 @@
         "aliases": {
             "scid": "Sicilian: Closed, Grand Prix, Schofman Variation",
             "ct": "Sicilian Defense, Grand Prix Attack",
-            "chessGraph": "Schofman Variation, Sicilian"
+            "chessGraph": "Schofman Variation, Sicilian",
+            "chronos": "Sicilian: Grand Prix attack, Schofman variation"
         }
     },
     "r1bqkbnr/pp1p1ppp/2n5/2p1p3/4P3/2N5/PPPPNPPP/R1BQKB1R w KQkq - 0 4": {
@@ -9108,7 +9269,8 @@
             "scid": "Sicilian: Closed, 3.g3",
             "eco_js": "Sicilian Defense: Closed Variation, Fianchetto Variation",
             "ct": "Sicilian Defense, Closed Variation",
-            "chessGraph": "Fianchetto Variation, Sicilian Closed; B24"
+            "chessGraph": "Fianchetto Variation, Sicilian Closed; B24",
+            "chronos": "Sicilian: closed"
         },
         "isEcoRoot": true
     },
@@ -9119,7 +9281,8 @@
         "name": "Sicilian Defense: Closed, Smyslov Variation",
         "scid": "B24",
         "aliases": {
-            "scid": "Sicilian: Closed, Smyslov Variation"
+            "scid": "Sicilian: Closed, Smyslov Variation",
+            "chronos": "Sicilian: closed, Smyslov variation"
         }
     },
     "r1bqkbnr/pp1p1ppp/2n1p3/2p5/4P3/2N3P1/PPPP1P1P/R1BQKBNR w KQkq - 0 4": {
@@ -9187,7 +9350,8 @@
         "aliases": {
             "scid": "Sicilian: Closed, 3.g3, 5.d3 d6",
             "eco_js": "Sicilian Defense: Closed, 4. Bg2 Bg7 5. d3 d6",
-            "chessGraph": "B25"
+            "chessGraph": "B25",
+            "chronos": "Sicilian: closed"
         },
         "isEcoRoot": true
     },
@@ -9200,7 +9364,8 @@
         "aliases": {
             "scid": "Sicilian: Closed, 6.f4",
             "eco_js": "Sicilian Defense: Closed Variation, 5. d3 d6 6. f4",
-            "ct": "Sicilian Defense, Closed Variation"
+            "ct": "Sicilian Defense, Closed Variation",
+            "chronos": "Sicilian: closed, 6.f4"
         }
     },
     "r1bqk2r/pp2npbp/2np2p1/2p1p3/4PP2/2NP2PN/PPP3BP/R1BQK2R w KQkq - 2 8": {
@@ -9224,7 +9389,8 @@
             "scid": "Sicilian: Closed, 6.f4 e5",
             "eco_js": "Sicilian Defense: Closed Variation, Botvinnik Defense",
             "ct": "Sicilian Defense, Closed Variation",
-            "chessGraph": "Botvinnik Defense, Sicilian Closed"
+            "chessGraph": "Botvinnik Defense, Sicilian Closed",
+            "chronos": "Sicilian: closed, 6.f4 e5 (Botvinnik)"
         }
     },
     "r1bqk1nr/pp3pbp/2np2p1/2p1p3/4P3/2NP2P1/PPP1NPBP/R1BQK2R w KQkq - 0 7": {
@@ -9236,7 +9402,8 @@
         "aliases": {
             "scid": "Sicilian: Closed, Botvinnik",
             "eco_js": "Sicilian Defense: Closed Variation, Botvinnik Defense, 5. d3 d6 6. Nge2 e5",
-            "ct": "Sicilian Defense, Closed Variation"
+            "ct": "Sicilian Defense, Closed Variation",
+            "chronos": "Sicilian: closed, 6.Ne2 e5 (Botvinnik)"
         }
     },
     "r1bqk1nr/pp2ppbp/2np2p1/2p5/4P3/2NP2P1/PPP1NPBP/R1BQK2R b KQkq - 1 6": {
@@ -9396,7 +9563,8 @@
             "scid": "Sicilian: Closed, 6.Be3",
             "eco_js": "Sicilian Defense: Closed Variation, 5. d3 d6 6. Be3",
             "ct": "Sicilian Defense, Closed Variation",
-            "chessGraph": "B26"
+            "chessGraph": "B26",
+            "chronos": "Sicilian: closed, 6.Be3"
         },
         "isEcoRoot": true
     },
@@ -9596,7 +9764,8 @@
         "moves": "1. e4 c5 2. Nf3 g6 3. c4 Bh6",
         "name": "Sicilian Defense: Acton Extension",
         "aliases": {
-            "chessGraph": "Action Extension, Sicilian"
+            "chessGraph": "Action Extension, Sicilian",
+            "chronos": "Sicilian: Acton extension"
         }
     },
     "rnbqkbnr/pp1pp1pp/8/2p2p2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3": {
@@ -9644,7 +9813,8 @@
         "scid": "B27e",
         "aliases": {
             "scid": "Sicilian: Hungarian Variation",
-            "chessGraph": "Hyperaccelerated Dragon, Sicilian"
+            "chessGraph": "Hyperaccelerated Dragon, Sicilian",
+            "chronos": "Sicilian: Hungarian variation"
         }
     },
     "rnbqkbnr/pp1ppp1p/6p1/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3": {
@@ -9694,7 +9864,8 @@
         "scid": "B27d",
         "aliases": {
             "scid": "Sicilian: Katalimov Variation",
-            "chessGraph": "Katalimov Variation, Sicilian"
+            "chessGraph": "Katalimov Variation, Sicilian",
+            "chronos": "Sicilian: Katalimov variation"
         }
     },
     "rnb1kbnr/pp1ppppp/8/q1p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3": {
@@ -9705,7 +9876,8 @@
         "scid": "B27b",
         "aliases": {
             "scid": "Sicilian: Mongoose Variation",
-            "chessGraph": "Mongoose Variation, Sicilian"
+            "chessGraph": "Mongoose Variation, Sicilian",
+            "chronos": "Sicilian: Stiletto (Althouse) variation"
         }
     },
     "rnbqkbnr/p2ppppp/8/1pp5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3": {
@@ -9725,7 +9897,8 @@
         "scid": "B27c",
         "aliases": {
             "scid": "Sicilian: Quinteros Variation",
-            "chessGraph": "Accelerated Paulsen, Sicilian"
+            "chessGraph": "Accelerated Paulsen, Sicilian",
+            "chronos": "Sicilian: Quinteros variation"
         }
     },
     "rnbqk1nr/pp1pppbp/6p1/2p5/2PPP3/5N2/PP3PPP/RNBQKB1R b KQkq - 0 4": {
@@ -9813,7 +9986,8 @@
         "scid": "B28a",
         "aliases": {
             "scid": "Sicilian: O'Kelly Variation",
-            "chessGraph": "O'Kelly Variation, Sicilian; B28"
+            "chessGraph": "O'Kelly Variation, Sicilian; B28",
+            "chronos": "Sicilian: O'Kelly variation"
         },
         "isEcoRoot": true
     },
@@ -10058,7 +10232,8 @@
         "scid": "B29a",
         "aliases": {
             "scid": "Sicilian: Nimzowitsch",
-            "chessGraph": "Nimzovich; Rubinstein Var, Sicilian; B29"
+            "chessGraph": "Nimzovich; Rubinstein Var, Sicilian; B29",
+            "chronos": "Sicilian: Nimzovich-Rubinstein variation"
         },
         "isEcoRoot": true
     },
@@ -10104,7 +10279,8 @@
         "scid": "B29m",
         "aliases": {
             "scid": "Sicilian: Nimzowitsch, Rubinstein Countergambit",
-            "ct": "Sicilian Defense, Nimzowitsch  Variation"
+            "ct": "Sicilian Defense, Nimzowitsch  Variation",
+            "chronos": "Sicilian: Nimzovich-Rubinstein; Rubinstein counter-gambit"
         }
     },
     "rnbqkb1r/pp1ppppp/5n2/2p5/4P3/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 0 3": {
@@ -10194,7 +10370,8 @@
         "scid": "B30k",
         "aliases": {
             "scid": "Sicilian: Rossolimo",
-            "chessGraph": "Rossolimo (Nezmetdinov) Variation, Sicilian; B30"
+            "chessGraph": "Rossolimo (Nezmetdinov) Variation, Sicilian; B30",
+            "chronos": "Sicilian: Nimzovich-Rossolimo attack (without ...d6)"
         }
     },
     "r1bqkbnr/pp1ppppp/8/nBp5/1P2P3/5N2/P1PP1PPP/RNBQK2R b KQkq - 0 4": {
@@ -10215,7 +10392,8 @@
         "scid": "B30a",
         "aliases": {
             "scid": "Sicilian: 2...Nc6",
-            "chessGraph": "Old Sicilian"
+            "chessGraph": "Old Sicilian",
+            "chronos": "Sicilian defence"
         },
         "isEcoRoot": true
     },
@@ -10411,7 +10589,8 @@
         "aliases": {
             "scid": "Sicilian: Rossolimo, 3...g6",
             "ct": "Sicilian Defense, Nyezhmetdinov-Rossolimo Attack",
-            "chessGraph": "B31"
+            "chessGraph": "B31",
+            "chronos": "Sicilian: Nimzovich-Rossolimo attack (with ...g6, without ...d6)"
         },
         "isEcoRoot": true
     },
@@ -10453,7 +10632,8 @@
         "aliases": {
             "scid": "Sicilian: Rossolimo, Gurgenidze Variation",
             "ct": "Sicilian Defense, Nyezhmetdinov-Rossolimo Attack",
-            "chessGraph": "Gurgenidze Variation, Sicilian"
+            "chessGraph": "Gurgenidze Variation, Sicilian",
+            "chronos": "Sicilian: Nimzovich-Rossolimo attack, Gurgenidze variation"
         }
     },
     "r1bqkbnr/pp1ppp1p/2B3p1/2p5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4": {
@@ -10581,7 +10761,8 @@
         "scid": "B32f",
         "aliases": {
             "scid": "Sicilian: Flohr Variation",
-            "chessGraph": "Flohr Variation, Sicilian"
+            "chessGraph": "Flohr Variation, Sicilian",
+            "chronos": "Sicilian: Flohr variation"
         }
     },
     "r1bqkbnr/pp1p1ppp/2n1p3/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4": {
@@ -10609,7 +10790,8 @@
         "scid": "B32n",
         "aliases": {
             "scid": "Sicilian: Loewenthal, Kalashnikov",
-            "chessGraph": "Kalashnikov Variation, Sicilian"
+            "chessGraph": "Kalashnikov Variation, Sicilian",
+            "chronos": "Sicilian: Labourdonnais-Loewenthal (Kalashnikov) variation"
         }
     },
     "r1bqkbnr/pp1p1ppp/2n5/4p3/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5": {
@@ -10621,7 +10803,8 @@
         "aliases": {
             "scid": "Sicilian: Loewenthal",
             "eco_js": "Sicilian Defense: Loewenthal Variation",
-            "chessGraph": "Bourdonnais; Lowenthal Var, Sic"
+            "chessGraph": "Bourdonnais; Lowenthal Var, Sic",
+            "chronos": "Sicilian: Labourdonnais-Loewenthal variation"
         },
         "isEcoRoot": true
     },
@@ -10633,7 +10816,8 @@
         "scid": "B32h",
         "aliases": {
             "scid": "Sicilian: 2..Nc6, Nimzowitsch Variation",
-            "chessGraph": "Nimzovich Variation, Sicilian; Nimzo-American Variation"
+            "chessGraph": "Nimzovich Variation, Sicilian; Nimzo-American Variation",
+            "chronos": "Sicilian: Nimzovich variation"
         }
     },
     "r1bqkbnr/1p1p1ppp/p1n5/4p3/2PNP3/8/PP3PPP/RNBQKB1R w KQkq - 0 6": {
@@ -10656,7 +10840,8 @@
         "aliases": {
             "scid": "Sicilian: 2...Nc6 3.d4",
             "ct": "Sicilian Defense, Old Sicilian",
-            "chessGraph": "B32"
+            "chessGraph": "B32",
+            "chronos": "Sicilian defence"
         }
     },
     "r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4": {
@@ -10815,7 +11000,8 @@
         "scid": "B33d",
         "aliases": {
             "scid": "Sicilian: Pelikan/Sveshnikov",
-            "chessGraph": "Lasker-Pelikan Variation, Sicilian"
+            "chessGraph": "Lasker-Pelikan Variation, Sicilian",
+            "chronos": "Sicilian: Pelikan (Lasker/Sveshnikov) variation"
         }
     },
     "r2qkb1r/1p3ppp/p1npbn2/4p1B1/4P3/N1N5/PPP2PPP/R2QKB1R w KQkq - 2 9": {
@@ -10827,7 +11013,8 @@
         "aliases": {
             "scid": "Sicilian: Pelikan, Bird Variation",
             "ct": "Sicilian Defense, Lasker-Pelikan Variation",
-            "chessGraph": "Bird Variation, Siclian"
+            "chessGraph": "Bird Variation, Siclian",
+            "chronos": "Sicilian: Pelikan, Bird variation"
         }
     },
     "r1bqkb1r/pp1p1ppp/2N2n2/4p3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 6": {
@@ -10873,7 +11060,8 @@
         "aliases": {
             "scid": "Sicilian: Pelikan, Chelyabinsk Variation",
             "ct": "Sicilian Defense, Lasker-Pelikan Variation",
-            "chessGraph": "Chelyabinsk Variation, Sicilian"
+            "chessGraph": "Chelyabinsk Variation, Sicilian",
+            "chronos": "Sicilian: Pelikan, Chelyabinsk variation"
         }
     },
     "r1bqkb1r/5p1p/p1np4/1p1Npp2/4P3/N7/PPP2PPP/R2QKB1R w KQkq - 0 11": {
@@ -10886,7 +11074,8 @@
             "scid": "Sicilian: Pelikan, Sveshnikov Variation",
             "eco_js": "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, 9. Bxf6 gxf6 10. Nd5 f5",
             "ct": "Sicilian Defense, Lasker-Pelikan Variation",
-            "chessGraph": "Sveshnikov Variation, Sicilian"
+            "chessGraph": "Sveshnikov Variation, Sicilian",
+            "chronos": "Sicilian: Sveshnikov variation"
         }
     },
     "r1bqkb1r/5ppp/p1np1n2/1p1Np1B1/4P3/N7/PPP2PPP/R2QKB1R b KQkq - 1 9": {
@@ -10930,7 +11119,8 @@
             "scid": "Sicilian: Open, 2...Nc6",
             "eco_js": "Sicilian Defense: Open, 3. d4 cxd4 4. Nxd4 Nf6",
             "ct": "Sicilian Defense, Old Sicilian",
-            "chessGraph": "B33"
+            "chessGraph": "B33",
+            "chronos": "Sicilian defence"
         }
     },
     "r1b1kb1r/pp1ppppp/1qn2n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6": {
@@ -11175,7 +11365,8 @@
         "scid": "B34c",
         "aliases": {
             "scid": "Sicilian: Accelerated Fianchetto, Exchange Variation",
-            "ct": "Sicilian Defense, Accelerated Dragon"
+            "ct": "Sicilian Defense, Accelerated Dragon",
+            "chronos": "Sicilian: accelerated fianchetto, exchange variation"
         },
         "isEcoRoot": true
     },
@@ -11187,7 +11378,8 @@
         "scid": "B34f",
         "aliases": {
             "scid": "Sicilian: Accelerated Fianchetto, Modern Variation",
-            "ct": "Sicilian Defense, Accelerated Dragon"
+            "ct": "Sicilian Defense, Accelerated Dragon",
+            "chronos": "Sicilian: accelerated fianchetto, modern variation"
         }
     },
     "r1bqkbnr/pp1ppp1p/2n3p1/8/2BNP3/8/PPP2PPP/RNBQK2R b KQkq - 1 5": {
@@ -11360,7 +11552,8 @@
         "aliases": {
             "scid": "Sicilian: Accelerated Fianchetto, Modern, 7.Bc4",
             "ct": "Sicilian Defense, Accelerated Dragon",
-            "chessGraph": "B35"
+            "chessGraph": "B35",
+            "chronos": "Sicilian: accelerated fianchetto, modern variation with Bc4"
         },
         "isEcoRoot": true
     },
@@ -11506,7 +11699,8 @@
             "scid": "Sicilian: Maroczy Bind",
             "eco_js": "Sicilian Defense: Accelerated Dragon, Maroczy Bind",
             "ct": "Sicilian Defense, Accelerated Dragon",
-            "chessGraph": "Maroczy Bind, Sicilian; B36"
+            "chessGraph": "Maroczy Bind, Sicilian; B36",
+            "chronos": "Sicilian: accelerated fianchetto, Maroczy bind"
         },
         "isEcoRoot": true
     },
@@ -11520,7 +11714,8 @@
             "scid": "Sicilian: Maroczy Bind, Gurgenidze Variation",
             "eco_js": "Sicilian Defense: Accelerated Dragon, Maroczy Bind, Gurgenidze Variation",
             "ct": "Sicilian Defense, Accelerated Dragon",
-            "chessGraph": "Gurgenidze Variation, Sicilian"
+            "chessGraph": "Gurgenidze Variation, Sicilian",
+            "chronos": "Sicilian: accelerated fianchetto, Gurgenidze variation"
         }
     },
     "r1bqkbnr/pp2pp1p/2np2p1/8/2PNP3/8/PP3PPP/RNBQKB1R w KQkq - 0 6": {
@@ -11665,7 +11860,8 @@
         "aliases": {
             "scid": "Sicilian: Maroczy Bind, 5...Bg7",
             "eco_js": "Sicilian Defense: Accelerated Fianchetto, Maroczy Bind, 5... Bg7",
-            "chessGraph": "B37"
+            "chessGraph": "B37",
+            "chronos": "Sicilian: accelerated fianchetto, Maroczy bind, 5...Bg7"
         },
         "isEcoRoot": true
     },
@@ -11677,7 +11873,8 @@
         "scid": "B37f",
         "aliases": {
             "scid": "Sicilian: Maroczy Bind, Simagin Variation",
-            "eco_js": "Sicilian Defense: Accelerated Fianchetto, Simagin Variation"
+            "eco_js": "Sicilian Defense: Accelerated Fianchetto, Simagin Variation",
+            "chronos": "Sicilian: accelerated fianchetto, Simagin variation"
         }
     },
     "r1bqk1nr/pp1pppbp/2n3p1/8/2P1P3/1N6/PP3PPP/RNBQKB1R b KQkq - 2 6": {
@@ -11816,7 +12013,8 @@
             "scid": "Sicilian: Maroczy Bind, 6.Be3",
             "eco_js": "Sicilian Defense: Accelerated Dragon, Maroczy Bind, 5. c4 Bg7 6. Be3",
             "ct": "Sicilian Defense, Accelerated Dragon",
-            "chessGraph": "B38"
+            "chessGraph": "B38",
+            "chronos": "Sicilian: accelerated fianchetto, Maroczy bind, 6.Be3"
         },
         "isEcoRoot": true
     },
@@ -12040,7 +12238,8 @@
             "scid": "Sicilian: Maroczy Bind, Breyer Variation",
             "eco_js": "Sicilian Defense: Accelerated Dragon, Maroczy Bind, Breyer Variation",
             "ct": "Sicilian Defense, Accelerated Dragon",
-            "chessGraph": "Breyer Variation, Sicilian; B39"
+            "chessGraph": "Breyer Variation, Sicilian; B39",
+            "chronos": "Sicilian: accelerated fianchetto, Breyer variation"
         },
         "isEcoRoot": true
     },
@@ -12172,7 +12371,8 @@
         "scid": "B40a",
         "aliases": {
             "scid": "Sicilian: 2...e6",
-            "chessGraph": "French Variation, Sicilian; B40"
+            "chessGraph": "French Variation, Sicilian; B40",
+            "chronos": "Sicilian defence"
         },
         "isEcoRoot": true
     },
@@ -12185,7 +12385,8 @@
         "aliases": {
             "scid": "Sicilian: Open, 2...e6, 4.Nxd4 Nf6",
             "ct": "Sicilian Defense, French Variation",
-            "chessGraph": "Anderssen; Counterattack Var, Sic"
+            "chessGraph": "Anderssen; Counterattack Var, Sic",
+            "chronos": "Sicilian: Anderssen variation"
         }
     },
     "rnbqkbnr/pp1p1ppp/4p3/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4": {
@@ -12197,7 +12398,8 @@
         "aliases": {
             "scid": "Sicilian: Open, 2...e6",
             "ct": "Sicilian Defense, French Variation",
-            "chessGraph": "Accelerated Wimpy Variation, Sic"
+            "chessGraph": "Accelerated Wimpy Variation, Sic",
+            "chronos": "Sicilian defence"
         }
     },
     "rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/1P3N2/P1PP1PPP/RNBQKB1R b KQkq - 0 3": {
@@ -12260,7 +12462,8 @@
         "aliases": {
             "scid": "Sicilian: Marshall Variation",
             "eco_wikip.g": "Marshall Gambit",
-            "chessGraph": "Marshall Variation, Sicilian"
+            "chessGraph": "Marshall Variation, Sicilian",
+            "chronos": "Sicilian: Marshall variation"
         }
     },
     "rnbqk1nr/pp1p1ppp/4p3/2b5/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5": {
@@ -12281,7 +12484,8 @@
         "scid": "B40s",
         "aliases": {
             "scid": "Sicilian: Pin Variation",
-            "chessGraph": "Pin Variation; Sicilian CounterAttack"
+            "chessGraph": "Pin Variation; Sicilian CounterAttack",
+            "chronos": "Sicilian: Pin variation (Sicilian counter-attack)"
         }
     },
     "rnbqk2r/pp1p1ppp/5n2/4p3/1b1NP3/2NB4/PPP2PPP/R1BQK2R w KQkq - 0 7": {
@@ -12293,7 +12497,8 @@
         "aliases": {
             "scid": "Sicilian: Pin, Jaffe Variation",
             "ct": "Sicilian Defense, Pin Variation",
-            "chessGraph": "Jaffe Variation, Sicilian"
+            "chessGraph": "Jaffe Variation, Sicilian",
+            "chronos": "Sicilian: Pin, Jaffe variation"
         }
     },
     "rnbqk2r/pp1p1ppp/4pn2/4P3/1b1N4/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 6": {
@@ -12305,7 +12510,8 @@
         "aliases": {
             "scid": "Sicilian: Pin, Koch Variation",
             "ct": "Sicilian Defense, Pin Variation",
-            "chessGraph": "Koch Variation, Sicilian"
+            "chessGraph": "Koch Variation, Sicilian",
+            "chronos": "Sicilian: Pin, Koch variation"
         }
     },
     "rnbqkbnr/pp1p1ppp/4p3/8/3pP3/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 4": {
@@ -12419,7 +12625,8 @@
         "aliases": {
             "scid": "Sicilian: Kan (Paulsen)",
             "ct": "Sicilian Defense, O'Kelly Variation",
-            "chessGraph": "Kan Line, O'Kelly Sicilian"
+            "chessGraph": "Kan Line, O'Kelly Sicilian",
+            "chronos": "Sicilian: Kan variation"
         },
         "isEcoRoot": true
     },
@@ -12442,7 +12649,8 @@
         "scid": "B41k",
         "aliases": {
             "scid": "Sicilian: Kan, 5.c4 Nf6, Bronstein Variation",
-            "eco_js": "Sicilian Defense: Kan, Maroczy Bind, Bronstein Variation"
+            "eco_js": "Sicilian Defense: Kan, Maroczy Bind, Bronstein Variation",
+            "chronos": "Sicilian: Kan, Maroczy bind - Bronstein variation"
         }
     },
     "rnbqkbnr/1p1p1p1p/p3p1p1/8/2PNP3/8/PP3PPP/RNBQKB1R w KQkq - 0 6": {
@@ -12466,7 +12674,8 @@
             "scid": "Sicilian: Kan, 5.c4",
             "eco_js": "Sicilian Defense: Kan Variation, Maroczy Bind, Reti Variation",
             "ct": "Sicilian Defense, Kan Variation",
-            "chessGraph": "Reti Variation, Sicilian"
+            "chessGraph": "Reti Variation, Sicilian",
+            "chronos": "Sicilian: Kan, Maroczy bind (Reti variation)"
         }
     },
     "rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP1BPPP/RNBQK2R b KQkq - 1 5": {
@@ -12554,7 +12763,8 @@
         "scid": "B42k",
         "aliases": {
             "scid": "Sicilian: Kan, Gipslis Variation",
-            "eco_js": "Sicilian Defense: Kan, Gipslis Variation"
+            "eco_js": "Sicilian Defense: Kan, Gipslis Variation",
+            "chronos": "Sicilian: Kan, Gipslis variation"
         }
     },
     "rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/3B4/PPP2PPP/RNBQK2R b KQkq - 1 5": {
@@ -12566,7 +12776,8 @@
         "aliases": {
             "scid": "Sicilian: Kan, 5.Bd3",
             "ct": "Sicilian Defense, Kan Variation",
-            "chessGraph": "B42"
+            "chessGraph": "B42",
+            "chronos": "Sicilian: Kan, 5.Bd3"
         },
         "isEcoRoot": true
     },
@@ -12579,7 +12790,8 @@
         "aliases": {
             "scid": "Sicilian: Kan, Polugaevsky Variation",
             "ct": "Sicilian Defense, Kan Variation",
-            "chessGraph": "Polugaevsky Variation, Sicilian"
+            "chessGraph": "Polugaevsky Variation, Sicilian",
+            "chronos": "Sicilian: Kan, Polugaievsky variation"
         }
     },
     "rnbqkbnr/1p1p1p1p/p3p1p1/8/3NP3/3B4/PPP2PPP/RNBQK2R w KQkq - 0 6": {
@@ -12591,7 +12803,8 @@
         "aliases": {
             "scid": "Sicilian: Kan, Swiss Cheese Variation",
             "ct": "Sicilian Defense, Kan Variation",
-            "chessGraph": "Swiss Cheese Variation, Sicilian"
+            "chessGraph": "Swiss Cheese Variation, Sicilian",
+            "chronos": "Sicilian: Kan, Swiss cheese variation"
         }
     },
     "r1bqkbnr/1p1p1ppp/p1n1p3/8/3NP3/3B4/PPP2PPP/RNBQK2R w KQkq - 2 6": {
@@ -12701,7 +12914,8 @@
         "aliases": {
             "scid": "Sicilian: Kan, 5.Nc3",
             "ct": "Sicilian Defense, Kan Variation",
-            "chessGraph": "B43"
+            "chessGraph": "B43",
+            "chronos": "Sicilian: Kan, 5.Nc3"
         },
         "isEcoRoot": true
     },
@@ -12835,7 +13049,8 @@
             "scid": "Sicilian: Taimanov",
             "eco_js": "Sicilian Defense: Paulsen Variation",
             "ct": "Sicilian Defense, Paulsen Variation",
-            "chessGraph": "Taimanov; Bastrikov, Paulsen Variation, Sicilian; B44"
+            "chessGraph": "Taimanov; Bastrikov, Paulsen Variation, Sicilian; B44",
+            "chronos": "Sicilian defence"
         },
         "isEcoRoot": true
     },
@@ -12849,7 +13064,8 @@
             "scid": "Sicilian: Taimanov, Szen, Kasparov Gambit",
             "eco_js": "Sicilian Defense: Paulsen Variation, Gary Gambit",
             "ct": "Sicilian Defense, Paulsen Variation",
-            "chessGraph": "Gary Gambit, Sicilian"
+            "chessGraph": "Gary Gambit, Sicilian",
+            "chronos": "Sicilian, Szen variation, Dely-Kasparov gambit"
         }
     },
     "r1bq1rk1/4bppp/ppnppn2/8/2P1P3/N1N5/PP2BPPP/R1BQ1RK1 w - - 0 11": {
@@ -12861,7 +13077,8 @@
         "aliases": {
             "scid": "Sicilian: Taimanov, Szen, Hedgehog Variation",
             "eco_js": "Sicilian Defense: Paulsen Variation, Modern Line",
-            "ct": "Sicilian Defense, Paulsen Variation"
+            "ct": "Sicilian Defense, Paulsen Variation",
+            "chronos": "Sicilian, Szen, hedgehog variation"
         }
     },
     "r1bqkbnr/pp1p1ppp/2n1p3/1N6/4P3/8/PPP2PPP/RNBQKB1R b KQkq - 2 5": {
@@ -12874,7 +13091,8 @@
             "scid": "Sicilian, Taimanov, Szen Variation",
             "eco_js": "Sicilian Defense: Paulsen Variation, Szen Variation",
             "ct": "Sicilian Defense, Paulsen Variation",
-            "chessGraph": "Szen Variation, Sicilian"
+            "chessGraph": "Szen Variation, Sicilian",
+            "chronos": "Sicilian, Szen (`anti-Taimanov') variation"
         }
     },
     "r1bqkbnr/pp3ppp/2npp3/1N6/4P3/8/PPP2PPP/RNBQKB1R w KQkq - 0 6": {
@@ -13118,7 +13336,8 @@
             "scid": "Sicilian: Taimanov, Four Knights, American Attack",
             "eco_js": "Sicilian Defense: Paulsen Variation, American Attack",
             "ct": "Sicilian Defense, Paulsen Variation",
-            "chessGraph": "American Attack, Sicilian"
+            "chessGraph": "American Attack, Sicilian",
+            "chronos": "Sicilian: Taimanov, American attack"
         }
     },
     "r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5": {
@@ -13131,7 +13350,8 @@
             "scid": "Sicilian: Taimanov, 5.Nc3",
             "eco_js": "Sicilian Defense: Paulsen Variation, Normal Variation",
             "ct": "Sicilian Defense, Paulsen Variation",
-            "chessGraph": "B45"
+            "chessGraph": "B45",
+            "chronos": "Sicilian: Taimanov variation"
         },
         "isEcoRoot": true
     },
@@ -13316,7 +13536,8 @@
             "scid": "Sicilian: Taimanov, 5...a6",
             "eco_js": "Sicilian Defense: Paulsen Variation, 4. Nxd4 Nc6 5. Nc3 a6",
             "ct": "Sicilian Defense, Paulsen Variation",
-            "chessGraph": "B46"
+            "chessGraph": "B46",
+            "chronos": "Sicilian: Taimanov variation"
         },
         "isEcoRoot": true
     },
@@ -13454,7 +13675,8 @@
             "scid": "Sicilian: Taimanov, Bastrikov Variation",
             "eco_js": "Sicilian Defense: Paulsen Variation, Bastrikov Variation",
             "ct": "Sicilian Defense, Paulsen Variation",
-            "chessGraph": "Bastrikov Variation, Sicilian; B47"
+            "chessGraph": "Bastrikov Variation, Sicilian; B47",
+            "chronos": "Sicilian: Taimanov (Bastrikov) variation"
         },
         "isEcoRoot": true
     },
@@ -13696,7 +13918,8 @@
             "scid": "Sicilian: Taimanov, 6.Be3",
             "eco_js": "Sicilian Defense: Paulsen Variation, Bastrikov Variation, 5. Nc3 Qc7 6. Be3",
             "ct": "Sicilian Defense, Paulsen Variation",
-            "chessGraph": "B48"
+            "chessGraph": "B48",
+            "chronos": "Sicilian: Taimanov variation"
         },
         "isEcoRoot": true
     },
@@ -13870,7 +14093,8 @@
             "scid": "Sicilian: Taimanov, 6.Be3 a6 7.Be2",
             "eco_js": "Sicilian Defense: Paulsen Variation, Bastrikov Variation, 6. Be3 a6 7. Be2",
             "ct": "Sicilian Defense, Paulsen Variation",
-            "chessGraph": "B49"
+            "chessGraph": "B49",
+            "chronos": "Sicilian: Taimanov variation"
         },
         "isEcoRoot": true
     },
@@ -14131,7 +14355,8 @@
         "aliases": {
             "scid": "Sicilian: Wing Gambit deferred",
             "ct": "Sicilian Defense, Wing Gambit",
-            "chessGraph": "Wing Gambit Deferred, Sicilian"
+            "chessGraph": "Wing Gambit Deferred, Sicilian",
+            "chronos": "Sicilian: wing gambit deferred"
         }
     },
     "rnbqkbnr/pp2pppp/3p4/2p5/4P3/1P3N2/P1PP1PPP/RNBQKB1R b KQkq - 0 3": {
@@ -14284,7 +14509,8 @@
             "scid": "Sicilian: Moscow",
             "eco_js": "Sicilian Defense: Canal-Sokolsky Attack",
             "ct": "Sicilian Defense, Canal Attack",
-            "chessGraph": "Moscow Variation, Sicilian; Canal Attack; B51"
+            "chessGraph": "Moscow Variation, Sicilian; Canal Attack; B51",
+            "chronos": "Sicilian: Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"
         },
         "isEcoRoot": true
     },
@@ -14481,7 +14707,8 @@
             "scid": "Sicilian: 3.Bb5+, Bronstein Gambit",
             "eco_js": "Sicilian Defense: Canal Attack, Haag Gambit",
             "ct": "Sicilian Defense, Canal Attack",
-            "chessGraph": "Bronstein (Haag) Gambit, Sicilian"
+            "chessGraph": "Bronstein (Haag) Gambit, Sicilian",
+            "chronos": "Sicilian: Canal-Sokolsky attack, Bronstein gambit"
         }
     },
     "rn1qkbnr/pp1bpppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4": {
@@ -14494,7 +14721,8 @@
             "scid": "Sicilian: Moscow 3...Bd7",
             "eco_js": "Sicilian Defense: Canal Attack, Main Line",
             "ct": "Sicilian Defense, Canal Attack",
-            "chessGraph": "Main Line, Canal Attack, Sicilian; B52"
+            "chessGraph": "Main Line, Canal Attack, Sicilian; B52",
+            "chronos": "Sicilian: Canal-Sokolsky attack, 3...Bd7"
         },
         "isEcoRoot": true
     },
@@ -14506,7 +14734,8 @@
         "scid": "B52g",
         "aliases": {
             "scid": "Sicilian: 3.Bb5+, Sokolsky Variation",
-            "eco_js": "Sicilian Defense: Canal-Sokolsky Attack, Sokolsky Variation"
+            "eco_js": "Sicilian Defense: Canal-Sokolsky Attack, Sokolsky Variation",
+            "chronos": "Sicilian: Canal-Sokolsky attack, Sokolsky variation"
         }
     },
     "rn2kbnr/pp1qpppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 1 5": {
@@ -14636,7 +14865,8 @@
         "scid": "B53d",
         "aliases": {
             "scid": "Sicilian, Chekhover Variation",
-            "chessGraph": "Chekhover Variation, Sicilian"
+            "chessGraph": "Chekhover Variation, Sicilian",
+            "chronos": "Sicilian, Chekhover variation"
         },
         "isEcoRoot": true
     },
@@ -14649,7 +14879,8 @@
         "aliases": {
             "scid": "Sicilian: Chekhover, Zaitsev Variation",
             "ct": "Sicilian Defense, Chekhover Variation",
-            "chessGraph": "Zaitsev Variation, Sicilian"
+            "chessGraph": "Zaitsev Variation, Sicilian",
+            "chronos": "Sicilian: Chekhover, Zaitsev variation"
         }
     },
     "rnbqkbnr/1p2pppp/p2p4/8/3QP3/5N2/PPP2PPP/RNB1KB1R w KQkq - 0 5": {
@@ -14830,7 +15061,8 @@
         "scid": "B54f",
         "aliases": {
             "scid": "Sicilian: Prins (Moscow) Variation",
-            "chessGraph": "Moscow (Prins) Variation, Sicilian"
+            "chessGraph": "Moscow (Prins) Variation, Sicilian",
+            "chronos": "Sicilian: Prins (Moscow) variation"
         }
     },
     "rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4": {
@@ -14938,7 +15170,8 @@
         "aliases": {
             "scid": "Sicilian: Prins, Venice Attack",
             "ct": "Sicilian Defense, Prins Variation",
-            "chessGraph": "Venice Attack, Sicilian"
+            "chessGraph": "Venice Attack, Sicilian",
+            "chronos": "Sicilian: Prins variation, Venice attack"
         },
         "isEcoRoot": true
     },
@@ -15018,7 +15251,8 @@
         "scid": "B56c",
         "aliases": {
             "scid": "Sicilian: Venice Attack",
-            "chessGraph": "Venice Attack, Sicilian"
+            "chessGraph": "Venice Attack, Sicilian",
+            "chronos": "Sicilian: Venice attack"
         }
     },
     "r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2NB4/PPP2PPP/R1BQK2R b KQkq - 1 6": {
@@ -15152,7 +15386,8 @@
         "scid": "B57a",
         "aliases": {
             "scid": "Sicilian: Sozin",
-            "chessGraph": "Sozin; Velimirovic Attack, Sicilian; B57"
+            "chessGraph": "Sozin; Velimirovic Attack, Sicilian; B57",
+            "chronos": "Sicilian: Sozin, not Scheveningen"
         },
         "isEcoRoot": true
     },
@@ -15163,7 +15398,8 @@
         "name": "Sicilian Defense: Magnus Smith Trap",
         "scid": "B57a",
         "aliases": {
-            "scid": "Sicilian: Sozin, Magnus Smith Trap"
+            "scid": "Sicilian: Sozin, Magnus Smith Trap",
+            "chronos": "Sicilian: Magnus Smith trap"
         }
     },
     "r1bqkb1r/pp2pppp/2np1n2/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 6": {
@@ -15282,7 +15518,8 @@
         "scid": "B58e",
         "aliases": {
             "scid": "Sicilian: Boleslavsky, 6...e5",
-            "chessGraph": "Boleslavsky Variation, Sicilian"
+            "chessGraph": "Boleslavsky Variation, Sicilian",
+            "chronos": "Sicilian: Boleslavsky variation"
         }
     },
     "r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP1BPPP/R1BQK2R b KQkq - 1 6": {
@@ -15290,7 +15527,10 @@
         "eco": "B58",
         "moves": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2",
         "name": "Sicilian Defense, classical",
-        "isEcoRoot": true
+        "isEcoRoot": true,
+        "aliases": {
+            "chronos": "Sicilian: classical"
+        }
     },
     "r1bqkb1r/pp3ppp/2Np1n2/4p3/4P3/2N5/PPP1BPPP/R1BQK2R b KQkq - 0 7": {
         "src": "eco_tsv",
@@ -15301,7 +15541,8 @@
         "aliases": {
             "scid": "Sicilian: Boleslavsky, Louma Variation",
             "ct": "Sicilian Defense, Boleslavsky Variation",
-            "chessGraph": "Louma Variation, Sicilian"
+            "chessGraph": "Louma Variation, Sicilian",
+            "chronos": "Sicilian: Boleslavsky, Louma variation"
         }
     },
     "r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP1BPPP/R1BQK2R b KQkq - 4 6": {
@@ -15474,7 +15715,8 @@
         "aliases": {
             "scid": "Sicilian: Boleslavsky, 7.Nb3",
             "eco_js": "Sicilian Defense: Boleslavsky Variation, 6. Be2 e5 7. Nb3",
-            "chessGraph": "B59"
+            "chessGraph": "B59",
+            "chronos": "Sicilian: Boleslavsky variation, 7.Nb3"
         },
         "isEcoRoot": true
     },
@@ -15584,7 +15826,8 @@
         "scid": "B60a",
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer",
-            "chessGraph": "Richter-Rauzer Variation, Sicilian; B60"
+            "chessGraph": "Richter-Rauzer Variation, Sicilian; B60",
+            "chronos": "Sicilian: Richter-Rauzer"
         },
         "isEcoRoot": true
     },
@@ -15597,7 +15840,8 @@
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer, Bondarevsky Variation",
             "ct": "Sicilian Defense, Richter-Rauzer Variation",
-            "chessGraph": "Dragon Variation, Richter-Rauzer Sicilian"
+            "chessGraph": "Dragon Variation, Richter-Rauzer Sicilian",
+            "chronos": "Sicilian: Richter-Rauzer, Bondarevsky variation"
         }
     },
     "r2qkb1r/pp1bpppp/2np1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R w KQkq - 5 7": {
@@ -15608,7 +15852,8 @@
         "scid": "B60f",
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer, Larsen Variation",
-            "ct": "Sicilian Defense, Richter-Rauzer Variation"
+            "ct": "Sicilian Defense, Richter-Rauzer Variation",
+            "chronos": "Sicilian: Richter-Rauzer, Larsen variation"
         }
     },
     "r1bqkb1r/1p2pppp/p1np1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R w KQkq - 0 7": {
@@ -15684,7 +15929,8 @@
         "scid": "B61a",
         "isEcoRoot": true,
         "aliases": {
-            "ct": "Sicilian Defense, Richter-Rauzer Variation"
+            "ct": "Sicilian Defense, Richter-Rauzer Variation",
+            "chronos": "Sicilian: Richter-Rauzer, Larsen variation, 7.Qd2"
         }
     },
     "r2qkb1r/1p1bpppp/p1np1n2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R w KQkq - 0 8": {
@@ -15752,7 +15998,8 @@
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer, 6...e6",
             "eco_js": "Sicilian Defense: Richter-Rauzer, 6... e6",
-            "chessGraph": "B62"
+            "chessGraph": "B62",
+            "chronos": "Sicilian: Richter-Rauzer, 6...e6"
         },
         "isEcoRoot": true
     },
@@ -15764,7 +16011,8 @@
         "scid": "B62f",
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer, Keres Variation",
-            "eco_js": "Sicilian Defense: Richter-Rauzer Variation, 6. Bg5 e6 7. Qd3"
+            "eco_js": "Sicilian Defense: Richter-Rauzer Variation, 6. Bg5 e6 7. Qd3",
+            "chronos": "Sicilian: Richter-Rauzer, Keres variation"
         }
     },
     "r1bqkb1r/pp3ppp/2Nppn2/6B1/4P3/2N5/PPP2PPP/R2QKB1R b KQkq - 0 7": {
@@ -15776,7 +16024,8 @@
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer, Richter Attack",
             "ct": "Sicilian Defense, Richter-Rauzer Variation",
-            "chessGraph": "Exchange Variation, Richter-Rauzer Sicilian"
+            "chessGraph": "Exchange Variation, Richter-Rauzer Sicilian",
+            "chronos": "Sicilian: Richter-Rauzer, Richter attack"
         }
     },
     "r1bqkb1r/pp3ppp/2nppn2/6B1/4P3/1NN5/PPP2PPP/R2QKB1R b KQkq - 1 7": {
@@ -15788,7 +16037,8 @@
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer, Podebrady Variation",
             "ct": "Sicilian Defense, Richter-Rauzer Variation",
-            "chessGraph": "Podebrady Variation, Sicilian"
+            "chessGraph": "Podebrady Variation, Sicilian",
+            "chronos": "Sicilian: Richter-Rauzer, Podvebrady variation"
         }
     },
     "r1bqkb1r/pp3ppp/2nppn2/1B4B1/3NP3/2N5/PPP2PPP/R2QK2R b KQkq - 1 7": {
@@ -15800,7 +16050,8 @@
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer, Margate (Alekhine) Variation",
             "ct": "Sicilian Defense, Richter-Rauzer Variation",
-            "chessGraph": "Margate (Vitolins) Variation, Sicilian"
+            "chessGraph": "Margate (Vitolins) Variation, Sicilian",
+            "chronos": "Sicilian: Richter-Rauzer, Margate (Alekhine) variation"
         }
     },
     "r1bqkb1r/pp3ppp/2nppn2/6B1/3NP3/2N5/PPP1BPPP/R2QK2R b KQkq - 1 7": {
@@ -15839,7 +16090,8 @@
         "scid": "B63k",
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer, 7.Qd2 Be7",
-            "ct": "Sicilian Defense, Richter-Rauzer Variation"
+            "ct": "Sicilian Defense, Richter-Rauzer Variation",
+            "chronos": "Sicilian: Richter-Rauzer, Rauzer attack, 7...Be7"
         }
     },
     "r1bqk2r/4bppp/p2ppn2/1p4B1/3QPP2/2N5/PPP3PP/2KR1B1R w kq - 0 11": {
@@ -15872,7 +16124,8 @@
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer, Rauzer Attack (7.Qd2)",
             "ct": "Sicilian Defense, Richter-Rauzer Variation",
-            "chessGraph": "Rauzer Variation, Sicilian; B63"
+            "chessGraph": "Rauzer Variation, Sicilian; B63",
+            "chronos": "Sicilian: Richter-Rauzer, Rauzer attack"
         },
         "isEcoRoot": true
     },
@@ -16032,7 +16285,8 @@
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer, Geller Variation",
             "eco_js": "Sicilian Defense: Richter-Rauzer Variation, Classical Variation, 8. O-O-O O-O 9. f4 e5",
-            "ct": "Sicilian Defense, Richter-Rauzer Variation"
+            "ct": "Sicilian Defense, Richter-Rauzer Variation",
+            "chronos": "Sicilian: Richter-Rauzer, Rauzer attack, Geller variation"
         }
     },
     "r1bq1rk1/pp2bppp/2nppn2/6B1/3NPP2/2N5/PPPQ2PP/2KR1B1R b - - 0 9": {
@@ -16045,7 +16299,8 @@
             "scid": "Sicilian: Richter-Rauzer, 7.Qd2 Be7, 9.f4",
             "eco_js": "Sicilian Defense: Richter-Rauzer Variation, Classical Variation, 8. O-O-O O-O 9. f4",
             "ct": "Sicilian Defense, Richter-Rauzer Variation",
-            "chessGraph": "B64"
+            "chessGraph": "B64",
+            "chronos": "Sicilian: Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"
         },
         "isEcoRoot": true
     },
@@ -16087,7 +16342,8 @@
             "scid": "Sicilian: Richter-Rauzer, 7...Be7, 9.f4 Nxd4",
             "eco_js": "Sicilian Defense: Richter-Rauzer Variation, Classical Variation, 9. f4 Nxd4 10. Qxd4",
             "ct": "Sicilian Defense, Richter-Rauzer Variation",
-            "chessGraph": "B65"
+            "chessGraph": "B65",
+            "chronos": "Sicilian: Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"
         },
         "isEcoRoot": true
     },
@@ -16099,7 +16355,8 @@
         "scid": "B65a",
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer, 7...Be7, 9.f4 Nxd4",
-            "eco_js": "Sicilian Defense: Richter-Rauzer, Rauzer Attack, 7... Be7 Defense: 9... Nxd4"
+            "eco_js": "Sicilian Defense: Richter-Rauzer, Rauzer Attack, 7... Be7 Defense: 9... Nxd4",
+            "chronos": "Sicilian: Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"
         }
     },
     "r1bq1rk1/pp2bpp1/3ppn1p/6B1/3QPP2/2N5/PPP3PP/2KR1B1R w - - 0 11": {
@@ -16153,7 +16410,8 @@
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer, 7...a6",
             "ct": "Sicilian Defense, Richter-Rauzer Variation",
-            "chessGraph": "B66"
+            "chessGraph": "B66",
+            "chronos": "Sicilian: Richter-Rauzer, Rauzer attack, 7...a6"
         },
         "isEcoRoot": true
     },
@@ -16299,7 +16557,8 @@
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer, 7...a6 8.O-O-O Bd7",
             "ct": "Sicilian Defense, Richter-Rauzer Variation",
-            "chessGraph": "B67"
+            "chessGraph": "B67",
+            "chronos": "Sicilian: Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"
         },
         "isEcoRoot": true
     },
@@ -16446,7 +16705,8 @@
             "scid": "Sicilian: Richter-Rauzer, 7...a6, 9.f4 Be7",
             "eco_js": "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, 8. O-O-O Bd7 9. f4 Be7",
             "ct": "Sicilian Defense, Richter-Rauzer Variation",
-            "chessGraph": "B68"
+            "chessGraph": "B68",
+            "chronos": "Sicilian: Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"
         },
         "isEcoRoot": true
     },
@@ -16494,7 +16754,8 @@
         "aliases": {
             "scid": "Sicilian: Richter-Rauzer, 7...a6, 9.f4 Be7 10.Nf3 b5 11.Bxf6",
             "ct": "Sicilian Defense, Richter-Rauzer Variation",
-            "chessGraph": "B69"
+            "chessGraph": "B69",
+            "chronos": "Sicilian: Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"
         },
         "isEcoRoot": true
     },
@@ -16527,7 +16788,8 @@
         "scid": "B70a",
         "aliases": {
             "scid": "Sicilian: Dragon",
-            "chessGraph": "Dragon Variation, Sicilian; B70"
+            "chessGraph": "Dragon Variation, Sicilian; B70",
+            "chronos": "Sicilian: dragon variation"
         },
         "isEcoRoot": true
     },
@@ -16766,7 +17028,8 @@
         "aliases": {
             "scid": "Sicilian: Dragon, Levenfish Variation",
             "ct": "Sicilian Defense, Dragon Variation",
-            "chessGraph": "Levenfish Variation, Sicilian; B71"
+            "chessGraph": "Levenfish Variation, Sicilian; B71",
+            "chronos": "Sicilian: dragon, Levenfish variation"
         },
         "isEcoRoot": true
     },
@@ -16778,7 +17041,8 @@
         "scid": "B71",
         "aliases": {
             "scid": "Sicilian: Dragon, Levenfish, 6...Nbd7",
-            "ct": "Sicilian Defense, Dragon Variation"
+            "ct": "Sicilian Defense, Dragon Variation",
+            "chronos": "Sicilian: dragon, Levenfish; Flohr variation"
         }
     },
     "rnbqk2r/pp2ppbp/3p1np1/8/3NPP2/2N5/PPP3PP/R1BQKB1R w KQkq - 1 7": {
@@ -16832,7 +17096,8 @@
         "aliases": {
             "scid": "Sicilian: Dragon, 6.Be3",
             "eco_js": "Sicilian Defense: Dragon, 6. Be3",
-            "chessGraph": "B72"
+            "chessGraph": "B72",
+            "chronos": "Sicilian: dragon, 6.Be3"
         },
         "isEcoRoot": true
     },
@@ -16845,7 +17110,8 @@
         "aliases": {
             "scid": "Sicilian: Dragon, Classical Attack",
             "eco_js": "Sicilian Defense: Dragon, Classical Attack",
-            "ct": "Sicilian Defense, Dragon Variation"
+            "ct": "Sicilian Defense, Dragon Variation",
+            "chronos": "Sicilian: dragon, classical attack"
         }
     },
     "r1bqk2r/pp2ppbp/2np1np1/8/3NP3/2N1B3/PPP1BPPP/R2QK2R w KQkq - 4 8": {
@@ -16868,7 +17134,8 @@
             "scid": "Sicilian: Dragon, Classical, Nottingham Variation",
             "eco_js": "Sicilian Defense: Dragon Variation, Classical Variation, 7. Be2 Nc6 8. Nb3",
             "ct": "Sicilian Defense, Dragon Variation",
-            "chessGraph": "Nottingham Variation, Sicilian"
+            "chessGraph": "Nottingham Variation, Sicilian",
+            "chronos": "Sicilian: dragon, classical, Nottingham variation"
         }
     },
     "r1bqk2r/pp2ppbp/2np1np1/8/3NP3/2N1B3/PPPQBPPP/R3K2R b KQkq - 3 8": {
@@ -16968,7 +17235,8 @@
             "scid": "Sicilian: Dragon, Classical, 8.O-O",
             "eco_js": "Sicilian Defense: Dragon Variation, Classical Variation, 7. O-O Nc6 8. Be3",
             "ct": "Sicilian Defense, Dragon Variation",
-            "chessGraph": "B73"
+            "chessGraph": "B73",
+            "chronos": "Sicilian: dragon, classical, 8.O-O"
         },
         "isEcoRoot": true
     },
@@ -16980,7 +17248,8 @@
         "scid": "B73",
         "aliases": {
             "scid": "Sicilian: Dragon, Classical, Richter Variation",
-            "ct": "Sicilian Defense, Dragon Variation"
+            "ct": "Sicilian Defense, Dragon Variation",
+            "chronos": "Sicilian: dragon, classical, Richter variation"
         }
     },
     "r1b2rk1/pp2ppbp/1qnp1np1/4P3/3N1P2/2N1B3/PPP1B1PP/R2Q1RK1 b - - 0 10": {
@@ -16991,7 +17260,8 @@
         "scid": "B73",
         "aliases": {
             "scid": "Sicilian: Dragon, Classical, Zollner Gambit",
-            "eco_js": "Sicilian Defense: Dragon, Classical, Zollner Gambit"
+            "eco_js": "Sicilian Defense: Dragon, Classical, Zollner Gambit",
+            "chronos": "Sicilian: dragon, classical, Zollner gambit"
         }
     },
     "r1bq1rk1/pp2ppbp/2np1np1/8/3NP3/2N1B3/PPP1BPPP/R2Q1RK1 w - - 6 9": {
@@ -17024,7 +17294,8 @@
         "aliases": {
             "scid": "Sicilian: Dragon, Classical, Alekhine Variation",
             "ct": "Sicilian Defense, Dragon Variation",
-            "chessGraph": "Alekhine Line, Sicilian Dragon"
+            "chessGraph": "Alekhine Line, Sicilian Dragon",
+            "chronos": "Sicilian: dragon, classical, Alekhine variation"
         }
     },
     "r2q1rk1/pp2ppbp/5np1/n2p1P2/4P3/1NNPB3/PP4PP/R2Q1RK1 w - - 0 14": {
@@ -17035,7 +17306,8 @@
         "scid": "B74",
         "aliases": {
             "scid": "Sicilian: Dragon, Classical, Bernard Defence",
-            "eco_js": "Sicilian Defense: Dragon, Classical, Bernard Defense"
+            "eco_js": "Sicilian Defense: Dragon, Classical, Bernard Defense",
+            "chronos": "Sicilian: dragon, classical, Bernard defence"
         }
     },
     "r2q1rk1/pp2ppbp/3pbnp1/n7/4PP2/1NN1B3/PPP1B1PP/R2Q1RK1 w - - 1 11": {
@@ -17060,7 +17332,8 @@
         "aliases": {
             "scid": "Sicilian: Dragon, Classical, 9.Nb3",
             "ct": "Sicilian Defense, Dragon Variation",
-            "chessGraph": "B74"
+            "chessGraph": "B74",
+            "chronos": "Sicilian: dragon, classical, 9.Nb3"
         },
         "isEcoRoot": true
     },
@@ -17072,7 +17345,8 @@
         "scid": "B74",
         "aliases": {
             "scid": "Sicilian: Dragon, Classical, Spielmann Variation",
-            "eco_js": "Sicilian Defense: Dragon, Classical, Spielmann Variation"
+            "eco_js": "Sicilian Defense: Dragon, Classical, Spielmann Variation",
+            "chronos": "Sicilian: dragon, classical, Spielmann variation"
         }
     },
     "r4rk1/pp2ppbp/3p1np1/q4P2/4P1P1/2N1B3/PPP1Q2P/R4RK1 b - - 0 14": {
@@ -17083,7 +17357,8 @@
         "scid": "B74",
         "aliases": {
             "scid": "Sicilian: Dragon, Classical, Stockholm Attack",
-            "ct": "Sicilian Defense, Dragon Variation"
+            "ct": "Sicilian Defense, Dragon Variation",
+            "chronos": "Sicilian: dragon, classical, Stockholm attack"
         }
     },
     "r1q2rk1/pp2ppbp/2npbnp1/8/4PP2/1NN1B3/PPP1B1PP/R2Q1RK1 w - - 1 11": {
@@ -17095,7 +17370,8 @@
         "aliases": {
             "scid": "Sicilian: Dragon, Classical, Tartakower Variation",
             "ct": "Sicilian Defense, Dragon Variation",
-            "chessGraph": "Tartakower Line, Sicilian Dragon"
+            "chessGraph": "Tartakower Line, Sicilian Dragon",
+            "chronos": "Sicilian: dragon, classical, Reti-Tartakower variation"
         }
     },
     "r1bq1rk1/1p2ppbp/p1np1np1/8/4P3/1NN1B3/PPP1BPPP/R2Q1RK1 w - - 0 10": {
@@ -17153,7 +17429,8 @@
         "aliases": {
             "scid": "Sicilian: Dragon, Yugoslav Attack",
             "ct": "Sicilian Defense, Dragon Variation",
-            "chessGraph": "B75"
+            "chessGraph": "B75",
+            "chronos": "Sicilian: dragon, Yugoslav attack"
         },
         "isEcoRoot": true
     },
@@ -17208,7 +17485,8 @@
         "aliases": {
             "scid": "Sicilian: Dragon, Yugoslav, 7.f3 O-O",
             "ct": "Sicilian Defense, Dragon Variation",
-            "chessGraph": "Yugoslav Attack, Sicilian Dragon; B76"
+            "chessGraph": "Yugoslav Attack, Sicilian Dragon; B76",
+            "chronos": "Sicilian: dragon, Yugoslav attack, 7...O-O"
         },
         "isEcoRoot": true
     },
@@ -17232,7 +17510,8 @@
         "scid": "B76g",
         "aliases": {
             "scid": "Sicilian: Dragon, Yugoslav, 9.O-O-O",
-            "ct": "Sicilian Defense, Dragon Variation"
+            "ct": "Sicilian Defense, Dragon Variation",
+            "chronos": "Sicilian: dragon, Yugoslav attack, Rauser variation"
         }
     },
     "r1bq1rk1/pp2ppbp/2np1np1/8/3NP1P1/2N1BP2/PPPQ3P/R3KB1R b KQ - 0 9": {
@@ -17382,7 +17661,8 @@
         "aliases": {
             "scid": "Sicilian: Dragon, Yugoslav, 9.Bc4 Bd7",
             "eco_js": "Sicilian Defense: Dragon Variation, Yugoslav Attack, 8. Qd2 Nc6 9. Bc4 Bd7",
-            "ct": "Sicilian Defense, Dragon Variation"
+            "ct": "Sicilian Defense, Dragon Variation",
+            "chronos": "Sicilian: dragon, Yugoslav attack, 9...Bd7"
         }
     },
     "r1bq1rk1/1p2ppbp/2np1np1/p7/2BNP3/2N1BP2/PPPQ2PP/R3K2R w KQ - 0 10": {
@@ -17393,7 +17673,8 @@
         "scid": "B77b",
         "aliases": {
             "scid": "Sicilian: Dragon, Yugoslav, Byrne Variation",
-            "eco_js": "Sicilian Defense: Dragon, Yugoslav Attack, Byrne Variation"
+            "eco_js": "Sicilian Defense: Dragon, Yugoslav Attack, Byrne Variation",
+            "chronos": "Sicilian: dragon, Yugoslav attack, Byrne variation"
         }
     },
     "r2q1rk1/pp2ppbp/3pbnp1/8/2BBP3/2N2P2/PPPQ2PP/R3K2R w KQ - 1 11": {
@@ -17414,7 +17695,8 @@
         "aliases": {
             "scid": "Sicilian: Dragon, Yugoslav, 9.Bc4",
             "ct": "Sicilian Defense, Dragon Variation",
-            "chessGraph": "B77"
+            "chessGraph": "B77",
+            "chronos": "Sicilian: dragon, Yugoslav attack, 9.Bc4"
         },
         "isEcoRoot": true
     },
@@ -17482,7 +17764,8 @@
             "scid": "Sicilian: Dragon, Yugoslav, 10.O-O-O",
             "eco_js": "Sicilian Defense: Dragon Variation, Yugoslav Attack, 9. Bc4 Bd7 10. O-O-O",
             "ct": "Sicilian Defense, Dragon Variation",
-            "chessGraph": "B78"
+            "chessGraph": "B78",
+            "chronos": "Sicilian: dragon, Yugoslav attack, 10.O-O-O"
         },
         "isEcoRoot": true
     },
@@ -17673,7 +17956,10 @@
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Qa5 11. Bb3 Rfc8 12. h4",
         "name": "Sicilian: Dragon, Yugoslav, Old Main Line, 12.h4",
         "scid": "B79a",
-        "isEcoRoot": true
+        "isEcoRoot": true,
+        "aliases": {
+            "chronos": "Sicilian: dragon, Yugoslav attack, 12.h4"
+        }
     },
     "r1r3k1/pp1bppbp/3p1np1/q3n3/3NP2P/1BN1BP2/PPPQ2P1/2KR3R w - - 1 13": {
         "src": "scid",
@@ -17718,7 +18004,8 @@
         "scid": "B80a",
         "aliases": {
             "scid": "Sicilian: Scheveningen",
-            "chessGraph": "Scheveingen Variation, Sicilian; B80"
+            "chessGraph": "Scheveingen Variation, Sicilian; B80",
+            "chronos": "Sicilian: Scheveningen variation"
         },
         "isEcoRoot": true
     },
@@ -17731,7 +18018,8 @@
         "aliases": {
             "scid": "Sicilian: Scheveningen, 7.Qd2",
             "eco_js": "Sicilian Defense: Scheveningen Variation, English Attack, 6. Be3 e6 7. Qd2",
-            "ct": "Sicilian Defense, Scheveningen Variation"
+            "ct": "Sicilian Defense, Scheveningen Variation",
+            "chronos": "Sicilian: Scheveningen, English variation"
         }
     },
     "rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N3P1/PPP2P1P/R1BQKB1R b KQkq - 0 6": {
@@ -17743,7 +18031,8 @@
         "aliases": {
             "scid": "Sicilian: Scheveningen, Fianchetto Variation",
             "ct": "Sicilian Defense, Scheveningen Variation",
-            "chessGraph": "Fianchetto Variation, Scheveningen Sicilian"
+            "chessGraph": "Fianchetto Variation, Scheveningen Sicilian",
+            "chronos": "Sicilian: Scheveningen, fianchetto variation"
         }
     },
     "rnbqkb1r/pp3ppp/3ppn2/1B6/3NP3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 6": {
@@ -17755,7 +18044,8 @@
         "aliases": {
             "scid": "Sicilian: Scheveningen, Vitolins Variation",
             "ct": "Sicilian Defense, Scheveningen Variation",
-            "chessGraph": "Vitolins Variation, Sicilian"
+            "chessGraph": "Vitolins Variation, Sicilian",
+            "chronos": "Sicilian: Scheveningen, Vitolins variation"
         }
     },
     "rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6": {
@@ -17914,7 +18204,8 @@
         "aliases": {
             "scid": "Sicilian: Scheveningen, Keres Attack",
             "ct": "Sicilian Defense, Scheveningen Variation",
-            "chessGraph": "Keres; Panov Variation, Sicilian; B81"
+            "chessGraph": "Keres; Panov Variation, Sicilian; B81",
+            "chronos": "Sicilian: Scheveningen, Keres attack"
         },
         "isEcoRoot": true
     },
@@ -18074,7 +18365,8 @@
         "aliases": {
             "scid": "Sicilian: Scheveningen, 6.f4",
             "ct": "Sicilian Defense, Scheveningen Variation",
-            "chessGraph": "Matanovic Attack, Sicilian; B82"
+            "chessGraph": "Matanovic Attack, Sicilian; B82",
+            "chronos": "Sicilian: Scheveningen, 6.f4"
         },
         "isEcoRoot": true
     },
@@ -18087,7 +18379,8 @@
         "aliases": {
             "scid": "Sicilian: Scheveningen, Tal Variation",
             "ct": "Sicilian Defense, Scheveningen Variation",
-            "chessGraph": "Tal Variation, Sicilian"
+            "chessGraph": "Tal Variation, Sicilian",
+            "chronos": "Sicilian: Scheveningen, Tal variation"
         }
     },
     "rnbqkb1r/1p3ppp/p2ppn2/8/3NPP2/2N5/PPP3PP/R1BQKB1R w KQkq - 0 7": {
@@ -18176,7 +18469,8 @@
         "aliases": {
             "scid": "Sicilian: Scheveningen, 6.Be2",
             "ct": "Sicilian Defense, Scheveningen Variation",
-            "chessGraph": "Scheveningen Variation, Sicilian; B83"
+            "chessGraph": "Scheveningen Variation, Sicilian; B83",
+            "chronos": "Sicilian: Scheveningen, 6.Be2"
         },
         "isEcoRoot": true
     },
@@ -18188,7 +18482,8 @@
         "scid": "B83",
         "aliases": {
             "scid": "Sicilian: Scheveningen, Modern",
-            "ct": "Sicilian Defense, Scheveningen Variation"
+            "ct": "Sicilian Defense, Scheveningen Variation",
+            "chronos": "Sicilian: modern Scheveningen"
         }
     },
     "r1bq1rk1/pp2bppp/2nppn2/8/3NPP2/2N1B3/PPP1B1PP/R2Q1RK1 b - - 2 9": {
@@ -18237,7 +18532,8 @@
         "name": "Sicilian: Scheveningen, Modern, 9.f4",
         "scid": "B83",
         "aliases": {
-            "ct": "Sicilian Defense, Scheveningen Variation"
+            "ct": "Sicilian Defense, Scheveningen Variation",
+            "chronos": "Sicilian: modern Scheveningen, main line"
         }
     },
     "r2q1rk1/pp1bbppp/2nppn2/8/3NPP2/2N1B3/PPP1B1PP/R2Q1RK1 w - - 1 10": {
@@ -18261,7 +18557,8 @@
         "name": "Sicilian: Scheveningen, Modern, 9.f4 Bd7 10.Nb3",
         "scid": "B83",
         "aliases": {
-            "ct": "Sicilian Defense, Scheveningen Variation"
+            "ct": "Sicilian Defense, Scheveningen Variation",
+            "chronos": "Sicilian: modern Scheveningen, main line with Nb3"
         }
     },
     "r2q1rk1/1p1bbppp/p1nppn2/8/4PP2/1NN1B3/PPP1B1PP/R2Q1RK1 w - - 0 11": {
@@ -18314,7 +18611,8 @@
         "scid": "B84",
         "aliases": {
             "scid": "Sicilian: Scheveningen, Classical, 7.O-O Nbd7",
-            "ct": "Sicilian Defense, Najdorf Variation"
+            "ct": "Sicilian Defense, Najdorf Variation",
+            "chronos": "Sicilian: Scheveningen, classical, Nd7 system"
         }
     },
     "rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2N5/PPP1BPPP/R1BQK2R w KQkq - 0 7": {
@@ -18327,7 +18625,8 @@
             "scid": "Sicilian: Scheveningen, Classical",
             "eco_js": "Sicilian Defense: Scheveningen Variation, Classical Variation, 5. Nc3 a6 6. Be2 e6",
             "ct": "Sicilian Defense, Scheveningen Variation",
-            "chessGraph": "Modern Paulsen, Sicilian; B84"
+            "chessGraph": "Modern Paulsen, Sicilian; B84",
+            "chronos": "Sicilian: Scheveningen (Paulsen), classical variation"
         },
         "isEcoRoot": true
     },
@@ -18340,7 +18639,8 @@
         "aliases": {
             "scid": "Sicilian: Scheveningen, Classical, 7.O-O Qc7",
             "eco_js": "Sicilian Defense: Scheveningen Variation, Classical Variation, 6. Be2 e6 7. O-O Qc7",
-            "ct": "Sicilian Defense, Scheveningen Variation"
+            "ct": "Sicilian Defense, Scheveningen Variation",
+            "chronos": "Sicilian: Scheveningen (Paulsen), classical variation"
         }
     },
     "rnbqkb1r/1p3ppp/p2ppn2/8/P2NP3/2N5/1PP1BPPP/R1BQK2R b KQkq - 0 7": {
@@ -18495,7 +18795,8 @@
         "isEcoRoot": true,
         "aliases": {
             "ct": "Sicilian Defense, Scheveningen Variation",
-            "chessGraph": "Paulsen Variation, Sicilian"
+            "chessGraph": "Paulsen Variation, Sicilian",
+            "chronos": "Sicilian: Scheveningen, classical variation with ...Qc7 and ...Nc6"
         }
     },
     "rnb1kb1r/1pq2ppp/p2ppn2/8/3NP3/2N5/PPP1BPPP/R1BQ1R1K b kq - 3 8": {
@@ -18543,7 +18844,8 @@
         "name": "Sicilian Defense: Scheveningen Variation, Classical Variation, Paulsen Variation",
         "aliases": {
             "eco_js": "Sicilian Defense: Scheveningen Variation, Classical Variation, Paulsen Variation, 9. f4 d6 10. a4",
-            "ct": "Sicilian Defense, Scheveningen Variation"
+            "ct": "Sicilian Defense, Scheveningen Variation",
+            "chronos": "Sicilian: Scheveningen, classical, Maroczy system"
         }
     },
     "rnbq1rk1/1p2bppp/p2ppn2/8/3NPP2/2N1B3/PPP1B1PP/R2Q1RK1 b - - 2 9": {
@@ -18621,7 +18923,10 @@
         "eco": "B85",
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 a6 7. O-O Be7 8. f4 O-O 9. Be3 Nc6 10. Qe1 Qc7",
         "name": "Sicilian: Scheveningen, Classical, Main Line, 9...Nc6 10.Qe1 Qc7",
-        "scid": "B85"
+        "scid": "B85",
+        "aliases": {
+            "chronos": "Sicilian: Scheveningen, classical main line"
+        }
     },
     "r1b2rk1/1pq1bppp/p1nppn2/8/3NPP2/2N1B1Q1/PPP1B1PP/R4RK1 b - - 6 11": {
         "src": "scid",
@@ -18645,7 +18950,8 @@
         "scid": "B86",
         "aliases": {
             "scid": "Sicilian: Sozin-Scheveningen",
-            "chessGraph": "Fischer Attack, Sozin Attack, Sicilian; B86"
+            "chessGraph": "Fischer Attack, Sozin Attack, Sicilian; B86",
+            "chronos": "Sicilian: Sozin attack"
         },
         "isEcoRoot": true
     },
@@ -18686,7 +18992,8 @@
         "aliases": {
             "scid": "Sicilian: Sozin-Najdorf, 7.Bb3 b5",
             "ct": "Sicilian Defense, Sozin Attack",
-            "chessGraph": "Flank Variation, Sicilian; B87"
+            "chessGraph": "Flank Variation, Sicilian; B87",
+            "chronos": "Sicilian: Sozin with ...a6 and ...b5"
         },
         "isEcoRoot": true
     },
@@ -18726,7 +19033,8 @@
         "scid": "B88",
         "aliases": {
             "scid": "Sicilian: Sozin, Fischer Variation",
-            "eco_js": "Sicilian Defense: Sozin, Fischer Variation"
+            "eco_js": "Sicilian Defense: Sozin, Fischer Variation",
+            "chronos": "Sicilian: Sozin, Fischer variation"
         }
     },
     "r1bqkb1r/pp3ppp/2nppn2/8/2BNP3/2N5/PPP2PPP/R1BQK2R w KQkq - 0 7": {
@@ -18744,7 +19052,8 @@
         "isEcoRoot": true,
         "aliases": {
             "ct": "Sicilian Defense, Sozin Attack",
-            "chessGraph": "Leonhardt Variation, Sicilian; B88"
+            "chessGraph": "Leonhardt Variation, Sicilian; B88",
+            "chronos": "Sicilian: Sozin, Leonhardt variation"
         }
     },
     "r1bqkb1r/pp3ppp/2nppn2/8/3NP3/1BN5/PPP2PPP/R1BQK2R b KQkq - 3 7": {
@@ -18824,7 +19133,8 @@
         "scid": "B89",
         "aliases": {
             "ct": "Sicilian Defense, Velimirovic Attack",
-            "chessGraph": "Velimirovic Variation, Sicilian"
+            "chessGraph": "Velimirovic Variation, Sicilian",
+            "chronos": "Sicilian: Velimirovic attack"
         }
     },
     "r1bqkb1r/1p3ppp/p1nppn2/8/2BNP3/2N1B3/PPP1QPPP/R3K2R b KQkq - 1 8": {
@@ -18863,7 +19173,8 @@
         "scid": "B90a",
         "aliases": {
             "scid": "Sicilian: Najdorf",
-            "chessGraph": "Najdorf Variation, Sicilian; B90"
+            "chessGraph": "Najdorf Variation, Sicilian; B90",
+            "chronos": "Sicilian: Najdorf"
         },
         "isEcoRoot": true
     },
@@ -18876,7 +19187,8 @@
         "aliases": {
             "scid": "Sicilian: Najdorf, Adams Attack",
             "ct": "Sicilian Defense, Najdorf Variation",
-            "chessGraph": "Adams Attack, Sicilian"
+            "chessGraph": "Adams Attack, Sicilian",
+            "chronos": "Sicilian: Najdorf, Adams attack"
         }
     },
     "rnbqkb1r/1p2pppp/p2p1n2/8/3NP1P1/2N5/PPP2P1P/R1BQKB1R b KQkq - 0 6": {
@@ -18897,7 +19209,8 @@
         "aliases": {
             "scid": "Sicilian: Najdorf, 6.Be3",
             "ct": "Sicilian Defense, Najdorf Variation",
-            "chessGraph": "Byrne Variation, Sicilian; English Attack"
+            "chessGraph": "Byrne Variation, Sicilian; English Attack",
+            "chronos": "Sicilian: Najdorf, Byrne (English) attack"
         }
     },
     "rnbqkb1r/1p2pppp/p2p4/8/3NP1n1/2N1B3/PPP2PPP/R2QKB1R w KQkq - 2 7": {
@@ -18931,7 +19244,8 @@
         "aliases": {
             "scid": "Sicilian: Najdorf, Fischer-Sozin Attack",
             "eco_js": "Sicilian Defense: Najdorf, Lipnitsky Attack",
-            "chessGraph": "Lipnitzky Variation, Sicilian"
+            "chessGraph": "Lipnitzky Variation, Sicilian",
+            "chronos": "Sicilian: Najdorf, Lipnitzky attack"
         }
     },
     "rnbqkb1r/1p3ppp/p2ppn2/8/3NP1P1/2N1B3/PPP2P1P/R2QKB1R b KQkq - 0 7": {
@@ -19117,7 +19431,8 @@
             "scid": "Sicilian: Najdorf, 6.g3",
             "eco_js": "Sicilian Defense: Najdorf Variation, Zagreb (Fianchetto) Variation",
             "ct": "Sicilian Defense, Najdorf Variation",
-            "chessGraph": "Zagreb Variation, Sicilian; B91"
+            "chessGraph": "Zagreb Variation, Sicilian; B91",
+            "chronos": "Sicilian: Najdorf, Zagreb (fianchetto) variation"
         },
         "isEcoRoot": true
     },
@@ -19221,7 +19536,8 @@
         "aliases": {
             "scid": "Sicilian: Najdorf, 6.Be2",
             "ct": "Sicilian Defense, Najdorf Variation",
-            "chessGraph": "Opocensky Variation, Sicilian; B92"
+            "chessGraph": "Opocensky Variation, Sicilian; B92",
+            "chronos": "Sicilian: Najdorf, Opovcensky variation"
         },
         "isEcoRoot": true
     },
@@ -19385,7 +19701,8 @@
         "aliases": {
             "scid": "Sicilian: Najdorf, 6.f4",
             "ct": "Sicilian Defense, Najdorf Variation",
-            "chessGraph": "Amsterdam Variation, Sicilian; B93"
+            "chessGraph": "Amsterdam Variation, Sicilian; B93",
+            "chronos": "Sicilian: Najdorf, 6.f4"
         },
         "isEcoRoot": true
     },
@@ -19552,7 +19869,8 @@
         "aliases": {
             "scid": "Sicilian: Najdorf, 6.Bg5",
             "eco_js": "Sicilian Defense: Najdorf Variation, 5. Nc3 a6 6. Bg5",
-            "chessGraph": "B94"
+            "chessGraph": "B94",
+            "chronos": "Sicilian: Najdorf, 6.Bg5"
         },
         "isEcoRoot": true
     },
@@ -19562,7 +19880,8 @@
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5 8. Qd2 e6 9. O-O-O b5 10. Bb3 Bb7 11. Rhe1 Nc5 12. e5",
         "name": "Sicilian Defense: Najdorf Variation, Ivkov Variation",
         "aliases": {
-            "eco_js": "Sicilian Defense: Najdorf, Ivkov Variation"
+            "eco_js": "Sicilian Defense: Najdorf, Ivkov Variation",
+            "chronos": "Sicilian: Najdorf, Ivkov variation"
         }
     },
     "rnbqkb1r/4pppp/p2p1n2/1p4B1/3NP3/2N5/PPP2PPP/R2QKB1R w KQkq - 0 7": {
@@ -19644,7 +19963,8 @@
         "aliases": {
             "scid": "Sicilian: Najdorf, 6...e6",
             "eco_js": "Sicilian Defense: Najdorf Variation, 5. Nc3 a6 6. Bg5 e6",
-            "chessGraph": "B95"
+            "chessGraph": "B95",
+            "chronos": "Sicilian: Najdorf, 6...e6"
         },
         "isEcoRoot": true
     },
@@ -19748,7 +20068,8 @@
         "aliases": {
             "scid": "Sicilian: Najdorf, 7.f4",
             "eco_js": "Sicilian Defense: Najdorf Variation, 6. Bg5 e6 7. f4",
-            "chessGraph": "B96"
+            "chessGraph": "B96",
+            "chronos": "Sicilian: Najdorf, 7.f4"
         },
         "isEcoRoot": true
     },
@@ -19772,7 +20093,8 @@
         "aliases": {
             "scid": "Sicilian: Najdorf, Polugaevsky Variation",
             "ct": "Sicilian Defense, Najdorf Variation",
-            "chessGraph": "Polugaevsky; Accelerated Najdorf"
+            "chessGraph": "Polugaevsky; Accelerated Najdorf",
+            "chronos": "Sicilian: Najdorf, Polugayevsky variation"
         }
     },
     "rnb1kb1r/2q2ppp/p3pn2/1p2P1B1/3N4/2N5/PPP1Q1PP/R3KB1R b KQkq - 2 10": {
@@ -19784,7 +20106,8 @@
         "aliases": {
             "scid": "Sicilian: Najdorf, Polugaevsky, 10.Qe2",
             "ct": "Sicilian Defense, Najdorf Variation",
-            "chessGraph": "Simagin Line, Najdorf Sicilian"
+            "chessGraph": "Simagin Line, Najdorf Sicilian",
+            "chronos": "Sicilian: Najdorf, Polugayevsky, Simagin variation"
         }
     },
     "rn1qkb1r/1p1b1ppp/p2ppn2/6B1/3NPP2/2N5/PPP3PP/R2QKB1R w KQkq - 1 8": {
@@ -20019,7 +20342,8 @@
         "scid": "B97m",
         "aliases": {
             "scid": "Sicilian: Najdorf, Poisoned Pawn, 9.Rb1 Qa3",
-            "ct": "Sicilian Defense, Najdorf Variation"
+            "ct": "Sicilian Defense, Najdorf Variation",
+            "chronos": "Sicilian: Najdorf, Poisoned pawn variation"
         }
     },
     "rnb1kb1r/1p3ppp/pq1ppn2/6B1/3NPP2/2N5/PPP3PP/R2QKB1R w KQkq - 1 8": {
@@ -20031,7 +20355,8 @@
         "aliases": {
             "scid": "Sicilian: Najdorf, Poisoned Pawn",
             "ct": "Sicilian Defense, Najdorf Variation",
-            "chessGraph": "Poisoned Pawn Variation, Najdorf Sicilian; B97"
+            "chessGraph": "Poisoned Pawn Variation, Najdorf Sicilian; B97",
+            "chronos": "Sicilian: Najdorf, 7...Qb6"
         },
         "isEcoRoot": true
     },
@@ -20302,7 +20627,8 @@
         "aliases": {
             "scid": "Sicilian: Najdorf, 7...Be7",
             "eco_js": "Sicilian Defense: Najdorf Variation, 6. Bg5 e6 7. f4 Be7",
-            "chessGraph": "B98"
+            "chessGraph": "B98",
+            "chronos": "Sicilian: Najdorf, 7...Be7"
         },
         "isEcoRoot": true
     },
@@ -20315,7 +20641,8 @@
         "aliases": {
             "scid": "Sicilian: Najdorf, Browne Variation",
             "ct": "Sicilian Defense, Najdorf Variation",
-            "chessGraph": "Browne Variation, Najdorf Sicilian"
+            "chessGraph": "Browne Variation, Najdorf Sicilian",
+            "chronos": "Sicilian: Najdorf, Browne variation"
         }
     },
     "rnbqk2r/1p2bp2/p2ppn1p/6p1/3NPP1B/2N2Q2/PPP3PP/R3KB1R w KQkq - 0 10": {
@@ -20328,7 +20655,8 @@
             "scid": "Sicilian: Najdorf, Gothenburg (Argentine) Variation",
             "eco_js": "Sicilian Defense: Najdorf Variation, Goteborg (Argentine)",
             "ct": "Sicilian Defense, Najdorf Variation",
-            "chessGraph": "Argenitne; Goteborg Var, Sicilian"
+            "chessGraph": "Argenitne; Goteborg Var, Sicilian",
+            "chronos": "Sicilian: Najdorf, Goteborg (Argentine) variation"
         }
     },
     "rnb1k2r/1pq1bppp/p2ppn2/6B1/3NPP2/2N2Q2/PPP3PP/R3KB1R w KQkq - 3 9": {
@@ -20339,7 +20667,8 @@
         "scid": "B98n",
         "aliases": {
             "scid": "Sicilian: Najdorf, 8...Qc7",
-            "ct": "Sicilian Defense, Najdorf Variation"
+            "ct": "Sicilian Defense, Najdorf Variation",
+            "chronos": "Sicilian: Najdorf variation"
         }
     },
     "rnbqk2r/1p2bppp/p2ppn2/6B1/3NPP2/2N2Q2/PPP3PP/R3KB1R b KQkq - 2 8": {
@@ -20449,7 +20778,8 @@
         "aliases": {
             "scid": "Sicilian: Najdorf, Main Line",
             "ct": "Sicilian Defense, Najdorf Variation",
-            "chessGraph": "B99"
+            "chessGraph": "B99",
+            "chronos": "Sicilian: Najdorf, 7...Be7 main line"
         },
         "isEcoRoot": true
     },
@@ -21573,7 +21903,10 @@
         "name": "Alekhine Defense, Exchange Variation",
         "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nf3 g6 7. Be2 Bg7 8. O-O O-O 9. h3 Nc6 10. Nc3 Bf5 11. Bf4",
         "eco": "B03",
-        "src": "ct"
+        "src": "ct",
+        "aliases": {
+            "chronos": "Alekhine's defence: exchange, Karpov variation"
+        }
     },
     "rn1qkb1r/ppp1pppp/1n1p4/4P3/2PP2b1/5N2/PP2BPPP/RNBQK2R b KQkq - 2 6": {
         "name": "Alekhine Defense, Modern Variation",
@@ -21654,7 +21987,10 @@
         "name": "Sicilian Defense, Scheveningen Variation",
         "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 a6 7. O-O Qc7 8. f4 Nc6 9. Be3",
         "eco": "B85",
-        "src": "ct"
+        "src": "ct",
+        "aliases": {
+            "chronos": "Sicilian: Scheveningen, classical"
+        }
     },
     "r1bqk2r/pp2ppbp/2np1np1/8/2BNP3/2N1B3/PPP2PPP/R2QK2R w KQkq - 6 8": {
         "name": "Sicilian Defense, Dragon Variation",

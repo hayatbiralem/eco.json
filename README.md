@@ -1,5 +1,5 @@
 # eco.json
-version 3.6.0
+version 3.7.0
 
 <span style="color: powderblue">A compendium of over 12k known opening variations.</span> See [References](#references) at the bottom of this page.
 
@@ -145,3 +145,4 @@ This data is a collation of several chess opening databases, as follows:
 * <span style='color:green'>__eco_wikip.g__</span>: Opening data from the Wikipedia List of Chess Gambits at https://en.wikipedia.org/wiki/List_of_chess_gambits (May 2025)
 * <span style='color:green'>__ct__</span>: Opening data from [ChessTempo](https://chesstempo.com/) (Jun 2025)
 * <span style='color:green'>__chessGraph__</span>: Opening data from [chess-graph](https://github.com/Destaq/chess-graph) (Jun 2025)
+* <span style='color:green'>__chronos__</span>: Opening data (all aliases) from [chronos eco.pgn](file:///home/chronos/u-a5d83366612aa8feeee6083530d5bb7f7b8939a9/MyFiles/Downloads/eco.pgn) (Jun 2025)
