@@ -27690,13 +27690,6 @@
     "src": "interpolated",
     "rootSrc": "scid"
   },
-  "r1bqkbnr/2pp1ppp/p1p5/4p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 5": {
-    "eco": "C68",
-    "name": "Nimzowitsch-Larsen: 1...e5 2.Bb2",
-    "moves": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. Nc3",
-    "rootSrc": "scid",
-    "src": "interpolated"
-  },
   "r1bqkbnr/2pp2pp/p1p2p2/4p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 6": {
     "eco": "C68",
     "name": "Nimzowitsch-Larsen: 1...e5 2.Bb2",
