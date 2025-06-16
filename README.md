@@ -1,5 +1,5 @@
 # eco.json
-version 3.7.0
+version 3.7.1
 
 <span style="color: powderblue">A compendium of over 12k known opening variations.</span> See [References](#references) at the bottom of this page.
 
