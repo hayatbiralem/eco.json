@@ -458,6 +458,7 @@
         "moves": "1. g3",
         "name": "Hungarian Opening",
         "scid": "A00t",
+        "isEcoRoot": true,
         "aliases": {
             "scid": "Benko Opening",
             "eco_wikip": "Irregular Openings: King's Fianchetto Opening",
