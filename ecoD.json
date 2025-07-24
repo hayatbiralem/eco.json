@@ -14994,7 +14994,7 @@
             "chronos": "Neo-Gruenfeld (Kemeri) defence",
             "icsbot": "Kemeri; Neo-Grunfeld  "
         },
-        "isEcoRoot": true
+        "isEcoRoot": false
     },
     "rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4": {
         "src": "eco_tsv",
