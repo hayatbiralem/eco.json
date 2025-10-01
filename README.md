@@ -146,3 +146,4 @@ This data is a collation of several chess opening databases, as follows:
 * <span style='color:green'>__chessGraph__</span>: Opening data from [chess-graph](https://github.com/Destaq/chess-graph) (Jun 2025)
 * <span style='color:green'>__chronos__</span>: Opening data (all aliases) from [chronos eco.pgn](file:///home/chronos/u-a5d83366612aa8feeee6083530d5bb7f7b8939a9/MyFiles/Downloads/eco.pgn) (Jun 2025)
 * <span style='color:green'>__icsbot__</span>: Opening data from [icsbot](https://github.com/seberg/icsbot/blob/master/misc/eco.txt) (Jun 2025)
+* <span style='color:green'>__pgn__</span>: Opening data gleaned from various PGN file databases, using the `pgnOpeningAnalyzer` of [eco.json.tooling](https://github.com/JeffML/eco.json.tooling)

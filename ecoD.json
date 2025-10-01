@@ -8477,66 +8477,66 @@
         }
     },
     "r1bqkbnr/pp3ppp/2n5/3p4/3p4/2N2NP1/PP2PP1P/R1BQKB1R w KQkq - 0 7": {
-        "src": "scid",
+        "src": "pgn",
         "eco": "D33",
         "moves": "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 cxd4",
-        "name": "QGD Tarrasch: 6.g3 cxd4",
+        "name": "QGD Tarrasch: Schlechter-Rubinstein system",
         "scid": "D33b"
     },
     "r1bqkb1r/pp3ppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQK2R b KQkq - 2 7": {
-        "src": "scid",
+        "src": "pgn",
         "eco": "D33",
         "moves": "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2",
-        "name": "QGD Tarrasch: 6.g3 Nf6 (Prague)",
+        "name": "QGD Tarrasch: Schlechter-Rubinstein system (Prague)",
         "scid": "D33l"
     },
     "r2qkb1r/pp3ppp/2n1bn2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQK2R w KQkq - 3 8": {
-        "src": "scid",
+        "src": "pgn",
         "eco": "D33",
         "moves": "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be6",
-        "name": "QGD Tarrasch: 7.Bg2 Be6",
+        "name": "QGD Tarrasch: Schlechter-Rubinstein system (Prague)",
         "scid": "D33m"
     },
     "r1bqkb1r/pp3ppp/2n2n2/3p4/3p4/2N2NP1/PP2PPBP/R1BQK2R w KQkq - 0 8": {
-        "src": "scid",
+        "src": "pgn",
         "eco": "D33",
         "moves": "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 cxd4",
-        "name": "QGD Tarrasch: 7.Bg2 cxd4",
+        "name": "QGD Tarrasch: Schlechter-Rubinstein system (Prague)",
         "scid": "D33o"
     },
     "r1bqkb1r/pp3ppp/2n2n2/3p4/3N4/2N3P1/PP2PPBP/R1BQK2R b KQkq - 0 8": {
-        "src": "scid",
+        "src": "pgn",
         "eco": "D33",
         "moves": "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 cxd4 8. Nxd4",
-        "name": "QGD Tarrasch: 7.Bg2 cxd4 8.Nxd4",
+        "name": "QGD Tarrasch: Schlechter-Rubinstein system (Prague)",
         "scid": "D33o"
     },
     "r1bqk2r/pp2bppp/2n2n2/3p4/3N4/2N3P1/PP2PPBP/R1BQK2R w KQkq - 1 9": {
-        "src": "scid",
+        "src": "pgn",
         "eco": "D33",
         "moves": "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 cxd4 8. Nxd4 Be7",
-        "name": "QGD Tarrasch: 7.Bg2 cxd4 8.Nxd4 Be7",
+        "name": "QGD Tarrasch: Schlechter-Rubinstein system (Prague)",
         "scid": "D33p"
     },
     "r1bqk2r/pp2bppp/2n2n2/3p4/3N4/2N3P1/PP2PPBP/R1BQ1RK1 b kq - 2 9": {
-        "src": "scid",
+        "src": "pgn",
         "eco": "D33",
         "moves": "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 cxd4 8. Nxd4 Be7 9. O-O",
-        "name": "QGD Tarrasch: 7.Bg2 cxd4 8.Nxd4 Be7",
+        "name": "QGD Tarrasch: Schlechter-Rubinstein system (Prague)",
         "scid": "D33p"
     },
     "r1bq1rk1/pp2bppp/2n2n2/3p4/3N4/2N3P1/PP2PPBP/R1BQ1RK1 w - - 3 10": {
-        "src": "scid",
+        "src": "pgn",
         "eco": "D33",
         "moves": "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 cxd4 8. Nxd4 Be7 9. O-O O-O",
-        "name": "QGD Tarrasch: 7.Bg2 cxd4 8.Nxd4 Be7",
+        "name": "QGD Tarrasch: Schlechter-Rubinstein system (Prague)",
         "scid": "D33p"
     },
     "r1bq1rk1/pp2bppp/2n2n2/3p4/3N4/2N1B1P1/PP2PPBP/R2Q1RK1 b - - 4 10": {
-        "src": "scid",
+        "src": "pgn",
         "eco": "D33",
         "moves": "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 cxd4 8. Nxd4 Be7 9. O-O O-O 10. Be3",
-        "name": "QGD Tarrasch: 7.Bg2 cxd4 8.Nxd4 Be7 9.O-O O-O 10.Be3",
+        "name": "QGD Tarrasch: Schlechter-Rubinstein system (Prague)",
         "scid": "D33q"
     },
     "r1bqkbnr/pp3ppp/2n5/3p4/2pP4/2N2NP1/PP2PPBP/R1BQK2R b KQkq - 1 7": {
