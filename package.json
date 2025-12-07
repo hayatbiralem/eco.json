@@ -1,0 +1,49 @@
+{
+  "name": "@chess-openings/eco.json",
+  "version": "0.1.0",
+  "description": "Read-only utilities for consuming chess opening data from eco.json",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "clean": "rm -rf dist",
+    "type-check": "tsc --noEmit",
+    "prepublishOnly": "npm run clean && npm run build",
+    "publish:public": "npm publish --access public"
+  },
+  "keywords": [
+    "chess",
+    "openings",
+    "eco",
+    "chess-openings",
+    "fen",
+    "pgn"
+  ],
+  "author": "Jeff Lowery",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffML/eco.json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JeffML/eco.json/issues"
+  },
+  "homepage": "https://github.com/JeffML/eco.json#readme",
+  "devDependencies": {
+    "typescript": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

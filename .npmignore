@@ -1,0 +1,23 @@
+# Source files
+src/
+tsconfig.json
+
+# Development files
+*.json
+!package.json
+tooling/
+methods/
+.github/
+
+# Git
+.git/
+.gitignore
+
+# Documentation (keep README)
+*.md
+!README.md
+
+# Test and build artifacts
+node_modules/
+*.log
+.DS_Store
