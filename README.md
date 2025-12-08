@@ -343,6 +343,7 @@ Each opening is keyed by **FEN** (Forsyth-Edwards Notation), which uniquely iden
 ```
 
 **Key characteristics:**
+
 - **src**: "interpolated"
 - **name**: Root name + " (i)" suffix
 - **Purpose**: Every move subsequence that appears within an opening has an entry
