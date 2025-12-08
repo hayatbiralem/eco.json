@@ -12,8 +12,7 @@
     }
   },
   "files": [
-    "dist",
-    "NPM_README.md"
+    "dist"
   ],
   "scripts": {
     "build": "tsc",
