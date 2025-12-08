@@ -1,18 +1,19 @@
 {
   "name": "@chess-openings/eco.json",
-  "version": "0.1.0",
+  "version": "0.1.0-beta.0",
   "description": "Read-only utilities for consuming chess opening data from eco.json",
   "type": "module",
-  "main": "./dist/index.js",
-  "types": "./dist/index.d.ts",
+  "main": "./dist/src/index.js",
+  "types": "./dist/src/index.d.ts",
   "exports": {
     ".": {
-      "import": "./dist/index.js",
-      "types": "./dist/index.d.ts"
+      "import": "./dist/src/index.js",
+      "types": "./dist/src/index.d.ts"
     }
   },
   "files": [
-    "dist"
+    "dist",
+    "NPM_README.md"
   ],
   "scripts": {
     "build": "tsc",
