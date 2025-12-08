@@ -8,11 +8,11 @@
 [![Bundle Size](https://img.shields.io/bundlephobia/minzip/@chess-openings/eco.json)](https://bundlephobia.com/package/@chess-openings/eco.json)
 [![GitHub stars](https://img.shields.io/github/stars/JeffML/eco.json.svg?style=social&label=Star)](https://github.com/JeffML/eco.json)
 
-TypeScript utilities for consuming chess opening data from the eco.json database.
+TypeScript utilities for consuming chess opening data from the eco.json data files.
 
 ## Features
 
-- 🎯 **12,000+ chess openings** with ECO codes, move sequences, and names
+- 🎯 **12,000+ chess openings** with ECO codes, move sequences, and names (plus aliases)
 - 🔍 **FEN-based lookup** with automatic position-only fallback
 - 🌐 **On-demand data loading** from GitHub (no bundled files)
 - 🔄 **Opening transitions** with next/previous position navigation
