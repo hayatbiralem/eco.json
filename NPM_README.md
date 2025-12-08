@@ -111,6 +111,72 @@ const positionBook = getPositionBook(openings);
 // Record<string, string[]>
 ```
 
+### Query Methods
+
+#### `getOpeningsByEco(ecoCode, openings?)`
+
+Returns all openings for a specific ECO code.
+
+```typescript
+import { getOpeningsByEco } from '@chess-openings/eco.json';
+
+// Get all Caro-Kann Defense variations
+const caroKann = await getOpeningsByEco("B12");
+console.log(`Found ${caroKann.length} variations`);
+```
+
+**Parameters:**
+- `ecoCode`: ECO code string (e.g., "B12", "C42")
+- `openings`: Optional pre-loaded opening collection
+
+**Returns:** `Promise<Opening[]>`
+
+#### `getOpeningsByEcoCategory(category, openings?)`
+
+Returns all openings for an ECO category (A, B, C, D, or E).
+
+```typescript
+import { getOpeningsByEcoCategory, openingBook } from '@chess-openings/eco.json';
+
+// Get all semi-open games (category B)
+const semiOpen = await getOpeningsByEcoCategory("B");
+
+// More efficient with pre-loaded book
+const book = await openingBook();
+const catA = await getOpeningsByEcoCategory("A", book);
+const catB = await getOpeningsByEcoCategory("B", book);
+```
+
+**Parameters:**
+- `category`: ECO category letter ("A", "B", "C", "D", or "E")
+- `openings`: Optional pre-loaded opening collection
+
+**Returns:** `Promise<Opening[]>`
+
+**Throws:** Error if category is invalid
+
+#### `getEcoRoots(openings?)`
+
+Returns only canonical ECO root variations (where `isEcoRoot === true`).
+
+```typescript
+import { getEcoRoots } from '@chess-openings/eco.json';
+
+const roots = await getEcoRoots();
+console.log(`Found ${Object.keys(roots).length} ECO root variations`);
+
+// Check if a position is an ECO root
+const fen = "rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2";
+if (roots[fen]) {
+  console.log(`${roots[fen].name} is an ECO root`);
+}
+```
+
+**Parameters:**
+- `openings`: Optional pre-loaded opening collection
+
+**Returns:** `Promise<OpeningCollection>` (FEN → Opening mapping)
+
 ### Transition Data
 
 #### `getFromToIndex()`

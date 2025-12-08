@@ -18,3 +18,8 @@ export {
   clearFromToCache,
   type FromToIndex,
 } from "../methods/fromTo.js";
+export {
+  getOpeningsByEco,
+  getOpeningsByEcoCategory,
+  getEcoRoots,
+} from "../methods/queryOpenings.js";
