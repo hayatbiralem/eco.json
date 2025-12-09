@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue.svg)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
-[![Bundle Size](https://img.shields.io/bundlephobia/minzip/@chess-openings/eco.json)](https://bundlephobia.com/package/@chess-openings/eco.json)
+[![Bundle Size](https://img.shields.io/badge/minzip-1.0kB-blue)](https://bundlephobia.com/package/@chess-openings/eco.json)
 [![GitHub stars](https://img.shields.io/github/stars/JeffML/eco.json.svg?style=social&label=Star)](https://github.com/JeffML/eco.json)
 
 TypeScript utilities for consuming chess opening data from the eco.json data files.
