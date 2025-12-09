@@ -1,6 +1,6 @@
 {
   "name": "@chess-openings/eco.json",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Read-only utilities for consuming chess opening data from eco.json",
   "type": "module",
   "main": "./dist/src/index.js",
