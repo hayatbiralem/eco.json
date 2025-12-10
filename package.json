@@ -1,6 +1,6 @@
 {
   "name": "@chess-openings/eco.json",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Read-only utilities for consuming chess opening data from eco.json",
   "type": "module",
   "main": "./dist/src/index.js",
@@ -41,6 +41,7 @@
   },
   "homepage": "https://github.com/JeffML/eco.json#readme",
   "devDependencies": {
+    "@chess-pgn/chess-pgn": "^1.0.1",
     "typescript": "^5.3.0"
   },
   "engines": {
