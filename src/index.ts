@@ -10,7 +10,11 @@ export { getLatestEcoJson, openingBook } from "../methods/getLatestEcoJson.js";
 export {
   findOpening,
   getPositionBook,
+  lookupByMoves,
   type PositionBook,
+  type ChessGameLike,
+  type LookupByMovesResult,
+  type LookupByMovesOptions,
 } from "../methods/findOpening.js";
 export {
   getFromToIndex,
@@ -23,9 +27,3 @@ export {
   getOpeningsByEcoCategory,
   getEcoRoots,
 } from "../methods/queryOpenings.js";
-export {
-  lookupByMoves,
-  type ChessGameLike,
-  type LookupByMovesResult,
-  type LookupByMovesOptions,
-} from "../methods/lookupByMoves.js";
