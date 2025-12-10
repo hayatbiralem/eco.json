@@ -23,3 +23,9 @@ export {
   getOpeningsByEcoCategory,
   getEcoRoots,
 } from "../methods/queryOpenings.js";
+export {
+  lookupByMoves,
+  type ChessGameLike,
+  type LookupByMovesResult,
+  type LookupByMovesOptions,
+} from "../methods/lookupByMoves.js";

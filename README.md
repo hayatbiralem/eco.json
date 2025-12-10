@@ -114,6 +114,66 @@ const opening = findOpening(openings, fen, posBook);
 
 **Returns:** `Opening | undefined`
 
+#### `lookupByMoves(chess, openingBook, options?)`
+
+Finds an opening by walking backward through move history. Works with any chess library implementing the `ChessGameLike` interface (chess.js, @chess-pgn/chess-pgn, etc.).
+
+This function tries to find an opening match at the current position. If no match is found, it undoes moves one by one and tries again, allowing it to find the nearest named opening even when the current position has moved beyond standard opening theory.
+
+```typescript
+import { ChessPGN } from '@chess-pgn/chess-pgn';
+import { openingBook, lookupByMoves, getPositionBook } from '@chess-openings/eco.json';
+
+const chess = new ChessPGN();
+chess.loadPgn('1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6');
+
+const openings = await openingBook();
+const posBook = getPositionBook(openings);
+
+const result = lookupByMoves(chess, openings, { positionBook: posBook });
+
+console.log(result.opening?.name); // "Ruy Lopez"
+console.log(result.movesBack);      // 0 (exact match at current position)
+```
+
+**Parameters:**
+
+- `chess: ChessGameLike` - Chess game instance (must have `fen()`, `undo()`, `history()`, `load()` methods)
+- `openingBook: OpeningCollection` - The opening database
+- `options?: LookupByMovesOptions`
+  - `maxMovesBack?: number` - Maximum moves to walk backward (default: all moves)
+  - `positionBook?: PositionBook` - Position book for better matching
+
+**Returns:** `LookupByMovesResult`
+- `opening: Opening | undefined` - The opening found (or undefined)
+- `movesBack: number` - Number of moves walked backward (0 = exact match)
+
+**ChessGameLike Interface:**
+
+Your chess library must implement:
+```typescript
+interface ChessGameLike {
+  fen(): string;           // Returns current FEN
+  undo(): void;            // Undoes last move
+  history(): string[] | any[]; // Returns move history
+  load(fen: string): void; // Loads position from FEN
+}
+```
+
+Compatible libraries: chess.js, @chess-pgn/chess-pgn, and others with similar APIs.
+
+**Example - Position beyond opening theory:**
+
+```typescript
+// Many moves deep into a game
+chess.loadPgn('1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5');
+
+const result = lookupByMoves(chess, openings, { maxMovesBack: 10 });
+
+console.log(result.opening?.name); // "Ruy Lopez: Closed"
+console.log(result.movesBack);      // 3 (walked back 3 moves to find opening)
+```
+
 #### `getPositionBook(openingBook)`
 
 Creates a position-only FEN → full FEN array mapping.
