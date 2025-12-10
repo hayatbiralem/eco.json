@@ -145,7 +145,7 @@ console.log(result.movesBack); // 0 (exact match at current position)
 - `chess: ChessGameLike` - Chess game instance (must have `fen()`, `undo()`, `load()` methods)
 - `openingBook: OpeningCollection` - The opening database
 - `options?: LookupByMovesOptions`
-  - `maxMovesBack?: number` - Maximum moves to walk backward (default: unlimited)
+  - `maxMovesBack?: number` - Maximum moves to walk backward (default: 50 plies / move 25)
   - `positionBook?: PositionBook` - Position book for better matching
 
 **Returns:** `LookupByMovesResult`

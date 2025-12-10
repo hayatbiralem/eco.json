@@ -118,7 +118,7 @@ export interface LookupByMovesResult {
  * Options for lookupByMoves
  */
 export interface LookupByMovesOptions {
-  /** Maximum number of moves to walk backward (default: unlimited) */
+  /** Maximum number of moves to walk backward (default: 50 plies / move 25) */
   maxMovesBack?: number;
 
   /** Position book for fallback matching (optional, improves match rate) */
@@ -170,12 +170,28 @@ export function lookupByMoves(
   options?: LookupByMovesOptions
 ): LookupByMovesResult {
   const startingFen = chess.fen();
-  let movesBack = 0;
-  const maxBack = options?.maxMovesBack ?? Infinity;
+  const startPly = options?.maxMovesBack ?? 50; // Start searching at ply 50 (move 25)
 
   try {
-    // Try current position and walk backward
-    while (movesBack <= maxBack) {
+    // Extract move number and turn from FEN (e.g., "rnbq... w KQkq - 0 45")
+    const fenParts = startingFen.split(" ");
+    const moveNumber = parseInt(fenParts[5] || "1", 10);
+    const isWhiteTurn = fenParts[1] === "w";
+
+    // Calculate current ply: (moveNumber - 1) * 2 + (isWhiteTurn ? 0 : 1)
+    const currentPly = (moveNumber - 1) * 2 + (isWhiteTurn ? 0 : 1);
+
+    // If game is longer than startPly, undo back to startPly
+    if (currentPly > startPly) {
+      for (let i = 0; i < currentPly - startPly; i++) {
+        chess.undo();
+      }
+    }
+
+    // Now walk backward from startPly (or current position if shorter)
+    let movesBack = currentPly > startPly ? currentPly - startPly : 0;
+
+    while (true) {
       const opening = findOpening(
         openingBook,
         chess.fen(),
