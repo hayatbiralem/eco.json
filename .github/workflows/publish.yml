@@ -11,6 +11,7 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    if: github.repository == 'JeffML/eco.json'
     permissions:
       contents: write
       id-token: write
