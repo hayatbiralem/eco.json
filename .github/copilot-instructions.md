@@ -229,3 +229,24 @@ The npm package provides `getFromTos(fen)` which:
 **Result**: Complete data decoupling - fensterchess no longer bundles any eco.json-sourced files. All data loads from GitHub at runtime with caching.
 
 **Alternative approach**: The npm package provides `getFromToIndex()` and could provide a scores utility, but direct GitHub downloads work well for serverless functions.
+
+## Fork / Upstream Relationship
+
+This repo (`JeffML/eco.json`) is a fork of `hayatbiralem/eco.json`. Key points:
+
+- **JeffML/eco.json is the functional repo** — the npm package, CI, and all data URLs point here
+- **hayatbiralem/eco.json is the upstream** — the original community repo; kept in sync for visibility
+- `upstream` remote is configured locally: `git remote add upstream git@github.com:hayatbiralem/eco.json.git`
+
+### What to PR upstream (hayatbiralem)
+
+**Only data file changes** warrant a PR upstream:
+- `ecoA-E.json`, `eco_interpolated.json`, `fromTo.json`, `fromToPositionIndexed.json`, `scores.json`
+
+Everything else (npm package, CI workflows, copilot instructions, tooling) is specific to this fork — do **not** PR those upstream.
+
+### CI Publishing
+
+- Uses OIDC Trusted Publishing (no stored `NPM_TOKEN`)
+- Configured on npmjs.com: Trusted Publisher = `JeffML/eco.json`, workflow = `publish.yml`
+- Workflow has `if: github.repository == 'JeffML/eco.json'` guard so it silently skips when run from hayatbiralem's repo after a PR merge
