@@ -1,4 +1,10 @@
-# @chess-openings/eco.json
+> ⚠️ **This repository is no longer actively maintained.**
+
+Over the past couple of years, [@JeffML](https://github.com/JeffML) has become the primary contributor — extending this project with a published npm package, TypeScript utilities, CI/CD publishing, and generated data files that downstream projects now depend on.
+
+All active development lives at **[JeffML/eco.json](https://github.com/JeffML/eco.json)**. Please use that as your starting point. Thank you, Jeff, for carrying this forward.
+
+# @chess-openings/eco.json - Archived
 
 [![npm version](https://badge.fury.io/js/%40chess-openings%2Feco.json.svg)](https://www.npmjs.com/package/@chess-openings/eco.json)
 [![npm downloads](https://img.shields.io/npm/dm/@chess-openings/eco.json.svg)](https://www.npmjs.com/package/@chess-openings/eco.json)
